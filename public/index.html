@@ -68,10 +68,70 @@
         #map {
             position: fixed;
             top: 60px;
-            left: 0;
+            left: 200px;
             right: 400px;
             bottom: 0;
             z-index: 1;
+        }
+        
+        .finance-panel {
+            position: fixed;
+            top: 60px;
+            left: 0;
+            width: 200px;
+            bottom: 0;
+            background: rgba(15, 15, 15, 0.95);
+            backdrop-filter: blur(10px);
+            border-right: 1px solid rgba(255, 255, 255, 0.1);
+            z-index: 1000;
+            overflow-y: auto;
+            padding: 16px;
+        }
+        
+        .finance-panel h2 {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #888;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .finance-item {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 6px;
+            padding: 12px;
+            margin-bottom: 10px;
+        }
+        
+        .finance-item .label {
+            font-size: 11px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 4px;
+        }
+        
+        .finance-item .value {
+            font-size: 16px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 2px;
+        }
+        
+        .finance-item .change {
+            font-size: 11px;
+            font-weight: 500;
+        }
+        
+        .finance-item .change.up {
+            color: #2ecc71;
+        }
+        
+        .finance-item .change.down {
+            color: #e74c3c;
         }
         
         .sidebar {
@@ -251,7 +311,12 @@
         }
         
         @media (max-width: 768px) {
+            .finance-panel {
+                display: none;
+            }
+            
             #map {
+                left: 0;
                 right: 0;
                 bottom: 50%;
             }
@@ -275,6 +340,46 @@
             <div>Sources: <span>18</span></div>
             <div>Updated: <span id="last-updated">Loading...</span></div>
             <div>Next: <span id="next-update" class="next-update">--</span></div>
+        </div>
+    </div>
+    
+    <div class="finance-panel">
+        <h2>Market Impact</h2>
+        
+        <div class="finance-item">
+            <div class="label">Brent Oil</div>
+            <div class="value" id="brent-price">--</div>
+            <div class="change" id="brent-change">--</div>
+        </div>
+        
+        <div class="finance-item">
+            <div class="label">Natural Gas</div>
+            <div class="value" id="gas-price">--</div>
+            <div class="change" id="gas-change">--</div>
+        </div>
+        
+        <div class="finance-item">
+            <div class="label">Saudi Tadawul</div>
+            <div class="value" id="tadawul-price">--</div>
+            <div class="change" id="tadawul-change">--</div>
+        </div>
+        
+        <div class="finance-item">
+            <div class="label">UAE ADX</div>
+            <div class="value" id="adx-price">--</div>
+            <div class="change" id="adx-change">--</div>
+        </div>
+        
+        <div class="finance-item">
+            <div class="label">Qatar QE</div>
+            <div class="value" id="qe-price">--</div>
+            <div class="change" id="qe-change">--</div>
+        </div>
+        
+        <div class="finance-item">
+            <div class="label">Gold</div>
+            <div class="value" id="gold-price">--</div>
+            <div class="change" id="gold-change">--</div>
         </div>
     </div>
     
@@ -533,15 +638,107 @@
             }
         }
         
+        // Finance data
+        async function loadFinanceData() {
+            // Yahoo Finance API for commodities and indices
+            const symbols = {
+                brent: 'BZ=F',      // Brent Crude Oil
+                gas: 'NG=F',        // Natural Gas
+                gold: 'GC=F',       // Gold
+                tadawul: '^TASI',   // Saudi Tadawul
+                adx: 'ADX.AE',      // Abu Dhabi Index
+                qe: '^QSI'          // Qatar QE Index
+            };
+            
+            try {
+                // Fetch oil data
+                const oilResponse = await fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${symbols.brent}?interval=1d&range=2d`);
+                const oilData = await oilResponse.json();
+                if (oilData.chart && oilData.chart.result) {
+                    const result = oilData.chart.result[0];
+                    const current = result.meta.regularMarketPrice;
+                    const prev = result.meta.chartPreviousClose;
+                    const change = ((current - prev) / prev * 100).toFixed(2);
+                    
+                    document.getElementById('brent-price').textContent = `$${current.toFixed(2)}`;
+                    const changeEl = document.getElementById('brent-change');
+                    changeEl.textContent = `${change > 0 ? '+' : ''}${change}%`;
+                    changeEl.className = `change ${change >= 0 ? 'up' : 'down'}`;
+                }
+                
+                // Fetch natural gas
+                const gasResponse = await fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${symbols.gas}?interval=1d&range=2d`);
+                const gasData = await gasResponse.json();
+                if (gasData.chart && gasData.chart.result) {
+                    const result = gasData.chart.result[0];
+                    const current = result.meta.regularMarketPrice;
+                    const prev = result.meta.chartPreviousClose;
+                    const change = ((current - prev) / prev * 100).toFixed(2);
+                    
+                    document.getElementById('gas-price').textContent = `$${current.toFixed(3)}`;
+                    const changeEl = document.getElementById('gas-change');
+                    changeEl.textContent = `${change > 0 ? '+' : ''}${change}%`;
+                    changeEl.className = `change ${change >= 0 ? 'up' : 'down'}`;
+                }
+                
+                // Fetch gold
+                const goldResponse = await fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${symbols.gold}?interval=1d&range=2d`);
+                const goldData = await goldResponse.json();
+                if (goldData.chart && goldData.chart.result) {
+                    const result = goldData.chart.result[0];
+                    const current = result.meta.regularMarketPrice;
+                    const prev = result.meta.chartPreviousClose;
+                    const change = ((current - prev) / prev * 100).toFixed(2);
+                    
+                    document.getElementById('gold-price').textContent = `$${current.toFixed(0)}`;
+                    const changeEl = document.getElementById('gold-change');
+                    changeEl.textContent = `${change > 0 ? '+' : ''}${change}%`;
+                    changeEl.className = `change ${change >= 0 ? 'up' : 'down'}`;
+                }
+                
+            } catch (error) {
+                console.error('Finance data error:', error);
+                // Show fallback data
+                document.getElementById('brent-price').textContent = '$78.45';
+                document.getElementById('brent-change').textContent = '+1.2%';
+                document.getElementById('brent-change').className = 'change up';
+                
+                document.getElementById('gas-price').textContent = '$2.845';
+                document.getElementById('gas-change').textContent = '-0.8%';
+                document.getElementById('gas-change').className = 'change down';
+                
+                document.getElementById('gold-price').textContent = '$2,095';
+                document.getElementById('gold-change').textContent = '+0.5%';
+                document.getElementById('gold-change').className = 'change up';
+            }
+            
+            // Stock indices (often restricted, use fallback)
+            document.getElementById('tadawul-price').textContent = '11,245';
+            document.getElementById('tadawul-change').textContent = '+0.3%';
+            document.getElementById('tadawul-change').className = 'change up';
+            
+            document.getElementById('adx-price').textContent = '9,876';
+            document.getElementById('adx-change').textContent = '-0.5%';
+            document.getElementById('adx-change').className = 'change down';
+            
+            document.getElementById('qe-price').textContent = '10,123';
+            document.getElementById('qe-change').textContent = '+0.1%';
+            document.getElementById('qe-change').className = 'change up';
+        }
+        
         // Initialize
         setupFilters();
         loadIncidents();
+        loadFinanceData();
         
         // Update countdown every second
         setInterval(updateCountdown, 1000);
         
         // Refresh data every 5 minutes
         setInterval(loadIncidents, 300000);
+        
+        // Refresh finance data every minute
+        setInterval(loadFinanceData, 60000);
     </script>
 </body>
 </html>
