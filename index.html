@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gulf Watch - MENA Security Monitor</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0a0a;
+            color: #fff;
+            overflow: hidden;
+        }
+        
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 60px;
+            background: rgba(15, 15, 15, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 24px;
+            z-index: 1000;
+        }
+        
+        .header h1 {
+            font-size: 20px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .header h1::before {
+            content: '🎯';
+        }
+        
+        .header-stats {
+            display: flex;
+            gap: 24px;
+            font-size: 13px;
+            color: #888;
+        }
+        
+        .header-stats span {
+            color: #fff;
+            font-weight: 500;
+        }
+        
+        #map {
+            position: fixed;
+            top: 60px;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 1;
+        }
+        
+        .sidebar {
+            position: fixed;
+            top: 60px;
+            right: 0;
+            width: 400px;
+            bottom: 0;
+            background: rgba(15, 15, 15, 0.95);
+            backdrop-filter: blur(10px);
+            border-left: 1px solid rgba(255, 255, 255, 0.1);
+            z-index: 1000;
+            overflow-y: auto;
+            padding: 20px;
+        }
+        
+        .sidebar h2 {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #888;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .incident-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 8px;
+            padding: 16px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .incident-card:hover {
+            background: rgba(255, 255, 255, 0.06);
+            border-color: rgba(255, 255, 255, 0.15);
+        }
+        
+        .incident-card.active {
+            border-color: #e74c3c;
+            background: rgba(231, 76, 60, 0.1);
+        }
+        
+        .incident-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 8px;
+        }
+        
+        .incident-type {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+        }
+        
+        .type-missile { background: #e74c3c; }
+        .type-drone { background: #f39c12; }
+        .type-air_defense { background: #3498db; }
+        .type-explosion { background: #9b59b6; }
+        .type-alert { background: #e67e22; }
+        .type-attack { background: #c0392b; }
+        .type-security { background: #7f8c8d; }
+        
+        .incident-status {
+            font-size: 10px;
+            padding: 2px 6px;
+            border-radius: 3px;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+        
+        .status-confirmed { background: rgba(46, 204, 113, 0.2); color: #2ecc71; }
+        .status-reported { background: rgba(241, 196, 15, 0.2); color: #f1c40f; }
+        .status-unconfirmed { background: rgba(149, 165, 166, 0.2); color: #95a5a6; }
+        
+        .incident-title {
+            font-size: 13px;
+            line-height: 1.5;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+        
+        .incident-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 12px;
+            color: #888;
+        }
+        
+        .incident-meta svg {
+            width: 12px;
+            height: 12px;
+        }
+        
+        .loading {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            color: #888;
+        }
+        
+        .loading::after {
+            content: '';
+            width: 40px;
+            height: 40px;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            border-top-color: #e74c3c;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-top: 20px;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .leaflet-popup-content-wrapper {
+            background: rgba(15, 15, 15, 0.95);
+            color: #fff;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+        }
+        
+        .leaflet-popup-tip {
+            background: rgba(15, 15, 15, 0.95);
+        }
+        
+        @media (max-width: 768px) {
+            .sidebar {
+                width: 100%;
+                top: auto;
+                height: 50%;
+                bottom: 0;
+                border-left: none;
+                border-top: 1px solid rgba(255, 255, 255, 0.1);
+            }
+            
+            #map {
+                bottom: 50%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Gulf Watch</h1>
+        <div class="header-stats">
+            <div>Incidents: <span id="incident-count">-</span></div>
+            <div>Sources: <span>18</span></div>
+            <div>Updated: <span id="last-updated">-</span></div>
+        </div>
+    </div>
+    
+    <div id="map"></div>
+    
+    <div class="sidebar">
+        <h2>Latest Incidents</h2>
+        <div id="incident-list">
+            <div class="loading">Loading incidents...</div>
+        </div>
+    </div>
+    
+    <script>
+        // Initialize map
+        const map = L.map('map', {
+            center: [28.0, 45.0],
+            zoom: 5,
+            minZoom: 4,
+            maxZoom: 12
+        });
+        
+        // Add dark tile layer
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; CARTO',
+            subdomains: 'abcd',
+            maxZoom: 19
+        }).addTo(map);
+        
+        // Store markers
+        const markers = {};
+        
+        // Get color by type
+        function getTypeColor(type) {
+            const colors = {
+                missile: '#e74c3c',
+                drone: '#f39c12',
+                air_defense: '#3498db',
+                explosion: '#9b59b6',
+                alert: '#e67e22',
+                attack: '#c0392b',
+                security: '#7f8c8d'
+            };
+            return colors[type] || '#7f8c8d';
+        }
+        
+        // Format time ago
+        function timeAgo(dateString) {
+            const date = new Date(dateString);
+            const now = new Date();
+            const seconds = Math.floor((now - date) / 1000);
+            
+            if (seconds < 60) return 'Just now';
+            if (seconds < 3600) return `${Math.floor(seconds / 60)}m ago`;
+            if (seconds < 86400) return `${Math.floor(seconds / 3600)}h ago`;
+            return `${Math.floor(seconds / 86400)}d ago`;
+        }
+        
+        // Load incidents
+        async function loadIncidents() {
+            try {
+                const response = await fetch('./incidents.json');
+                const data = await response.json();
+                
+                document.getElementById('incident-count').textContent = data.total_incidents;
+                document.getElementById('last-updated').textContent = timeAgo(data.generated_at);
+                
+                const listEl = document.getElementById('incident-list');
+                listEl.innerHTML = '';
+                
+                data.incidents.forEach(incident => {
+                    // Add marker
+                    const color = getTypeColor(incident.type);
+                    const marker = L.circleMarker([incident.location.lat, incident.location.lng], {
+                        radius: 8,
+                        fillColor: color,
+                        color: '#fff',
+                        weight: 2,
+                        opacity: 1,
+                        fillOpacity: 0.8
+                    }).addTo(map);
+                    
+                    marker.bindPopup(`
+                        <div style="max-width: 250px;">
+                            <div style="font-size: 11px; text-transform: uppercase; color: ${color}; margin-bottom: 4px;">
+                                ${incident.type.replace('_', ' ')}
+                            </div>
+                            <div style="font-size: 13px; font-weight: 600; margin-bottom: 4px;">
+                                ${incident.title}
+                            </div>
+                            <div style="font-size: 11px; color: #888;">
+                                ${incident.source} • ${timeAgo(incident.published)}
+                            </div>
+                        </div>
+                    `);
+                    
+                    markers[incident.id] = marker;
+                    
+                    // Add to sidebar
+                    const card = document.createElement('div');
+                    card.className = 'incident-card';
+                    card.dataset.id = incident.id;
+                    card.innerHTML = `
+                        <div class="incident-header">
+                            <span class="incident-type type-${incident.type}">${incident.type.replace('_', ' ')}</span>
+                            <span class="incident-status status-${incident.status}">${incident.status}</span>
+                        </div>
+                        <div class="incident-title">${incident.title}</div>
+                        <div class="incident-meta">
+                            <span>📍 ${incident.location.name}, ${incident.location.country}</span>
+                            <span>•</span>
+                            <span>${incident.source}</span>
+                            <span>•</span>
+                            <span>${timeAgo(incident.published)}</span>
+                        </div>
+                    `;
+                    
+                    card.addEventListener('click', () => {
+                        // Remove active from all
+                        document.querySelectorAll('.incident-card').forEach(c => c.classList.remove('active'));
+                        card.classList.add('active');
+                        
+                        // Fly to marker
+                        map.flyTo([incident.location.lat, incident.location.lng], 10, {
+                            duration: 1
+                        });
+                        
+                        // Open popup
+                        marker.openPopup();
+                    });
+                    
+                    listEl.appendChild(card);
+                });
+                
+            } catch (error) {
+                console.error('Error loading incidents:', error);
+                document.getElementById('incident-list').innerHTML = `
+                    <div style="text-align: center; padding: 40px; color: #888;">
+                        Failed to load incidents.<br>Please try again later.
+                    </div>
+                `;
+            }
+        }
+        
+        // Load on startup
+        loadIncidents();
+        
+        // Refresh every 5 minutes
+        setInterval(loadIncidents, 300000);
+    </script>
+</body>
+</html>

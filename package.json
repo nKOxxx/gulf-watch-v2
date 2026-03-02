@@ -1,0 +1,10 @@
+{
+  "name": "gulf-watch",
+  "version": "2.0.0",
+  "description": "MENA Security Monitor - RSS-based intelligence dashboard",
+  "scripts": {
+    "fetch": "python scripts/fetch_rss.py"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
