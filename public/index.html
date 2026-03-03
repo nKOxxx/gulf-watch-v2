@@ -501,16 +501,8 @@
             <h2>Live Intelligence</h2>
             <div id="military-alerts">
                 <div class="military-item">
-                    <div class="time">2 min ago</div>
-                    <div class="alert">High activity: Strait of Hormuz</div>
-                </div>
-                <div class="military-item">
-                    <div class="time">15 min ago</div>
-                    <div class="alert">Air defense: Saudi East</div>
-                </div>
-                <div class="military-item">
-                    <div class="time">32 min ago</div>
-                    <div class="alert">Naval movement: Gulf of Oman</div>
+                    <div class="time">--</div>
+                    <div class="alert">Loading intelligence...</div>
                 </div>
             </div>
         </div>
@@ -682,6 +674,41 @@
             });
         }
         
+        // Update Live Intelligence from high-priority incidents
+        function updateIntelligence(incidents) {
+            const intelContainer = document.getElementById('military-alerts');
+            
+            // High-priority keywords for intelligence alerts
+            const intelKeywords = ['missile', 'rocket', 'drone', 'air defense', 'interceptor', 'attack', 'strike', 'explosion', 'siren', 'evacuation', 'houthi', 'hamas', 'hezbollah', 'idf', 'strait', 'hormuz', 'naval', 'military'];
+            
+            // Filter for high-priority incidents
+            const intelIncidents = incidents.filter(inc => {
+                const titleLower = inc.title.toLowerCase();
+                return intelKeywords.some(kw => titleLower.includes(kw));
+            }).slice(0, 5); // Top 5
+            
+            if (intelIncidents.length === 0) {
+                intelContainer.innerHTML = `
+                    <div class="military-item">
+                        <div class="time">--</div>
+                        <div class="alert">No active alerts</div>
+                    </div>
+                `;
+                return;
+            }
+            
+            intelContainer.innerHTML = intelIncidents.map(inc => {
+                const alertType = inc.type.replace('_', ' ').toUpperCase();
+                const location = inc.location.country;
+                return `
+                    <div class="military-item">
+                        <div class="time">${timeAgo(inc.published)}</div>
+                        <div class="alert">${alertType}: ${location}</div>
+                    </div>
+                `;
+            }).join('');
+        }
+        
         // Setup filter buttons
         function setupFilters() {
             const buttons = document.querySelectorAll('.filter-btn');
@@ -808,6 +835,9 @@ This report was submitted via Gulf Watch v2`);
                 
                 // Apply current filter
                 filterIncidents(currentFilter);
+                
+                // Update Live Intelligence panel
+                updateIntelligence(data.incidents);
                 
             } catch (error) {
                 console.error('Error loading incidents:', error);
