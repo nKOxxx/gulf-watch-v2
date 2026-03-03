@@ -218,6 +218,41 @@
             color: #fff;
         }
         
+        .severity-filter {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 8px;
+        }
+        
+        .severity-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #888;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .severity-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+        }
+        
+        .severity-btn.active {
+            background: #e74c3c;
+            border-color: #e74c3c;
+            color: #fff;
+        }
+        
+        .severity-help {
+            font-size: 10px;
+            color: #666;
+            margin-bottom: 16px;
+            padding-left: 4px;
+        }
+        
         .incident-card {
             background: rgba(255, 255, 255, 0.03);
             border: 1px solid rgba(255, 255, 255, 0.08);
@@ -239,6 +274,10 @@
         }
         
         .incident-card.hidden {
+            display: none;
+        }
+        
+        .incident-card.severity-hidden {
             display: none;
         }
         
@@ -540,6 +579,13 @@
             <button class="filter-btn" data-country="Egypt">Egypt</button>
         </div>
         
+        <h2>Severity Filter</h2>
+        <div class="severity-filter">
+            <button class="severity-btn active" data-severity="all">Show All</button>
+            <button class="severity-btn" data-severity="critical">🔴 Critical Only</button>
+        </div>
+        <div class="severity-help">Critical = Government sources OR high-impact incidents</div>
+        
         <h2>Latest Incidents</h2>
         <div id="incident-list">
             <div class="loading">Loading incidents...</div>
@@ -684,6 +730,73 @@
                 `);
                 
                 markers[incident.id] = marker;
+            });
+        }
+        
+        // Calculate severity score for an incident
+        function calculateSeverity(incident) {
+            let score = 0;
+            
+            // Government source = highest credibility (up to 50 points)
+            if (incident.is_government) {
+                score += 50;
+            } else {
+                score += (incident.credibility / 100) * 30; // Max 30 for non-gov
+            }
+            
+            // High-impact keywords (up to 40 points)
+            const highImpactKeywords = ['missile', 'rocket', 'drone', 'air defense', 'interceptor', 'attack', 'strike', 'explosion', 'casualties', 'killed', 'wounded'];
+            const titleLower = incident.title.toLowerCase();
+            const keywordMatches = highImpactKeywords.filter(kw => titleLower.includes(kw)).length;
+            score += Math.min(keywordMatches * 10, 40);
+            
+            // Recency (up to 10 points)
+            const hoursAgo = (new Date() - new Date(incident.published)) / (1000 * 60 * 60);
+            if (hoursAgo < 1) score += 10;
+            else if (hoursAgo < 6) score += 7;
+            else if (hoursAgo < 12) score += 5;
+            else if (hoursAgo < 24) score += 3;
+            
+            return score;
+        }
+        
+        // Filter by severity
+        let currentSeverityFilter = 'all';
+        
+        function filterBySeverity(severity) {
+            currentSeverityFilter = severity;
+            const cards = document.querySelectorAll('.incident-card');
+            
+            cards.forEach(card => {
+                const incidentId = parseInt(card.dataset.id);
+                const incident = allIncidents.find(inc => inc.id === incidentId);
+                
+                if (!incident) return;
+                
+                const severityScore = calculateSeverity(incident);
+                const isCritical = severityScore >= 60; // Threshold for critical
+                
+                if (severity === 'all' || (severity === 'critical' && isCritical)) {
+                    card.classList.remove('severity-hidden');
+                } else {
+                    card.classList.add('severity-hidden');
+                }
+            });
+            
+            // Update visible count
+            const visibleCount = document.querySelectorAll('.incident-card:not(.severity-hidden):not(.hidden)').length;
+            document.getElementById('incident-count').textContent = visibleCount;
+        }
+        
+        // Setup severity filter buttons
+        function setupSeverityFilters() {
+            const buttons = document.querySelectorAll('.severity-btn');
+            buttons.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    buttons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    filterBySeverity(btn.dataset.severity);
+                });
             });
         }
         
@@ -954,6 +1067,7 @@ This report was submitted via Gulf Watch v2`);
         
         // Initialize
         setupFilters();
+        setupSeverityFilters();
         loadIncidents();
         loadFinanceData();
         
