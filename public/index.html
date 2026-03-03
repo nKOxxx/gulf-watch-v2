@@ -328,6 +328,19 @@
             color: #fff;
         }
         
+        .live-indicator {
+            color: #e74c3c;
+            font-size: 11px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        
+        .live-indicator.live-pulse {
+            opacity: 0.5;
+        }
+        
         .incident-actions {
             margin-top: 8px;
             padding-top: 8px;
@@ -454,7 +467,7 @@
             <div>Incidents: <span id="incident-count">Loading...</span></div>
             <div>Sources: <span>44</span></div>
             <div>Updates: <span style="color: #2ecc71;">hourly</span></div>
-            <div>Next: <span id="next-update" class="next-update">--</span></div>
+            <div class="live-indicator" id="live-indicator">● LIVE</div>
         </div>
     </div>
     
@@ -947,11 +960,20 @@ This report was submitted via Gulf Watch v2`);
         // Update countdown every second
         setInterval(updateCountdown, 1000);
         
-        // Refresh data every 5 minutes
-        setInterval(loadIncidents, 300000);
+        // Live Mode: Refresh data every 2 minutes (120 seconds)
+        setInterval(loadIncidents, 120000);
         
         // Refresh finance data every minute
         setInterval(loadFinanceData, 60000);
+        
+        // Show live indicator
+        function updateLiveIndicator() {
+            const indicator = document.getElementById('live-indicator');
+            if (indicator) {
+                indicator.classList.toggle('live-pulse');
+            }
+        }
+        setInterval(updateLiveIndicator, 1000);
     </script>
 </body>
 </html>
