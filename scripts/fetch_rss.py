@@ -15,6 +15,7 @@ FEEDS = [
     # Tier 1 - International
     {"name": "Reuters Middle East", "url": "https://www.reuters.com/news/archive/middleeast.rss", "country": "International", "credibility": 95},
     {"name": "BBC Middle East", "url": "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml", "country": "International", "credibility": 95},
+    {"name": "The Guardian", "url": "https://www.theguardian.com/world/middleeast/rss", "country": "International", "credibility": 90},
     {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "country": "Qatar", "credibility": 90},
     
     # Tier 2 - Gulf Regional
