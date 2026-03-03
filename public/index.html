@@ -477,25 +477,259 @@
             background: rgba(15, 15, 15, 0.95);
         }
         
+        /* Mobile Styles - Complete Redesign */
         @media (max-width: 768px) {
+            body {
+                overflow: hidden;
+            }
+            
+            .header {
+                height: 50px;
+                padding: 0 12px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+            
+            .header h1 {
+                font-size: 16px;
+                display: flex;
+                align-items: center;
+                gap: 8px;
+            }
+            
+            .header .logo {
+                height: 28px;
+            }
+            
+            .header-stats {
+                display: flex;
+                gap: 12px;
+                font-size: 10px;
+            }
+            
+            .header-stats div {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                line-height: 1.2;
+            }
+            
+            .live-indicator {
+                font-size: 9px;
+            }
+            
             .finance-panel {
                 display: none;
             }
             
             #map {
+                position: fixed;
+                top: 50px;
                 left: 0;
                 right: 0;
-                bottom: 50%;
+                bottom: 60px;
+                height: auto;
             }
             
             .sidebar {
+                position: fixed;
+                top: 50px;
+                left: 0;
+                right: 0;
+                bottom: 60px;
                 width: 100%;
-                top: auto;
-                height: 50%;
-                bottom: 0;
+                transform: translateX(100%);
+                transition: transform 0.3s ease;
                 border-left: none;
-                border-top: 1px solid rgba(255, 255, 255, 0.1);
+                z-index: 2000;
+                padding: 12px;
+                padding-bottom: 80px;
             }
+            
+            .sidebar.open {
+                transform: translateX(0);
+            }
+            
+            .sidebar h2 {
+                font-size: 12px;
+                margin-bottom: 12px;
+                padding-bottom: 8px;
+            }
+            
+            .country-filters {
+                gap: 6px;
+                margin-bottom: 12px;
+            }
+            
+            .filter-btn {
+                padding: 4px 10px;
+                font-size: 11px;
+            }
+            
+            .severity-filter {
+                gap: 6px;
+                margin-bottom: 6px;
+            }
+            
+            .severity-btn {
+                padding: 4px 10px;
+                font-size: 11px;
+            }
+            
+            .severity-help {
+                font-size: 9px;
+                margin-bottom: 12px;
+            }
+            
+            .incident-card {
+                padding: 12px;
+                margin-bottom: 8px;
+            }
+            
+            .incident-header {
+                gap: 6px;
+                margin-bottom: 6px;
+            }
+            
+            .incident-type {
+                font-size: 9px;
+                padding: 2px 6px;
+            }
+            
+            .incident-status {
+                font-size: 8px;
+                padding: 1px 4px;
+            }
+            
+            .government-badge {
+                font-size: 8px;
+                padding: 1px 4px;
+            }
+            
+            .incident-title {
+                font-size: 13px;
+                line-height: 1.4;
+            }
+            
+            .incident-meta {
+                font-size: 10px;
+                gap: 4px;
+            }
+            
+            .incident-actions {
+                gap: 12px;
+                margin-top: 6px;
+                padding-top: 6px;
+            }
+            
+            .translate-link, .report-link {
+                font-size: 9px;
+            }
+            
+            .footer {
+                margin-top: 20px;
+                padding: 12px 0;
+            }
+            
+            .footer-text {
+                font-size: 10px;
+            }
+            
+            .footer-links {
+                font-size: 9px;
+            }
+            
+            /* Mobile Navigation Bar */
+            .mobile-nav {
+                display: flex;
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                height: 60px;
+                background: rgba(10, 10, 10, 0.98);
+                backdrop-filter: blur(20px);
+                border-top: 1px solid rgba(255, 255, 255, 0.1);
+                z-index: 3000;
+                justify-content: space-around;
+                align-items: center;
+                padding: 0 8px;
+            }
+            
+            .mobile-nav-btn {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                gap: 2px;
+                background: none;
+                border: none;
+                color: #666;
+                font-size: 10px;
+                cursor: pointer;
+                padding: 8px 16px;
+                transition: color 0.2s;
+                flex: 1;
+            }
+            
+            .mobile-nav-btn.active {
+                color: #e74c3c;
+            }
+            
+            .mobile-nav-btn svg {
+                width: 22px;
+                height: 22px;
+                fill: currentColor;
+            }
+            
+            /* Mobile Menu Overlay */
+            .mobile-menu-overlay {
+                display: none;
+                position: fixed;
+                top: 50px;
+                left: 0;
+                right: 0;
+                bottom: 60px;
+                background: rgba(0, 0, 0, 0.7);
+                z-index: 1999;
+            }
+            
+            .mobile-menu-overlay.open {
+                display: block;
+            }
+            
+            /* Pull tab for incident list */
+            .pull-tab {
+                display: block;
+                position: absolute;
+                top: -24px;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 60px;
+                height: 24px;
+                background: rgba(15, 15, 15, 0.98);
+                border-radius: 12px 12px 0 0;
+                border: 1px solid rgba(255, 255, 255, 0.1);
+                border-bottom: none;
+                cursor: pointer;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            
+            .pull-tab::before {
+                content: '';
+                width: 36px;
+                height: 4px;
+                background: rgba(255, 255, 255, 0.3);
+                border-radius: 2px;
+            }
+        }
+        
+        /* Hide mobile elements on desktop */
+        .mobile-nav, .mobile-menu-overlay, .pull-tab {
+            display: none;
         }
     </style>
 </head>
@@ -563,6 +797,7 @@
     <div id="map"></div>
     
     <div class="sidebar">
+        <div class="pull-tab" id="pull-tab"></div>
         <h2>Filter by Country</h2>
         <div class="country-filters" id="country-filters">
             <button class="filter-btn active" data-country="all">All</button>
@@ -1088,6 +1323,79 @@ This report was submitted via Gulf Watch v2`);
             }
         }
         setInterval(updateLiveIndicator, 1000);
+        
+        // Mobile Navigation
+        function initMobileNav() {
+            const isMobile = window.innerWidth <= 768;
+            if (!isMobile) return;
+            
+            const mobileNav = document.getElementById('mobile-nav');
+            const sidebar = document.querySelector('.sidebar');
+            const overlay = document.getElementById('mobile-menu-overlay');
+            
+            // Show incidents button
+            document.getElementById('nav-incidents').addEventListener('click', () => {
+                sidebar.classList.add('open');
+                overlay.classList.add('open');
+                document.getElementById('nav-incidents').classList.add('active');
+                document.getElementById('nav-map').classList.remove('active');
+            });
+            
+            // Map button
+            document.getElementById('nav-map').addEventListener('click', () => {
+                sidebar.classList.remove('open');
+                overlay.classList.remove('open');
+                document.getElementById('nav-map').classList.add('active');
+                document.getElementById('nav-incidents').classList.remove('active');
+            });
+            
+            // Overlay click closes sidebar
+            overlay.addEventListener('click', () => {
+                sidebar.classList.remove('open');
+                overlay.classList.remove('open');
+                document.getElementById('nav-map').classList.add('active');
+                document.getElementById('nav-incidents').classList.remove('active');
+            });
+            
+            // Pull tab
+            document.getElementById('pull-tab').addEventListener('click', () => {
+                sidebar.classList.add('open');
+                overlay.classList.add('open');
+                document.getElementById('nav-incidents').classList.add('active');
+                document.getElementById('nav-map').classList.remove('active');
+            });
+            
+            // Set initial state
+            document.getElementById('nav-map').classList.add('active');
+        }
+        
+        // Initialize mobile nav on load
+        initMobileNav();
+        
+        // Re-init on resize
+        window.addEventListener('resize', () => {
+            const sidebar = document.querySelector('.sidebar');
+            const overlay = document.getElementById('mobile-menu-overlay');
+            if (window.innerWidth > 768) {
+                sidebar.classList.remove('open');
+                overlay.classList.remove('open');
+            }
+        });
     </script>
+    
+    <!-- Mobile Navigation Bar -->
+    <nav class="mobile-nav" id="mobile-nav">
+        <button class="mobile-nav-btn" id="nav-map">
+            <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+            <span>Map</span>
+        </button>
+        <button class="mobile-nav-btn" id="nav-incidents">
+            <svg viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+            <span>Incidents</span>
+        </button>
+    </nav>
+    
+    <!-- Mobile Menu Overlay -->
+    <div class="mobile-menu-overlay" id="mobile-menu-overlay"></div>
 </body>
 </html>
