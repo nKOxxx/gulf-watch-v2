@@ -813,7 +813,9 @@
         
         // Format time ago
         function timeAgo(dateString) {
-            const date = new Date(dateString);
+            // Parse as UTC by appending Z if not present
+            const utcString = dateString.endsWith('Z') ? dateString : dateString + 'Z';
+            const date = new Date(utcString);
             const now = new Date();
             const seconds = Math.floor((now - date) / 1000);
             
