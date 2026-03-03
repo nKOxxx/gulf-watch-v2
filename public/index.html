@@ -328,10 +328,12 @@
             color: #fff;
         }
         
-        .incident-report {
+        .incident-actions {
             margin-top: 8px;
             padding-top: 8px;
             border-top: 1px solid rgba(255, 255, 255, 0.05);
+            display: flex;
+            gap: 16px;
         }
         
         .report-link {
@@ -346,6 +348,20 @@
         
         .report-link:hover {
             color: #e74c3c;
+        }
+        
+        .translate-link {
+            font-size: 10px;
+            color: #666;
+            text-decoration: none;
+            transition: color 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+        
+        .translate-link:hover {
+            color: #3498db;
         }
         
         .incident-title {
@@ -733,6 +749,11 @@
                     card.dataset.id = incident.id;
                     card.dataset.country = incident.location.country;
                     const govBadge = incident.is_government ? '<span class="government-badge">🏛️ Government</span>' : '';
+                    
+                    // Detect Arabic text
+                    const hasArabic = /[\u0600-\u06FF]/.test(incident.title);
+                    const translateBtn = hasArabic ? `<a href="https://translate.google.com/?sl=auto&tl=en&text=${encodeURIComponent(incident.title)}" target="_blank" class="translate-link" onclick="event.stopPropagation();" title="Translate to English">🌐 Translate</a>` : '';
+                    
                     const reportSubject = encodeURIComponent(`[Gulf Watch] False Info Report: ${incident.title.substring(0, 50)}`);
                     const reportBody = encodeURIComponent(`I would like to report the following incident as potentially false or inaccurate:
 
@@ -760,7 +781,8 @@ This report was submitted via Gulf Watch v2`);
                             <span>•</span>
                             <span>${timeAgo(incident.published)}</span>
                         </div>
-                        <div class="incident-report">
+                        <div class="incident-actions">
+                            ${translateBtn}
                             <a href="mailto:gulfwatch@aeventures.com?subject=${reportSubject}&body=${reportBody}" class="report-link" onclick="event.stopPropagation();" title="Report false or inaccurate information">
                                 ⚠️ Report false info
                             </a>
