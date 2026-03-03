@@ -216,8 +216,38 @@ def is_threat_related(text: str) -> bool:
     text_lower = text.lower()
     return any(keyword in text_lower for keyword in KEYWORDS)
 
+def parse_date_from_url(url: str) -> Optional[datetime]:
+    """Try to extract date from URL (e.g., /2026/mar/02/)"""
+    import re
+    # Match patterns like /2026/mar/02/ or /2026/03/02/
+    month_map = {
+        'jan': 1, 'feb': 2, 'mar': 3, 'apr': 4, 'may': 5, 'jun': 6,
+        'jul': 7, 'aug': 8, 'sep': 9, 'oct': 10, 'nov': 11, 'dec': 12
+    }
+    
+    # Try /YYYY/mon/DD/ format (Guardian style)
+    match = re.search(r'/(\d{4})/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)/(\d{1,2})/', url.lower())
+    if match:
+        year, month_str, day = match.groups()
+        month = month_map.get(month_str, 1)
+        return datetime(int(year), month, int(day))
+    
+    # Try /YYYY/MM/DD/ format
+    match = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', url)
+    if match:
+        year, month, day = match.groups()
+        return datetime(int(year), int(month), int(day))
+    
+    return None
+
 def parse_date(entry) -> Optional[datetime]:
-    """Parse date from RSS entry"""
+    """Parse date from RSS entry, preferring URL date if available"""
+    # First try URL date (more reliable for some feeds like Guardian)
+    url_date = parse_date_from_url(entry.get('link', ''))
+    if url_date:
+        return url_date
+    
+    # Fall back to RSS date
     if hasattr(entry, 'published_parsed') and entry.published_parsed:
         return datetime(*entry.published_parsed[:6])
     if hasattr(entry, 'updated_parsed') and entry.updated_parsed:
