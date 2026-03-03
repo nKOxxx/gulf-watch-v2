@@ -54,6 +54,30 @@ FEEDS = [
     # Tier 6 - North Africa
     {"name": "Morocco World News", "url": "https://www.moroccoworldnews.com/feed/", "country": "Morocco", "credibility": 70},
     {"name": "Tunisia Live", "url": "https://www.tunisia-live.net/feed/", "country": "Tunisia", "credibility": 70},
+    
+    # Official Government Sources (High Credibility)
+    # UAE
+    {"name": "UAE Ministry of Interior", "url": "https://moi.gov.ae/en/rss", "country": "UAE", "credibility": 100},
+    {"name": "UAE NCEMA", "url": "https://www.ncema.gov.ae/en/rss", "country": "UAE", "credibility": 100},
+    
+    # Saudi Arabia
+    {"name": "Saudi Ministry of Interior", "url": "https://www.moi.gov.sa/rss", "country": "Saudi Arabia", "credibility": 100},
+    {"name": "Saudi Civil Defense", "url": "https://www.998.gov.sa/rss", "country": "Saudi Arabia", "credibility": 100},
+    
+    # Qatar
+    {"name": "Qatar Ministry of Interior", "url": "https://www.moi.gov.qa/rss", "country": "Qatar", "credibility": 100},
+    
+    # Bahrain
+    {"name": "Bahrain Ministry of Interior", "url": "https://www.moi.gov.bh/rss", "country": "Bahrain", "credibility": 100},
+    
+    # Kuwait
+    {"name": "Kuwait Ministry of Interior", "url": "https://www.moi.gov.kw/rss", "country": "Kuwait", "credibility": 100},
+    
+    # Oman
+    {"name": "Oman Ministry of Defense", "url": "https://www.mod.gov.om/rss", "country": "Oman", "credibility": 100},
+    
+    # Israel
+    {"name": "Israel Defense Forces", "url": "https://www.idf.il/en/rss", "country": "Israel", "credibility": 95},
 ]
 
 # Security/threat keywords
