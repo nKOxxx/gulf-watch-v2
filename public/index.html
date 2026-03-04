@@ -709,6 +709,12 @@
             <div class="change" id="gold-change">--</div>
         </div>
         
+        <div class="finance-item">
+            <div class="label">Bitcoin</div>
+            <div class="value" id="bitcoin-price">--</div>
+            <div class="change" id="bitcoin-change">--</div>
+        </div>
+        
         <div class="military-section">
             <h2>Live Intelligence</h2>
             <div id="military-alerts">
@@ -1173,7 +1179,7 @@ This report was submitted via Gulf Watch v2`);
                 
                 if (data.prices) {
                     // Update each price item
-                    const items = ['brent', 'gas', 'gold', 'tadawul', 'adx', 'qe'];
+                    const items = ['brent', 'gas', 'gold', 'bitcoin', 'tadawul', 'adx', 'qe'];
                     items.forEach(key => {
                         const item = data.prices[key];
                         if (item) {
@@ -1204,7 +1210,11 @@ This report was submitted via Gulf Watch v2`);
                 document.getElementById('gold-price').textContent = '$2,095';
                 document.getElementById('gold-change').textContent = '+0.5%';
                 document.getElementById('gold-change').className = 'change up';
-                
+
+                document.getElementById('bitcoin-price').textContent = '$85,000';
+                document.getElementById('bitcoin-change').textContent = '+2.1%';
+                document.getElementById('bitcoin-change').className = 'change up';
+
                 document.getElementById('tadawul-price').textContent = '11,245';
                 document.getElementById('tadawul-change').textContent = '+0.3%';
                 document.getElementById('tadawul-change').className = 'change up';
