@@ -1019,10 +1019,35 @@
             });
         }
         
+        // Cache helper functions
+        const CACHE_DURATION = 5 * 60 * 1000; // 5 minutes in milliseconds
+        
+        function getCacheKey(key) {
+            return `gulfwatch_${key}_last_fetch`;
+        }
+        
+        function shouldFetchFresh(key) {
+            const lastFetch = localStorage.getItem(getCacheKey(key));
+            const now = Date.now();
+            if (!lastFetch || (now - parseInt(lastFetch)) > CACHE_DURATION) {
+                localStorage.setItem(getCacheKey(key), now.toString());
+                return true;
+            }
+            return false;
+        }
+        
+        function getFetchUrl(baseUrl, key) {
+            // Add cache buster only when cache has expired
+            if (shouldFetchFresh(key)) {
+                return `${baseUrl}?v=${Date.now()}`;
+            }
+            return baseUrl;
+        }
+        
         // Load incidents
         async function loadIncidents() {
             try {
-                const response = await fetch('incidents.json');
+                const response = await fetch(getFetchUrl('incidents.json', 'incidents'));
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}`);
                 }
@@ -1153,7 +1178,7 @@ This report was submitted via Gulf Watch v2`);
         async function loadFinanceData() {
             try {
                 // Fetch prices from local JSON file (updated by GitHub Actions)
-                const response = await fetch('prices.json');
+                const response = await fetch(getFetchUrl('prices.json', 'prices'));
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}`);
                 }
