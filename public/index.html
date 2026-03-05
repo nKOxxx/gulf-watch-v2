@@ -663,7 +663,7 @@
     <div class="header">
         <h1><img src="Tactical%20radar%20logo%20with%20Arabian%20Peninsula.png" alt="Gulf Watch" class="logo"> Gulf Watch</h1>
         <div class="header-stats">
-            <div>Recent: <span id="incident-count">Loading...</span></div>
+            <div><span id="incident-count">Loading...</span></div>
             <div>Sources: <span>44</span></div>
             <div>Updates: <span style="color: #2ecc71;">every 5 min</span></div>
             <div class="live-indicator" id="live-indicator">● LIVE</div>
@@ -1056,8 +1056,20 @@
                 allIncidents = data.incidents;
                 lastUpdateTime = new Date(data.generated_at);
                 
-                document.getElementById('incident-count').textContent = data.total_incidents;
-                // Last updated time removed - now shows static "hourly"
+                // Find oldest incident date for display
+                let oldestDate = new Date();
+                data.incidents.forEach(incident => {
+                    const incidentDate = new Date(incident.published);
+                    if (incidentDate < oldestDate) {
+                        oldestDate = incidentDate;
+                    }
+                });
+                const formattedDate = oldestDate.toLocaleDateString('en-US', { 
+                    month: 'short', 
+                    day: 'numeric' 
+                });
+                
+                document.getElementById('incident-count').textContent = `${data.total_incidents} since ${formattedDate}`;
                 
                 const listEl = document.getElementById('incident-list');
                 listEl.innerHTML = '';
