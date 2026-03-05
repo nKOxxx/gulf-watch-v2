@@ -47,10 +47,7 @@ def main():
         'brent': {'symbol': 'BZ=F', 'name': 'Brent Oil', 'format': '${:.2f}'},
         'gas': {'symbol': 'NG=F', 'name': 'Natural Gas', 'format': '${:.3f}'},
         'gold': {'symbol': 'GC=F', 'name': 'Gold', 'format': '${:.0f}'},
-        'bitcoin': {'symbol': 'BTC-USD', 'name': 'Bitcoin', 'format': '${:,.0f}'},
-        'tadawul': {'symbol': '^TASI', 'name': 'Saudi Tadawul', 'format': '{:.0f}'},
-        'adx': {'symbol': 'ADX.AE', 'name': 'UAE ADX', 'format': '{:.0f}'},
-        'qe': {'symbol': '^QSI', 'name': 'Qatar QE', 'format': '{:.0f}'}
+        'bitcoin': {'symbol': 'BTC-USD', 'name': 'Bitcoin', 'format': '${:,.0f}'}
     }
     
     prices = {}

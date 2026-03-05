@@ -686,24 +686,6 @@
         </div>
         
         <div class="finance-item">
-            <div class="label">Saudi Tadawul</div>
-            <div class="value" id="tadawul-price">--</div>
-            <div class="change" id="tadawul-change">--</div>
-        </div>
-        
-        <div class="finance-item">
-            <div class="label">UAE ADX</div>
-            <div class="value" id="adx-price">--</div>
-            <div class="change" id="adx-change">--</div>
-        </div>
-        
-        <div class="finance-item">
-            <div class="label">Qatar QE</div>
-            <div class="value" id="qe-price">--</div>
-            <div class="change" id="qe-change">--</div>
-        </div>
-        
-        <div class="finance-item">
             <div class="label">Gold <span style="font-size:9px;color:#666">(per oz)</span></div>
             <div class="value" id="gold-price">--</div>
             <div class="change" id="gold-change">--</div>
@@ -1179,7 +1161,7 @@ This report was submitted via Gulf Watch v2`);
                 
                 if (data.prices) {
                     // Update each price item
-                    const items = ['brent', 'gas', 'gold', 'bitcoin', 'tadawul', 'adx', 'qe'];
+                    const items = ['brent', 'gas', 'gold', 'bitcoin'];
                     items.forEach(key => {
                         const item = data.prices[key];
                         if (item) {
@@ -1214,18 +1196,6 @@ This report was submitted via Gulf Watch v2`);
                 document.getElementById('bitcoin-price').textContent = '$85,000';
                 document.getElementById('bitcoin-change').textContent = '+2.1%';
                 document.getElementById('bitcoin-change').className = 'change up';
-
-                document.getElementById('tadawul-price').textContent = '11,245';
-                document.getElementById('tadawul-change').textContent = '+0.3%';
-                document.getElementById('tadawul-change').className = 'change up';
-                
-                document.getElementById('adx-price').textContent = '9,876';
-                document.getElementById('adx-change').textContent = '-0.5%';
-                document.getElementById('adx-change').className = 'change down';
-                
-                document.getElementById('qe-price').textContent = '10,123';
-                document.getElementById('qe-change').textContent = '+0.1%';
-                document.getElementById('qe-change').className = 'change up';
             }
         }
         
