@@ -2,688 +2,1276 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="theme-color" content="#0a0a0a">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gulf Watch - MENA Security Monitor</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        
-        :root {
-            --bg: #0a0a0a;
-            --panel: #111111;
-            --card: #1a1a1a;
-            --border: #2a2a2a;
-            --text: #e0e0e0;
-            --muted: #888888;
-            --accent: #e74c3c;
-            --accent-dim: rgba(231, 76, 60, 0.1);
-            --success: #2ecc71;
-            --warning: #f39c12;
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
         
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            height: 100vh;
+            background: #0a0a0a;
+            color: #fff;
             overflow: hidden;
         }
         
-        /* Header */
         .header {
             position: fixed;
-            top: 0; left: 0; right: 0;
-            height: 60px;
-            background: var(--panel);
-            border-bottom: 1px solid var(--border);
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 70px;
+            background: rgba(15, 15, 15, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
             display: flex;
             align-items: center;
             justify-content: space-between;
-            padding: 0 20px;
+            padding: 0 24px;
             z-index: 1000;
         }
         
-        .header-brand {
+        .header h1 {
+            font-size: 20px;
+            font-weight: 600;
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 10px;
         }
         
-        .header-brand img {
-            width: 36px;
-            height: 36px;
+        .header h1 .logo {
+            width: 44px;
+            height: 44px;
             object-fit: contain;
-        }
-        
-        .header-brand h1 {
-            font-size: 18px;
-            font-weight: 600;
-        }
-        
-        .header-brand span {
-            font-size: 11px;
-            color: var(--muted);
-            text-transform: uppercase;
-            letter-spacing: 1px;
+            margin-right: 12px;
         }
         
         .header-stats {
             display: flex;
-            gap: 20px;
+            gap: 24px;
             font-size: 13px;
+            color: #888;
         }
         
-        .header-stats span { color: var(--muted); }
-        .header-stats strong { color: var(--text); }
-        
-        /* Layout */
-        .app-container {
-            position: fixed;
-            top: 60px; left: 0; right: 0; bottom: 60px;
-            display: flex;
+        .header-stats span {
+            color: #fff;
+            font-weight: 500;
         }
         
-        /* Desktop: Three panels */
-        @media (min-width: 1024px) {
-            .finance-panel {
-                width: 220px;
-                flex-shrink: 0;
-            }
-            .map-container {
-                flex: 1;
-            }
-            .news-panel {
-                width: 380px;
-                flex-shrink: 0;
-            }
-            .mobile-nav { display: none; }
-        }
-        
-        /* Tablet: Two panels */
-        @media (min-width: 768px) and (max-width: 1023px) {
-            .finance-panel { display: none; }
-            .map-container {
-                flex: 1;
-                position: relative;
-            }
-            .news-panel {
-                width: 320px;
-                flex-shrink: 0;
-            }
-        }
-        
-        /* Mobile: Single panel with tabs */
-        @media (max-width: 767px) {
-            .finance-panel, .map-container, .news-panel {
-                display: none;
-                width: 100%;
-                position: absolute;
-                top: 0; left: 0; right: 0; bottom: 0;
-            }
-            .finance-panel.active, .map-container.active, .news-panel.active {
-                display: flex;
-                flex-direction: column;
-            }
-            .mobile-nav { display: flex; }
-        }
-        
-        /* Finance Panel */
-        .finance-panel {
-            background: var(--panel);
-            border-right: 1px solid var(--border);
-            padding: 16px;
-            overflow-y: auto;
-        }
-        
-        .panel-title {
-            font-size: 11px;
-            color: var(--muted);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 16px;
-            padding-bottom: 12px;
-            border-bottom: 1px solid var(--border);
-        }
-        
-        .price-item {
-            background: var(--card);
-            border: 1px solid var(--border);
-            padding: 12px;
-            margin-bottom: 8px;
-        }
-        
-        .price-item .label {
-            font-size: 10px;
-            color: var(--muted);
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-        
-        .price-item .value {
-            font-size: 18px;
+        .next-update {
+            color: #e74c3c;
             font-weight: 600;
-            margin: 4px 0;
-        }
-        
-        .price-item .change {
-            font-size: 11px;
-        }
-        .change.up { color: var(--success); }
-        .change.down { color: var(--accent); }
-        
-        /* Map */
-        .map-container {
-            position: relative;
-            background: var(--bg);
         }
         
         #map {
-            width: 100%;
-            height: 100%;
+            position: fixed;
+            top: 70px;
+            left: 200px;
+            right: 400px;
+            bottom: 0;
+            z-index: 1;
         }
         
-        .map-overlay {
-            position: absolute;
-            top: 16px; left: 16px;
-            display: flex;
-            gap: 8px;
-            flex-wrap: wrap;
-            z-index: 500;
-            max-width: calc(100% - 32px);
-        }
-        
-        .map-chip {
-            background: var(--panel);
-            border: 1px solid var(--border);
-            color: var(--text);
-            padding: 6px 12px;
-            font-size: 11px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            cursor: pointer;
-            transition: all 0.15s;
-        }
-        
-        .map-chip:hover, .map-chip.active {
-            border-color: var(--accent);
-            background: var(--accent-dim);
-        }
-        
-        /* News Panel */
-        .news-panel {
-            background: var(--panel);
-            border-left: 1px solid var(--border);
-            display: flex;
-            flex-direction: column;
-        }
-        
-        .news-filters {
-            padding: 16px;
-            border-bottom: 1px solid var(--border);
-        }
-        
-        .filter-row {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
-            margin-bottom: 8px;
-        }
-        
-        .filter-chip {
-            background: transparent;
-            border: 1px solid var(--border);
-            color: var(--muted);
-            padding: 4px 10px;
-            font-size: 10px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            cursor: pointer;
-            transition: all 0.15s;
-        }
-        
-        .filter-chip:hover {
-            border-color: var(--muted);
-            color: var(--text);
-        }
-        
-        .filter-chip.active {
-            border-color: var(--accent);
-            background: var(--accent-dim);
-            color: var(--text);
-        }
-        
-        .news-list {
-            flex: 1;
+        .finance-panel {
+            position: fixed;
+            top: 70px;
+            left: 0;
+            width: 200px;
+            bottom: 0;
+            background: rgba(15, 15, 15, 0.95);
+            backdrop-filter: blur(10px);
+            border-right: 1px solid rgba(255, 255, 255, 0.1);
+            z-index: 1000;
             overflow-y: auto;
             padding: 16px;
         }
         
-        .news-card {
-            background: var(--card);
-            border: 1px solid var(--border);
-            border-left: 3px solid var(--border);
-            padding: 14px;
+        .finance-panel h2 {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #888;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .finance-item {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 6px;
+            padding: 12px;
             margin-bottom: 10px;
-            cursor: pointer;
-            transition: all 0.15s;
         }
         
-        .news-card:hover {
-            border-color: var(--muted);
+        .finance-item .label {
+            font-size: 11px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 4px;
         }
         
-        .news-card.critical {
-            border-left-color: var(--accent);
-            background: linear-gradient(90deg, var(--accent-dim) 0%, var(--card) 100%);
+        .finance-item .value {
+            font-size: 16px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 2px;
         }
         
-        .news-card.warning {
-            border-left-color: var(--warning);
+        .finance-item .change {
+            font-size: 11px;
+            font-weight: 500;
         }
         
-        .news-header {
+        .finance-item .change.up {
+            color: #2ecc71;
+        }
+        
+        .finance-item .change.down {
+            color: #e74c3c;
+        }
+        
+        .military-section {
+            margin-top: 24px;
+            padding-top: 16px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .military-item {
+            background: rgba(231, 76, 60, 0.1);
+            border: 1px solid rgba(231, 76, 60, 0.2);
+            border-radius: 6px;
+            padding: 10px;
+            margin-bottom: 8px;
+            font-size: 11px;
+        }
+        
+        .military-item .time {
+            color: #888;
+            font-size: 10px;
+            margin-bottom: 2px;
+        }
+        
+        .military-item .alert {
+            color: #e74c3c;
+            font-weight: 600;
+        }
+        
+        .sidebar {
+            position: fixed;
+            top: 70px;
+            right: 0;
+            width: 400px;
+            bottom: 0;
+            background: rgba(15, 15, 15, 0.95);
+            backdrop-filter: blur(10px);
+            border-left: 1px solid rgba(255, 255, 255, 0.1);
+            z-index: 1000;
+            overflow-y: auto;
+            padding: 20px;
+        }
+        
+        .sidebar h2 {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #888;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .country-filters {
             display: flex;
-            align-items: center;
-            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 16px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .filter-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #888;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .filter-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+        }
+        
+        .filter-btn.active {
+            background: #e74c3c;
+            border-color: #e74c3c;
+            color: #fff;
+        }
+        
+        .severity-filter {
+            display: flex;
+            gap: 8px;
             margin-bottom: 8px;
         }
         
-        .news-badge {
-            font-size: 9px;
+        .severity-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #888;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .severity-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+        }
+        
+        .severity-btn.active {
+            background: #e74c3c;
+            border-color: #e74c3c;
+            color: #fff;
+        }
+        
+        .severity-help {
+            font-size: 10px;
+            color: #666;
+            margin-bottom: 16px;
+            padding-left: 4px;
+        }
+        
+        .incident-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 8px;
+            padding: 16px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .incident-card:hover {
+            background: rgba(255, 255, 255, 0.06);
+            border-color: rgba(255, 255, 255, 0.15);
+        }
+        
+        .incident-card.active {
+            border-color: #e74c3c;
+            background: rgba(231, 76, 60, 0.1);
+        }
+        
+        .incident-card.hidden {
+            display: none;
+        }
+        
+        .incident-card.severity-hidden {
+            display: none;
+        }
+        
+        .incident-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 8px;
+        }
+        
+        .incident-type {
+            font-size: 11px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+        }
+        
+        .type-missile { background: #e74c3c; }
+        .type-drone { background: #f39c12; }
+        .type-air_defense { background: #3498db; }
+        .type-explosion { background: #9b59b6; }
+        .type-alert { background: #e67e22; }
+        .type-attack { background: #c0392b; }
+        .type-security { background: #7f8c8d; }
+        
+        .incident-status {
+            font-size: 10px;
             padding: 2px 6px;
-            border: 1px solid;
+            border-radius: 3px;
+            text-transform: uppercase;
+            font-weight: 600;
         }
         
-        .news-badge.gov {
-            border-color: var(--warning);
-            color: var(--warning);
+        .status-confirmed { background: rgba(46, 204, 113, 0.2); color: #2ecc71; }
+        .status-reported { background: rgba(241, 196, 15, 0.2); color: #f1c40f; }
+        .status-unconfirmed { background: rgba(149, 165, 166, 0.2); color: #95a5a6; }
+        
+        .government-badge {
+            font-size: 9px;
+            padding: 2px 6px;
+            border-radius: 3px;
+            text-transform: uppercase;
+            font-weight: 700;
+            background: linear-gradient(135deg, #FFD700, #FFA500);
+            color: #000;
+            border: 1px solid #FFD700;
         }
         
-        .news-badge.news {
-            border-color: #3498db;
+        .footer {
+            margin-top: 30px;
+            padding: 20px 0;
+            text-align: center;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .footer-divider {
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+            margin-bottom: 20px;
+        }
+        
+        .footer-text {
+            font-size: 12px;
+            color: #888;
+            line-height: 1.6;
+            margin-bottom: 12px;
+        }
+        
+        .footer-text .heart {
+            color: #e74c3c;
+        }
+        
+        .footer-links {
+            font-size: 11px;
+            color: #666;
+        }
+        
+        .footer-links a {
+            color: #888;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        
+        .footer-links a:hover {
+            color: #fff;
+        }
+        
+        .live-indicator {
+            color: #e74c3c;
+            font-size: 11px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        
+        .live-indicator.live-pulse {
+            opacity: 0.5;
+        }
+        
+        .incident-actions {
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            display: flex;
+            gap: 16px;
+        }
+        
+        .report-link {
+            font-size: 10px;
+            color: #666;
+            text-decoration: none;
+            transition: color 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+        
+        .report-link:hover {
+            color: #e74c3c;
+        }
+        
+        .translate-link {
+            font-size: 10px;
+            color: #666;
+            text-decoration: none;
+            transition: color 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+        
+        .translate-link:hover {
             color: #3498db;
         }
         
-        .news-time {
-            font-size: 11px;
-            color: var(--muted);
+        .incident-title {
+            font-size: 13px;
+            line-height: 1.5;
+            color: #fff;
+            margin-bottom: 8px;
+            text-decoration: none;
+            display: block;
         }
         
-        .news-title {
-            font-size: 14px;
-            line-height: 1.4;
-            margin-bottom: 6px;
+        .incident-title:hover {
+            color: #e74c3c;
         }
         
-        .news-source {
-            font-size: 11px;
-            color: var(--muted);
-        }
-        
-        /* Mobile Navigation */
-        .mobile-nav {
-            position: fixed;
-            bottom: 0; left: 0; right: 0;
-            height: 60px;
-            background: var(--panel);
-            border-top: 1px solid var(--border);
+        .incident-meta {
             display: flex;
-            justify-content: space-around;
             align-items: center;
-            z-index: 1000;
+            gap: 12px;
+            font-size: 12px;
+            color: #888;
         }
         
-        .nav-btn {
+        .incident-meta svg {
+            width: 12px;
+            height: 12px;
+        }
+        
+        .loading {
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 4px;
-            padding: 8px 16px;
-            color: var(--muted);
-            font-size: 10px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            cursor: pointer;
-            transition: all 0.15s;
+            justify-content: center;
+            height: 100vh;
+            color: #888;
         }
         
-        .nav-btn.active {
-            color: var(--accent);
+        .loading::after {
+            content: '';
+            width: 40px;
+            height: 40px;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            border-top-color: #e74c3c;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-top: 20px;
         }
         
-        .nav-btn svg {
-            width: 20px;
-            height: 20px;
-            stroke: currentColor;
-            fill: none;
-            stroke-width: 2;
+        @keyframes spin {
+            to { transform: rotate(360deg); }
         }
         
-        /* Loading */
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: var(--muted);
+        .leaflet-popup-content-wrapper {
+            background: rgba(15, 15, 15, 0.95);
+            color: #fff;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
         }
         
-        /* Empty state */
-        .empty {
-            text-align: center;
-            padding: 40px;
-            color: var(--muted);
+        .leaflet-popup-tip {
+            background: rgba(15, 15, 15, 0.95);
+        }
+        
+        /* Mobile Styles - Simple: Static Map + Scrolling Feed */
+        @media (max-width: 768px) {
+            body {
+                overflow-x: hidden;
+                overflow-y: auto;
+            }
+            
+            .header {
+                height: 50px;
+                padding: 0 12px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                position: sticky;
+                top: 0;
+                z-index: 1000;
+            }
+            
+            .header h1 {
+                font-size: 16px;
+                display: flex;
+                align-items: center;
+                gap: 8px;
+            }
+            
+            .header .logo {
+                height: 28px;
+            }
+            
+            .header-stats {
+                display: flex;
+                gap: 12px;
+                font-size: 10px;
+            }
+            
+            .header-stats div {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                line-height: 1.2;
+            }
+            
+            .live-indicator {
+                font-size: 9px;
+            }
+            
+            .finance-panel {
+                display: none;
+            }
+            
+            /* Static map - just for visual context */
+            #map {
+                position: relative;
+                top: 0;
+                left: 0;
+                right: 0;
+                width: 100%;
+                height: 180px;
+                z-index: 1;
+            }
+            
+            /* Disable map interactions on mobile */
+            #map .leaflet-control-container {
+                display: none;
+            }
+            
+            /* Sidebar becomes normal scrolling feed */
+            .sidebar {
+                position: relative;
+                top: 0;
+                right: 0;
+                width: 100%;
+                height: auto;
+                border-left: none;
+                border-top: 1px solid rgba(255, 255, 255, 0.1);
+                z-index: 10;
+                padding: 16px;
+                padding-bottom: 40px;
+                overflow-y: visible;
+            }
+            
+            .sidebar h2 {
+                font-size: 14px;
+                margin-bottom: 12px;
+                padding-bottom: 8px;
+            }
+            
+            .country-filters {
+                gap: 6px;
+                margin-bottom: 16px;
+            }
+            
+            .filter-btn {
+                padding: 6px 12px;
+                font-size: 12px;
+            }
+            
+            .severity-filter {
+                gap: 8px;
+                margin-bottom: 8px;
+            }
+            
+            .severity-btn {
+                padding: 6px 14px;
+                font-size: 12px;
+            }
+            
+            .severity-help {
+                font-size: 10px;
+                margin-bottom: 16px;
+            }
+            
+            .incident-card {
+                padding: 14px;
+                margin-bottom: 10px;
+            }
+            
+            .incident-header {
+                gap: 6px;
+                margin-bottom: 8px;
+            }
+            
+            .incident-type {
+                font-size: 10px;
+                padding: 2px 8px;
+            }
+            
+            .incident-status {
+                font-size: 9px;
+                padding: 2px 6px;
+            }
+            
+            .government-badge {
+                font-size: 9px;
+                padding: 2px 6px;
+            }
+            
+            .incident-title {
+                font-size: 14px;
+                line-height: 1.5;
+            }
+            
+            .incident-meta {
+                font-size: 11px;
+                gap: 6px;
+            }
+            
+            .incident-actions {
+                gap: 16px;
+                margin-top: 8px;
+                padding-top: 8px;
+            }
+            
+            .translate-link, .report-link {
+                font-size: 11px;
+            }
+            
+            .footer {
+                margin-top: 30px;
+                padding: 20px 0;
+            }
+            
+            .footer-text {
+                font-size: 12px;
+            }
+            
+            .footer-links {
+                font-size: 11px;
+            }
+            
+            /* Hide mobile nav elements - not needed in this design */
+            .mobile-nav, .mobile-menu-overlay, .pull-tab {
+                display: none !important;
+            }
+        }
+        
+        /* Hide mobile elements on desktop */
+        .mobile-nav, .mobile-menu-overlay, .pull-tab {
+            display: none;
         }
     </style>
 </head>
 <body>
-    <!-- Header -->
-    <header class="header">
-        <div class="header-brand">
-            <img src="Tactical radar logo with Arabian Peninsula.png" alt="">
-            <div>
-                <h1>Gulf Watch</h1>
-                <span>MENA Security Monitor</span>
-            </div>
-        </div>
+    <div class="header">
+        <h1><img src="Tactical%20radar%20logo%20with%20Arabian%20Peninsula.png" alt="Gulf Watch" class="logo"> Gulf Watch</h1>
         <div class="header-stats">
-            <div><span>Incidents:</span> <strong id="incidentCount">-</strong></div>
-            <div><span>Critical:</span> <strong id="criticalCount" style="color: var(--accent)">-</strong></div>
+            <div><span id="incident-count">Loading...</span></div>
+            <div>Sources: <span>44</span></div>
+            <div>Updates: <span style="color: #2ecc71;">hourly</span></div>
+            <div class="live-indicator" id="live-indicator">● LIVE</div>
         </div>
-    </header>
-    
-    <!-- Main Container -->
-    <div class="app-container">
-        <!-- Finance Panel -->
-        <aside class="finance-panel" id="financePanel">
-            <div class="panel-title">Market Prices</div>
-            <div id="priceList">
-                <div class="loading">Loading...</div>
-            </div>
-        </aside>
-        
-        <!-- Map -->
-        <main class="map-container active" id="mapContainer">
-            <div class="map-overlay">
-                <button class="map-chip active" onclick="filterMap('all')">All</button>
-                <button class="map-chip" onclick="filterMap('uae')">UAE</button>
-                <button class="map-chip" onclick="filterMap('saudi')">Saudi</button>
-                <button class="map-chip" onclick="filterMap('israel')">Israel</button>
-                <button class="map-chip" onclick="filterMap('critical')" style="color: var(--accent)">Critical</button>
-            </div>
-            <div id="map"></div>
-        </main>
-        
-        <!-- News Panel -->
-        <aside class="news-panel" id="newsPanel">
-            <div class="news-filters">
-                <div class="filter-row">
-                    <button class="filter-chip active" onclick="filterNews('all')">All</button>
-                    <button class="filter-chip" onclick="filterNews('uae')">UAE</button>
-                    <button class="filter-chip" onclick="filterNews('saudi')">Saudi</button>
-                    <button class="filter-chip" onclick="filterNews('qatar')">Qatar</button>
-                    <button class="filter-chip" onclick="filterNews('israel')">Israel</button>
-                </div>
-                <div class="filter-row">
-                    <button class="filter-chip" onclick="filterNews('critical')">Critical</button>
-                    <button class="filter-chip" onclick="filterNews('gov')">Gov Only</button>
-                </div>
-            </div>
-            <div class="news-list" id="newsList">
-                <div class="loading">Loading incidents...</div>
-            </div>
-        </aside>
     </div>
     
-    <!-- Mobile Navigation -->
-    <nav class="mobile-nav" id="mobileNav">
-        <div class="nav-btn" data-view="finance">
-            <svg viewBox="0 0 24 24"><path d="M12 2v20M2 12h20M7 7l10 10M7 17L17 7"/></svg>
-            <span>Prices</span>
+    <div class="finance-panel">
+        <h2>Market Impact</h2>
+        
+        <div class="finance-item">
+            <div class="label">Brent Oil</div>
+            <div class="value" id="brent-price">--</div>
+            <div class="change" id="brent-change">--</div>
         </div>
-        <div class="nav-btn active" data-view="map">
-            <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 2v20M2 12h20"/></svg>
-            <span>Map</span>
+        
+        <div class="finance-item">
+            <div class="label">Natural Gas</div>
+            <div class="value" id="gas-price">--</div>
+            <div class="change" id="gas-change">--</div>
         </div>
-        <div class="nav-btn" data-view="news">
-            <svg viewBox="0 0 24 24"><path d="M4 4h16v16H4zM8 8h8M8 12h8M8 16h5"/></svg>
-            <span>News</span>
+        
+        <div class="finance-item">
+            <div class="label">Gold <span style="font-size:9px;color:#666">(per oz)</span></div>
+            <div class="value" id="gold-price">--</div>
+            <div class="change" id="gold-change">--</div>
         </div>
-    </nav>
+        
+        <div class="finance-item">
+            <div class="label">Bitcoin</div>
+            <div class="value" id="bitcoin-price">--</div>
+            <div class="change" id="bitcoin-change">--</div>
+        </div>
+        
+        <div class="military-section">
+            <h2>Live Intelligence</h2>
+            <div id="military-alerts">
+                <div class="military-item">
+                    <div class="time">--</div>
+                    <div class="alert">Loading intelligence...</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="map"></div>
+    
+    <div class="sidebar">
+        <h2>Filter by Country</h2>
+        <div class="country-filters" id="country-filters">
+            <button class="filter-btn active" data-country="all">All</button>
+            <button class="filter-btn" data-country="UAE">UAE</button>
+            <button class="filter-btn" data-country="Saudi Arabia">Saudi</button>
+            <button class="filter-btn" data-country="Qatar">Qatar</button>
+            <button class="filter-btn" data-country="Kuwait">Kuwait</button>
+            <button class="filter-btn" data-country="Bahrain">Bahrain</button>
+            <button class="filter-btn" data-country="Oman">Oman</button>
+            <button class="filter-btn" data-country="Israel">Israel</button>
+            <button class="filter-btn" data-country="Iran">Iran</button>
+            <button class="filter-btn" data-country="Lebanon">Lebanon</button>
+        </div>
+        
+        <h2>Severity Filter</h2>
+        <div class="severity-filter">
+            <button class="severity-btn active" data-severity="all">Show All</button>
+            <button class="severity-btn" data-severity="critical">🔴 Critical Only</button>
+        </div>
+        <div class="severity-help">Critical = Government sources OR high-impact incidents</div>
+        
+        <h2>Latest Incidents</h2>
+        <div id="incident-list">
+            <div class="loading">Loading incidents...</div>
+        </div>
+        
+        <div class="footer">
+            <div class="footer-divider"></div>
+            <div class="footer-text">
+                Built with <span class="heart">❤️</span> and respect for the UAE<br>
+                and all countries in the Gulf Region
+            </div>
+            <div class="footer-links">
+                <a href="https://github.com/nKOxxx/gulf-watch-v2" target="_blank">GitHub</a> • 
+                <span id="source-count-footer">44 sources</span> • 
+                <span id="gov-count">25 government</span>
+            </div>
+        </div>
+    </div>
     
     <script>
-        // Data storage
-        let incidents = [];
-        let prices = {};
-        let map = null;
-        let markers = [];
-        
-        // Country centers
-        const centers = {
-            uae: [23.4241, 53.8478],
-            saudi: [23.8859, 45.0792],
-            qatar: [25.3548, 51.1839],
-            israel: [31.0461, 34.8516],
-            bahrain: [26.0667, 50.5577],
-            kuwait: [29.3117, 47.4818],
-            oman: [21.4735, 55.9754]
-        };
-        
-        // Initialize
-        async function init() {
-            await loadData();
-            initMap();
-            renderPrices();
-            renderNews();
-            updateStats();
-            initMobileNav();
-        }
-        
-        // Load data
-        async function loadData() {
-            try {
-                const response = await fetch('incidents.json?v=' + Date.now());
-                const data = await response.json();
-                incidents = data.incidents || [];
-                prices = data.prices || {};
-            } catch (e) {
-                console.error('Failed to load data:', e);
-                document.getElementById('newsList').innerHTML = '<div class="empty">Failed to load data</div>';
-            }
-        }
-        
-        // Update stats
-        function updateStats() {
-            document.getElementById('incidentCount').textContent = incidents.length;
-            const critical = incidents.filter(i => i.severity === 'critical').length;
-            document.getElementById('criticalCount').textContent = critical;
-        }
-        
-        // Render prices
-        function renderPrices() {
-            const container = document.getElementById('priceList');
-            if (!prices || Object.keys(prices).length === 0) {
-                container.innerHTML = '<div class="empty">No price data</div>';
-                return;
-            }
-            
-            let html = '';
-            
-            // Oil
-            if (prices.brent) {
-                const change = prices.brent.change >= 0 ? 'up' : 'down';
-                html += `
-                    <div class="price-item">
-                        <div class="label">Brent Oil</div>
-                        <div class="value">${prices.brent.formatted_price || '$' + prices.brent.price.toFixed(2)}</div>
-                        <div class="change ${change}">${prices.brent.formatted_change || prices.brent.change.toFixed(2) + '%'}</div>
-                    </div>
-                `;
-            }
-            
-            // Gold
-            if (prices.gold) {
-                const change = prices.gold.change >= 0 ? 'up' : 'down';
-                html += `
-                    <div class="price-item">
-                        <div class="label">Gold</div>
-                        <div class="value">${prices.gold.formatted_price || '$' + prices.gold.price.toFixed(0)}</div>
-                        <div class="change ${change}">${prices.gold.formatted_change || prices.gold.change.toFixed(2) + '%'}</div>
-                    </div>
-                `;
-            }
-            
-            // Bitcoin
-            if (prices.bitcoin) {
-                const change = prices.bitcoin.change >= 0 ? 'up' : 'down';
-                html += `
-                    <div class="price-item">
-                        <div class="label">Bitcoin</div>
-                        <div class="value">${prices.bitcoin.formatted_price || '$' + prices.bitcoin.price.toLocaleString()}</div>
-                        <div class="change ${change}">${prices.bitcoin.formatted_change || prices.bitcoin.change.toFixed(2) + '%'}</div>
-                    </div>
-                `;
-            }
-            
-            container.innerHTML = html || '<div class="empty">No prices available</div>';
-        }
+        // Detect mobile
+        const isMobile = window.innerWidth <= 768;
         
         // Initialize map
-        function initMap() {
-            map = L.map('map', {
-                zoomControl: false,
-                attributionControl: false
-            }).setView([25, 50], 5);
-            
-            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-                subdomains: 'abcd',
-                maxZoom: 19
-            }).addTo(map);
-            
-            L.control.zoom({ position: 'topright' }).addTo(map);
-            
-            addMarkers(incidents);
+        const map = L.map('map', {
+            center: isMobile ? [26.0, 50.0] : [28.0, 45.0], // Mobile: centered on Gulf
+            zoom: isMobile ? 5 : 5, // Mobile: zoomed out to show more region
+            minZoom: isMobile ? 5 : 4, // Mobile: don't allow zooming out further
+            maxZoom: 12,
+            dragging: !isMobile, // Mobile: disable dragging
+            touchZoom: !isMobile, // Mobile: disable pinch zoom
+            scrollWheelZoom: !isMobile, // Mobile: disable scroll zoom
+            doubleClickZoom: !isMobile, // Mobile: disable double-click zoom
+            boxZoom: !isMobile,
+            keyboard: !isMobile
+        });
+        
+        // Add dark tile layer
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; CARTO',
+            subdomains: 'abcd',
+            maxZoom: 19
+        }).addTo(map);
+        
+        // Store markers and incidents
+        const markers = {};
+        let allIncidents = [];
+        let currentFilter = 'all';
+        let lastUpdateTime = null;
+        let lastFetchTime = null;
+        
+        // Countries for filtering
+        const countries = ['UAE', 'Saudi Arabia', 'Qatar', 'Kuwait', 'Bahrain', 'Oman', 'Israel', 'Iran', 'Lebanon'];
+        
+        // Get color by type
+        function getTypeColor(type) {
+            const colors = {
+                missile: '#e74c3c',
+                drone: '#f39c12',
+                air_defense: '#3498db',
+                explosion: '#9b59b6',
+                alert: '#e67e22',
+                attack: '#c0392b',
+                security: '#7f8c8d'
+            };
+            return colors[type] || '#7f8c8d';
         }
         
-        // Add markers
-        function addMarkers(items) {
-            markers.forEach(m => map.removeLayer(m));
-            markers = [];
+        // Format time ago
+        function timeAgo(dateString) {
+            // Handle various timestamp formats
+            let utcString = dateString;
             
-            items.forEach(item => {
-                if (!item.lat || !item.lng) return;
+            // If it has a timezone offset (+00:00), use as-is
+            // If it ends with Z, use as-is
+            // Otherwise append Z to treat as UTC
+            if (!dateString.match(/[Z]|[+\-]\d{2}:\d{2}$/)) {
+                utcString = dateString + 'Z';
+            }
+            
+            const date = new Date(utcString);
+            
+            // Check if date is valid
+            if (isNaN(date.getTime())) {
+                return 'Unknown';
+            }
+            
+            const now = new Date();
+            const seconds = Math.floor((now - date) / 1000);
+            
+            if (seconds < 0) return 'Just now';
+            if (seconds < 60) return 'Just now';
+            if (seconds < 3600) return `${Math.floor(seconds / 60)}m ago`;
+            if (seconds < 86400) return `${Math.floor(seconds / 3600)}h ago`;
+            return `${Math.floor(seconds / 86400)}d ago`;
+        }
+        
+        // Update countdown timer
+        function updateCountdown() {
+            if (!lastUpdateTime) return;
+            
+            const now = new Date();
+            const nextUpdate = new Date(lastUpdateTime.getTime() + 60 * 60 * 1000); // +1 hour
+            const diff = nextUpdate - now;
+            
+            if (diff <= 0) {
+                document.getElementById('next-update').textContent = 'Soon';
+            } else {
+                const minutes = Math.floor(diff / 60000);
+                const seconds = Math.floor((diff % 60000) / 1000);
+                document.getElementById('next-update').textContent = `${minutes}m ${seconds}s`;
+            }
+        }
+        
+        // Clear all markers
+        function clearMarkers() {
+            Object.values(markers).forEach(marker => {
+                if (map.hasLayer(marker)) {
+                    map.removeLayer(marker);
+                }
+            });
+            for (let key in markers) {
+                delete markers[key];
+            }
+        }
+        
+        // Filter incidents
+        function filterIncidents(country) {
+            currentFilter = country;
+            const cards = document.querySelectorAll('.incident-card');
+            
+            cards.forEach(card => {
+                const incidentCountry = card.dataset.country;
+                if (country === 'all' || incidentCountry === country) {
+                    card.classList.remove('hidden');
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+            
+            // Clear and re-add markers
+            clearMarkers();
+            
+            allIncidents.forEach(incident => {
+                if (country !== 'all' && incident.location.country !== country) return;
                 
-                const color = item.severity === 'critical' ? '#e74c3c' :
-                             item.severity === 'warning' ? '#f39c12' : '#3498db';
-                
-                const marker = L.circleMarker([item.lat, item.lng], {
-                    radius: 6,
+                const color = getTypeColor(incident.type);
+                const marker = L.circleMarker([incident.location.lat, incident.location.lng], {
+                    radius: 8,
                     fillColor: color,
                     color: '#fff',
-                    weight: 1,
+                    weight: 2,
+                    opacity: 1,
                     fillOpacity: 0.8
                 }).addTo(map);
                 
-                marker.bindPopup(`<strong>${item.title}</strong><br><small>${item.source}</small>`);
-                marker.on('click', () => {
-                    if (item.url) window.open(item.url, '_blank');
-                });
+                marker.bindPopup(`
+                    <div style="max-width: 250px;">
+                        <div style="font-size: 11px; text-transform: uppercase; color: ${color}; margin-bottom: 4px;">
+                            ${incident.type.replace('_', ' ')}
+                        </div>
+                        <div style="font-size: 13px; font-weight: 600; margin-bottom: 4px;">
+                            ${incident.title}
+                        </div>
+                        <div style="font-size: 11px; color: #888;">
+                            ${incident.source} • ${timeAgo(incident.published)}
+                        </div>
+                    </div>
+                `);
                 
-                markers.push(marker);
+                markers[incident.id] = marker;
             });
         }
         
-        // Filter map
-        function filterMap(filter) {
-            document.querySelectorAll('.map-chip').forEach(c => c.classList.remove('active'));
-            event.target.classList.add('active');
+        // Calculate severity score for an incident
+        function calculateSeverity(incident) {
+            let score = 0;
             
-            let filtered = incidents;
-            if (filter === 'critical') {
-                filtered = incidents.filter(i => i.severity === 'critical');
-            } else if (filter !== 'all') {
-                filtered = incidents.filter(i => i.country === filter);
+            // Government source = highest credibility (up to 50 points)
+            if (incident.is_government) {
+                score += 50;
+            } else {
+                score += (incident.credibility / 100) * 30; // Max 30 for non-gov
             }
             
-            addMarkers(filtered);
+            // High-impact keywords (up to 40 points)
+            const highImpactKeywords = ['missile', 'rocket', 'drone', 'air defense', 'interceptor', 'attack', 'strike', 'explosion', 'casualties', 'killed', 'wounded'];
+            const titleLower = incident.title.toLowerCase();
+            const keywordMatches = highImpactKeywords.filter(kw => titleLower.includes(kw)).length;
+            score += Math.min(keywordMatches * 10, 40);
             
-            if (centers[filter]) {
-                map.setView(centers[filter], 6);
-            } else if (filter === 'all') {
-                map.setView([25, 50], 5);
-            }
+            // Recency (up to 10 points)
+            const hoursAgo = (new Date() - new Date(incident.published)) / (1000 * 60 * 60);
+            if (hoursAgo < 1) score += 10;
+            else if (hoursAgo < 6) score += 7;
+            else if (hoursAgo < 12) score += 5;
+            else if (hoursAgo < 24) score += 3;
+            
+            return score;
         }
         
-        // Render news
-        function renderNews() {
-            const container = document.getElementById('newsList');
-            if (incidents.length === 0) {
-                container.innerHTML = '<div class="empty">No incidents found</div>';
+        // Filter by severity
+        let currentSeverityFilter = 'all';
+        
+        function filterBySeverity(severity) {
+            currentSeverityFilter = severity;
+            const cards = document.querySelectorAll('.incident-card');
+            
+            cards.forEach(card => {
+                const incidentId = parseInt(card.dataset.id);
+                const incident = allIncidents.find(inc => inc.id === incidentId);
+                
+                if (!incident) return;
+                
+                const severityScore = calculateSeverity(incident);
+                const isCritical = severityScore >= 60; // Threshold for critical
+                
+                if (severity === 'all' || (severity === 'critical' && isCritical)) {
+                    card.classList.remove('severity-hidden');
+                } else {
+                    card.classList.add('severity-hidden');
+                }
+            });
+            
+            // Update visible count
+            const visibleCount = document.querySelectorAll('.incident-card:not(.severity-hidden):not(.hidden)').length;
+            document.getElementById('incident-count').textContent = visibleCount;
+        }
+        
+        // Setup severity filter buttons
+        function setupSeverityFilters() {
+            const buttons = document.querySelectorAll('.severity-btn');
+            buttons.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    buttons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    filterBySeverity(btn.dataset.severity);
+                });
+            });
+        }
+        
+        // Update Live Intelligence from high-priority incidents
+        function updateIntelligence(incidents) {
+            const intelContainer = document.getElementById('military-alerts');
+            
+            // High-priority keywords for intelligence alerts
+            const intelKeywords = ['missile', 'rocket', 'drone', 'air defense', 'interceptor', 'attack', 'strike', 'explosion', 'siren', 'evacuation', 'houthi', 'hamas', 'hezbollah', 'idf', 'strait', 'hormuz', 'naval', 'military'];
+            
+            // Filter for high-priority incidents
+            const intelIncidents = incidents.filter(inc => {
+                const titleLower = inc.title.toLowerCase();
+                return intelKeywords.some(kw => titleLower.includes(kw));
+            }).slice(0, 5); // Top 5
+            
+            if (intelIncidents.length === 0) {
+                intelContainer.innerHTML = `
+                    <div class="military-item">
+                        <div class="time">--</div>
+                        <div class="alert">No active alerts</div>
+                    </div>
+                `;
                 return;
             }
             
-            container.innerHTML = incidents.map(item => `
-                <div class="news-card ${item.severity}" data-country="${item.country}" data-severity="${item.severity}" data-type="${item.type}" onclick="openNews('${item.url || item.link || ''}')">
-                    <div class="news-header">
-                        <span class="news-badge ${item.isGov ? 'gov' : 'news'}">${item.isGov ? 'Gov' : 'News'}</span>
-                        <span class="news-time">${item.time}</span>
+            intelContainer.innerHTML = intelIncidents.map(inc => {
+                const alertType = inc.type.replace('_', ' ').toUpperCase();
+                const location = inc.location.country;
+                return `
+                    <div class="military-item">
+                        <div class="time">${timeAgo(inc.published)}</div>
+                        <div class="alert">${alertType}: ${location}</div>
                     </div>
-                    <div class="news-title">${item.title}</div>
-                    <div class="news-source">${item.source}</div>
-                </div>
-            `).join('');
+                `;
+            }).join('');
         }
         
-        // Open news
-        function openNews(url) {
-            if (url && url !== 'undefined' && url !== '') {
-                window.open(url, '_blank');
-            }
-        }
-        
-        // Filter news
-        function filterNews(filter) {
-            document.querySelectorAll('.news-filters .filter-chip').forEach(c => c.classList.remove('active'));
-            event.target.classList.add('active');
-            
-            document.querySelectorAll('.news-card').forEach(card => {
-                if (filter === 'all') {
-                    card.style.display = 'block';
-                } else if (filter === 'critical') {
-                    card.style.display = card.dataset.severity === 'critical' ? 'block' : 'none';
-                } else if (filter === 'gov') {
-                    card.style.display = card.dataset.type === 'gov' ? 'block' : 'none';
-                } else {
-                    card.style.display = card.dataset.country === filter ? 'block' : 'none';
-                }
-            });
-        }
-        
-        // Mobile navigation
-        function initMobileNav() {
-            const nav = document.getElementById('mobileNav');
-            if (!nav) return;
-            
-            nav.querySelectorAll('.nav-btn').forEach(btn => {
+        // Setup filter buttons
+        function setupFilters() {
+            const buttons = document.querySelectorAll('.filter-btn');
+            buttons.forEach(btn => {
                 btn.addEventListener('click', () => {
-                    const view = btn.dataset.view;
-                    
-                    nav.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+                    buttons.forEach(b => b.classList.remove('active'));
                     btn.classList.add('active');
-                    
-                    document.querySelectorAll('.finance-panel, .map-container, .news-panel').forEach(p => p.classList.remove('active'));
-                    
-                    if (view === 'finance') document.getElementById('financePanel').classList.add('active');
-                    if (view === 'map') document.getElementById('mapContainer').classList.add('active');
-                    if (view === 'news') document.getElementById('newsPanel').classList.add('active');
+                    filterIncidents(btn.dataset.country);
                 });
             });
         }
         
-        // Start
-        init();
+        // Cache helper - FORCE fresh data on every page load/refresh
+        // Mobile browsers are very aggressive with caching
+        function getFetchUrl(baseUrl) {
+            // Always add cache buster to prevent browser caching
+            // This ensures users always see fresh data after a refresh
+            return `${baseUrl}?_=${Date.now()}`;
+        }
+        
+        // Load incidents
+        async function loadIncidents(showLoading = false) {
+            try {
+                // Track fetch time
+                lastFetchTime = new Date();
+                
+                const response = await fetch(getFetchUrl('incidents.json'), { cache: 'no-store' });
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                const data = await response.json();
+                
+                allIncidents = data.incidents;
+                lastUpdateTime = new Date(data.generated_at);
+                
+                // Find oldest incident date for display
+                let oldestDate = new Date();
+                data.incidents.forEach(incident => {
+                    const incidentDate = new Date(incident.published);
+                    if (incidentDate < oldestDate) {
+                        oldestDate = incidentDate;
+                    }
+                });
+                // Format date as "Month Dayth" (e.g., "March 2nd")
+                const month = oldestDate.toLocaleDateString('en-US', { month: 'long' });
+                const day = oldestDate.getDate();
+                const suffix = (day === 1 || day === 21 || day === 31) ? 'st' :
+                               (day === 2 || day === 22) ? 'nd' :
+                               (day === 3 || day === 23) ? 'rd' : 'th';
+                const formattedDate = `${month} ${day}${suffix}`;
+                
+                document.getElementById('incident-count').textContent = `${data.total_incidents} since ${formattedDate}`;
+                
+                const listEl = document.getElementById('incident-list');
+                listEl.innerHTML = '';
+                
+                // Clear existing markers
+                clearMarkers();
+                
+                data.incidents.forEach(incident => {
+                    // Add marker
+                    const color = getTypeColor(incident.type);
+                    const marker = L.circleMarker([incident.location.lat, incident.location.lng], {
+                        radius: 8,
+                        fillColor: color,
+                        color: '#fff',
+                        weight: 2,
+                        opacity: 1,
+                        fillOpacity: 0.8
+                    }).addTo(map);
+                    
+                    marker.bindPopup(`
+                        <div style="max-width: 250px;">
+                            <div style="font-size: 11px; text-transform: uppercase; color: ${color}; margin-bottom: 4px;">
+                                ${incident.type.replace('_', ' ')}
+                            </div>
+                            <div style="font-size: 13px; font-weight: 600; margin-bottom: 4px;">
+                                ${incident.title}
+                            </div>
+                            <div style="font-size: 11px; color: #888;">
+                                ${incident.source} • ${timeAgo(incident.published)}
+                            </div>
+                        </div>
+                    `);
+                    
+                    markers[incident.id] = marker;
+                    
+                    // Add to sidebar
+                    const card = document.createElement('div');
+                    card.className = 'incident-card';
+                    card.dataset.id = incident.id;
+                    card.dataset.country = incident.location.country;
+                    const govBadge = incident.is_government ? '<span class="government-badge">🏛️ Government</span>' : '';
+                    
+                    // Detect Arabic text
+                    const hasArabic = /[\u0600-\u06FF]/.test(incident.title);
+                    const translateBtn = hasArabic ? `<a href="https://translate.google.com/?sl=auto&tl=en&text=${encodeURIComponent(incident.title)}" target="_blank" class="translate-link" onclick="event.stopPropagation();" title="Translate to English">🌐 Translate</a>` : '';
+                    
+                    const reportSubject = encodeURIComponent(`[Gulf Watch] False Info Report: ${incident.title.substring(0, 50)}`);
+                    const reportBody = encodeURIComponent(`I would like to report the following incident as potentially false or inaccurate:
+
+Title: ${incident.title}
+Source: ${incident.source}
+Published: ${incident.published}
+URL: ${incident.source_url}
+
+Reason for report:
+[Please explain why this information may be false]
+
+---
+This report was submitted via Gulf Watch v2`);
+                    card.innerHTML = `
+                        <div class="incident-header">
+                            <span class="incident-type type-${incident.type}">${incident.type.replace('_', ' ')}</span>
+                            <span class="incident-status status-${incident.status}">${incident.status}</span>
+                            ${govBadge}
+                        </div>
+                        <a href="${incident.source_url}" target="_blank" class="incident-title" onclick="event.stopPropagation();">${incident.title}</a>
+                        <div class="incident-meta">
+                            <span>📍 ${incident.location.name}, ${incident.location.country}</span>
+                            <span>•</span>
+                            <span>${incident.source}</span>
+                            <span>•</span>
+                            <span>${timeAgo(incident.published)}</span>
+                        </div>
+                        <div class="incident-actions">
+                            ${translateBtn}
+                            <a href="mailto:reports@gulf-watch.app?subject=${reportSubject}&body=${reportBody}" class="report-link" onclick="event.stopPropagation();" title="Report false or inaccurate information">
+                                ⚠️ Report false info
+                            </a>
+                        </div>
+                    `;
+                    
+                    card.addEventListener('click', () => {
+                        // Remove active from all
+                        document.querySelectorAll('.incident-card').forEach(c => c.classList.remove('active'));
+                        card.classList.add('active');
+                        
+                        // Fly to marker
+                        map.flyTo([incident.location.lat, incident.location.lng], 10, {
+                            duration: 1
+                        });
+                        
+                        // Open popup
+                        marker.openPopup();
+                    });
+                    
+                    listEl.appendChild(card);
+                });
+                
+                // Apply current filter
+                filterIncidents(currentFilter);
+                
+                // Update Live Intelligence panel
+                updateIntelligence(data.incidents);
+                
+            } catch (error) {
+                console.error('Error loading incidents:', error);
+                document.getElementById('incident-count').textContent = 'Error';
+                document.getElementById('last-update').textContent = 'Error';
+                document.getElementById('incident-list').innerHTML = `
+                    <div style="text-align: center; padding: 40px; color: #888;">
+                        Failed to load incidents.<br>Error: ${error.message}
+                    </div>
+                `;
+            }
+        }
+        
+        // Finance data
+        async function loadFinanceData() {
+            try {
+                // Fetch prices from local JSON file (updated by GitHub Actions)
+                const response = await fetch(getFetchUrl('prices.json'), { cache: 'no-store' });
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                const data = await response.json();
+                
+                if (data.prices) {
+                    // Update each price item
+                    const items = ['brent', 'gas', 'gold', 'bitcoin'];
+                    items.forEach(key => {
+                        const item = data.prices[key];
+                        if (item) {
+                            const priceEl = document.getElementById(`${key}-price`);
+                            const changeEl = document.getElementById(`${key}-change`);
+                            
+                            if (priceEl) priceEl.textContent = item.formatted_price;
+                            if (changeEl) {
+                                changeEl.textContent = item.formatted_change;
+                                changeEl.className = `change ${item.change >= 0 ? 'up' : 'down'}`;
+                            }
+                        }
+                    });
+                    
+                    console.log(`Prices loaded (generated: ${data.generated_at})`);
+                }
+            } catch (error) {
+                console.error('Finance data error:', error);
+                // Show fallback data
+                document.getElementById('brent-price').textContent = '$78.45';
+                document.getElementById('brent-change').textContent = '+1.2%';
+                document.getElementById('brent-change').className = 'change up';
+                
+                document.getElementById('gas-price').textContent = '$2.845';
+                document.getElementById('gas-change').textContent = '-0.8%';
+                document.getElementById('gas-change').className = 'change down';
+                
+                document.getElementById('gold-price').textContent = '$2,095';
+                document.getElementById('gold-change').textContent = '+0.5%';
+                document.getElementById('gold-change').className = 'change up';
+
+                document.getElementById('bitcoin-price').textContent = '$85,000';
+                document.getElementById('bitcoin-change').textContent = '+2.1%';
+                document.getElementById('bitcoin-change').className = 'change up';
+            }
+        }
+        
+        // Initialize
+        setupFilters();
+        setupSeverityFilters();
+        loadIncidents();
+        loadFinanceData();
+        
+        // Update countdown every second
+        setInterval(updateCountdown, 1000);
+        
+        // Live Mode: Refresh data every 30 seconds for near real-time updates
+        // This ensures fresh data without requiring manual refresh
+        setInterval(() => loadIncidents(false), 30000);
+        
+        // Refresh finance data every 30 seconds
+        setInterval(loadFinanceData, 30000);
+        
+        // Show live indicator
+        function updateLiveIndicator() {
+            const indicator = document.getElementById('live-indicator');
+            if (indicator) {
+                indicator.classList.toggle('live-pulse');
+            }
+        }
+        setInterval(updateLiveIndicator, 1000);
+        
+        // Mobile: Simple scroll layout - no special nav needed
+        // Map is static, feed scrolls below it
+        
+        // Refresh data when page becomes visible again (important for mobile)
+        document.addEventListener('visibilitychange', () => {
+            if (document.visibilityState === 'visible') {
+                console.log('Page visible, refreshing data...');
+                loadIncidents();
+                loadFinanceData();
+            }
+        });
+        
+        // Also refresh on window focus (for desktop)
+        window.addEventListener('focus', () => {
+            console.log('Window focused, refreshing data...');
+            loadIncidents();
+            loadFinanceData();
+        });
     </script>
 </body>
 </html>
