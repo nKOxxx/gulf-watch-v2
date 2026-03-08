@@ -137,30 +137,139 @@
             color: #e74c3c;
         }
         
-        .military-section {
+        .missile-stats-section {
             margin-top: 24px;
             padding-top: 16px;
             border-top: 1px solid rgba(255, 255, 255, 0.1);
         }
-        
-        .military-item {
-            background: rgba(231, 76, 60, 0.1);
-            border: 1px solid rgba(231, 76, 60, 0.2);
+
+        .missile-stats-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+
+        .missile-stats-header h2 {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #888;
+            margin: 0;
+        }
+
+        .missile-live-indicator {
+            width: 8px;
+            height: 8px;
+            background: #27ae60;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .missile-stats-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+
+        .missile-stat-box {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
             border-radius: 6px;
             padding: 10px;
-            margin-bottom: 8px;
+            text-align: center;
+        }
+
+        .missile-stat-box.detected {
+            border-color: rgba(231, 76, 60, 0.3);
+            background: rgba(231, 76, 60, 0.05);
+        }
+
+        .missile-stat-box.intercepted {
+            border-color: rgba(39, 174, 96, 0.3);
+            background: rgba(39, 174, 96, 0.05);
+        }
+
+        .missile-stat-box.impacted {
+            border-color: rgba(243, 156, 18, 0.3);
+            background: rgba(243, 156, 18, 0.05);
+        }
+
+        .missile-stat-value {
+            font-size: 20px;
+            font-weight: 700;
+            color: #fff;
+            display: block;
+        }
+
+        .missile-stat-box.detected .missile-stat-value {
+            color: #e74c3c;
+        }
+
+        .missile-stat-box.intercepted .missile-stat-value {
+            color: #27ae60;
+        }
+
+        .missile-stat-box.impacted .missile-stat-value {
+            color: #f39c12;
+        }
+
+        .missile-stat-label {
+            font-size: 10px;
+            color: #888;
+            text-transform: uppercase;
+            margin-top: 4px;
+        }
+
+        .missile-breakdown {
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 6px;
+            padding: 10px;
             font-size: 11px;
         }
-        
-        .military-item .time {
-            color: #888;
-            font-size: 10px;
-            margin-bottom: 2px;
+
+        .missile-breakdown-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 6px;
+            color: #aaa;
         }
-        
-        .military-item .alert {
-            color: #e74c3c;
+
+        .missile-breakdown-row:last-child {
+            margin-bottom: 0;
+            padding-top: 6px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            color: #fff;
             font-weight: 600;
+        }
+
+        .missile-source {
+            font-size: 9px;
+            color: #666;
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        .missile-last24h {
+            background: rgba(39, 174, 96, 0.1);
+            border: 1px solid rgba(39, 174, 96, 0.2);
+            border-radius: 6px;
+            padding: 8px;
+            margin-top: 10px;
+            font-size: 10px;
+            text-align: center;
+        }
+
+        .missile-last24h-label {
+            color: #27ae60;
+            font-weight: 600;
+            margin-bottom: 4px;
         }
         
         .sidebar {
@@ -697,13 +806,45 @@
             <div class="change" id="bitcoin-change">--</div>
         </div>
         
-        <div class="military-section">
-            <h2>Live Intelligence</h2>
-            <div id="military-alerts">
-                <div class="military-item">
-                    <div class="time">--</div>
-                    <div class="alert">Loading intelligence...</div>
+        <div class="missile-stats-section">
+            <div class="missile-stats-header">
+                <div class="missile-live-indicator"></div>
+                <h2>UAE Missile Defense</h2>
+            </div>
+            <div id="missile-stats-content">
+                <div class="missile-stats-grid">
+                    <div class="missile-stat-box detected">
+                        <span class="missile-stat-value" id="missile-detected">--</span>
+                        <div class="missile-stat-label">Detected</div>
+                    </div>
+                    <div class="missile-stat-box intercepted">
+                        <span class="missile-stat-value" id="missile-intercepted">--</span>
+                        <div class="missile-stat-label">Intercepted</div>
+                    </div>
                 </div>
+                <div class="missile-stat-box impacted" style="margin-bottom: 10px;">
+                    <span class="missile-stat-value" id="missile-impacted">--</span>
+                    <div class="missile-stat-label">Impacted Territory</div>
+                </div>
+                <div class="missile-breakdown">
+                    <div class="missile-breakdown-row">
+                        <span>Ballistic Missiles</span>
+                        <span id="missile-ballistic">--</span>
+                    </div>
+                    <div class="missile-breakdown-row">
+                        <span>Drones</span>
+                        <span id="missile-drones">--</span>
+                    </div>
+                    <div class="missile-breakdown-row">
+                        <span>Success Rate</span>
+                        <span id="missile-rate">--</span>
+                    </div>
+                </div>
+                <div class="missile-last24h">
+                    <div class="missile-last24h-label">Last 24 Hours</div>
+                    <span id="missile-last24h">-- detected | -- intercepted</span>
+                </div>
+                <div class="missile-source">Source: UAE Ministry of Interior</div>
             </div>
         </div>
     </div>
@@ -1275,6 +1416,58 @@ This report was submitted via Gulf Watch v2`);
             loadIncidents();
             loadFinanceData();
         });
+        
+        // Load UAE Missile Stats from v2-test repo
+        async function loadMissileStats() {
+            try {
+                // Fetch from v2-test repo (public JSON)
+                const response = await fetch('https://nKOxxx.github.io/gulf-watch-v2-test/moi_missile_stats.json', { 
+                    cache: 'no-store',
+                    headers: {
+                        'Accept': 'application/json'
+                    }
+                });
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                const data = await response.json();
+                
+                const totals = data.totals;
+                const last24h = data.last_24h;
+                
+                // Calculate success rate
+                const successRate = totals.total_detected > 0 
+                    ? Math.round((totals.total_intercepted / totals.total_detected) * 100) 
+                    : 0;
+                
+                // Update DOM
+                document.getElementById('missile-detected').textContent = totals.total_detected.toLocaleString();
+                document.getElementById('missile-intercepted').textContent = totals.total_intercepted.toLocaleString();
+                document.getElementById('missile-impacted').textContent = totals.impacted.toLocaleString();
+                document.getElementById('missile-ballistic').textContent = 
+                    `${totals.ballistic_detected} detected / ${totals.ballistic_intercepted} intercepted`;
+                document.getElementById('missile-drones').textContent = 
+                    `${totals.drones_detected} detected / ${totals.drones_intercepted} intercepted`;
+                document.getElementById('missile-rate').textContent = `${successRate}%`;
+                document.getElementById('missile-last24h').textContent = 
+                    `${last24h.detected} detected | ${last24h.intercepted} intercepted`;
+                
+            } catch (error) {
+                console.error('Error loading missile stats:', error);
+                document.getElementById('missile-stats-content').innerHTML = `
+                    <div style="text-align: center; padding: 20px; color: #888; font-size: 11px;">
+                        Unable to load missile defense stats.<br>
+                        <span style="color: #666;">${error.message}</span>
+                    </div>
+                `;
+            }
+        }
+        
+        // Load missile stats on init
+        loadMissileStats();
+        
+        // Refresh missile stats every 30 minutes
+        setInterval(loadMissileStats, 30 * 60 * 1000);
     </script>
 </body>
 </html>
