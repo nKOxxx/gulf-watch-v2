@@ -316,6 +316,76 @@ def fetch_feed(feed_info: Dict) -> List[Dict]:
     
     return incidents
 
+def fetch_newsdata_api():
+    """Fetch from NewsData.io API for additional Gulf coverage.
+    
+    Free tier: 200 requests/day
+    Returns incidents from 12 Middle East countries
+    """
+    import os
+    import urllib.request
+    
+    incidents = []
+    api_key = os.environ.get('NEWSDATA_API_KEY', '')
+    
+    if not api_key:
+        print("⚠️  NEWSDATA_API_KEY not set, skipping NewsData.io")
+        return incidents
+    
+    # Gulf/Middle East countries
+    countries = [
+        ('ae', 'UAE'), ('sa', 'Saudi Arabia'), ('qa', 'Qatar'),
+        ('kw', 'Kuwait'), ('bh', 'Bahrain'), ('om', 'Oman'),
+        ('iq', 'Iraq'), ('jo', 'Jordan'), ('lb', 'Lebanon'),
+        ('eg', 'Egypt'), ('tr', 'Turkey'), ('ir', 'Iran'),
+    ]
+    
+    print("🌐 Fetching from NewsData.io API...")
+    
+    for country_code, country_name in countries:
+        try:
+            url = f"https://newsdata.io/api/1/news?apikey={api_key}&country={country_code}&language=en&category=world"
+            req = urllib.request.Request(url, headers={'User-Agent': 'GulfWatch/2.0'})
+            
+            with urllib.request.urlopen(req, timeout=15) as response:
+                data = json.loads(response.read().decode('utf-8'))
+                
+                if data.get('status') == 'success':
+                    for article in data.get('results', [])[:5]:  # Top 5 per country
+                        title = article.get('title', '')
+                        
+                        if not title or not is_threat_related(title):
+                            continue
+                        
+                        location = extract_location(title)
+                        if not location:
+                            location = {
+                                'name': 'Unknown',
+                                'country': country_name,
+                                'lat': 25.0,
+                                'lng': 45.0
+                            }
+                        
+                        incident = {
+                            'id': hash(title + 'newsdata') % 1000000000,
+                            'title': title[:200],
+                            'source': f"NewsData.io - {article.get('source_id', 'Unknown')}",
+                            'source_url': article.get('link', ''),
+                            'published': article.get('pubDate', datetime.now(timezone.utc).isoformat()),
+                            'type': classify_incident(title),
+                            'status': 'reported',
+                            'location': location,
+                            'credibility': 85,
+                            'is_government': False,
+                        }
+                        incidents.append(incident)
+                        
+        except Exception as e:
+            print(f"   ⚠️  NewsData.io {country_name}: {str(e)[:40]}")
+    
+    print(f"   Found {len(incidents)} incidents from NewsData.io")
+    return incidents
+
 def fetch_all():
     """Fetch all feeds and generate output"""
     print("🔄 Gulf Watch RSS Fetcher")
@@ -325,9 +395,14 @@ def fetch_all():
     
     all_incidents = []
     
+    # Fetch RSS feeds
     for feed in FEEDS:
         incidents = fetch_feed(feed)
         all_incidents.extend(incidents)
+    
+    # Fetch NewsData.io API (won't break if fails)
+    newsdata_incidents = fetch_newsdata_api()
+    all_incidents.extend(newsdata_incidents)
     
     # Sort by published date (newest first)
     all_incidents.sort(key=lambda x: x['published'], reverse=True)

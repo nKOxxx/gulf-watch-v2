@@ -25,6 +25,8 @@ jobs:
       run: pip install feedparser
       
     - name: Fetch RSS feeds
+      env:
+        NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
       run: python scripts/fetch_rss.py
       
     - name: Fetch price data
