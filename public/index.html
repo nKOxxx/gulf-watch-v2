@@ -1420,8 +1420,8 @@ This report was submitted via Gulf Watch v2`);
         // Load UAE Missile Stats from v2-test repo
         async function loadMissileStats() {
             try {
-                // Fetch from v2-test repo (public JSON)
-                const response = await fetch('https://nKOxxx.github.io/gulf-watch-v2-test/moi_missile_stats.json', { 
+                // Fetch from v2-test repo (raw GitHub)
+                const response = await fetch('https://raw.githubusercontent.com/nKOxxx/gulf-watch-v2-test/main/public/moi_missile_stats.json', { 
                     cache: 'no-store',
                     headers: {
                         'Accept': 'application/json'
