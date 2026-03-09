@@ -437,6 +437,39 @@
             border: 1px solid #FFD700;
         }
         
+        .verification-badge {
+            font-size: 9px;
+            padding: 2px 6px;
+            border-radius: 3px;
+            text-transform: uppercase;
+            font-weight: 700;
+            margin-left: 4px;
+        }
+        
+        .verification-badge.verified {
+            background: rgba(46, 204, 113, 0.2);
+            color: #2ecc71;
+            border: 1px solid rgba(46, 204, 113, 0.3);
+        }
+        
+        .verification-badge.likely {
+            background: rgba(52, 152, 219, 0.2);
+            color: #3498db;
+            border: 1px solid rgba(52, 152, 219, 0.3);
+        }
+        
+        .verification-badge.partial {
+            background: rgba(241, 196, 15, 0.2);
+            color: #f1c40f;
+            border: 1px solid rgba(241, 196, 15, 0.3);
+        }
+        
+        .verification-badge.unconfirmed {
+            background: rgba(149, 165, 166, 0.2);
+            color: #95a5a6;
+            border: 1px solid rgba(149, 165, 166, 0.3);
+        }
+        
         .footer {
             margin-top: 30px;
             padding: 20px 0;
@@ -1178,7 +1211,11 @@
                 // Track fetch time
                 lastFetchTime = new Date();
                 
-                const response = await fetch(getFetchUrl('incidents.json'), { cache: 'no-store' });
+                // Fetch verified incidents from v2-test (deduplicated with confidence scores)
+                const response = await fetch('https://raw.githubusercontent.com/nKOxxx/gulf-watch-v2-test/main/public/verified_incidents.json', { 
+                    cache: 'no-store',
+                    headers: { 'Accept': 'application/json' }
+                });
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}`);
                 }
@@ -1203,7 +1240,7 @@
                                (day === 3 || day === 23) ? 'rd' : 'th';
                 const formattedDate = `${month} ${day}${suffix}`;
                 
-                document.getElementById('incident-count').textContent = `${data.total_incidents} since ${formattedDate}`;
+                document.getElementById('incident-count').textContent = `${data.total_verified} verified since ${formattedDate}`;
                 
                 const listEl = document.getElementById('incident-list');
                 listEl.innerHTML = '';
@@ -1244,6 +1281,21 @@
                     card.className = 'incident-card';
                     card.dataset.id = incident.id;
                     card.dataset.country = incident.location.country;
+                    // Verification badge
+                    const verification = incident.verification || {};
+                    const confidence = verification.confidence || 0;
+                    const status = verification.status || 'Unknown';
+                    let verificationBadge = '';
+                    if (confidence >= 90) {
+                        verificationBadge = `<span class="verification-badge verified">✓ Verified (${confidence}%)</span>`;
+                    } else if (confidence >= 70) {
+                        verificationBadge = `<span class="verification-badge likely">◐ Likely True (${confidence}%)</span>`;
+                    } else if (confidence >= 50) {
+                        verificationBadge = `<span class="verification-badge partial">◐ Partial (${confidence}%)</span>`;
+                    } else {
+                        verificationBadge = `<span class="verification-badge unconfirmed">? Unconfirmed (${confidence}%)</span>`;
+                    }
+                    
                     const govBadge = incident.is_government ? '<span class="government-badge">🏛️ Government</span>' : '';
                     
                     // Detect Arabic text
@@ -1267,6 +1319,7 @@ This report was submitted via Gulf Watch v2`);
                         <div class="incident-header">
                             <span class="incident-type type-${incident.type}">${incident.type.replace('_', ' ')}</span>
                             <span class="incident-status status-${incident.status}">${incident.status}</span>
+                            ${verificationBadge}
                             ${govBadge}
                         </div>
                         <a href="${incident.source_url}" target="_blank" class="incident-title" onclick="event.stopPropagation();">${incident.title}</a>
