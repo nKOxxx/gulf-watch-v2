@@ -2,7 +2,7 @@ name: Update RSS Feeds
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
+    - cron: '0 */3 * * *'  # Every 3 hours (8 times/day instead of 24)
   workflow_dispatch:  # Manual trigger
 
 permissions:
@@ -32,7 +32,14 @@ jobs:
     - name: Fetch price data
       run: python scripts/fetch_prices.py
       
+    - name: Check for meaningful changes
+      id: check_changes
+      run: |
+        # Check if incidents actually changed (not just timestamp)
+        git diff --staged public/incidents.json | grep -q '"id":' && echo "changed=true" >> $GITHUB_OUTPUT || echo "changed=false" >> $GITHUB_OUTPUT
+        
     - name: Commit and push changes
+      if: steps.check_changes.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
