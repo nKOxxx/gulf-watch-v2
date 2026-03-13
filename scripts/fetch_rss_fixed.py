@@ -8,13 +8,22 @@ import feedparser
 import json
 import re
 import socket
+import sys
+import os
 from datetime import datetime, timedelta, timezone
 from typing import List, Dict, Optional
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import urllib.request
 
+# Add scripts directory to path for imports
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from coordinate_extractor import CoordinateExtractor
+
 # Set global socket timeout
 socket.setdefaulttimeout(5)
+
+# Initialize coordinate extractor
+coord_extractor = CoordinateExtractor()
 
 # MENA-focused RSS feeds
 FEEDS = [
@@ -215,44 +224,37 @@ def extract_casualties(text: str) -> dict:
 
 
 def extract_location(title: str) -> dict:
-    """Extract location from incident title"""
-    text_lower = title.lower()
+    """Extract location with coordinates from incident title"""
+    # Create mock article for coordinate extractor - location should be string
+    article = {'title': title, 'location': title, 'content': ''}
     
-    # Country mapping
-    country_keywords = {
-        'uae': 'UAE',
-        'united arab emirates': 'UAE',
-        'dubai': 'UAE',
-        'abu dhabi': 'UAE',
-        'saudi': 'Saudi Arabia',
-        'saudi arabia': 'Saudi Arabia',
-        'riyadh': 'Saudi Arabia',
-        'qatar': 'Qatar',
-        'doha': 'Qatar',
-        'kuwait': 'Kuwait',
-        'bahrain': 'Bahrain',
-        'oman': 'Oman',
-        'muscat': 'Oman',
-        'israel': 'Israel',
-        'iran': 'Iran',
-        'tehran': 'Iran',
-        'lebanon': 'Lebanon',
-        'beirut': 'Lebanon',
-        'gaza': 'Palestine',
-        'palestine': 'Palestine',
-        'syria': 'Syria',
-        'damascus': 'Syria',
-        'yemen': 'Yemen',
-        'iraq': 'Iraq',
-        'baghdad': 'Iraq',
-        'jordan': 'Jordan',
+    # Use coordinate extractor to get lat/lng
+    coords = coord_extractor.get_coordinates(article)
+    
+    # Extract country from coordinates result or default
+    country = coords.get('country', 'Unknown')
+    if not country:
+        # Try to extract country from title
+        text_lower = title.lower()
+        country_keywords = {
+            'uae': 'UAE', 'dubai': 'UAE', 'abu dhabi': 'UAE',
+            'saudi': 'Saudi Arabia', 'riyadh': 'Saudi Arabia',
+            'qatar': 'Qatar', 'doha': 'Qatar',
+            'kuwait': 'Kuwait', 'bahrain': 'Bahrain', 'oman': 'Oman', 'muscat': 'Oman',
+            'israel': 'Israel', 'iran': 'Iran', 'lebanon': 'Lebanon', 'beirut': 'Lebanon',
+            'gaza': 'Palestine', 'syria': 'Syria', 'iraq': 'Iraq', 'jordan': 'Jordan',
+        }
+        for keyword, c in country_keywords.items():
+            if keyword in text_lower:
+                country = c
+                break
+    
+    return {
+        'country': country,
+        'city': None,
+        'lat': coords['lat'],
+        'lng': coords['lng']
     }
-    
-    for keyword, country in country_keywords.items():
-        if keyword in text_lower:
-            return {'country': country, 'city': None}
-    
-    return {'country': 'Unknown', 'city': None}
 
 
 def is_security_related(title: str) -> bool:
