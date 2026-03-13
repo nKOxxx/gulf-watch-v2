@@ -186,6 +186,29 @@ KEYWORDS = [
 MILITARY_KEYWORDS = ['soldier', 'military', 'forces', 'army', 'navy', 'air force', 'idf', 'irgc', 'troops']
 CIVILIAN_KEYWORDS = ['civilian', 'woman', 'women', 'child', 'children', 'elderly', 'family', 'resident']
 
+# Incident type classification
+TYPE_KEYWORDS = {
+    'missile': ['missile', 'rocket', 'ballistic', 'projectile', 'munition'],
+    'airstrike': ['airstrike', 'air strike', 'bombing', 'air raid', 'air attack'],
+    'explosion': ['explosion', 'explosive', 'blast', 'bombed', 'bomb'],
+    'drone': ['drone', 'uav', 'unmanned aerial', 'quadcopter'],
+    'naval': ['naval', 'ship', 'vessel', 'navy', 'maritime', 'boat', 'submarine'],
+    'cyber': ['cyber', 'hacking', 'cyberattack', 'malware', 'ransomware'],
+    'ground': ['ground operation', 'infantry', 'tank', 'armor', 'artillery'],
+    'raid': ['raid', 'arrest', 'detention', 'apprehension'],
+}
+
+
+def classify_incident_type(title: str) -> str:
+    """Classify incident type based on title keywords"""
+    text_lower = title.lower()
+    
+    for incident_type, keywords in TYPE_KEYWORDS.items():
+        if any(kw in text_lower for kw in keywords):
+            return incident_type
+    
+    return 'incident'
+
 
 def extract_casualties(text: str) -> dict:
     """Extract casualty counts from incident title"""
@@ -322,14 +345,20 @@ def fetch_single_feed(feed_config: dict) -> List[dict]:
             if location['country'] == 'Unknown':
                 location['country'] = country
             
+            # Classify incident type
+            incident_type = classify_incident_type(title)
+            
+            # Determine status (confirmed for government sources)
+            status = 'confirmed' if is_gov else 'unconfirmed'
+            
             incident = {
                 'id': entry.get('id', entry.get('link', '')) or f"{name}-{hash(title)}",
                 'title': title,
                 'source': name,
                 'source_url': entry.get('link', ''),
                 'published': published.isoformat(),
-                'type': 'incident',
-                'status': 'active',
+                'type': incident_type,
+                'status': status,
                 'location': location,
                 'credibility': credibility,
                 'is_government': is_gov,
