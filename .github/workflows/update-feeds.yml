@@ -28,19 +28,12 @@ jobs:
       env:
         NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
       timeout-minutes: 5
-      run: python scripts/fetch_rss_v3.py || echo "RSS fetch timeout or error"
+      run: python scripts/fetch_rss_fixed.py
       
     - name: Fetch price data
       run: python scripts/fetch_prices.py
       
-    - name: Check for meaningful changes
-      id: check_changes
-      run: |
-        # Check if incidents actually changed (not just timestamp)
-        git diff --staged public/incidents.json | grep -q '"id":' && echo "changed=true" >> $GITHUB_OUTPUT || echo "changed=false" >> $GITHUB_OUTPUT
-        
     - name: Commit and push changes
-      if: steps.check_changes.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
