@@ -100,6 +100,45 @@ FEEDS = [
     {"name": "Israel Ministry of Defense", "url": "https://nitter.net/Israel_MOD/rss", "country": "Israel", "credibility": 95, "is_government": True},
     {"name": "Magen David Adom", "url": "https://nitter.net/Mdais/rss", "country": "Israel", "credibility": 95, "is_government": True},
     {"name": "COGAT", "url": "https://nitter.net/cogatonline/rss", "country": "Israel", "credibility": 95, "is_government": True},
+    
+    # RSS.app Twitter/X Feeds (UAE)
+    {"name": "UAE MOI (RSS.app)", "url": "https://rss.app/feeds/oPyw4FJ41usBjG0c.xml", "country": "UAE", "credibility": 100, "is_government": True},
+    {"name": "UAE MOD (RSS.app)", "url": "https://rss.app/feeds/5DzID481Msg3w5Go.xml", "country": "UAE", "credibility": 100, "is_government": True},
+    {"name": "UAE NCEMA (RSS.app)", "url": "https://rss.app/feeds/t0JvfszuALDyg4uh.xml", "country": "UAE", "credibility": 100, "is_government": True},
+    {"name": "UAE National Guard (RSS.app)", "url": "https://rss.app/feeds/oqxMcPt6uwJ10D0K.xml", "country": "UAE", "credibility": 100, "is_government": True},
+    {"name": "UAE Media Office (RSS.app)", "url": "https://rss.app/feeds/DKefnWqLQ6ipghtp.xml", "country": "UAE", "credibility": 100, "is_government": True},
+    {"name": "WAM News (RSS.app)", "url": "https://rss.app/feeds/yWxDexVK5P5WlnV9.xml", "country": "UAE", "credibility": 95, "is_government": True},
+    {"name": "Dubai Media Office (RSS.app)", "url": "https://rss.app/feeds/OTlOJkkZ297qnQNn.xml", "country": "UAE", "credibility": 95, "is_government": True},
+    {"name": "Abu Dhabi Civil Defence (RSS.app)", "url": "https://rss.app/feeds/Da5ZvV4gQsJYMJja.xml", "country": "UAE", "credibility": 100, "is_government": True},
+    
+    # RSS.app Saudi Arabia
+    {"name": "Saudi MOI (RSS.app)", "url": "https://rss.app/feeds/8Qxm8tjO1nBYaMhl.xml", "country": "Saudi Arabia", "credibility": 100, "is_government": True},
+    {"name": "Saudi Civil Defense (RSS.app)", "url": "https://rss.app/feeds/53nS4uUWlgrreFsJ.xml", "country": "Saudi Arabia", "credibility": 100, "is_government": True},
+    
+    # RSS.app Qatar
+    {"name": "Qatar MOI EN (RSS.app)", "url": "https://rss.app/feeds/RyXjTtNHU7MscSDx.xml", "country": "Qatar", "credibility": 100, "is_government": True},
+    {"name": "Qatar Civil Defence (RSS.app)", "url": "https://rss.app/feeds/Gv74vCuEmr7jMI8S.xml", "country": "Qatar", "credibility": 100, "is_government": True},
+    {"name": "Qatar MOD (RSS.app)", "url": "https://rss.app/feeds/J9LSu9US4gNAoWuG.xml", "country": "Qatar", "credibility": 100, "is_government": True},
+    {"name": "Qatar News Agency (RSS.app)", "url": "https://rss.app/feeds/MbUvCNXci4r8R6tT.xml", "country": "Qatar", "credibility": 95, "is_government": True},
+    
+    # RSS.app Bahrain
+    {"name": "Bahrain MOI (RSS.app)", "url": "https://rss.app/feeds/RGESjvd3KiLouQ1Q.xml", "country": "Bahrain", "credibility": 100, "is_government": True},
+    
+    # RSS.app Kuwait
+    {"name": "Kuwait Fire Force (RSS.app)", "url": "https://rss.app/feeds/WzsZIKALXFycSVCA.xml", "country": "Kuwait", "credibility": 100, "is_government": True},
+    {"name": "KUNA Kuwait (RSS.app)", "url": "https://rss.app/feeds/pMqH90ylFHYmpPF2.xml", "country": "Kuwait", "credibility": 95, "is_government": True},
+    
+    # RSS.app Oman
+    {"name": "Royal Oman Police (RSS.app)", "url": "https://rss.app/feeds/YHfnfinoL5JV1J7T.xml", "country": "Oman", "credibility": 100, "is_government": True},
+    
+    # RSS.app Israel
+    {"name": "IDF (RSS.app)", "url": "https://rss.app/feeds/oPyw4FJ41usBjG0c.xml", "country": "Israel", "credibility": 95, "is_government": True},
+    {"name": "Israel MOD (RSS.app)", "url": "https://rss.app/feeds/ONFaZNztIulPvZDc.xml", "country": "Israel", "credibility": 95, "is_government": True},
+    {"name": "Magen David Adom (RSS.app)", "url": "https://rss.app/feeds/ySovRTttsScjix9r.xml", "country": "Israel", "credibility": 95, "is_government": True},
+    
+    # RSS.app Iran
+    {"name": "Mehr News (RSS.app)", "url": "https://rss.app/feeds/iBfZthMj9m7d99uN.xml", "country": "Iran", "credibility": 70, "is_government": False},
+    {"name": "Fars News (RSS.app)", "url": "https://rss.app/feeds/9X7fSoVOaiZHtOr6.xml", "country": "Iran", "credibility": 65, "is_government": False},
 ]
 
 # Security/threat keywords
