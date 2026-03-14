@@ -29,13 +29,21 @@ def generate_missile_stats():
     last_24h_detected = 0
     last_24h_intercepted = 0
     
-    for incident in incidents:
+    # Filter to official government sources only
+    official_incidents = [i for i in incidents if i.get('is_government', False)]
+    
+    print(f"Total incidents: {len(incidents)}")
+    print(f"Official (government) incidents: {len(official_incidents)}")
+    
+    for incident in official_incidents:
         title = incident.get('title', '').lower()
         published = datetime.fromisoformat(incident['published'])
         is_recent = published >= last_24h
         
-        # Check if missile/rocket related
-        if 'missile' in title or 'rocket' in title or 'ballistic' in title:
+        # Check if missile/rocket related (expanded keywords)
+        missile_keywords = ['missile', 'rocket', 'ballistic', 'projectile', 'air strike', 'airstrike', 
+                           'incoming', 'hostile aircraft', 'bombardment', 'launched']
+        if any(kw in title for kw in missile_keywords):
             total_detected += 1
             if is_recent:
                 last_24h_detected += 1
