@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-03-15T12:43:38.118210+00:00",
-  "total_incidents": 182,
+  "generated_at": "2026-03-15T13:44:09.619541+00:00",
+  "total_incidents": 186,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/15/israeli-police-kill-two-young-palestinian-boys-and-their-parents-in-west-bank",
+      "title": "Israeli police kill two young Palestinian boys and their parents in West Bank",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/15/israeli-police-kill-two-young-palestinian-boys-and-their-parents-in-west-bank",
+      "published": "2026-03-15T13:28:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
       "title": "Middle East crisis live: Israel says it has launched \u2018extensive strikes\u2019 on Iran as Trump says US \u2018not ready\u2019 to make a deal to end war",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
-      "published": "2026-03-15T12:28:16+00:00",
+      "published": "2026-03-15T13:26:56+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +40,512 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3778348",
+      "title": "Coalition advancing controversial legislation amid war with Iran",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/coalition-advancing-controversial-legislation-amid-war-with-iran/",
+      "published": "2026-03-15T13:25:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3778316",
+      "title": "Iran said to arrest 20 people for allegedly cooperating with Israel",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/iran-said-to-arrest-20-people-for-allegedly-cooperating-with-israel/",
+      "published": "2026-03-15T13:24:40+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033172444178166212",
+      "title": "MoFA, in coordination with NCEMA, continues to implement evacuation plans, facilitate return of around 500 UAE Golden Visa holders and residents stranded abroad\n\n#WamNews \n\nhttps://www.wam.ae/a/bz7sruc",
+      "source": "WAM English",
+      "source_url": "https://nitter.net/WAMNEWS_ENG/status/2033172444178166212#m",
+      "published": "2026-03-15T13:24:19+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "85a716c73c0e61f8a704ad4fd417fd67",
+      "title": "UAE Air defenses intercept 4 Iranian ballistic missiles & 6 drones  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2033171718236242103",
+      "published": "2026-03-15T13:21:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033169392230441439",
+      "title": "\u2757\ufe0fINTELLIGENCE REVEALS: BROTHER OF TERRORIST BEHIND U.S. SYNAGOGUE ATTACK WAS A HEZBOLLAH TERRORIST\n\nHezbollah commander Ibrahim Muhammad Ghazali was responsible for managing weapons operations within a specialized branch of the Badr Unit. The unit is responsible for launching hundreds of rockets toward Israeli civilians throughout the war. \n\nHis brother, Ayman Muhammad Ghazali, carried out the terror attack in Michigan this past Thursday. Ibrahim was eliminated in an IAF strike on a Hezbollah military structure last week.",
+      "source": "Israel Defense Forces",
+      "source_url": "https://nitter.net/IDF/status/2033169392230441439#m",
+      "published": "2026-03-15T13:12:12+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 31.9454,
+        "lng": 35.9284
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1773572799",
+      "title": "Keisuke Honda loses US advertising deal over Iran support at World Cup",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss",
+      "published": "2026-03-15T13:06:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1773569864",
+      "title": "France offers to broker Lebanon-Israel talks: What do we know?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/15/france-offers-to-broker-lebanon-israel-talks-what-do-we-know?traffic_source=rss",
+      "published": "2026-03-15T13:00:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies",
+      "title": "These aren\u2019t AI firms, they\u2019re defense contractors. We can\u2019t let them hide behind their models",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies",
+      "published": "2026-03-15T13:00:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.moroccoworldnews.com/?p=282712",
+      "title": "France Law Threatens Up to 50,000 Call Center Jobs in Morocco",
+      "source": "Morocco World News",
+      "source_url": "https://www.moroccoworldnews.com/2026/03/282712/france-law-threatens-up-to-50000-call-center-jobs-in-morocco/",
+      "published": "2026-03-15T12:59:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3778375",
+      "title": "French mayoral elections test support for far right ahead of presidential vote",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/french-mayoral-elections-test-support-for-far-right-ahead-of-presidential-vote/",
+      "published": "2026-03-15T12:57:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3778357",
+      "title": "As Iran\u2019s other proxy groups join war, Houthi rebels in Yemen hold back, for now",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/as-irans-other-proxy-groups-join-war-houthi-rebels-in-yemen-hold-back-for-now/",
+      "published": "2026-03-15T12:57:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033165391648919929",
+      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Interior",
+      "source_url": "https://nitter.net/modgovae/status/2033165391648919929#m",
+      "published": "2026-03-15T12:56:18+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033165391648919929",
+      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Defence",
+      "source_url": "https://nitter.net/modgovae/status/2033165391648919929#m",
+      "published": "2026-03-15T12:56:18+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6ee3fb99d7d154c3346a2a09c7567360",
+      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629#MOD#UAEMinistryOfDefence pic.",
+      "source": "UAE MOD (RSS.app)",
+      "source_url": "https://x.com/modgovae/status/2033165391648919929",
+      "published": "2026-03-15T12:56:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6ee3fb99d7d154c3346a2a09c7567360",
+      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629#MOD#UAEMinistryOfDefence pic.",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/modgovae/status/2033165391648919929",
+      "published": "2026-03-15T12:56:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6ee3fb99d7d154c3346a2a09c7567360",
+      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629#MOD#UAEMinistryOfDefence pic.",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/modgovae/status/2033165391648919929",
+      "published": "2026-03-15T12:56:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3904bd961f5b86be6d67707a76de19a5",
+      "title": "#Kuwait's Foreign Minister receives #Chinese Special Envoy for the Middle East, to discuss the rising military escalation in the region & review bilateral ties  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2033165300296720733",
+      "published": "2026-03-15T12:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033164413209923980",
+      "title": "R to @mofauae: As part of ongoing efforts to ensure the safety and wellbeing of all who live in the UAE, at all times and wherever they may be\u2026 MoFA, in coordination with NCEMA, continues to implement evacuation plans and facilitate the return of around 500 UAE Golden Visa holders and residents stranded abroad.\n\nhttps://www.mofa.gov.ae/en/mediahub/news/2026/3/15/uae-mofa",
+      "source": "UAE Ministry of Foreign Affairs",
+      "source_url": "https://nitter.net/mofauae/status/2033164413209923980#m",
+      "published": "2026-03-15T12:52:25+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a6ee27543914ac5f0a12515cb3fcc660",
+      "title": "#Kuwait's Foreign Minister receives a phone call from #Egypt's Foreign Minister, discussing the rising military escalation in the region & its serious repercussions  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2033164351272526207",
+      "published": "2026-03-15T12:52:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/03/15/el-sisi-defends-governments-handling-of-egypts-economy-after-oil-price-hike/",
+      "title": "El Sisi defends government's handling of Egypt's economy after oil price hike",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/03/15/el-sisi-defends-governments-handling-of-egypts-economy-after-oil-price-hike/",
+      "published": "2026-03-15T12:49:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/15/us-israel-iran-war-donald-trump-ceasefire-deal-new-attacks",
+      "title": "US not ready to seek deal to end war with Iran, Donald Trump says",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/15/us-israel-iran-war-donald-trump-ceasefire-deal-new-attacks",
+      "published": "2026-03-15T12:43:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033160891978686915",
+      "title": "UAE air defences engage 4 ballistic missiles, 6 UAVs\n\nUAE air defence systems engaged 4 ballistic missiles and 6  UAVs on 15th March 2026 coming from Iran.\n\nSince the start of the blatant Iranian attacks, UAE air defences have engaged 298 ballistic missiles, 15 cruise missiles and 1,606 UAVs.\n\nThese attacks resulted in the death of 6 people of Emirati, Pakistani, Nepali and Bangladeshi nationalities, and 142 minor to moderate injuries among individuals of Emirati, Egyptian, Sudanese, Ethiopian, Filipino, Pakistani, Iranian, Indian, Bangladeshi, Sri Lankan, Azerbaijani, Yemeni, Ugandan, Eritrean, Lebanese, Afghan, Bahraini, Comorian, Turkish, Iraqi, Nepali, Nigerian, Omani, Jordanian, Palestinian, Ghanaian, Indonesian and Swedish nationalities.\n\nThe Ministry of Defence affirmed that it remains fully prepared and ready to deal with any threats and will firmly confront anything that aims to undermine the security of the country, in a manner that ensures the protection of its sovereignty, security and stability and safeguards its interests and national capabilities.\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Defence",
+      "source_url": "https://nitter.net/modgovae/status/2033160891978686915#m",
+      "published": "2026-03-15T12:38:25+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d3d733358e91b835190845725177c43c",
+      "title": "UAE air defences engage 4 ballistic missiles, 6 UAVs UAE air defence systems engaged 4 ballistic missiles and 6 UAVs on 15th March 2026 coming from Iran. Since the start of the blatant Iranian attacks, UAE air defences have engaged 298 ballistic missiles, 15 cruise missiles\u2026 pic.",
+      "source": "UAE MOD (RSS.app)",
+      "source_url": "https://x.com/modgovae/status/2033160891978686915",
+      "published": "2026-03-15T12:38:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -158,7 +686,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3778321&preview=true&preview_id=3778321",
-      "title": "Daily Briefing March 15 \u2014 ToI reporter on life under Hezbollah\u2019s rain of missiles",
+      "title": "Daily Briefing March 15 \u2014 ToI reporter on life under Hezbollah\u2019s rain of rockets",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/daily-briefing-march-15-toi-reporter-on-life-under-hezbollahs-rain-of-missiles/",
       "published": "2026-03-15T12:02:25+00:00",
@@ -334,7 +862,7 @@
     },
     {
       "id": "https://www.theguardian.com/business/2026/mar/15/labour-cushion-poorest-iran-war-economic-fallout-trumpflation",
-      "title": "Labour has weapons in its arsenal to cushion the poorest from Iran war economic fallout | Heather Stewart",
+      "title": "Relief for some of Britain\u2019s poorest lands at right moment to cushion Iran aftershocks | Heather Stewart",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/business/2026/mar/15/labour-cushion-poorest-iran-war-economic-fallout-trumpflation",
       "published": "2026-03-15T11:38:21+00:00",
@@ -466,17 +994,17 @@
     },
     {
       "id": "https://www.thenationalnews.com/business/energy/2026/03/15/did-the-us-account-for-strait-of-hormuz-closure-in-its-iran-war-plan/",
-      "title": "Did the US account for Strait of Hormuz closure in its Iran war plan?",
+      "title": "US response to the Strait of Hormuz closure is becoming a farce",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/business/energy/2026/03/15/did-the-us-account-for-strait-of-hormuz-closure-in-its-iran-war-plan/",
       "published": "2026-03-15T10:49:46+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": null,
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 26.5,
+        "lng": 56.5
       },
       "credibility": 85,
       "is_government": false,
@@ -641,28 +1169,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1773569819",
-      "title": "Thousands in Paris protest military actions in Iran, Lebanon and Palestine",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/thousands-in-paris-protest-military-actions-in-iran-lebanon-and-palestine?traffic_source=rss",
-      "published": "2026-03-15T10:21:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/travel/2026/03/15/iran-war-middle-east-flight-status/",
       "title": "Gulf Air reroutes flights through Saudi Arabia as Bahrain airspace remains closed \u2013 Middle East flight updates",
       "source": "The National UAE",
@@ -677,28 +1183,6 @@
         "lng": 45.0792
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1773561204",
-      "title": "Trump says US may hit Iran\u2019s Kharg Island again \u2018just for fun\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/15/trump-says-us-may-hit-irans-kharg-island-again-just-for-fun?traffic_source=rss",
-      "published": "2026-03-15T09:47:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -722,50 +1206,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "20cec1eb653a2862359c542b83e5ceb1",
-      "title": "#Kuwait's Minister of Defense visits wounded personnel at Jaber Al-Ahmad Armed Forces Hospital. @KuwaitArmyGHQ  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2033111712992235758",
-      "published": "2026-03-15T09:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3cb943eb690ea20804bb8b70d596a70c",
-      "title": "#Iran's Foreign Minister Aragchi: Tehran \"welcomes any initiative by the region that will lead to a fair end to the war.\" Fars News Agency reports Aragchi stating the \"Strait of Hormuz will be open for all except the ships of the #US & its allies.\"  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2033109936217932012",
-      "published": "2026-03-15T09:15:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -851,28 +1291,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "723e9fca267ee6ec6dd1dc9d23d8fc25",
-      "title": "Oil prices hit highest level since July 2022 amid growing concerns that ongoing geopolitical tensions in the Middle East could damage oil infrastructure & disrupt global energy supplies, particularly if the Strait of Hormuz is closed.  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2033107453282263497",
-      "published": "2026-03-15T09:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -1191,50 +1609,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3776387",
-      "title": "After years of hesitation, more Druze of the Golan Heights seek Israeli citizenship",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/after-years-of-hesitation-more-druze-of-the-golan-heights-seek-israeli-citizenship/",
-      "published": "2026-03-15T06:03:42+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3778181",
-      "title": "US urges citizens to leave Iraq after attack on embassy in Baghdad",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/us-urges-citizens-to-leave-iraq-after-attack-on-embassy-in-baghdad/",
-      "published": "2026-03-15T04:18:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.3152,
-        "lng": 44.3661
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2033024976899682349",
       "title": "RT by @moiuae: \u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u0627\u0639\u062a\u0631\u0627\u0636 \u0643\u0644 \u0645\u0646 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u0627\u062a \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629.\n\nUAE air defences are currently responding to incoming missile and drone threats from Iran\n\nMOD asserts that the sounds heard are the result of the Air Defence Systems intercepting missiles and drones.\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
       "source": "UAE Ministry of Interior",
@@ -1390,28 +1764,6 @@
     },
     {
       "id": "ae18d6d58d54773330d5a60aa3f0733e",
-      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/NCEMAUAE/status/2033023743799492718",
-      "published": "2026-03-15T03:33:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ae18d6d58d54773330d5a60aa3f0733e",
       "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
       "source": "UAE NCEMA (RSS.app)",
       "source_url": "https://x.com/NCEMAUAE/status/2033023743799492718",
@@ -1423,6 +1775,28 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ae18d6d58d54773330d5a60aa3f0733e",
+      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/NCEMAUAE/status/2033023743799492718",
+      "published": "2026-03-15T03:33:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
       },
       "credibility": 100,
       "is_government": true,
@@ -1470,50 +1844,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3778146",
-      "title": "Three more members of Iran\u2019s national soccer team leave asylum in Australia",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/three-more-members-of-irans-national-soccer-team-leave-asylum-in-australia/",
-      "published": "2026-03-15T02:44:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3778141",
-      "title": "Trump threatens further strikes on Iran\u2019s key oil export hub as war enters third week",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/trump-threatens-further-strikes-on-irans-key-oil-export-hub-as-war-enters-third-week/",
-      "published": "2026-03-15T02:32:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1631,28 +1961,6 @@
       }
     },
     {
-      "id": "2032929863259267510",
-      "title": "RT by @CivilDefenceAD: Abu Dhabi authorities responded on Tuesday to an incident at a facility in the Ruwais Industrial Complex following a drone strike. Relevant teams have since contained and brought the resulting fire under control, with cooling operations currently underway. No injuries were reported.\n\nThe public is reminded to obtain information from official sources only and to avoid spreading rumours or unverified information.",
-      "source": "Abu Dhabi Civil Defence",
-      "source_url": "https://nitter.net/ADMediaOffice/status/2032929863259267510#m",
-      "published": "2026-03-14T21:20:24+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "57d6b70fe48872fa42b7eda3862fb954",
       "title": "RT by @CivilDefenceAD: Abu Dhabi authorities responded on Tuesday to an incident at a facility in the Ruwais Industrial Complex following a drone strike. Relevant teams have since contained and brought the resulting fire under control, with cooling operations currently underway. No injuries were\u2026",
       "source": "Abu Dhabi Civil Defence (RSS.app)",
@@ -1753,28 +2061,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.moroccoworldnews.com/?p=282680",
-      "title": "Trump Questions Iran\u2019s World Cup Participation Over \u2018Life and Safety\u2019 Concerns",
-      "source": "Morocco World News",
-      "source_url": "https://www.moroccoworldnews.com/2026/03/282680/trump-questions-irans-world-cup-participation-over-life-and-safety-concerns/",
-      "published": "2026-03-14T20:04:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 70,
       "is_government": false,
@@ -1900,28 +2186,6 @@
       "source": "Bahrain Ministry of Interior",
       "source_url": "https://nitter.net/moi_bahrain/status/2032902890801799501#m",
       "published": "2026-03-14T19:33:13+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2032900056161132960",
-      "title": "HM King, Supreme Commander of the Armed Forces, thanked by Interior Minister for visit to ministry\n\nhttps://www.policemc.gov.bh/en/news/77147/",
-      "source": "Bahrain Ministry of Interior",
-      "source_url": "https://nitter.net/moi_bahrain/status/2032900056161132960#m",
-      "published": "2026-03-14T19:21:57+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -2203,28 +2467,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/mar/14/lebanon-israeli-rockets-kill-healthcare-workers",
-      "title": "Israeli strike kills 12 healthcare workers in southern Lebanon",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/mar/14/lebanon-israeli-rockets-kill-healthcare-workers",
-      "published": "2026-03-14T15:34:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2032835137780490249",
       "title": "Adhering to safety and security measures in markets and shopping malls helps ensure the safety of everyone.\n#MOIQatar",
       "source": "Qatar Ministry of Interior EN",
@@ -2237,50 +2479,6 @@
         "city": null,
         "lat": 25.3548,
         "lng": 51.1839
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2032834581741842551",
-      "title": "RT by @CivilDefenceAD: Read more: https://www.mediaoffice.abudhabi/en/security/emergencies-crises-and-disasters-management-centre-abu-dhabi-strengthens-community-preparedness-through-2nd-phase-of-our-community-is-prepared-campaign-in-collaboration-with-strategic-partners/",
-      "source": "Abu Dhabi Civil Defence",
-      "source_url": "https://nitter.net/ADMediaOffice/status/2032834581741842551#m",
-      "published": "2026-03-14T15:01:47+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2032834467321229763",
-      "title": "RT by @CivilDefenceAD: .@Adcmc_ae continues to enhance Abu Dhabi's comprehensive response ecosystem through the second phase of the Our Community is Prepared campaign in collaboration with strategic partners, raising community awareness of emergency procedures and supporting public safety.",
-      "source": "Abu Dhabi Civil Defence",
-      "source_url": "https://nitter.net/ADMediaOffice/status/2032834467321229763#m",
-      "published": "2026-03-14T15:01:19+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
       },
       "credibility": 100,
       "is_government": true,
@@ -2306,50 +2504,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2032834234709361077",
-      "title": "RT by @CivilDefenceAD: \u0644\u0642\u0631\u0627\u0621\u0629 \u0627\u0644\u0645\u0632\u064a\u062f: https://www.mediaoffice.abudhabi/ar/security/emergencies-crises-and-disasters-management-centre-abu-dhabi-strengthens-community-preparedness-through-2nd-phase-of-our-community-is-prepared-campaign-in-collaboration-with-strategic-partners/",
-      "source": "Abu Dhabi Civil Defence",
-      "source_url": "https://nitter.net/ADMediaOffice/status/2032834234709361077#m",
-      "published": "2026-03-14T15:00:24+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/mar/14/gulf-strait-of-hormuz-nightmare-anger-frustration-at-us",
-      "title": "\u2018Worst nightmare\u2019: anger and frustration as Gulf states bear brunt of war they did not start",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/mar/14/gulf-strait-of-hormuz-nightmare-anger-frustration-at-us",
-      "published": "2026-03-14T14:27:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2489,28 +2643,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/uk-news/2026/mar/14/police-warning-protesters-al-quds-day-rally-london-palestine",
-      "title": "Police issue warning to protesters before al-Quds Day rally in London",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/uk-news/2026/mar/14/police-warning-protesters-al-quds-day-rally-london-palestine",
-      "published": "2026-03-14T12:35:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2032792176808309060",
       "title": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u062a\u062f\u064a\u0646 \u0628\u0623\u0634\u062f \u0627\u0644\u0639\u0628\u0627\u0631\u0627\u062a \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0627\u0644\u0642\u0646\u0635\u0644\u064a\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0641\u064a \u0643\u0631\u062f\u0633\u062a\u0627\u0646 \u0627\u0644\u0639\u0631\u0627\u0642\n\nhttps://www.mofa.gov.ae/ar-ae/MediaHub/News/2026/3/14/UAE-Iraq",
       "source": "UAE Ministry of Foreign Affairs",
@@ -2560,28 +2692,6 @@
       "source": "WAM News (RSS.app)",
       "source_url": "https://www.instagram.com/p/DV3Qu80CBTQ",
       "published": "2026-03-14T11:38:25+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2032782964787191956",
-      "title": "UAE air defences intercept 9 ballistic missiles, 33 drones\n\n#WamNews \n\nhttps://www.wam.ae/a/bz77c5k",
-      "source": "WAM English",
-      "source_url": "https://nitter.net/WAMNEWS_ENG/status/2032782964787191956#m",
-      "published": "2026-03-14T11:36:40+00:00",
       "type": "missile",
       "status": "confirmed",
       "location": {
@@ -2919,28 +3029,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2032535349004497143",
-      "title": "RT by @mofauae: 1/7 The UAE Ambassador to the UK, @MansoorAbulhoul, spoke with BBC regional radio stations across the UK to update listeners on the steps the UAE is taking to keep residents and visitors safe amid Iran\u2019s unprovoked aggression.\n\nA few key moments from those conversations \ud83d\udc47",
-      "source": "UAE Ministry of Foreign Affairs",
-      "source_url": "https://nitter.net/UAEEmbassyUK/status/2032535349004497143#m",
-      "published": "2026-03-13T19:12:44+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 100,
       "is_government": true,
@@ -3523,6 +3611,28 @@
       }
     },
     {
+      "id": "2032433212157263920",
+      "title": "R to @UAEmediaoffice: His Highness Sheikh Theyab bin Mohamed bin Zayed Al Nahyan, Deputy Chairman of the Presidential Court for Development and Fallen Heroes' Affairs and Chairman of the Emirates Council for Balanced Development, has approved the National Strategy for Entrepreneurship and Small and Medium Enterprises in the Emirates Villages, together with the Investment Attraction Strategy. Both strategies aim to advance sustainable economic development in rural areas and foster a business environment that supports growth and innovation.",
+      "source": "UAE Government Media Office",
+      "source_url": "https://nitter.net/UAEmediaoffice/status/2032433212157263920#m",
+      "published": "2026-03-13T12:26:53+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.defensenews.com/global/europe/2026/03/13/polish-president-rejects-50-billion-in-european-military-loans/",
       "title": "Polish president rejects $50 billion in European military loans",
       "source": "Defense News",
@@ -3955,28 +4065,6 @@
         "lng": 54.0924
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2032158815194345910",
-      "title": "\u2b55\ufe0f IDF troops continue to maintain a forward defensive posture to protect the residents of northern Israel.\n\nOver the past week, our troops conducted targeted night operations in southern Lebanon, dismantling Hezbollah terrorist infrastructure.",
-      "source": "Israel Defense Forces",
-      "source_url": "https://nitter.net/IDF/status/2032158815194345910#m",
-      "published": "2026-03-12T18:16:31+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
