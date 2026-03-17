@@ -1,14 +1,520 @@
 {
-  "generated_at": "2026-03-17T17:56:03.951661+00:00",
-  "total_incidents": 172,
+  "generated_at": "2026-03-17T18:59:05.023258+00:00",
+  "total_incidents": 176,
   "incidents": [
+    {
+      "id": "4f739f3f7319113728e9b0d287317c57",
+      "title": "#US President Donald #Trump says that the three-week military operation against #Iran will come to an end in the near future  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2033979100017136084",
+      "published": "2026-03-17T18:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
       "title": "Trump threatens political retribution for lawmakers who vote against voter ID bill \u2013 US politics live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
-      "published": "2026-03-17T17:49:43+00:00",
+      "published": "2026-03-17T18:45:13+00:00",
       "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033977933488955667",
+      "title": "MDA Spokesperson: Following the Red Alert sirens in northern Israel: \n\nAt this time no reports of casualties have been received. \n\nMDA teams have been dispatched to search reported sites. Updates as required. \n\nUpdates as required",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2033977933488955667#m",
+      "published": "2026-03-17T18:45:03+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "126c92ecf64bea93dd20a65c429c42cf",
+      "title": "The #Saudi Ministry of Defense announces the interception and destruction of seven drones in the Eastern Region  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2033978169347162402",
+      "published": "2026-03-17T18:45:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "85c14e89fbf5a16500e6a123ace5c646",
+      "title": "#Kuwait Ambassador to #Lebanon Mohammad Al-Sharji presents his credentials to Lebanese Minister of Foreign Affairs and Emigrants Youssef Raggi @MOFAKuwait  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2033977830657110526",
+      "published": "2026-03-17T18:44:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says",
+      "title": "Pivotal Iranian leader Ali Larijani killed in airstrike, Israel says",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says",
+      "published": "2026-03-17T18:39:45+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033975824572158399",
+      "title": "Urgent medical aid to Gaza under 'Operation Chivalrous Knight 3' following directives of Sheikha Moza bint Suhail Al Khaili\n\n#WamNews \n\nhttps://www.wam.ae/a/bz8znjk",
+      "source": "WAM English",
+      "source_url": "https://nitter.net/WAMNEWS_ENG/status/2033975824572158399#m",
+      "published": "2026-03-17T18:36:40+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=79214",
+      "title": "UK defense official: Boeing has been \u2018troubled partner\u2019 in much delayed E-7 program",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/03/uk-defense-official-boeing-has-been-troubled-partner-in-much-delayed-e-7-program/",
+      "published": "2026-03-17T18:33:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033974374819066047",
+      "title": "Alert: The danger has passed from Al-Kharj governorate. Keep following #CivilDefense instructions. Avoid gathering or filming, stay away from dangerous areas, and report any danger by calling (911) .",
+      "source": "Saudi Civil Defense",
+      "source_url": "https://nitter.net/SaudiDCD/status/2033974374819066047#m",
+      "published": "2026-03-17T18:30:55+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/03/17/uae-could-play-role-in-ensuring-security-in-strait-of-hormuz-says-gargash/",
+      "title": "UAE could play role in ensuring security in Strait of Hormuz, says Gargash",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/03/17/uae-could-play-role-in-ensuring-security-in-strait-of-hormuz-says-gargash/",
+      "published": "2026-03-17T18:30:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3761d898dd4b3a06c71b6921a49c90d6",
+      "title": "Alert: The danger has passed from Al-Kharj governorate. Keep following #CivilDefense instructions. Avoid gathering or filming, stay away from dangerous areas, and report any danger by calling (911) .",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2033974374819066047",
+      "published": "2026-03-17T18:30:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=79219",
+      "title": "New Space Force acquisition portfolios include space control, orbital warfare",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/03/new-space-force-acquisition-portfolios-include-space-control-orbital-warfare/",
+      "published": "2026-03-17T18:26:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033971879002738938",
+      "title": "A warning has been issued by the National Early Warning Platform in Al-Kharj Governorate to warn of a danger, follow the instructions below :",
+      "source": "Saudi Civil Defense",
+      "source_url": "https://nitter.net/SaudiDCD/status/2033971879002738938#m",
+      "published": "2026-03-17T18:20:59+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a69a579c9b5d546aec85bf867908a0f8",
+      "title": "A warning has been issued by the National Early Warning Platform in Al-Kharj Governorate to warn of a danger, follow the instructions below :",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2033971879002738938",
+      "published": "2026-03-17T18:20:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033971432804520215",
+      "title": "Mohammed bin Rashid meets with Fujairah Crown Prince in Dubai. The meeting discussed key national development priorities, efforts to enhance quality of life, and support for vital sectors in line with the UAE\u2019s future goals.",
+      "source": "Dubai Media Office",
+      "source_url": "https://nitter.net/DXBMediaOffice/status/2033971432804520215#m",
+      "published": "2026-03-17T18:19:13+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "40aa83d0e9492bdd48b454c116465540",
+      "title": "Mohammed bin Rashid meets with Fujairah Crown Prince in Dubai. The meeting discussed key national development priorities, efforts to enhance quality of life, and support for vital sectors in line with the UAE\u2019s future goals.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2033971432804520215",
+      "published": "2026-03-17T18:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/17/trump-us-president-nato-strait-of-hormuz-iran-middle-east",
+      "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/17/trump-us-president-nato-strait-of-hormuz-iran-middle-east",
+      "published": "2026-03-17T18:17:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2033970402549240206",
+      "title": "The Coordinator of Government Activities in the Territories, Major General Yoram Halevi, informed the head of UNICEF of the suspension of aid shipments to the Gaza Strip originating from Egypt and coordinated by the agency, following the thwarting of an attempted smuggling of tobacco and nicotine products detected today (Tuesday) at the Kerem Shalom Crossing within humanitarian aid shipments coordinated by the agency.\n\nDuring a security inspection conducted by personnel of the Land Crossings Authority at the Ministry of Defense, together with representatives of the Gaza CLA, bottles containing nicotine substances were found concealed inside cartons of hygiene kits.\n\nIn an official letter sent by the Coordinator to the head of the agency, it was emphasized that this constitutes a serious violation of the mechanisms governing the entry of humanitarian aid, and that hostile actors are continuously attempting to exploit the aid mechanism for improper purposes, including the use of the agency\u2019s operations to smuggle tobacco products into the Gaza Strip. The Coordinator further noted that the suspension will remain in effect until the agency provides the findings of a full investigation, as well as an official response on the matter.\n\nCOGAT stresses that these are serious incidents, and that enforcement measures against any smuggling attempts through the crossings will be intensified. COGAT, in cooperation with all security bodies, will continue to act decisively and with zero tolerance toward any attempt to exploit the humanitarian aid mechanism.",
+      "source": "COGAT",
+      "source_url": "https://nitter.net/cogatonline/status/2033970402549240206#m",
+      "published": "2026-03-17T18:15:07+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1773767554",
+      "title": "US confirms 157 killed in maritime strikes experts call \u2018extrajudicial\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/17/us-confirms-157-killed-in-maritime-strikes-experts-call-extrajudicial?traffic_source=rss",
+      "published": "2026-03-17T18:10:11+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 157,
+        "military": 0,
+        "civilian": 157
+      }
+    },
+    {
+      "id": "aba729dfb4bf39c2cf5604403a218726",
+      "title": "The Media briefing by the National Communication Centre on the latest developments in light of Iran\u2019s wrongful attacks. ...",
+      "source": "Bahrain MOI (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DV_q1yMDTHM",
+      "published": "2026-03-17T18:04:42+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3780058",
+      "title": "What to know about the Illinois primaries, where AIPAC backs a fierce Israel critic",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/what-to-know-about-the-illinois-primaries-where-aipac-backs-a-fierce-israel-critic/",
+      "published": "2026-03-17T18:03:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/03/17/lebanon-returns-130-prisoners-to-syria-under-deal-to-mend-ties/",
+      "title": "Lebanon returns 130 prisoners to Syria under deal to mend ties",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/03/17/lebanon-returns-130-prisoners-to-syria-under-deal-to-mend-ties/",
+      "published": "2026-03-17T17:59:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1773762519",
+      "title": "Starmer, Zelenskyy urge \u2018focus\u2019 on Ukraine as Iran war diverts attention",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss",
+      "published": "2026-03-17T17:59:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/03/17/us-navy-taps-gecko-robotics-to-help-remedy-maintenance-headaches/",
+      "title": "US Navy taps Gecko Robotics to help remedy maintenance headaches",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/03/17/us-navy-taps-gecko-robotics-to-help-remedy-maintenance-headaches/",
+      "published": "2026-03-17T17:56:11+00:00",
+      "type": "naval",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -576,7 +1082,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/03/17/us-counterterrorism-head-resigns-over-iran-war-and-says-israel-deceived-trump/",
-      "title": "US counterterrorism head resigns over Iran war, claiming Israel deceived Trump",
+      "title": "US counter-terrorism head resigns over Iran war, claiming Israel deceived Trump",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/us/2026/03/17/us-counterterrorism-head-resigns-over-iran-war-and-says-israel-deceived-trump/",
       "published": "2026-03-17T15:47:39+00:00",
@@ -751,28 +1257,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1773746570",
-      "title": "Why aren\u2019t gold prices rising, despite Iran war uncertainty?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/3/17/why-arent-gold-prices-rising-despite-iran-war-uncertainty?traffic_source=rss",
-      "published": "2026-03-17T15:27:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2033926009205006792",
       "title": "\ud83c\udfaf LEBANON: Strikes against Hezbollah infrastructure sites continue \n\n\ud83d\udccdIN BEIRUT: Several command centers were struck both overnight and today \n\n\ud83d\udccdIN BEQAA: 3 rocket sites and weapon storage facilities used to carry out terror attacks were struck",
       "source": "Israel Defense Forces",
@@ -785,28 +1269,6 @@
         "city": null,
         "lat": 33.8938,
         "lng": 35.5018
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3c7b7137dfd4b55196a4db8b962dd4fa",
-      "title": "#Kuwait's Minister of Health, Ahmad Al-Awadhi, visits two emergency medical personnel injured after shrapnel fell on an ambulance center.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2033923569562812637",
-      "published": "2026-03-17T15:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -883,28 +1345,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3778412",
-      "title": "Burnt by an Iran setting the region ablaze, Gulf also blames Israel for starting the fire",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/burnt-by-an-iran-setting-the-region-ablaze-gulf-also-blames-israel-for-starting-the-fire/",
-      "published": "2026-03-17T14:37:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2033908714776719862",
       "title": "\u2b55The IDF has detected expanded preparations by Hezbollah to launch rocket barrages towards Israel in the coming hours. \n\nThe IDF is operating in order to thwart Hezbollah\u2019s activities.\n\nThe aerial defense array and IDF soldiers deployed along the border are alert and prepared, both in defense and in offense.",
       "source": "Israel Defense Forces",
@@ -941,50 +1381,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8b2ae348ea3e0bfc8399f2b62c867196",
-      "title": "#Belgium's Foreign Minister & #Luxembourg's Foreign Minister express solidarity with Gulf Cooperation Council states regarding #Iran's attacks on the region, during a meeting with GCC ambassadors in #Brussels. @GCC  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2033907280916148454",
-      "published": "2026-03-17T14:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/03/17/trump-lebanon-hezbollah-middle-east/",
-      "title": "Why Donald Trump is Lebanon\u2019s last chance",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/03/17/trump-lebanon-hezbollah-middle-east/",
-      "published": "2026-03-17T14:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1059,28 +1455,6 @@
       }
     },
     {
-      "id": "b576aae34c9b39bc51531683872090c9",
-      "title": "UN World Food Programme warns that around 45 million people could face acute food insecurity this year if the Middle East conflict continues. @WFP  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2033899332345155792",
-      "published": "2026-03-17T13:32:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=79180",
       "title": "On the flightline with Swedish fighter jets on a NATO mission",
       "source": "Breaking Defense",
@@ -1103,28 +1477,6 @@
       }
     },
     {
-      "id": "2033897395449212992",
-      "title": "Alert: The danger has passed from Al-Kharj governorate. Keep following #CivilDefense instructions. Avoid gathering or filming, stay away from dangerous areas, and report any danger by calling (911).",
-      "source": "Saudi Civil Defense",
-      "source_url": "https://nitter.net/SaudiDCD/status/2033897395449212992#m",
-      "published": "2026-03-17T13:25:01+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2ba716ec1570d4092588420400fa1db5",
       "title": "Alert: The danger has passed from Al-Kharj governorate. Keep following #CivilDefense instructions. Avoid gathering or filming, stay away from dangerous areas, and report any danger by calling (911).",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -1139,28 +1491,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "32cbf50b2c9e0d92fbb4385d91871f56",
-      "title": "#UAE Air defenses intercepted 10 ballistic missiles & 45 drones launched from #Iran.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2033897277849207133",
-      "published": "2026-03-17T13:24:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -1411,28 +1741,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/03/17/us-iran-israel-spycraft-numbers-stations/",
-      "title": "Is the US behind Cold War-style coded radio messages being sent to Iran?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/03/17/us-iran-israel-spycraft-numbers-stations/",
-      "published": "2026-03-17T13:16:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3d37fc735f9df780042f9ac2c7b7a8de",
       "title": "The safety of persons with disabilities is a fundamental part of our shared responsibility. Be supportive by following t...",
       "source": "Qatar MOI EN (RSS.app)",
@@ -1489,50 +1797,6 @@
         "city": null,
         "lat": 25.3548,
         "lng": 51.1839
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2033890803118989640",
-      "title": "A warning has been issued by the National Early Warning Platform in Al-Kharj Governorate to warn of a danger, follow the instructions below :",
-      "source": "Saudi Civil Defense",
-      "source_url": "https://nitter.net/SaudiDCD/status/2033890803118989640#m",
-      "published": "2026-03-17T12:58:49+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0fcd74cde0c4cb4eaa709fbb68183f54",
-      "title": "A warning has been issued by the National Early Warning Platform in Al-Kharj Governorate to warn of a danger, follow the instructions below :",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2033890803118989640",
-      "published": "2026-03-17T12:58:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 100,
       "is_government": true,
@@ -1741,28 +2005,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says",
-      "title": "Pivotal Iran leader Ali Larijani killed in airstrike, Israel says",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says",
-      "published": "2026-03-17T11:03:13+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2033861461596930479",
       "title": "\ud83d\udd34Ali Larijani, Secretary of Iran\u2019s Supreme National Security Council and the regime\u2019s effective leader, has been eliminated.\n\nThroughout the years, Larijani was considered one of the most veteran and senior figures within the Iranian regime leadership, and was a close associate of the Supreme Leader Ali Khamenei.\n\nDuring the most recent wave of protests against the Iranian terror regime, Larijani personally oversaw the massacre that was carried out against Iranian protestors.",
       "source": "Israel Defense Forces",
@@ -1778,28 +2020,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/mar/17/trump-iran-war-cost-americans-11-billion",
-      "title": "Trump\u2019s Iran war has cost Americans at least $11bn already. And that\u2019s just the start | Arwa Mahdawi",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/mar/17/trump-iran-war-cost-americans-11-billion",
-      "published": "2026-03-17T11:00:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2379,28 +2599,6 @@
       }
     },
     {
-      "id": "2033684144132395077",
-      "title": "Abdullah bin Zayed holds phone calls with several officials, foreign ministers to discuss repercussions of unprovoked, terrorist Iranian missile attacks on UAE, brotherly nations\n\n#WamNews \n\nhttps://www.wam.ae/a/174hylt",
-      "source": "WAM English",
-      "source_url": "https://nitter.net/WAMNEWS_ENG/status/2033684144132395077#m",
-      "published": "2026-03-16T23:17:38+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2033682066458742971",
       "title": "\u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u0627\u0639\u062a\u0631\u0627\u0636 \u0643\u0644 \u0645\u0646 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u0627\u062a \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629.\n\nUAE air defences are currently responding to incoming missile and drone threats from Iran\n\nMOD asserts that the sounds heard are the result of the Air Defence Systems intercepting missiles and drones\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
       "source": "UAE Ministry of Defence",
@@ -2577,28 +2775,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=79114",
-      "title": "Navy unveils acquisition reform, establishes five more PAE organizations",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/03/navy-unveils-acquisition-reform-establishes-five-more-pae-organizations/",
-      "published": "2026-03-16T19:30:00+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3efc186819115f9b959feb88d7505e82",
       "title": "\u062a\u0639\u0644\u0646 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u0642\u0637\u0631\u064a\u0629 \u0639\u0646 \u062a\u0639\u0631\u0636 \u062f\u0648\u0644\u0629 \u0642\u0637\u0631 \u0644\u0647\u062c\u0648\u0645 \u0628\u0639\u062f\u062f (14) \u0635\u0627\u0631\u0648\u062e\u0627\u064b \u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0627\u064b \u0648\u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0651\u0631\u0629 \u0645\u0646 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629\u060c \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0627\u062b\u0646\u064a\u0646\u060c \u0648\u0646\u062c\u062d\u062a \u0642\u0648\u0627\u062a\u0646\u0627 \u0627\u0644\u0645\u0633\u0644\u062d\u0629 \u201c\u0628\u0641\u0636\u0644 \u0645\u0646 \u0627\u0644\u0644\u0647\u201d \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u062c\u0645\u064a\u0639 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0651\u0631\u0629\u060c \u0648\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0639\u062f\u062f (13) \u0635\u0627\u0631\u0648\u062e\u0627\u064b \u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0627\u064b\u060c \u0641\u064a\u0645\u0627 \u0633\u0642\u0637 \u0635\u0627\u0631\u0648\u062e \u0648\u0627\u062d\u062f \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u063a\u064a\u0631 \u0645\u0623\u0647\u0648\u0644\u0629 \u062f\u0648\u0646 \u0623\u064a \u062e\u0633\u0627\u0626\u0631. \u062d\u0641\u0638 \u0627\u0644\u0644\u0647 \u0642\u0637\u0631 \u0648\u0623\u0645\u064a\u0631\u0647\u0627 \u0648\u0634\u0639\u0628\u0647\u0627 \u0648\u0627\u0644\u0645\u0642\u064a\u0645\u064a\u0646 \u0639\u0644\u0649 \u0623\u0631\u0636\u0647\u0627. The Ministry of Defense of the State of Qatar announces that Qatar was subjected to an attack involving (14) ballistic missiles and a number of drones launched from the Islamic Republic of Iran today, Monday. Our Armed Forces, by the grace of God, successfully intercepted all drones and (13) ballistic missiles, while one missile landed i",
       "source": "Qatar MOD (RSS.app)",
@@ -2753,28 +2929,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=79092",
-      "title": "Lockheed completes first flight test for PrSM Inc 2 aimed at hitting moving maritime targets",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/03/lockheed-completes-first-flight-test-for-prsm-inc-2-aimed-at-hitting-moving-maritime-targets/",
-      "published": "2026-03-16T17:22:01+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/03/16/iran-missile-strike-damages-five-kc-135-tankers-in-saudi-arabia-officials-say/",
       "title": "Iran missile strike damages five KC-135 tankers in Saudi Arabia, officials say",
       "source": "Defense News",
@@ -2897,28 +3051,6 @@
         "city": null,
         "lat": 26.5,
         "lng": 56.5
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/03/16/turkeys-baykar-tests-swarm-behavior-of-its-k2-one-way-attack-drone/",
-      "title": "Turkey\u2019s Baykar tests swarm behavior of its K2 one-way attack drone",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/03/16/turkeys-baykar-tests-swarm-behavior-of-its-k2-one-way-attack-drone/",
-      "published": "2026-03-16T14:09:28+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -3296,28 +3428,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2033305512662425996",
-      "title": "The siren has been sounded.  Citizens and residents are urged to remain calm and head to the nearest safe place",
-      "source": "Bahrain Ministry of Interior",
-      "source_url": "https://nitter.net/moi_bahrain/status/2033305512662425996#m",
-      "published": "2026-03-15T22:13:05+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -3755,28 +3865,6 @@
         "city": null,
         "lat": 24.4539,
         "lng": 54.3773
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "26dbbe566f710b20eee48281cb9df10f",
-      "title": "\u062a\u0639\u0644\u0646 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u0642\u0637\u0631\u064a\u0629 \u0639\u0646 \u062a\u0639\u0631\u0636 \u062f\u0648\u0644\u0629 \u0642\u0637\u0631 \u0644\u0647\u062c\u0648\u0645 \u0628\u0639\u062f\u062f (4) \u0635\u0648\u0627\u0631\u064a\u062e \u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0651\u0631\u0629 \u0645\u0646 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629\u060c \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0628\u062a\u060c \u0648\u0646\u062c\u062d\u062a \u0642\u0648\u0627\u062a\u0646\u0627 \u0627\u0644\u0645\u0633\u0644\u062d\u0629 \"\u0628\u0641\u0636\u0644 \u0645\u0646 \u0627\u0644\u0644\u0647\" \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u062c\u0645\u064a\u0639 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0651\u0631\u0629\u060c \u0648\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0639\u062f\u062f (4) \u0635\u0648\u0627\u0631\u064a\u062e \u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629. \u062d\u0641\u0638 \u0627\u0644\u0644\u0647 \u0642\u0637\u0631 \u0648\u0623\u0645\u064a\u0631\u0647\u0627 \u0648\u0634\u0639\u0628\u0647\u0627 \u0648\u0627\u0644\u0645\u0642\u064a\u0645\u064a\u0646 \u0639\u0644\u0649 \u0623\u0631\u0636\u0647\u0627. The Qatari Ministry of Defense announces that the State of Qatar was subjected today, Saturday, to an attack involving (4) ballistic missiles and a number of drones launched from the Islamic Republic of Iran. Our Armed Forces, \"by the grace of God,\" successfully intercepted all the drones and (4) ballistic missiles. May Allah protect Qatar, its Amir, its people, and all residents on its land.",
-      "source": "Qatar MOD (RSS.app)",
-      "source_url": "https://x.com/MOD_Qatar/status/2032888201946476929",
-      "published": "2026-03-14T18:34:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 17.0151,
-        "lng": 54.0924
       },
       "credibility": 100,
       "is_government": true,
