@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-03-20T06:50:26.286362+00:00",
-  "total_incidents": 167,
+  "generated_at": "2026-03-20T07:43:17.583380+00:00",
+  "total_incidents": 159,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1773966345",
+      "title": "Iran war: What is happening on day 21 of US-Israel attacks?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/20/iran-war-what-is-happening-on-day-21-of-us-israel-attacks?traffic_source=rss",
+      "published": "2026-03-20T07:28:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3782728",
+      "title": "Iranian soccer star Azmoun kicked off national team for perceived disloyalty \u2013 reports",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/iranian-soccer-star-azmoun-kicked-off-national-team-for-perceived-disloyalty-reports/",
+      "published": "2026-03-20T07:13:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f6ab6fbfb3316234a0e11be9805d512c",
+      "title": "Hundreds of Palestinians perform Eid Al-Fitr prayers near Al-Aqsa Mosque after Israeli occupation forces prevented them from accessing the mosque's compound, as its closure continues for the 21st consecutive day.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2034888159679447351",
+      "published": "2026-03-20T07:01:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "83be2963a2b4030f6658aabd48f019a5",
       "title": "Kuwait's General Fire Force says its teams are currently dealing with a fire that broke out in one of the units at Mina Al-Ahmadi Refinery following drone attacks.  #KUNA",
@@ -576,17 +642,17 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3782698",
-      "title": "IDF launches new wave of airstrikes on Tehran after missile fire targets Jerusalem, north",
+      "title": "Iran renews fire on Israel after brief lull, claims it can still produce missiles",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/liveblog-march-20-2026/",
       "published": "2026-03-20T02:16:32+00:00",
       "type": "missile",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "Israel",
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 85,
       "is_government": false,
@@ -641,28 +707,6 @@
       }
     },
     {
-      "id": "2034813442553782549",
-      "title": "Authorities in Dubai confirm the success of all air interception operations, with no injuries reported. Please rely on official sources for updates.",
-      "source": "Dubai Media Office",
-      "source_url": "https://nitter.net/DXBMediaOffice/status/2034813442553782549#m",
-      "published": "2026-03-20T02:05:04+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "60d5f443fcb463ced4039b5dbc5f17e5",
       "title": "RT by @moiuae: Authorities in Dubai confirm the success of all air interception operations, with no injuries reported. Please rely on official sources for updates.",
       "source": "UAE MOI (RSS.app)",
@@ -677,28 +721,6 @@
         "lng": 55.2708
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "60d5f443fcb463ced4039b5dbc5f17e5",
-      "title": "Authorities in Dubai confirm the success of all air interception operations, with no injuries reported. Please rely on official sources for updates.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2034813442553782549",
-      "published": "2026-03-20T02:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -920,50 +942,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3782495",
-      "title": "Threatening messages, and an arrest, bring antisemitism close to home for a New York rabbi",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/threatening-messages-and-an-arrest-bring-antisemitism-close-to-home-for-a-new-york-rabbi/",
-      "published": "2026-03-20T01:10:37+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3781112",
-      "title": "As Iran war diverts attention from Gaza, Hamas police openly tighten grip on Strip",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/as-iran-war-diverts-attention-from-gaza-hamas-police-openly-tighten-grip-on-strip/",
-      "published": "2026-03-20T01:09:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1389,28 +1367,6 @@
       }
     },
     {
-      "id": "48e28576921513e5d1a6d13a5f584b3b",
-      "title": "His Highness the Crown received a phone call from #UK Prime Minister Keir Starmer, who strongly condemned blatant Iranian attack on the State of #Kuwait. His Highness the Crown Prince conveyed greetings of His Highness the Amir to His Majesty King Charles III. Starmer expressed firm denunciation of the assaults, describing them flagrant violation of Kuwait's sovereignty & security, as well as international law, #UN Charter.  #Kuna",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2034735194930917504",
-      "published": "2026-03-19T20:54:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/mideast-africa/2026/03/19/us-moves-to-approve-more-than-16-billion-in-air-defense-sales-to-middle-east/",
       "title": "US moves to approve more than $16 billion in air defense sales to Middle East",
       "source": "Defense News",
@@ -1654,28 +1610,6 @@
     },
     {
       "id": "2034685222177186021",
-      "title": "RT by @moiuae: The National Emergency Crisis and Disaster Management Authority #NCEMA is monitoring the weather conditions and preparing with proactive measures for the potential impacts on the country, in coordination with its strategic partners.",
-      "source": "UAE Ministry of Interior",
-      "source_url": "https://nitter.net/NCEMAUAE/status/2034685222177186021#m",
-      "published": "2026-03-19T17:35:34+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2034685222177186021",
       "title": "The National Emergency Crisis and Disaster Management Authority #NCEMA is monitoring the weather conditions and preparing with proactive measures for the potential impacts on the country, in coordination with its strategic partners.",
       "source": "UAE NCEMA",
       "source_url": "https://nitter.net/NCEMAUAE/status/2034685222177186021#m",
@@ -1687,6 +1621,28 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2034685222177186021",
+      "title": "RT by @moiuae: The National Emergency Crisis and Disaster Management Authority #NCEMA is monitoring the weather conditions and preparing with proactive measures for the potential impacts on the country, in coordination with its strategic partners.",
+      "source": "UAE Ministry of Interior",
+      "source_url": "https://nitter.net/NCEMAUAE/status/2034685222177186021#m",
+      "published": "2026-03-19T17:35:34+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
       },
       "credibility": 100,
       "is_government": true,
@@ -1895,50 +1851,6 @@
       }
     },
     {
-      "id": "2034667446280638921",
-      "title": "The Ports, Customs and Free Zone Corporation holds a meeting at its headquarters in Dubai with officials from global shipping companies operating in the UAE and representatives of shipping associations. The meeting was convened as part of efforts to strengthen collective coordination in addressing the current challenges facing regional supply chains. The meeting reaffirms the UAE\u2019s steadfast commitment to continuing its efforts to strengthen its position as a resilient and well-prepared global logistics hub capable of ensuring the uninterrupted flow of trade in changing circumstances and at all times.",
-      "source": "Dubai Media Office",
-      "source_url": "https://nitter.net/DXBMediaOffice/status/2034667446280638921#m",
-      "published": "2026-03-19T16:24:56+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8b0714403ebd7e6bce119270e4854197",
-      "title": "The Ports, Customs and Free Zone Corporation holds a meeting at its headquarters in Dubai with officials from global shipping companies operating in the UAE and representatives of shipping associations. The meeting was convened as part of efforts to strengthen collective coordination in addressing the current challenges facing regional supply chains. The meeting reaffirms the UAE\u2019s steadfast commitment to continuing its efforts to strengthen its position as a resilient and well-prepared global logistics hub capable of ensuring the uninterrupted flow of trade in changing circumstances and at all times.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2034667446280638921",
-      "published": "2026-03-19T16:24:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2034664412833775790",
       "title": "In the Kiryat Shmona area, MDA EMTs and paramedics report 2 casualties, including: a man approximately 60 years old in serious condition, and a woman approximately 70 years old in moderate condition, both with abdominal injuries. Updates as required.",
       "source": "Magen David Adom",
@@ -2093,28 +2005,6 @@
       }
     },
     {
-      "id": "2f45a2b8d22e8c6e5a354166d65a39fb",
-      "title": "International figures condemn Israeli-American aggression against #Iran.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2034658390362763374",
-      "published": "2026-03-19T15:48:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/c0ljl23plpzo#0",
       "title": "Three Palestinian women killed in beauty salon during Iranian missile attack",
       "source": "BBC Middle East",
@@ -2174,50 +2064,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2034649558471372977",
-      "title": "RT by @DXBMediaOffice: I extend my sincere wishes to the leadership, government, and people of the United Arab Emirates on the occasion of Eid Al Fitr. \n\nWe pray that this blessed occasion brings joy and prosperity to all. May our beloved nation, and all countries, continue to enjoy peace, security, and stability.",
-      "source": "Dubai Media Office",
-      "source_url": "https://nitter.net/HHAhmedBinSaeed/status/2034649558471372977#m",
-      "published": "2026-03-19T15:13:51+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "af2e5c890e2b03d27cf2ec19a56d3643",
-      "title": "RT by @DXBMediaOffice: I extend my sincere wishes to the leadership, government, and people of the United Arab Emirates on the occasion of Eid Al Fitr. We pray that this blessed occasion brings joy and prosperity to all. May our beloved nation, and all countries, continue to enjoy peace, security,\u2026 pic.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/HHAhmedBinSaeed/status/2034649558471372977",
-      "published": "2026-03-19T15:13:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -3075,28 +2921,6 @@
         "lng": 34.4668
       },
       "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9332cea6ec27a58cfc5e663e4761a22d",
-      "title": "The Media briefing by the National Communication Centre on the latest developments in light of Iran\u2019s wrongful attacks. ...",
-      "source": "Bahrain MOI (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DWCXi9ejWl9",
-      "published": "2026-03-18T19:10:42+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
