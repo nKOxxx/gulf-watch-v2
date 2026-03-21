@@ -1,14 +1,212 @@
 {
-  "generated_at": "2026-03-21T14:23:36.468857+00:00",
-  "total_incidents": 168,
+  "generated_at": "2026-03-21T15:22:17.653841+00:00",
+  "total_incidents": 170,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
       "title": "Middle East crisis live: Trump says US considering \u2018winding down\u2019 war; Iran fired missiles at UK-US base on Diego Garcia",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "published": "2026-03-21T14:21:19+00:00",
+      "published": "2026-03-21T15:09:20+00:00",
       "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3783656&preview=true&preview_id=3783656",
+      "title": "Hezbollah rockets damage buildings in north as IDF strikes Lebanon, kills gunmen",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/hezbollah-rockets-damage-buildings-in-north-as-idf-strikes-lebanon-kills-gunmen/",
+      "published": "2026-03-21T15:09:05+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b23d9df2116494b3d75df0f9f2120e57",
+      "title": "#Kuwait's Ministry of Defense: Air defense systems have detected and successfully engaged nine ballistic missiles in the last 24 hours amidst the current regional military escalation  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2035372482476056858",
+      "published": "2026-03-21T15:06:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/artanddesign/2026/mar/21/we-must-preserve-our-traditions-war-shadows-tehran-as-iranians-mark-nowruz",
+      "title": "\u2018We must preserve our traditions\u2019: war casts shadow over Iranian Nowruz celebrations",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/artanddesign/2026/mar/21/we-must-preserve-our-traditions-war-shadows-tehran-as-iranians-mark-nowruz",
+      "published": "2026-03-21T15:04:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2035371628159230040",
+      "title": "The Ministry of Interior clarifies that National Warning System alerts are only activated when urgent, additional precautionary measures are required for public safety. We urge everyone to strictly adhere to all instructions issued through these alerts. #MOIQatar",
+      "source": "Qatar Ministry of Interior EN",
+      "source_url": "https://nitter.net/MOI_QatarEn/status/2035371628159230040#m",
+      "published": "2026-03-21T15:03:06+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3783617",
+      "title": "Wave of executions feared in Iran as authorities hang 3 young men nabbed in protests",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/wave-of-executions-feared-in-iran-as-authorities-hang-3-young-men-nabbed-in-protests/",
+      "published": "2026-03-21T14:56:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/21/iran-reportedly-fires-missiles-towards-uk-us-base-on-diego-garcia",
+      "title": "MoD condemns Iran missile strikes towards UK-US base as Britain \u2018dragged\u2019 into war",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/21/iran-reportedly-fires-missiles-towards-uk-us-base-on-diego-garcia",
+      "published": "2026-03-21T14:53:31+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774103712",
+      "title": "Iranian woman\u2019s video of US-Israel attack ends as bomb hits",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss",
+      "published": "2026-03-21T14:40:33+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2035364955772355008",
+      "title": "Press release on the importance of complying with vehicle noise level regulations.\n#MOIQatar",
+      "source": "Qatar Ministry of Interior EN",
+      "source_url": "https://nitter.net/MOI_QatarEn/status/2035364955772355008#m",
+      "published": "2026-03-21T14:36:35+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774095631",
+      "title": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/21/unease-in-japan-after-trump-uses-pearl-harbor-to-defend-iran-war?traffic_source=rss",
+      "published": "2026-03-21T14:34:12+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
@@ -40,6 +238,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "dfb49eb29c8387edaa5e4fdc6c867e2f",
+      "title": "RT by @FarsNews_Agency: So far, over 20 countries have reached out to Iran to align with its new framework for managing the Strait of Hormuz. If, as previously reported, Iran moves to make the yuan the basis for its transactions, something important is unfolding - a new global equation is taking shape.",
+      "source": "Fars News (RSS.app)",
+      "source_url": "https://x.com/s_m_marandi/status/2035351209633022250",
+      "published": "2026-03-21T13:41:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 65,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -83,28 +303,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/artanddesign/2026/mar/21/we-must-preserve-our-traditions-war-shadows-tehran-as-iranians-mark-nowruz",
-      "title": "\u2018We must preserve our traditions\u2019: war shadows Tehran as Iranians mark Nowruz",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/artanddesign/2026/mar/21/we-must-preserve-our-traditions-war-shadows-tehran-as-iranians-mark-nowruz",
-      "published": "2026-03-21T13:23:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -729,28 +927,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/mar/21/iran-reportedly-fires-missiles-towards-uk-us-base-on-diego-garcia",
-      "title": "Iran fires missiles towards UK-US base on Diego Garcia",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/mar/21/iran-reportedly-fires-missiles-towards-uk-us-base-on-diego-garcia",
-      "published": "2026-03-21T10:34:06+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2035302747290185822",
       "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
       "source": "UAE Ministry of Interior",
@@ -994,8 +1170,8 @@
     },
     {
       "id": "2035301746654711930",
-      "title": "R to @NCEMAUAE: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
-      "source": "UAE NCEMA",
+      "title": "RT by @moiuae: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
+      "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/NCEMAUAE/status/2035301746654711930#m",
       "published": "2026-03-21T10:25:25+00:00",
       "type": "incident",
@@ -1016,8 +1192,8 @@
     },
     {
       "id": "2035301746654711930",
-      "title": "RT by @moiuae: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
-      "source": "UAE Ministry of Interior",
+      "title": "R to @NCEMAUAE: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
+      "source": "UAE NCEMA",
       "source_url": "https://nitter.net/NCEMAUAE/status/2035301746654711930#m",
       "published": "2026-03-21T10:25:25+00:00",
       "type": "incident",
@@ -1235,28 +1411,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774076332",
-      "title": "Israel systematically torturing Palestinians in custody, says UN expert",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/21/israel-systematically-torturing-palestinians-in-custody-says-un-expert?traffic_source=rss",
-      "published": "2026-03-21T09:31:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/business/energy/2026/03/21/how-iran-is-deciding-who-can-and-who-cant-pass-through-the-strait-of-hormuz/",
       "title": "How Iran is deciding who can and who can't pass through the Strait of Hormuz",
       "source": "The National UAE",
@@ -1271,28 +1425,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774038180",
-      "title": "Iran war: What\u2019s happening on day 22 of US-Israel attacks?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss",
-      "published": "2026-03-21T09:07:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1338,28 +1470,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3783506",
-      "title": "Exiled Iranian Kurds in Iraq say they will return only if Iran\u2019s theocracy falls",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/exiled-iranian-kurds-in-iraq-say-they-will-return-only-if-irans-theocracy-falls/",
-      "published": "2026-03-21T08:36:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1438,28 +1548,6 @@
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/03/21/arab-nations-condemn-israeli-attack-on-syria/",
       "published": "2026-03-21T08:12:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3783465",
-      "title": "Outgoing UNRWA head warns agency \u2018may soon no longer be viable\u2019 amid Israeli opposition",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/outgoing-unrwa-head-warns-agency-may-soon-no-longer-be-viable-amid-israeli-opposition/",
-      "published": "2026-03-21T07:47:22+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -1863,28 +1951,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b8937d4e3cdefeda76480d4781314d76",
-      "title": "#UAE Ministry of Defense : The air defenses are currently dealing with missile and drone aggression coming from #Iran  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2035118134965764131",
-      "published": "2026-03-20T22:15:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": true,
@@ -2690,28 +2756,6 @@
       "id": "2034940376470233507",
       "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
       "source": "UAE Ministry of Defence",
-      "source_url": "https://nitter.net/modgovae/status/2034940376470233507#m",
-      "published": "2026-03-20T10:29:27+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2034940376470233507",
-      "title": "RT by @mofauae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Foreign Affairs",
       "source_url": "https://nitter.net/modgovae/status/2034940376470233507#m",
       "published": "2026-03-20T10:29:27+00:00",
       "type": "missile",
