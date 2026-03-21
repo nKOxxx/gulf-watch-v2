@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-03-21T06:38:06.089437+00:00",
-  "total_incidents": 159,
+  "generated_at": "2026-03-21T07:31:00.375958+00:00",
+  "total_incidents": 157,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "title": "Middle East crisis live: Trump considering \u2018winding down\u2019 war as US eases sanctions on Iranian oil; Israel launches retaliatory strikes",
+      "title": "Middle East crisis live: Trump considering \u2018winding down\u2019 war; Iran reportedly fired two missiles at Diego Garcia military base",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "published": "2026-03-21T06:26:39+00:00",
+      "published": "2026-03-21T07:21:19+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/03/21/israel-and-iran-launch-more-attacks-as-us-sends-marines-to-middle-east/",
+      "title": "Israel and Iran launch more attacks as US sends marines to Middle East",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/03/21/israel-and-iran-launch-more-attacks-as-us-sends-marines-to-middle-east/",
+      "published": "2026-03-21T07:17:17+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -16,7 +38,117 @@
         "lat": 32.4279,
         "lng": 53.688
       },
-      "credibility": 90,
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8b69c0167e83622b7d212a96a8a5b32c",
+      "title": "Impact of Iranian missile in Tel Aviv",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2035252035218497702",
+      "published": "2026-03-21T07:07:00+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2035250297434435672",
+      "title": "Following home safety guidelines demonstrates your awareness and plays a significant role in ensuring your security and well-being. #MOIQatar #EidInQatar",
+      "source": "Qatar Ministry of Interior EN",
+      "source_url": "https://nitter.net/MOI_QatarEn/status/2035250297434435672#m",
+      "published": "2026-03-21T07:00:58+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2035249921255702686",
+      "title": "*MDA Spokesperson:* Following the missile fire toward the State of Israel:\n\nAt this stage, there are no known casualties.\n\nMDA EMTs and paramedics are searching locations where reports were received of possible missile and debris strikes. \n\nCredit: MDA Operational Unit",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2035249921255702686#m",
+      "published": "2026-03-21T06:59:28+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "52f93ecc51e0e52a541c76858b180adf",
+      "title": "*MDA Spokesperson:* Following the missile fire toward the State of Israel: At this stage, there are no known casualties. MDA EMTs and paramedics are searching locations where reports were received of possible missile and debris strikes. Credit: MDA Operational Unit",
+      "source": "Magen David Adom (RSS.app)",
+      "source_url": "https://x.com/Mdais/status/2035249921255702686",
+      "published": "2026-03-21T06:59:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/03/21/uae-president-speaks-with-leaders-of-qatar-jordan-and-lebanon-on-iran-war/",
+      "title": "UAE President speaks with leaders of Qatar, Jordan and Lebanon on Iran war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/03/21/uae-president-speaks-with-leaders-of-qatar-jordan-and-lebanon-on-iran-war/",
+      "published": "2026-03-21T06:39:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1258,8 +1390,8 @@
     },
     {
       "id": "2035086144225034400",
-      "title": "RT by @moiuae: \u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u0627\u0639\u062a\u0631\u0627\u0636 \u0643\u0644 \u0645\u0646 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u0627\u062a \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629.\n\nUAE air defences are currently responding to incoming missile and drone threats from Iran\n\nMOD asserts that the sounds heard are the result of the Air Defence Systems intercepting missiles and drones\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Interior",
+      "title": "\u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u0627\u0639\u062a\u0631\u0627\u0636 \u0643\u0644 \u0645\u0646 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u0627\u062a \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629.\n\nUAE air defences are currently responding to incoming missile and drone threats from Iran\n\nMOD asserts that the sounds heard are the result of the Air Defence Systems intercepting missiles and drones\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Defence",
       "source_url": "https://nitter.net/modgovae/status/2035086144225034400#m",
       "published": "2026-03-20T20:08:41+00:00",
       "type": "missile",
@@ -1280,8 +1412,8 @@
     },
     {
       "id": "2035086144225034400",
-      "title": "\u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u0627\u0639\u062a\u0631\u0627\u0636 \u0643\u0644 \u0645\u0646 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u0627\u062a \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629.\n\nUAE air defences are currently responding to incoming missile and drone threats from Iran\n\nMOD asserts that the sounds heard are the result of the Air Defence Systems intercepting missiles and drones\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Defence",
+      "title": "RT by @moiuae: \u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u0627\u0639\u062a\u0631\u0627\u0636 \u0643\u0644 \u0645\u0646 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u0627\u062a \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629.\n\nUAE air defences are currently responding to incoming missile and drone threats from Iran\n\nMOD asserts that the sounds heard are the result of the Air Defence Systems intercepting missiles and drones\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/modgovae/status/2035086144225034400#m",
       "published": "2026-03-20T20:08:41+00:00",
       "type": "missile",
@@ -1337,28 +1469,6 @@
         "lng": 48.0
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/03/20/us-and-israeli-goals-diverge-as-iran-war-enters-fourth-week/",
-      "title": "US and Israeli goals diverge as Iran war enters fourth week",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/03/20/us-and-israeli-goals-diverge-as-iran-war-enters-fourth-week/",
-      "published": "2026-03-20T19:50:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1565,28 +1675,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/03/20/us-air-travel-delays-security/",
-      "title": "US air travel becomes nightmare for millions as security screeners call in sick",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/03/20/us-air-travel-delays-security/",
-      "published": "2026-03-20T18:41:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "4f6c3f731ac2d6ff867cd91699832a29",
       "title": "\ud83d\udcf8 Massive groups of Iranians from across the country gathered at the holy shrine of Imam Reza (AS) to welcome the new year. pic.",
       "source": "Mehr News (RSS.app)",
@@ -1665,28 +1753,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a8c5006ec20e3c72e4d445531bc0ef5d",
-      "title": "What Iran hunted so far",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2035043293474562441",
-      "published": "2026-03-20T17:18:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 70,
       "is_government": false,
@@ -2225,28 +2291,6 @@
       }
     },
     {
-      "id": "448d1bd7ba04724587b963657214fea6",
-      "title": ". Lebanon\u2019s Ministry of Foreign Affairs and Emigrants strongly condemned the terrorist plot that targeted the UAE, denou...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DWGgWcZCIrO",
-      "published": "2026-03-20T09:43:44+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2034928447907406188",
       "title": "#Lebanon condemns terrorist plot targeting UAE, Hezbollah involvement\n\n#WamNews \n\nhttps://www.wam.ae/a/bzarxms",
       "source": "WAM English",
@@ -2459,28 +2503,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2034827658471592288",
-      "title": "Notice on the importance of adherence to the traffic laws and regulations, and be cautious and vigilant  by drivers and avoid gathering or random stopping on the roads.\n#MOIQatar",
-      "source": "Qatar Ministry of Interior EN",
-      "source_url": "https://nitter.net/MOI_QatarEn/status/2034827658471592288#m",
-      "published": "2026-03-20T03:01:33+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -2907,28 +2929,6 @@
       }
     },
     {
-      "id": "2034637705867559006",
-      "title": "UAE Welcomes IMO Council Decision Strongly Condemning Iran\u2019s Attacks and Purported Closure of the Strait of Hormuz\n\nhttps://www.mofa.gov.ae/en/mediahub/news/2026/3/19/uae-hormuz",
-      "source": "UAE Ministry of Foreign Affairs",
-      "source_url": "https://nitter.net/mofauae/status/2034637705867559006#m",
-      "published": "2026-03-19T14:26:45+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2034630167776186475",
       "title": "\u2b55\ufe0f The IDF has targeted Litani River crossings that Hezbollah used for both terrorist movement and to transfer thousands of weapons, including rockets and rocket launchers, intended to be used against IDF troops and Israeli civilians in terrorist attacks. \n\nPrior to the strikes, warnings were published to ensure that civilians distance themselves from the crossings, in order to reduce civilian harm. \n\nIn footage released in the past few hours, a journalist is seen at the \u201cQasmiya\u201d crossing. An explicit warning had been issued regarding this area.\nThe crossing was struck after sufficient time had passed since warnings. The crossing was again targeted today at 12:30.\n\nThe IDF calls on the residents of Lebanon to heed the warnings published on various platforms. The IDF does not target civilians or journalists and operates in accordance with international law.",
       "source": "Israel Defense Forces",
@@ -3061,28 +3061,6 @@
       }
     },
     {
-      "id": "2034524313962033546",
-      "title": "R to @gcaauae: \u26a0\ufe0fGiven the current exceptional circumstances, the safety of our airspace requires everyone\u2019s cooperation. We emphasize the need to cease all drone operations to avoid legal violations. Any updates will be shared in due course.",
-      "source": "UAE GCAA",
-      "source_url": "https://nitter.net/gcaauae/status/2034524313962033546#m",
-      "published": "2026-03-19T06:56:10+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "48776f0becb2cb8f230b4aa3469c811d",
       "title": "\u062a\u0639\u0644\u0646 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u0642\u0637\u0631\u064a\u0629 \u0639\u0646 \u062a\u0639\u0631\u0636 \u062f\u0648\u0644\u0629 \u0642\u0637\u0631 \u0644\u0647\u062c\u0648\u0645 \u0628\u0635\u0648\u0627\u0631\u064a\u062e \u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646\u060c \u0627\u0633\u062a\u0647\u062f\u0641\u062a \u0645\u062f\u064a\u0646\u0629 \u0631\u0623\u0633 \u0644\u0641\u0627\u0646 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629\u060c \u0645\u0645\u0627 \u0623\u062f\u0649 \u0625\u0644\u0649 \u0648\u0642\u0648\u0639 \u0623\u0636\u0631\u0627\u0631. \u062d\u0641\u0638 \u0627\u0644\u0644\u0647 \u0642\u0637\u0631 \u0648\u0623\u0645\u064a\u0631\u0647\u0627 \u0648\u0634\u0639\u0628\u0647\u0627 \u0648\u0627\u0644\u0645\u0642\u064a\u0645\u064a\u0646 \u0639\u0644\u0649 \u0623\u0631\u0636\u0647\u0627. The Ministry of Defense of State of Qatar announces that State of Qatar was attacked ballistic\u2026 pic.",
       "source": "Qatar MOD (RSS.app)",
@@ -3095,6 +3073,28 @@
         "city": null,
         "lat": 25.3548,
         "lng": 51.1839
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2034425088918098079",
+      "title": "RT by @mofauae: Abdullah bin Zayed Strongly Condemns Unprovoked and Terrorist Iranian Missile Attack on West Bank in Call with Hussein Al-Sheikh\n\nHis Highness Sheikh Abdullah bin Zayed Al Nahyan, Deputy Prime Minister and Minister of Foreign Affairs, in a phone call with His Excellency Hussein Al Sheikh, Vice President of the State of Palestine, strongly condemned the unprovoked and terrorist Iranian missile attack targeting the West Bank, which resulted in several civilian casualties and injuries.\n\nHis Highness extended his sincere condolences to the Palestinian people over the victims of these terrorist attacks, and expressed his wishes for the swift recovery of all those injured.",
+      "source": "UAE Ministry of Foreign Affairs",
+      "source_url": "https://nitter.net/OFMUAE/status/2034425088918098079#m",
+      "published": "2026-03-19T00:21:53+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 100,
       "is_government": true,
@@ -3447,50 +3447,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2034197512265871831",
-      "title": "MDA Spokesperson: Following missile fire toward the State of Israel:\n\nAt this stage, no reports have been received at MDA\u2019s 101 emergency dispatch center. Updates as required. \n\nMDA calls on the public to follow the life-saving instructions of the Home Front Command.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2034197512265871831#m",
-      "published": "2026-03-18T09:17:35+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8e2776ebfb89de25159a7fb3b6dad868",
-      "title": "MDA Spokesperson: Following missile fire toward the State of Israel: At this stage, no reports have been received at MDA\u2019s 101 emergency dispatch center. Updates as required. MDA calls on the public to follow the life-saving instructions of the Home Front Command.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2034197512265871831",
-      "published": "2026-03-18T09:17:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 95,
       "is_government": true,
