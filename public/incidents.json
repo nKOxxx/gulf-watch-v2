@@ -1,14 +1,124 @@
 {
-  "generated_at": "2026-03-21T21:21:28.771456+00:00",
-  "total_incidents": 177,
+  "generated_at": "2026-03-21T22:20:28.436581+00:00",
+  "total_incidents": 174,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "title": "Middle East crisis live: Trump says US considering \u2018winding down\u2019 war; Iran fired missiles at UK-US base on Diego Garcia",
+      "title": "Middle East crisis live: Iran hits Israeli town housing nuclear facility in retaliation for Natanz strike",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "published": "2026-03-21T21:16:30+00:00",
-      "type": "missile",
+      "published": "2026-03-21T22:13:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "169c30e0d7c5a3de99a92d76645ee852",
+      "title": "Saudi Ministry of Foreign Affairs announced that it had asked the Iranian military attach\u00e9 and his assistant, and three members of the embassy staff, to leave the Kingdom within 24 hours  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2035472766867046690",
+      "published": "2026-03-21T21:44:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2035472046633673051",
+      "title": "MDA Spokesperson: Update Arad area as of 23:25: MDA EMTs and paramedics are treating and transporting 64 patients (7 serious, 15 moderate, 42 mild) via ambulances, mobile ICUs, and MDA/IAF helicopters. Teams continue searching for casualties. Updates as required.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2035472046633673051#m",
+      "published": "2026-03-21T21:42:07+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fb13a09a1101892db47adf055bf0d336",
+      "title": "MDA Spokesperson: Update Arad area as of 23:25: MDA EMTs and paramedics are treating and transporting 64 patients (7 serious, 15 moderate, 42 mild) via ambulances, mobile ICUs, and MDA/IAF helicopters. Teams continue searching for casualties. Updates as required. pic.",
+      "source": "Magen David Adom (RSS.app)",
+      "source_url": "https://x.com/Mdais/status/2035472046633673051",
+      "published": "2026-03-21T21:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3783873",
+      "title": "Teen resident of West Bank outpost killed after Palestinian vehicle strikes his ATV",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/teen-resident-of-west-bank-outpost-killed-after-palestinian-vehicle-strikes-his-atv/",
+      "published": "2026-03-21T21:40:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9466,
+        "lng": 35.3027
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774127513",
+      "title": "US says it has crippled Iranian threat in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/us-says-it-has-crippled-iranian-threat-in-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-03-21T21:37:48+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
@@ -18,6 +128,50 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2035468474324009414",
+      "title": "Update to the missile strike in Arad, southern Israel. 59 people treated and evacuated to hospital at this stage, by MDA teams.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2035468474324009414#m",
+      "published": "2026-03-21T21:27:56+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5cfab5c2e8123ccd261d1ac59da5e272",
+      "title": "Update to the missile strike in Arad, southern Israel. 59 people treated and evacuated to hospital at this stage, by MDA teams.",
+      "source": "Magen David Adom (RSS.app)",
+      "source_url": "https://x.com/Mdais/status/2035468474324009414",
+      "published": "2026-03-21T21:27:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -949,28 +1103,6 @@
       }
     },
     {
-      "id": "59417e8c739552dee4981d48f06da585",
-      "title": "#GCC) chief condemns in the strongest possible terms the blatant Israeli occupation attack on military infrastructure in south #Syria  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2035403829399667153",
-      "published": "2026-03-21T17:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "67cbac8aec27c5c830139d62b1b6e294",
       "title": "\ud83d\udea8#BREAKING Another wave of missiles fired toward occupied Palestine",
       "source": "Mehr News (RSS.app)",
@@ -1499,28 +1631,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774105903",
-      "title": "Arab states should beware of Israel\u2019s hegemonic energy expansion",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/3/21/arab-states-should-beware-of-israels-hegemonic-energy-expansion?traffic_source=rss",
-      "published": "2026-03-21T16:01:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3783656&preview=true&preview_id=3783656",
       "title": "Hezbollah rocket injures 5 in north, buildings damaged in barrages as IDF strikes Lebanon",
       "source": "Times of Israel",
@@ -1587,28 +1697,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3783617",
-      "title": "Wave of executions feared in Iran as authorities hang 3 young men nabbed in protests",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/wave-of-executions-feared-in-iran-as-authorities-hang-3-young-men-nabbed-in-protests/",
-      "published": "2026-03-21T14:56:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2035364955772355008",
       "title": "Press release on the importance of complying with vehicle noise level regulations.\n#MOIQatar",
       "source": "Qatar Ministry of Interior EN",
@@ -1643,28 +1731,6 @@
         "city": null,
         "lat": 23.5859,
         "lng": 58.4059
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3783574",
-      "title": "Education minister scraps some Passover camps after Iran cluster bomb hits daycare",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/education-minister-scraps-some-passover-camps-after-iran-cluster-bomb-hits-daycare/",
-      "published": "2026-03-21T13:25:16+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 85,
       "is_government": false,
@@ -3171,50 +3237,6 @@
       }
     },
     {
-      "id": "2034969870836682937",
-      "title": "RT by @Mdais: @jlnbrwn shows us how Israel's first responders at @Mdais provide life-saving treatment under fire\n\n\ud83d\udc47For more news and updates, visit our official website\ud83d\udc47\nhttps://bit.ly/i24NEWSEN",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/i24NEWS_EN/status/2034969870836682937#m",
-      "published": "2026-03-20T12:26:39+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e05fd72700ef6f9f39e69f1f3fb5c716",
-      "title": "RT by @Mdais: @jlnbrwn shows us how Israel's first responders at @Mdais provide life-saving treatment under fire \ud83d\udc47For more news and updates, visit our official website\ud83d\udc47  pic.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/i24NEWS_EN/status/2034969870836682937",
-      "published": "2026-03-20T12:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2034966814455669158",
       "title": "As part of the forward defensive effort, IDF troops continue targeted ground operations in southern Lebanon against Hezbollah and have struck +2,000 terror targets struck:\n\n\ud83d\udccd~120 Hezbollah command posts\n\ud83d\udce6100+ weapons storage facilities\n\ud83d\ude80130+ missile launchers\n\ud83d\udd34570+ Hezbollah terrorists were eliminated \n\nThe IDF will continue to operate against Hezbollah after they chose to join the conflict in defense of the Iranian terror regime.",
       "source": "Israel Defense Forces",
@@ -3391,50 +3413,6 @@
       }
     },
     {
-      "id": "2034927702046568520",
-      "title": "Missile barrage damages home in central Israel. At least one person injured. MDA searching reported scenes.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2034927702046568520#m",
-      "published": "2026-03-20T09:39:05+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b2902e4822b5d8a375baeab56a63042b",
-      "title": "Missile barrage damages home in central Israel. At least one person injured. MDA searching reported scenes.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2034927702046568520",
-      "published": "2026-03-20T09:39:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2034921621543113155",
       "title": "\ud83d\udd34ELIMINATED: Ali Mohammad Naini, the Spokesperson and Head of the Public Relations Array of the IRGC.\n\nNaini served in several propaganda and public relations roles. In his role as the IRGC's main propagandist for the past 2 years, he disseminated the regime's terrorist propaganda to its proxies across the Middle East in order to influence and advance terror attacks against Israel.",
       "source": "Israel Defense Forces",
@@ -3493,50 +3471,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2034864260376141862",
-      "title": "RT by @Mdais: From emergency medics to food rescue and global volunteers, new immigrants and civil society groups step up across Israel, sustaining daily life and frontline response as the war continues \n *** \nAryeh Myers of Magen David Adom: National ambulance service has expanded to full deployment, with all vehicles staffed around the clock. \u201cNothing stops,\u201d he said. \u201cWe respond to missile strikes and routine medical calls alike. The system has to handle both simultaneously.\u201d According to Myers, about 90% of MDA\u2019s workforce is made up of volunteers, reflecting what he described as a broader societal pattern.  Marc Rosenberg, vice president of Diaspora Partnerships at Nefesh B\u2019Nefesh:  \u201cIt\u2019s not just about getting through the crisis, it\u2019s about people choosing to be here and help shape what comes next.\u201d  \n  https://bit.ly/4rBBJA1   \u00a0\n\n@NefeshBNefesh \u00a0 \u00a0@Mdais \u00a0 \n#NefeshBnefesh #MDA #FirstResponders #Diaspora #Olim #Aliya #IsraelStory #War #Ministryofaliyah #TheJewishAgency #KKL #JNF",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/ynetnews/status/2034864260376141862#m",
-      "published": "2026-03-20T05:27:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e4f5eabcf634f9d7acba67af1f6073f0",
-      "title": "RT by @Mdais: From emergency medics to food rescue and global volunteers, new immigrants and civil society groups step up across Israel, sustaining daily life and frontline response as the war continues *** Aryeh Myers of Magen David Adom: National ambulance service has expanded to full\u2026 pic.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/ynetnews/status/2034864260376141862",
-      "published": "2026-03-20T05:27:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
