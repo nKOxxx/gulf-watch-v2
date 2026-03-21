@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-21T13:39:50.523269+00:00",
-  "total_incidents": 172,
+  "generated_at": "2026-03-21T14:23:36.468857+00:00",
+  "total_incidents": 168,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "title": "Middle East crisis live: Trump says US considering \u2018winding down\u2019 war; Iran fired missiles at Diego Garcia military base",
+      "title": "Middle East crisis live: Trump says US considering \u2018winding down\u2019 war; Iran fired missiles at UK-US base on Diego Garcia",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "published": "2026-03-21T13:35:01+00:00",
+      "published": "2026-03-21T14:21:19+00:00",
       "type": "missile",
       "status": "unconfirmed",
       "location": {
@@ -25,18 +25,40 @@
       }
     },
     {
+      "id": "47517e4f47029c3ddda143580b759090",
+      "title": "Speaking with #Iran's President Masoud Pezeshkian, #India's Prime Minister Narendra Modi condemns attacks on critical infrastructure in the region, reiterating the importance of freedom of navigation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2035356560382132472",
+      "published": "2026-03-21T14:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/uae/2026/03/21/joint-statement-on-strait-of-hormuz-says-freedom-of-navigation-is-enshrined-in-international-law/",
-      "title": "Joint statement on Strait of Hormuz: freedom of navigation enshrined in law",
+      "title": "Joint statement on Strait of Hormuz: Iran attacks must stop, freedom of navigation enshrined in law",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uae/2026/03/21/joint-statement-on-strait-of-hormuz-says-freedom-of-navigation-is-enshrined-in-international-law/",
       "published": "2026-03-21T13:26:29+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Oman",
         "city": null,
-        "lat": 26.5,
-        "lng": 56.5
+        "lat": 23.5859,
+        "lng": 58.4059
       },
       "credibility": 85,
       "is_government": false,
@@ -114,7 +136,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3783598",
-      "title": "Iran unsuccessfully targets Diego Garcia base, revealing missiles that can reach Western Europe",
+      "title": "Iran unsuccessfully targets UK-US Diego Garcia base, shows its missiles can reach Western Europe",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/iran-unsuccessfully-targets-diego-garcia-base-revealing-missiles-that-can-reach-western-europe/",
       "published": "2026-03-21T13:12:59+00:00",
@@ -972,8 +994,8 @@
     },
     {
       "id": "2035301746654711930",
-      "title": "RT by @moiuae: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
-      "source": "UAE Ministry of Interior",
+      "title": "R to @NCEMAUAE: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
+      "source": "UAE NCEMA",
       "source_url": "https://nitter.net/NCEMAUAE/status/2035301746654711930#m",
       "published": "2026-03-21T10:25:25+00:00",
       "type": "incident",
@@ -994,8 +1016,8 @@
     },
     {
       "id": "2035301746654711930",
-      "title": "R to @NCEMAUAE: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
-      "source": "UAE NCEMA",
+      "title": "RT by @moiuae: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
+      "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/NCEMAUAE/status/2035301746654711930#m",
       "published": "2026-03-21T10:25:25+00:00",
       "type": "incident",
@@ -1910,28 +1932,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4d651c09607ec67ad9200d09f2e482c2",
-      "title": "#US President Donald Trump: There are no plans to deploy ground troops to #Iran  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2035108845379301837",
-      "published": "2026-03-20T21:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -3692,94 +3692,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2034273198007570640",
-      "title": "Following missile fire toward the State of Israel:\n\nIn the Petah Tikva area, MDA EMTs and paramedics are treating and evacuating to Beilinson Hospital 3 casualties in mild condition, including a 44-year-old man and two children with blast injuries. Updates as required.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2034273198007570640#m",
-      "published": "2026-03-18T14:18:20+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 3,
-        "military": 0,
-        "civilian": 3
-      }
-    },
-    {
-      "id": "72ee080c2e57f8c9a8feb35488b1e814",
-      "title": "Following missile fire toward the State of Israel: In the Petah Tikva area, MDA EMTs and paramedics are treating and evacuating to Beilinson Hospital 3 casualties in mild condition, including a 44-year-old man and two children with blast injuries. Updates as required.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2034273198007570640",
-      "published": "2026-03-18T14:18:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 3,
-        "military": 0,
-        "civilian": 3
-      }
-    },
-    {
-      "id": "2034268482729033880",
-      "title": "MDA Spokesperson: Following the missile fire toward the State of Israel:\n\nAt this stage, no reports of casualties have been received.\n\nMDA EMTs and paramedics are searching locations where reports were received. Updates as required.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2034268482729033880#m",
-      "published": "2026-03-18T13:59:35+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c851b07e89d86cce3b90bc3e356149d8",
-      "title": "MDA Spokesperson: Following the missile fire toward the State of Israel: At this stage, no reports of casualties have been received. MDA EMTs and paramedics are searching locations where reports were received. Updates as required.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2034268482729033880",
-      "published": "2026-03-18T13:59:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
