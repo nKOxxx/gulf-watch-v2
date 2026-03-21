@@ -1,14 +1,190 @@
 {
-  "generated_at": "2026-03-21T22:20:28.436581+00:00",
-  "total_incidents": 174,
+  "generated_at": "2026-03-21T23:21:07.839491+00:00",
+  "total_incidents": 177,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+      "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+      "published": "2026-03-21T23:15:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
       "title": "Middle East crisis live: Iran hits Israeli town housing nuclear facility in retaliation for Natanz strike",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-      "published": "2026-03-21T22:13:18+00:00",
+      "published": "2026-03-21T23:09:08+00:00",
       "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel",
+      "title": "Almost 100 wounded in Iranian missile strikes on southern Israel",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel",
+      "published": "2026-03-21T23:07:11+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 100,
+        "military": 0,
+        "civilian": 100
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774125758",
+      "title": "Saudi Arabia expels Iran military attache and four team members",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/21/saudi-arabia-expels-iran-military-attache-and-four-team-members?traffic_source=rss",
+      "published": "2026-03-21T23:00:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774123587",
+      "title": "Iran strikes towns near Israel\u2019s nuclear site in escalating tit-for-tat",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss",
+      "published": "2026-03-21T22:57:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774129677",
+      "title": "WHO says attack on Sudan hospital killed 64, including 13 children",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children?traffic_source=rss",
+      "published": "2026-03-21T22:43:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b84ca120c05027adc0227ae271c99f4f",
+      "title": "#Kuwait Airways: the resumption of scheduled flights to and from #Cairo via Dammam Airport in the Kingdom of Saudi Arabia, with four flights per week as of this Thursday, March 26  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2035487215053091062",
+      "published": "2026-03-21T22:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 26.3927,
+        "lng": 50.0916
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774120828",
+      "title": "ICC Chief Prosecutor Khan cleared of sexual misconduct by judges: Report",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/21/icc-chief-prosecutor-khan-cleared-of-sexual-misconduct-by-judges-report?traffic_source=rss",
+      "published": "2026-03-21T22:08:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774130452",
+      "title": "State of emergency declared as Iranian missile hits Arad in southern Israel",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/state-of-emergency-declared-as-iranian-missile-hits-arad-in-southern-israel?traffic_source=rss",
+      "published": "2026-03-21T22:02:40+00:00",
+      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
@@ -883,28 +1059,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774107840",
-      "title": "Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/21/flash-flooding-swamps-hawaii-prompting-evacuation-orders-for-5500-people?traffic_source=rss",
-      "published": "2026-03-21T18:01:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "8e24f5a6d53863571bc55e855dc147ff",
       "title": "Aftermath of Iranian missile attack on Dimona",
       "source": "Mehr News (RSS.app)",
@@ -1191,28 +1345,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774108233",
-      "title": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown?traffic_source=rss",
-      "published": "2026-03-21T16:57:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2035398853986545879",
       "title": "RT by @moiuae: Authorities in Ras Al Khaimah confirm that the sounds heard across parts of the city were the result of successful air defence interception operations.  Please rely on official sources for updates.",
       "source": "UAE Ministry of Interior",
@@ -1412,28 +1544,6 @@
     },
     {
       "id": "2035391376767308130",
-      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
-      "source": "UAE Ministry of Interior",
-      "source_url": "https://nitter.net/NCEMAUAE/status/2035391376767308130#m",
-      "published": "2026-03-21T16:21:34+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2035391376767308130",
       "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
       "source": "UAE NCEMA",
       "source_url": "https://nitter.net/NCEMAUAE/status/2035391376767308130#m",
@@ -1445,6 +1555,28 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2035391376767308130",
+      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
+      "source": "UAE Ministry of Interior",
+      "source_url": "https://nitter.net/NCEMAUAE/status/2035391376767308130#m",
+      "published": "2026-03-21T16:21:34+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
       },
       "credibility": 100,
       "is_government": true,
@@ -1602,28 +1734,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774100155",
-      "title": "Bahrain says Patriot system intercepted drone over homes",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes?traffic_source=rss",
-      "published": "2026-03-21T16:02:46+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.7308,
-        "lng": 36.7094
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2314,8 +2424,8 @@
     },
     {
       "id": "2035301746654711930",
-      "title": "RT by @moiuae: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
-      "source": "UAE Ministry of Interior",
+      "title": "R to @NCEMAUAE: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
+      "source": "UAE NCEMA",
       "source_url": "https://nitter.net/NCEMAUAE/status/2035301746654711930#m",
       "published": "2026-03-21T10:25:25+00:00",
       "type": "incident",
@@ -2336,8 +2446,8 @@
     },
     {
       "id": "2035301746654711930",
-      "title": "R to @NCEMAUAE: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
-      "source": "UAE NCEMA",
+      "title": "RT by @moiuae: Safety begins with awareness and is reinforced through shared responsibility.\n\nOn Arab Disaster Risk Reduction Day, we affirm that your safety is our priority, and that following precautionary measures during crises forms the foundation for building a safer environment.\n\nHand in hand, we face challenges and create a better future.",
+      "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/NCEMAUAE/status/2035301746654711930#m",
       "published": "2026-03-21T10:25:25+00:00",
       "type": "incident",
@@ -2533,28 +2643,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump",
-      "title": "Trump hints at wind down of war as US prepares to send more troops to Gulf",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump",
-      "published": "2026-03-21T07:44:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "b68f1614645581f94db19e0161215fb1",
       "title": "Following home safety guidelines demonstrates your awareness and plays a significant role in ensuring your security and ...",
       "source": "Qatar MOI EN (RSS.app)",
@@ -2680,28 +2768,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/business/2026/mar/21/iran-war-floored-gulf-states-sports-hub-economies",
-      "title": "\u2018It\u2019s come at the wrong time\u2019: how Iran war has floored the Gulf as a sports hub",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/mar/21/iran-war-floored-gulf-states-sports-hub-economies",
-      "published": "2026-03-21T06:00:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
