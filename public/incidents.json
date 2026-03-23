@@ -1,10 +1,516 @@
 {
-  "generated_at": "2026-03-23T08:00:37.530568+00:00",
-  "total_incidents": 170,
+  "generated_at": "2026-03-23T09:59:06.009886+00:00",
+  "total_incidents": 168,
   "incidents": [
     {
+      "id": "efdce602ad42d8e380cc707295377b92",
+      "title": "Jazeera Airways resumes its flights to & from Lahore, Pakistan, via Al-Qaisumah Airport starting March 29, with two weekly flights on Wednesdays & Sundays. @JazeeraAirways  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2036018652030378376",
+      "published": "2026-03-23T09:54:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fca513571df3c2f8b536fd306b288080",
+      "title": "#SaudiArabia intercepts two drones in the Eastern Region  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2036017883474440693",
+      "published": "2026-03-23T09:51:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/23/iran-threat-to-destroy-water-facilities-gulf",
+      "title": "Why Iran\u2019s threat to destroy water facilities could spell disaster for Gulf countries",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/23/iran-threat-to-destroy-water-facilities-gulf",
+      "published": "2026-03-23T09:43:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2036015772628099092",
+      "title": "\ud83d\udd0d DISCOVERED:IDF soldiers found an anti-tank missile post and weapons while operating in southern Lebanon.",
+      "source": "Israel Defense Forces",
+      "source_url": "https://nitter.net/IDF/status/2036015772628099092#m",
+      "published": "2026-03-23T09:42:42+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2036015208259289291",
+      "title": "Statement from the Ministry of Interior on the importance of adhering to security and safety procedures in workplaces.\nYou can view the guidelines by scanning the QR code or via the attached link. \nhttps://portal.moi.gov.qa/wps/wcm/connect/bbbcac51-5334-4be5-a872-5c62e3713b9a/safety_en.pdf?MOD=AJPERES\n#MOIQatar",
+      "source": "Qatar Ministry of Interior EN",
+      "source_url": "https://nitter.net/MOI_QatarEn/status/2036015208259289291#m",
+      "published": "2026-03-23T09:40:27+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774258361",
+      "title": "Aftermath of Israeli attack in southern Lebanon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/aftermath-of-israeli-attack-in-southern-lebanon?traffic_source=rss",
+      "published": "2026-03-23T09:38:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2036012987803406540",
+      "title": "RT by @CivilDefenceAD: In an emergency, members of the public are reminded to contact the relevant authorities for support and assistance.",
+      "source": "Abu Dhabi Civil Defence",
+      "source_url": "https://nitter.net/ADMediaOffice/status/2036012987803406540#m",
+      "published": "2026-03-23T09:31:38+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ac3672c6e38fdce38cf2af1829013e61",
+      "title": "RT by @CivilDefenceAD: In an emergency, members of the public are reminded to contact the relevant authorities for support and assistance. pic.",
+      "source": "Abu Dhabi Civil Defence (RSS.app)",
+      "source_url": "https://x.com/ADMediaOffice/status/2036012987803406540",
+      "published": "2026-03-23T09:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
+      "title": "Middle East crisis live: Iran threatens to lay mines across entire Gulf if coasts are attacked as Israel warns war could continue for weeks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
+      "published": "2026-03-23T09:29:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774252161",
+      "title": "Israel\u2019s displacement of civilians in Lebanon is a possible war crime",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/3/23/israels-displacement-of-civilians-in-lebanon-is-a-possible-war-crime?traffic_source=rss",
+      "published": "2026-03-23T09:21:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/03/23/uae-cyber-security-council-warns-of-online-hacking-surge-linked-to-remote-work/",
+      "title": "UAE Cyber Security Council warns of online hacking surge linked to remote work",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/03/23/uae-cyber-security-council-warns-of-online-hacking-surge-linked-to-remote-work/",
+      "published": "2026-03-23T09:14:05+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3784931",
+      "title": "Israeli diplomat slams UK anti-Israel art exhibit featuring swastika as antisemitic",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/israeli-diplomat-slams-uk-anti-israel-art-exhibit-featuring-swastika-as-antisemitic/",
+      "published": "2026-03-23T09:09:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8ca40fe7e981ecc155490c926eadf99e",
+      "title": "\ud83d\udea8#BREAKING Iran on Monday rejected allegations that it targeted a US-UK military base on Diego Garcia with missiles, dismissing the claim as an 'Israeli false flag'",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2036005989749547453",
+      "published": "2026-03-23T09:03:00+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4f09b229d75ed54f0ad7920e531e367d",
+      "title": "UN Population Fund: Escalating hostilities in #Lebanon are severely affecting women & girls, who account for 20 percent of reported casualties & 54 percent of refugees in government facilities. @UNFPA  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2036003257705726190",
+      "published": "2026-03-23T08:52:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774251097",
+      "title": "Israeli settlers rampage through West Bank towns for second night in a row",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/23/israeli-settlers-rampage-through-west-bank-towns-for-second-night-in-a-row?traffic_source=rss",
+      "published": "2026-03-23T08:50:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774247228",
+      "title": "\u2018Unprecedented\u2019: Israel, US carry out extensive strikes across Iran",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/23/unprecedented-israel-us-carry-out-extensive-strikes-across-iran?traffic_source=rss",
+      "published": "2026-03-23T08:39:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2bc2ef26e8550b341b55a3b75f482e2d",
+      "title": "\ud83d\udea8 #BREAKING Medical Council of the Islamic Republic of Iran (IRIMC) has called for the expulsion of the United States and Israel from international health bodies.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2035998106207088816",
+      "published": "2026-03-23T08:32:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ed14b4b46368e74d1b002001c3b53406",
+      "title": "\ud83d\udea8 #BREAKING Pilot, co-pilot killed, 2 injured after Air Canada plane collides with fire truck at New York\u2019s LaGuardia Airport, CNN reports, citing law enforcement",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2035994322521170331",
+      "published": "2026-03-23T08:17:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 2,
+        "military": 0,
+        "civilian": 2
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3784948",
+      "title": "Two pilots killed after passenger jet hits fire truck at New York\u2019s LaGuardia airport",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/two-pilots-killed-after-passenger-jet-hits-fire-truck-at-new-yorks-laguardia-airport/",
+      "published": "2026-03-23T08:09:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774253033",
+      "title": "China \u2018is playing the long game\u2019 in Iran war by staying neutral",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/quotable/2026/3/23/china-is-playing-the-long-game-in-iran-war-by-staying-neutral?traffic_source=rss",
+      "published": "2026-03-23T08:09:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774243882",
+      "title": "Iran war: What\u2019s happening on day 24 of US-Israel attacks?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks?traffic_source=rss",
+      "published": "2026-03-23T08:07:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/03/23/jewish-volunteer-ambulances-set-on-fire-in-sickening-attack-in-london/",
+      "title": "Jewish volunteer ambulances set on fire in 'sickening attack' in London",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/03/23/jewish-volunteer-ambulances-set-on-fire-in-sickening-attack-in-london/",
+      "published": "2026-03-23T07:58:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2babf0a44215795d465f11b786c1fc4f",
+      "title": "Jazeera Airways resumes Dubai flights via Qaisumah  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2035988869913465121",
+      "published": "2026-03-23T07:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/business/markets/2026/03/23/manus-on-markets-power-plant-threats-tipping-point-in-iran-war/",
-      "title": "Manus on Markets: Power plant threats tipping point in Iran war",
+      "title": "Manus on Markets: Power plant threats a tipping point in Iran war",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/business/markets/2026/03/23/manus-on-markets-power-plant-threats-tipping-point-in-iran-war/",
       "published": "2026-03-23T07:41:31+00:00",
@@ -113,28 +619,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-      "title": "Middle East crisis live: Starmer and Trump discuss \u2018essential\u2019 need to open strait of Hormuz as Israel warns war will continue for weeks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-      "published": "2026-03-23T07:31:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "342d1e83eb1a81b0225158efe17047df",
       "title": "\ud83d\udea8#BREAKING American fighter jet crashes in Kuwait: Iraqi media",
       "source": "Mehr News (RSS.app)",
@@ -149,28 +633,6 @@
         "lng": 39.5692
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774236722",
-      "title": "World in energy crisis worse than 1970s\u2019 oil shocks combined, IEA head says",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/3/23/world-in-energy-crisis-worse-than-1970s-oil-shocks-combined-iea-head-says?traffic_source=rss",
-      "published": "2026-03-23T07:07:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -223,28 +685,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes",
-      "title": "Trump\u2019s video game war: AI, memes and a simplistic narrative have flattened the conflict | Nesrine Malik in Iran",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes",
-      "published": "2026-03-23T06:00:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2035958953809678508",
       "title": "R to @RoyalOmanPolice: Alert: Your safety is our top priority\n\nDue to the ongoing weather conditions and heavy rainfall affecting several governorates of the Sultanate, the Royal Oman Police urge everyone to follow these guidelines:\n\n#royalomanpolice",
       "source": "Royal Oman Police",
@@ -282,28 +722,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774243583",
-      "title": "New York\u2019s LaGuardia airport closed after Air Canada jet hits vehicle",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/23/air-canada-jet-collides-with-ground-vehicle-at-new-york-airport?traffic_source=rss",
-      "published": "2026-03-23T05:48:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -465,28 +883,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774241539",
-      "title": "Brothers search rubble for missing sibling under Tehran rubble after strike",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/brothers-search-rubble-for-missing-sibling-under-tehran-rubble-after-strike?traffic_source=rss",
-      "published": "2026-03-23T04:54:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/03/23/uae-weather-warnings-issued-as-abu-dhabi-hit-by-rain-and-thunder/",
       "title": "UAE weather warning as Abu Dhabi and Dubai hit by heavy rain and thunder",
       "source": "The National UAE",
@@ -531,94 +927,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/arts-culture/art-design/2026/03/23/palestinian-artist-creates-central-work-for-oslo-government-quarter-rebuilt-after-2011-attacks/",
-      "title": "Palestinian artist creates central work for Oslo government quarter rebuilt after 2011 attacks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/arts-culture/art-design/2026/03/23/palestinian-artist-creates-central-work-for-oslo-government-quarter-rebuilt-after-2011-attacks/",
-      "published": "2026-03-23T04:09:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/03/23/how-the-iran-war-is-turning-americas-energy-dominance-into-a-mirage/",
-      "title": "How the Iran war is turning America's energy dominance into a mirage",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/03/23/how-the-iran-war-is-turning-americas-energy-dominance-into-a-mirage/",
-      "published": "2026-03-23T04:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/03/23/which-flights-are-suspended-or-delayed-at-dubai-and-abu-dhabi-airports/",
-      "title": "Which flights are suspended or delayed at Dubai and Abu Dhabi airports?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/03/23/which-flights-are-suspended-or-delayed-at-dubai-and-abu-dhabi-airports/",
-      "published": "2026-03-23T03:52:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/03/23/live-us-israel-iran-war-trump-hormuz-threat/",
-      "title": "US-Iran latest: Gargash condemns Iranian 'thuggery' in Strait of Hormuz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/03/23/live-us-israel-iran-war-trump-hormuz-threat/",
-      "published": "2026-03-23T03:49:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3784886",
       "title": "US said planning weeks-long operation to reopen Hormuz Strait; IDF strikes Tehran overnight",
       "source": "Times of Israel",
@@ -633,28 +941,6 @@
         "lng": 51.389
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774235816",
-      "title": "Immense damage seen in Iran\u2019s streets after air strikes",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/immense-damage-seen-in-irans-streets-after-air-strikes?traffic_source=rss",
-      "published": "2026-03-23T03:19:18+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -774,28 +1060,6 @@
     },
     {
       "id": "2035913726826852376",
-      "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
-      "source": "UAE NCEMA",
-      "source_url": "https://nitter.net/NCEMAUAE/status/2035913726826852376#m",
-      "published": "2026-03-23T02:57:12+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2035913726826852376",
       "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
       "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/NCEMAUAE/status/2035913726826852376#m",
@@ -807,6 +1071,28 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2035913726826852376",
+      "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
+      "source": "UAE NCEMA",
+      "source_url": "https://nitter.net/NCEMAUAE/status/2035913726826852376#m",
+      "published": "2026-03-23T02:57:12+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 100,
       "is_government": true,
@@ -876,28 +1162,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774223388",
-      "title": "Asian stock markets plunge amid Trump\u2019s ultimatum on Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran?traffic_source=rss",
-      "published": "2026-03-23T01:56:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1082,17 +1346,17 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3784863",
-      "title": "Iran threatens to hit power plants in Israel, Gulf if its electricity sector is targeted",
+      "title": "El Al \u2018reviewing continued operations\u2019 at Ben Gurion as Israel slashes traffic amid missile fire",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/liveblog-march-23-2026/",
       "published": "2026-03-22T23:58:28+00:00",
-      "type": "incident",
+      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -1271,28 +1535,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3784613",
-      "title": "Syrians rally against new law restricting sale of alcohol in Damascus",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/syrians-rally-against-new-law-restricting-sale-of-alcohol-in-damascus/",
-      "published": "2026-03-22T23:17:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 33.5138,
-        "lng": 36.2765
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1521,28 +1763,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3784693",
-      "title": "Sa\u2019ar slams German envoy for condemning settler violence in post on Israeli war casualties",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/saar-slams-german-envoy-for-condemning-settler-violence-in-post-on-israeli-war-casualties/",
-      "published": "2026-03-22T20:59:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "becbd03d9f80637108eca8dd9dee42ac",
       "title": "Saudi Arabia intercepts, destroys 8 drones over E. Region  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -1631,28 +1851,6 @@
       }
     },
     {
-      "id": "48b3d110e878860a8b8ad4bc19d28b73",
-      "title": "Arab Parliament chief condemns Israeli settlers' aggression in West Bank  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2035795235951853583",
-      "published": "2026-03-22T19:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/commentisfree/picture/2026/mar/22/ella-baron-donald-trump-iran-war-cartoon",
       "title": "Ella Baron on Donald Trump and the Iran war \u2013 cartoon",
       "source": "The Guardian",
@@ -1697,50 +1895,6 @@
       }
     },
     {
-      "id": "2035787318317990183",
-      "title": "\ud83d\udd0d DISCOVERED: IDF soldiers found an anti-tank missile post and weapons while operating in southern Lebanon.",
-      "source": "Israel Defense Forces",
-      "source_url": "https://nitter.net/IDF/status/2035787318317990183#m",
-      "published": "2026-03-22T18:34:54+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a1ef5c2945495ff89acb0b287bde250c",
-      "title": "First Deputy Prime Minister & Interior Minister stresses the importance of maintaining vigilance, raising readiness levels & firmly confronting any attempts that may threaten the country's security or disrupt public order.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2035779438969758204",
-      "published": "2026-03-22T18:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2035778691762942178",
       "title": "The Hamas Ministry of Economy acknowledged in an official statement published last Thursday that there has been an improvement in the flow of food through the crossings.\n\nAt the same time, interested parties continue to echo false narratives and attempt to portray a situation of food shortages in the Gaza Strip.\n\nThe reality on the ground shows undisputed improvement. It is unfortunate that those same parties choose to ignore it.",
       "source": "COGAT",
@@ -1756,28 +1910,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/mar/22/iran-war-timeline-civilians-bear-brunt-of-us-and-israels-month-long-campaign",
-      "title": "Iran war timeline: civilians bear brunt of US and Israel\u2019s weeks-long campaign",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/mar/22/iran-war-timeline-civilians-bear-brunt-of-us-and-israels-month-long-campaign",
-      "published": "2026-03-22T18:00:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1821,50 +1953,6 @@
         "lng": 39.5692
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4f77eb4f4f2dd8fe9770b6ab4e0f9dfa",
-      "title": "Jazeera Airways announces the resumption of its commercial flights to & from the Indian cities of Ahmedabad & Trivandrum via Al-Qaisumah Airport in Saudi Arabia, effective March 30.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2035773447251370373",
-      "published": "2026-03-22T17:39:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "23eeabc0ee67b6191f9d427341224008",
-      "title": "CENTCOM says American fighter jets have carried out more than 8,000 combat sorties during Operation \"Epic Fury\" against Iran.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2035772563582763042",
-      "published": "2026-03-22T17:36:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -2152,72 +2240,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "895f6a6c7ed8131b6f2e5eb703703b52",
-      "title": "Had Donald Trump studied history, he would know that Iran and its people have never bowed to bullies. That has always been the case \u2014 in the past, today, and it will remain so in the future. Iran is now reminding the world of its thousands-of-years-old history and culture.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2035729032902225982",
-      "published": "2026-03-22T14:43:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "cdebe85345e28b9de4df23ca0d5af1bd",
-      "title": "\ud83d\udd3bIt added that electricity plants, energy infrastructure and information technology systems in occupied Palestine would be targeted, and that regional companies with American shareholders could also face attacks.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2035726588835250587",
-      "published": "2026-03-22T14:33:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "51e92383d0ea63938e8d180416331128",
-      "title": "\ud83d\udd3bIn a statement, the spokesman said that if threats against Iranian power plants are implemented, Iran would fully close the Strait of Hormuz and keep it closed until damaged facilities are re built.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2035726584502432163",
-      "published": "2026-03-22T14:33:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2731,28 +2753,6 @@
       }
     },
     {
-      "id": "2035524470408978837",
-      "title": "The Ministry of Interior announces that its specialized teams are carrying out search and rescue operations in the country\u2019s territorial waters, following a helicopter crash, as reported by the Ministry of Defense.\nThese operations are being carried out in close coordination by the Maritime Search and Rescue Team of the General Directorate of Coasts and Borders Security, along with the Qatar International Search and Rescue Group of the Internal Security Force (Lekhwiya).\n#MOIQatar",
-      "source": "Qatar Ministry of Interior EN",
-      "source_url": "https://nitter.net/MOI_QatarEn/status/2035524470408978837#m",
-      "published": "2026-03-22T01:10:26+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "9947cda14b29ce13a337379de4b7b55e",
       "title": "\u062a\u0639\u0644\u0646 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u0642\u0637\u0631\u064a\u0629 \u0639\u0646 \u062a\u0639\u0631\u0636 \u0637\u0627\u0626\u0631\u0629 \u0645\u0631\u0648\u062d\u064a\u0629 \u0642\u0637\u0631\u064a\u0629 \u0625\u0644\u0649 \u0639\u0637\u0644 \u0641\u0646\u064a \u0623\u062b\u0646\u0627\u0621 \u062a\u0623\u062f\u064a\u0629 \u0648\u0627\u062c\u0628 \u0631\u0648\u062a\u064a\u0646\u064a\u060c \u0645\u0645\u0627 \u0623\u062f\u0649 \u0625\u0644\u0649 \u0633\u0642\u0648\u0637\u0647\u0627 \u0641\u064a \u0627\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u0625\u0642\u0644\u064a\u0645\u064a\u0629 \u0644\u0644\u062f\u0648\u0644\u0629\u060c \u0648\u062c\u0627\u0631\u064a \u0627\u0644\u0628\u062d\u062b \u0639\u0646 \u0637\u0627\u0642\u0645\u0647\u0627 \u0648\u0627\u0644\u0631\u0643\u0627\u0628. The Ministry of Defense of State of Qatar announces that a Qatari helicopter had technical malfunction during a\u2026 pic.",
       "source": "Qatar MOD (RSS.app)",
@@ -3237,28 +3237,6 @@
       }
     },
     {
-      "id": "2035371628159230040",
-      "title": "The Ministry of Interior clarifies that National Warning System alerts are only activated when urgent, additional precautionary measures are required for public safety. We urge everyone to strictly adhere to all instructions issued through these alerts. #MOIQatar",
-      "source": "Qatar Ministry of Interior EN",
-      "source_url": "https://nitter.net/MOI_QatarEn/status/2035371628159230040#m",
-      "published": "2026-03-21T15:03:06+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2035344554539323665",
       "title": "\ud83c\udfafSTRUCK: Dozens of Iranian terror regime targets, during a wide-scale strike sortie in Tehran, Iran.\n\nAmong the sites struck:\n- A central IRGC compound utilized for the production and development of ballistic missile components\n- A missile production components storage facility\n- A compound belonging to the Ministry of Defense responsible for producing missiles fuel\n- Ballistic missiles components production site",
       "source": "Israel Defense Forces",
@@ -3403,28 +3381,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c72fd2e8f89a5e7aba19ac5649446403",
-      "title": "RT by @CivilDefenceAD: The Safety Guidelines in Adverse Weather Conditions outline measures to follow during unstable weather, supporting community awareness and helping to protect public safety and property. To Download The Safety Guidelines in Adverse Weather Conditions:",
-      "source": "Abu Dhabi Civil Defence (RSS.app)",
-      "source_url": "https://x.com/ADMediaOffice/status/2035238371594039712",
-      "published": "2026-03-21T06:13:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 100,
       "is_government": true,
