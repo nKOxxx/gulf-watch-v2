@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-23T22:28:09.972655+00:00",
-  "total_incidents": 163,
+  "generated_at": "2026-03-23T23:29:09.088470+00:00",
+  "total_incidents": 158,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
       "title": "Middle East crisis live: Trump says Iran and US \u2018want to make a deal\u2019 but Tehran says claims of talks are \u2018fake news\u2019",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-      "published": "2026-03-23T22:25:56+00:00",
+      "published": "2026-03-23T23:25:44+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +15,138 @@
         "city": null,
         "lat": 35.6892,
         "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4b5d96b7be56bc1aaab05a03f70721dd",
+      "title": "Saudi Crown Prince and Prime Minister Mohammed bin Salman received a phone call from Greek Prime Minister Kyriakos Mitsotakis, during which they discussed the latest developments amid the ongoing military escalation in the region  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2036220205966246160",
+      "published": "2026-03-23T23:15:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3785746",
+      "title": "Iranian cluster munition strikes home in suburb of Haifa, no injuries reported",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog-march-24-2026/",
+      "published": "2026-03-23T23:11:42+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.794,
+        "lng": 34.9896
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774306640",
+      "title": "Macron says Lebanon\u2019s fight is \u2018just\u2019 amid escalating attacks by Israel",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/macron-says-lebanons-fight-is-just-amid-escalating-attacks-by-israel?traffic_source=rss",
+      "published": "2026-03-23T22:59:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2036216209109127211",
+      "title": "R to @Mdais: Update from several reported scenes in northern Israel - one person in mild condition with a shrapnel injury, and a number of others being treated for anxiety symptoms.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2036216209109127211#m",
+      "published": "2026-03-23T22:59:09+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4b89e584b2f05c708e4921b66c4f5b0d",
+      "title": "Update from several reported scenes in northern Israel - one person in mild condition with a shrapnel injury, and a number of others being treated for anxiety symptoms.",
+      "source": "Magen David Adom (RSS.app)",
+      "source_url": "https://x.com/Mdais/status/2036216209109127211",
+      "published": "2026-03-23T22:59:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774299783",
+      "title": "UN expert says world has given Israel \u2018licence to torture Palestinians\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/23/un-expert-says-world-has-given-israel-licence-to-torture-palestinians?traffic_source=rss",
+      "published": "2026-03-23T22:58:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -84,6 +216,28 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2036197689545904173",
+      "title": "RT by @mofauae: Abdullah bin Zayed expressed his condolences during a phone call to @MBA_AlThani_ on the martyrdom of Captain Pilot Mubarak Salem Daway Al Marri, Captain Pilot Saeed Nasser Smeikh, Sergeant Fahd Hadi Ghanem Al Khayarin, and Corporal Mohammed Maher Mohammed of the Qatar Armed Forces, following the crash of a helicopter in Qatar\u2019s territorial waters, as a result of a technical malfunction.",
+      "source": "UAE Ministry of Foreign Affairs",
+      "source_url": "https://nitter.net/OFMUAE/status/2036197689545904173#m",
+      "published": "2026-03-23T21:45:34+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -487,28 +641,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774287282",
-      "title": "Colombian military plane crash kills at least one injures 77",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff?traffic_source=rss",
-      "published": "2026-03-23T19:11:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "9781f7cacd99cb88bcfd422c1d2c5879",
       "title": "Adhering to precautionary measures within the workplace upon receiving any official alert or notification enhances safet...",
       "source": "Qatar MOI EN (RSS.app)",
@@ -664,7 +796,7 @@
     },
     {
       "id": "https://www.bbc.com/news/articles/c3v6ld7lv9no#0",
-      "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
+      "title": "A committed pharmacist and a homesick blogger \u2013 the Iranian civilians killed in the war",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
       "published": "2026-03-23T18:31:26+00:00",
@@ -1521,50 +1653,6 @@
       }
     },
     {
-      "id": "220437b38a308aa457a665a210803631",
-      "title": "Kuwait's Ministry of Interior says explosives disposal teams handled 14 reports related to falling debris resulting from defensive interception operations over the past 24 hours, bringing the total to 498.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2036093165699035278",
-      "published": "2026-03-23T14:50:00+00:00",
-      "type": "explosion",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3785097",
-      "title": "Fresh flight restrictions thwart Israelis\u2019 Passover plans, send carriers scrambling",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/fresh-flight-restrictions-thwart-israelis-passover-plans-send-carriers-scrambling/",
-      "published": "2026-03-23T14:48:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2036088159302304131",
       "title": "Statement by the Ministry of Interior emphasizing the importance of adhering to approved safety guidelines and preventive measures for educational institutions to ensure the safety of students, as well as teaching and administrative staff.\n#MOIQatar",
       "source": "Qatar Ministry of Interior EN",
@@ -1874,28 +1962,6 @@
     },
     {
       "id": "2036038256656253097",
-      "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
-      "source": "UAE NCEMA",
-      "source_url": "https://nitter.net/NCEMAUAE/status/2036038256656253097#m",
-      "published": "2026-03-23T11:12:02+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2036038256656253097",
       "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
       "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/NCEMAUAE/status/2036038256656253097#m",
@@ -1907,6 +1973,28 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2036038256656253097",
+      "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
+      "source": "UAE NCEMA",
+      "source_url": "https://nitter.net/NCEMAUAE/status/2036038256656253097#m",
+      "published": "2026-03-23T11:12:02+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 100,
       "is_government": true,
@@ -1984,8 +2072,8 @@
     },
     {
       "id": "2036037775494136056",
-      "title": "\u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u0627\u0639\u062a\u0631\u0627\u0636 \u0643\u0644 \u0645\u0646 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u0627\u062a \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629.\n\nUAE air defences are currently responding to incoming missile and drone threats from Iran\n\nMOD asserts that the sounds heard are the result of the Air Defence Systems intercepting missiles and drones\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Defence",
+      "title": "RT by @moiuae: \u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u0627\u0639\u062a\u0631\u0627\u0636 \u0643\u0644 \u0645\u0646 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u0627\u062a \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629.\n\nUAE air defences are currently responding to incoming missile and drone threats from Iran\n\nMOD asserts that the sounds heard are the result of the Air Defence Systems intercepting missiles and drones\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/modgovae/status/2036037775494136056#m",
       "published": "2026-03-23T11:10:08+00:00",
       "type": "missile",
@@ -2006,8 +2094,8 @@
     },
     {
       "id": "2036037775494136056",
-      "title": "RT by @moiuae: \u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u0627\u0639\u062a\u0631\u0627\u0636 \u0643\u0644 \u0645\u0646 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u0627\u062a \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629.\n\nUAE air defences are currently responding to incoming missile and drone threats from Iran\n\nMOD asserts that the sounds heard are the result of the Air Defence Systems intercepting missiles and drones\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Interior",
+      "title": "\u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u0627\u0639\u062a\u0631\u0627\u0636 \u0643\u0644 \u0645\u0646 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0642\u0627\u062a\u0644\u0627\u062a \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629.\n\nUAE air defences are currently responding to incoming missile and drone threats from Iran\n\nMOD asserts that the sounds heard are the result of the Air Defence Systems intercepting missiles and drones\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Defence",
       "source_url": "https://nitter.net/modgovae/status/2036037775494136056#m",
       "published": "2026-03-23T11:10:08+00:00",
       "type": "missile",
@@ -2094,8 +2182,8 @@
     },
     {
       "id": "2036036840382517754",
-      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Defence",
+      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/modgovae/status/2036036840382517754#m",
       "published": "2026-03-23T11:06:25+00:00",
       "type": "missile",
@@ -2116,8 +2204,8 @@
     },
     {
       "id": "2036036840382517754",
-      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Interior",
+      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Defence",
       "source_url": "https://nitter.net/modgovae/status/2036036840382517754#m",
       "published": "2026-03-23T11:06:25+00:00",
       "type": "missile",
@@ -2247,31 +2335,9 @@
       }
     },
     {
-      "id": "c38eceb8f31da8b5ae69ba5a3ee1b8c3",
-      "title": ". The UAE air defence systems on 23rd March 2026 engaged seven ballistic missiles and 16 UAVs launched from Iran. Since ...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DWOVI4qiFS5",
-      "published": "2026-03-23T10:39:27+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2036027164290605338",
-      "title": "UAE air defences engaged 7 ballistic missiles, 16 UAVs\n\nThe UAE air defence systems on 23th March 2026 engaged 7 ballistic missiles and 16 UAVs launched from Iran.\n\nSince the onset of the blatant Iranian aggression, UAE air defences have engaged 352 ballistic missiles, 15 cruise missiles and 1,789 UAVs.\n\nThese attacks have resulted in the martyrdom of 2 members of the armed forces while performing their national duty, as well as 6 fatalities of Pakistani, Nepali, Bangladeshi and Palestinian nationalities.\n\nA total of 161 people were also injured, with injuries ranging from minor to moderate and severe. The injured included nationals of the UAE, Egypt, Sudan, Ethiopia, the Philippines, Pakistan, Iran, India, Bangladesh, Sri Lanka, Azerbaijan, Yemen, Uganda, Eritrea, Lebanon, Afghanistan, Bahrain, Comoros, T\u00fcrkiye, Iraq, Nepal, Nigeria, Oman, Jordan, Palestine, Ghana, Indonesia, Sweden and Tunisia.\n\nThe Ministry of Defence affirmed that it remains fully prepared and ready to deal with any threats, and will firmly confront any attempts to undermine State security in a manner that ensures the protection of its sovereignty, security and stability, and safeguards its national interests and capabilities.\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Defence",
+      "title": "RT by @moiuae: UAE air defences engaged 7 ballistic missiles, 16 UAVs\n\nThe UAE air defence systems on 23th March 2026 engaged 7 ballistic missiles and 16 UAVs launched from Iran.\n\nSince the onset of the blatant Iranian aggression, UAE air defences have engaged 352 ballistic missiles, 15 cruise missiles and 1,789 UAVs.\n\nThese attacks have resulted in the martyrdom of 2 members of the armed forces while performing their national duty, as well as 6 fatalities of Pakistani, Nepali, Bangladeshi and Palestinian nationalities.\n\nA total of 161 people were also injured, with injuries ranging from minor to moderate and severe. The injured included nationals of the UAE, Egypt, Sudan, Ethiopia, the Philippines, Pakistan, Iran, India, Bangladesh, Sri Lanka, Azerbaijan, Yemen, Uganda, Eritrea, Lebanon, Afghanistan, Bahrain, Comoros, T\u00fcrkiye, Iraq, Nepal, Nigeria, Oman, Jordan, Palestine, Ghana, Indonesia, Sweden and Tunisia.\n\nThe Ministry of Defence affirmed that it remains fully prepared and ready to deal with any threats, and will firmly confront any attempts to undermine State security in a manner that ensures the protection of its sovereignty, security and stability, and safeguards its national interests and capabilities.\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/modgovae/status/2036027164290605338#m",
       "published": "2026-03-23T10:27:58+00:00",
       "type": "missile",
@@ -2292,8 +2358,8 @@
     },
     {
       "id": "2036027164290605338",
-      "title": "RT by @moiuae: UAE air defences engaged 7 ballistic missiles, 16 UAVs\n\nThe UAE air defence systems on 23th March 2026 engaged 7 ballistic missiles and 16 UAVs launched from Iran.\n\nSince the onset of the blatant Iranian aggression, UAE air defences have engaged 352 ballistic missiles, 15 cruise missiles and 1,789 UAVs.\n\nThese attacks have resulted in the martyrdom of 2 members of the armed forces while performing their national duty, as well as 6 fatalities of Pakistani, Nepali, Bangladeshi and Palestinian nationalities.\n\nA total of 161 people were also injured, with injuries ranging from minor to moderate and severe. The injured included nationals of the UAE, Egypt, Sudan, Ethiopia, the Philippines, Pakistan, Iran, India, Bangladesh, Sri Lanka, Azerbaijan, Yemen, Uganda, Eritrea, Lebanon, Afghanistan, Bahrain, Comoros, T\u00fcrkiye, Iraq, Nepal, Nigeria, Oman, Jordan, Palestine, Ghana, Indonesia, Sweden and Tunisia.\n\nThe Ministry of Defence affirmed that it remains fully prepared and ready to deal with any threats, and will firmly confront any attempts to undermine State security in a manner that ensures the protection of its sovereignty, security and stability, and safeguards its national interests and capabilities.\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Interior",
+      "title": "UAE air defences engaged 7 ballistic missiles, 16 UAVs\n\nThe UAE air defence systems on 23th March 2026 engaged 7 ballistic missiles and 16 UAVs launched from Iran.\n\nSince the onset of the blatant Iranian aggression, UAE air defences have engaged 352 ballistic missiles, 15 cruise missiles and 1,789 UAVs.\n\nThese attacks have resulted in the martyrdom of 2 members of the armed forces while performing their national duty, as well as 6 fatalities of Pakistani, Nepali, Bangladeshi and Palestinian nationalities.\n\nA total of 161 people were also injured, with injuries ranging from minor to moderate and severe. The injured included nationals of the UAE, Egypt, Sudan, Ethiopia, the Philippines, Pakistan, Iran, India, Bangladesh, Sri Lanka, Azerbaijan, Yemen, Uganda, Eritrea, Lebanon, Afghanistan, Bahrain, Comoros, T\u00fcrkiye, Iraq, Nepal, Nigeria, Oman, Jordan, Palestine, Ghana, Indonesia, Sweden and Tunisia.\n\nThe Ministry of Defence affirmed that it remains fully prepared and ready to deal with any threats, and will firmly confront any attempts to undermine State security in a manner that ensures the protection of its sovereignty, security and stability, and safeguards its national interests and capabilities.\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Defence",
       "source_url": "https://nitter.net/modgovae/status/2036027164290605338#m",
       "published": "2026-03-23T10:27:58+00:00",
       "type": "missile",
@@ -3325,138 +3391,6 @@
       }
     },
     {
-      "id": "2035462104648458629",
-      "title": "Update from Arad region in southern Israel:",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2035462104648458629#m",
-      "published": "2026-03-21T21:02:37+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2cf1566590948fa28d6fd4be5e84c1b8",
-      "title": "Update from Arad region in southern Israel:",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2035462104648458629",
-      "published": "2026-03-21T21:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2035459808778654069",
-      "title": "MDA Spokesperson: Following missile fire toward southern Israel, MDA teams are treating multiple patients in Arad, including a 5-year-old girl in serious condition, 11 in moderate, and others mild. Large MDA forces, including helicopters, en route. Updates as required.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2035459808778654069#m",
-      "published": "2026-03-21T20:53:30+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "739b2314bf47d154d8a0e7c8414c7e4e",
-      "title": "MDA Spokesperson: Following missile fire toward southern Israel, MDA teams are treating multiple patients in Arad, including a 5-year-old girl in serious condition, 11 in moderate, and others mild. Large MDA forces, including helicopters, en route. Updates as required.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2035459808778654069",
-      "published": "2026-03-21T20:53:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2035453283129503870",
-      "title": "MDA Spokesperson: Following the missile fire to southern Israel\n\nInitial reports only!!! In the Arad region, MDA teams are treating some 30 patients in varying conditions. Updates to follow.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2035453283129503870#m",
-      "published": "2026-03-21T20:27:34+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "afe59f9c60dcc3bbe5bcd0e13046c0b6",
-      "title": "MDA Spokesperson: Following the missile fire to southern Israel Initial reports only!!! In the Arad region, MDA teams are treating some 30 patients in varying conditions. Updates to follow.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2035453283129503870",
-      "published": "2026-03-21T20:27:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "172eeb45534a08b1fbeb8a9e861cbc17",
       "title": "The Media briefing by the National Communication Centre on the latest developments in light of Iran\u2019s wrongful attacks. ...",
       "source": "Bahrain MOI (RSS.app)",
@@ -3528,50 +3462,6 @@
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
       "published": "2026-03-21T12:15:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/03/20/us-countered-drone-threat-over-strategic-installation-in-early-hours-of-operation-epic-fury-guillot/",
-      "title": "US countered drone threat over \u2018strategic\u2019 installation in early hours of Operation Epic Fury: Guillot",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/03/20/us-countered-drone-threat-over-strategic-installation-in-early-hours-of-operation-epic-fury-guillot/",
-      "published": "2026-03-20T22:55:10+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cddq7j48p35o#1",
-      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-20T22:34:05+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
