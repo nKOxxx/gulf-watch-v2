@@ -1,13 +1,145 @@
 {
-  "generated_at": "2026-03-23T23:29:09.088470+00:00",
-  "total_incidents": 158,
+  "generated_at": "2026-03-24T01:48:20.967272+00:00",
+  "total_incidents": 160,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-      "title": "Middle East crisis live: Trump says Iran and US \u2018want to make a deal\u2019 but Tehran says claims of talks are \u2018fake news\u2019",
+      "title": "Middle East crisis live: Iran dismisses Trump claim of talks; von der Leyen says global energy situation is \u2018critical\u2019",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-      "published": "2026-03-23T23:25:44+00:00",
+      "published": "2026-03-24T01:36:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5ab30ee130f04e50afbae6d862ab4eca",
+      "title": "Kuwaiti air defense systems are currently engaged in intercepting hostile missiles and drones that breached the country's airspace, Ministry of Defense Spokesman Colonel Staff Saud Al-Atwan announced early on Tuesday.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2036244122168701268",
+      "published": "2026-03-24T00:50:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2036239242871943561",
+      "title": "The siren has been sounded . Citizens and residents are urged to remain calm and head to the nearest safe place",
+      "source": "Bahrain Ministry of Interior",
+      "source_url": "https://nitter.net/moi_bahrain/status/2036239242871943561#m",
+      "published": "2026-03-24T00:30:41+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774311104",
+      "title": "Israeli settlers vandalise school, raise Israeli flag in occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-settlers-vandalise-school-raise-israeli-flag-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-03-24T00:14:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/24/trumps-very-good-talks-with-iran-buy-him-time-with-oil-and-energy-markets",
+      "title": "Trump\u2019s \u2018very good\u2019 talks with Iran buy him time with oil and energy markets",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/24/trumps-very-good-talks-with-iran-buy-him-time-with-oil-and-energy-markets",
+      "published": "2026-03-24T00:01:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3785721",
+      "title": "Smotrich says Litani River should be Israel\u2019s new border with Lebanon",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/smotrich-says-litani-river-should-be-israels-new-border-with-lebanon/",
+      "published": "2026-03-24T00:01:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774306869",
+      "title": "Iran war live: Tehran says Trump\u2019s peace talk claims are \u2018fake news\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake?traffic_source=rss",
+      "published": "2026-03-24T00:00:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +150,72 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0850c38467f0ff5753ce1efbd19910ba",
+      "title": "Ministry of Electricity, Water, and Renewable Energy: Seven overhead power lines in several areas of the country were taken out of service due to damage sustained from falling debris following air defense interceptions  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2036231013072773350",
+      "published": "2026-03-23T23:57:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774309793",
+      "title": "Trump says Iran \u2018wants peace\u2019 after US military did \u2018great job\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-says-iran-wants-peace-after-us-military-did-great?traffic_source=rss",
+      "published": "2026-03-23T23:54:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "672fe33ac7ff4851ab986118412de669",
+      "title": "Undersecretary of the Ministry of Interior Major General Abdulwahab Al-Wahib: Checkpoints play a key role in preserving security in the country, and monitoring and detecting anyone who attempts to violate the law  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2036230019337343236",
+      "published": "2026-03-23T23:54:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -509,28 +707,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774294797",
-      "title": "What Trump said about Iran after postponing military strikes",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/what-trump-said-about-iran-after-postponing-military-strikes?traffic_source=rss",
-      "published": "2026-03-23T20:34:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3785592",
       "title": "\u2018We are scared, terrified\u2019: London Jews on edge after antisemitic arson attack",
       "source": "Times of Israel",
@@ -587,28 +763,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774280595",
-      "title": "Air Canada crash at LaGuardia Airport: What happened, who were the victims?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/23/air-canada-crash-at-laguardia-airport-what-happened-who-were-the-victims?traffic_source=rss",
-      "published": "2026-03-23T19:44:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -774,7 +928,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3785536",
-      "title": "Iran\u2019s parliament speaker Mohammed Qalibaf enters spotlight amid reported US talks",
+      "title": "Iran\u2019s hardline parliament speaker Mohammed Qalibaf enters spotlight amid reported US talks",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/irans-parliament-speaker-mohammed-qalibaf-enters-spotlight-amid-reported-us-talks/",
       "published": "2026-03-23T18:35:50+00:00",
@@ -1367,28 +1521,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3785215",
-      "title": "Trump: Deal with Iran to end war close; Israel will be happy; strikes on energy sites postponed",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/trump-deal-with-iran-to-end-war-close-israel-will-be-happy-strikes-on-energy-sites-postponed/",
-      "published": "2026-03-23T16:06:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/us/2026/03/23/laguardia-closed-after-crash/",
       "title": "New York's LaGuardia Airport closed after passenger jet's pilots killed in crash",
       "source": "The National UAE",
@@ -1401,50 +1533,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "677256e1a35691025f507d07e9601db7",
-      "title": "#US President says there is a \"real\" opportunity to reach an agreement with #Iran that could end military operations, stressing that oil prices would drop sharply once a deal is reached.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2036109522826133979",
-      "published": "2026-03-23T15:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3785304",
-      "title": "Four wounded as Hezbollah pounds north with rockets, IDF strikes in Beirut",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/two-injured-one-seriously-as-hezbollah-pounds-north-with-rockets/",
-      "published": "2026-03-23T15:52:36+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
       },
       "credibility": 85,
       "is_government": false,
@@ -1602,28 +1690,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3785225",
-      "title": "As Trump steers away from war with Iran, Israel rediscovers cost of riding with him",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/as-trump-steers-away-from-war-with-iran-israel-discovers-cost-of-riding-with-us/",
-      "published": "2026-03-23T14:59:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1962,28 +2028,6 @@
     },
     {
       "id": "2036038256656253097",
-      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
-      "source": "UAE Ministry of Interior",
-      "source_url": "https://nitter.net/NCEMAUAE/status/2036038256656253097#m",
-      "published": "2026-03-23T11:12:02+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2036038256656253097",
       "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
       "source": "UAE NCEMA",
       "source_url": "https://nitter.net/NCEMAUAE/status/2036038256656253097#m",
@@ -1995,6 +2039,28 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2036038256656253097",
+      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
+      "source": "UAE Ministry of Interior",
+      "source_url": "https://nitter.net/NCEMAUAE/status/2036038256656253097#m",
+      "published": "2026-03-23T11:12:02+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
       },
       "credibility": 100,
       "is_government": true,
@@ -2583,28 +2649,6 @@
       "source_url": "https://x.com/NCEMAUAE/status/2035913726826852376",
       "published": "2026-03-23T02:57:00+00:00",
       "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2035897803784778068",
-      "title": "The siren has been sounded .Citizens and residents are urged to remain calm and head to the nearest safe place",
-      "source": "Bahrain Ministry of Interior",
-      "source_url": "https://nitter.net/moi_bahrain/status/2035897803784778068#m",
-      "published": "2026-03-23T01:53:56+00:00",
-      "type": "incident",
       "status": "confirmed",
       "location": {
         "country": null,
