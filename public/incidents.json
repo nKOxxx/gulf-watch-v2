@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-03-26T10:55:12.155411+00:00",
-  "total_incidents": 182,
+  "generated_at": "2026-03-26T11:47:21.546960+00:00",
+  "total_incidents": 177,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah",
-      "title": "Middle East crisis live: Trump criticises Nato allies as US and Iran issue conflicting statements on ceasefire talks",
+      "title": "Middle East crisis live: Israel says it has killed Iranian naval chief as Trump repeats claim Tehran \u2018begging\u2019 for deal",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah",
-      "published": "2026-03-26T10:51:30+00:00",
+      "published": "2026-03-26T11:45:56+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/03/26/bab-al-mandeb-how-iran-could-bend-a-second-strait-to-its-will/",
+      "title": "Bab Al Mandeb: How Iran could bend a second strait to its will",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/03/26/bab-al-mandeb-how-iran-could-bend-a-second-strait-to-its-will/",
+      "published": "2026-03-26T11:36:53+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -16,7 +38,161 @@
         "lat": 32.4279,
         "lng": 53.688
       },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/03/26/uae-sends-270-tonnes-of-childrens-clothing-to-gaza-as-aid-drive-continues/",
+      "title": "UAE sends 270 tonnes of children's clothing to Gaza as aid drive continues",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/03/26/uae-sends-270-tonnes-of-childrens-clothing-to-gaza-as-aid-drive-continues/",
+      "published": "2026-03-26T11:33:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "416ef160cebec4a888ea38d382e560eb",
+      "title": "Jazeera Airways resume commercial flights to & from #Islamabad via Dammam Airport, starting April 3, operating one weekly flight every Friday.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2037129226860605650",
+      "published": "2026-03-26T11:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 26.3927,
+        "lng": 50.0916
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774521747",
+      "title": "Iranian naval commander Alireza Tangsiri killed in attack, Israel says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/26/iranian-naval-commander-alireza-tangsiri-killed-in-attack-says-israel?traffic_source=rss",
+      "published": "2026-03-26T11:10:39+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f081ac5dbf8e17a98d9ec56493bcdd4f",
+      "title": "#Turkiye Minister of Transport & Infrastructure says the recent attack on the Turkish tanker Altura in the Black Sea was carried out by a remote-controlled boat, not a drone.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2037123367543673291",
+      "published": "2026-03-26T11:03:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=spotlight&p=3787884",
+      "title": "Adopt a Bomb Shelter. Give Israelis a Safer Passover. - Sponsored Content",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/spotlight/adopt-a-bomb-shelter-give-israelis-a-safer-passover/",
+      "published": "2026-03-26T10:55:04+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "caaf5b3d7197e8d52a20c1fd4898d79a",
+      "title": "The commander of the Iranian army ground force Brigadier General Jahanshahi says that Iran is prepared for any enemy\u2019s scenario, stressing that any ground aggression will be costlier and more dangerous for the enemy.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2037121122635047098",
+      "published": "2026-03-26T10:54:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3787847",
+      "title": "Israelis set to lose even more sleep as clocks to move forward for daylight saving",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/israelis-set-to-lose-even-more-sleep-as-clocks-to-move-forward-for-daylight-saving/",
+      "published": "2026-03-26T10:50:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -69,6 +245,28 @@
       }
     },
     {
+      "id": "https://www.aljazeera.com/?t=1774521218",
+      "title": "Oil prices could hit $120 as war risks escalate, analyst warns",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/oil-prices-could-hit-120-as-war-risks-escalate-analyst-warns?traffic_source=rss",
+      "published": "2026-03-26T10:38:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "db9916e56b7ce1af42f9a480a1abeea9",
       "title": "#Jordan strongly condemns a terrorist plot targeting symbols & leadership figures in #Kuwait, describing it as an unacceptable attempt to threaten Kuwait's security, sovereignty & stability.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -114,7 +312,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3787759",
-      "title": "9 injured as Iran fires 7 missile salvos at Israel within hours, many with cluster warheads",
+      "title": "9 injured as Iran fires 6 missile salvos at Israel within hours, many with cluster warheads",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/9-injured-as-iran-fires-7-missile-salvos-at-israel-within-hours-many-with-cluster-warheads/",
       "published": "2026-03-26T10:34:59+00:00",
@@ -216,6 +414,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2037111763515113776",
+      "title": "R to @cogatonline: 2/4\nIssues like this are a failure of control mechanisms by international organizations.  Engine oil has been used by Hamas to power its terror infrastructure, and failure to catch it, may power their terror machine.",
+      "source": "COGAT",
+      "source_url": "https://nitter.net/cogatonline/status/2037111763515113776#m",
+      "published": "2026-03-26T10:17:46+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -575,50 +795,6 @@
       }
     },
     {
-      "id": "62e6b8cc712657a0bade2bba43cdf16d",
-      "title": "#SaudiArabia's defenses intercept three drones in the Eastern Region  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2037100519412363412",
-      "published": "2026-03-26T09:33:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "55f95c0b93c5742ff438eb7876b5be42",
-      "title": "His Highness the Crown Prince receives a phone call from #Latvia's President Edgars Rinkevics, who strongly condemns the Iranian attacks on Kuwaiti territory, describing them as a blatant violation of sovereignty & international law.  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2037099884512186400",
-      "published": "2026-03-26T09:30:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2037097277358031183",
       "title": "MDA Spokesperson: Following the missile fire toward the State of Israel:\n\nMDA EMTs and paramedics have been dispatched to scan sites where reports were received and to treat people who were injured while making their way to shelters.",
       "source": "Magen David Adom",
@@ -663,28 +839,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774510567",
-      "title": "Cuban president says Raul Castro involved in US talks amid oil blockade",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/26/cuban-president-says-raul-castro-involved-in-us-talks-amid-oil-blockade?traffic_source=rss",
-      "published": "2026-03-26T09:09:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2037093011461439948",
       "title": "\u2757\ufe0fSENIOR HEZBOLLAH OFFICIAL ADMITS TO REARMING:  \n\nOver the past 15 months, Hezbollah has been rebuilding their missile arsenal, suicide drones, and ground forces.\n\nThis is exactly what we\u2019re operating against.",
       "source": "Israel Defense Forces",
@@ -707,72 +861,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1773904696",
-      "title": "\u2018He will call me Mama\u2019: The Gaza \u2018grandmother\u2019 raising an orphaned baby",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/longform/2026/3/26/he-will-call-me-mama-the-gaza-grandmother-raising-an-orphaned-baby?traffic_source=rss",
-      "published": "2026-03-26T08:53:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774432376",
-      "title": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/3/26/helium-hitch-why-us-israel-war-on-iran-could-cause-mri-scan-delays?traffic_source=rss",
-      "published": "2026-03-26T08:51:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774434184",
-      "title": "US seeks Hamas \u2018political surrender\u2019 in new Gaza plan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/26/us-seeks-hamas-political-surrender-in-new-gaza-plan?traffic_source=rss",
-      "published": "2026-03-26T08:42:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/03/26/two-people-killed-by-falling-debris-after-iranian-missile-intercepted-in-abu-dhabi/",
       "title": "Two people killed by falling debris after Iranian missile intercepted in Abu Dhabi",
       "source": "The National UAE",
@@ -785,28 +873,6 @@
         "city": null,
         "lat": 24.4539,
         "lng": 54.3773
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/03/26/imi-media-academy-makes-key-appointments-to-support-expansion-drive/",
-      "title": "IMI Media Academy makes key appointments to support expansion drive",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/03/26/imi-media-academy-makes-key-appointments-to-support-expansion-drive/",
-      "published": "2026-03-26T08:07:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
       },
       "credibility": 85,
       "is_government": false,
@@ -1042,28 +1108,6 @@
       "source": "Saudi Civil Defense",
       "source_url": "https://nitter.net/SaudiDCD/status/2037070268116459908#m",
       "published": "2026-03-26T07:32:53+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2037070152068456639",
-      "title": "#\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u064a\u062f\u0639\u0648 \u0625\u0644\u0649 \u062a\u0648\u062e\u064a \u0627\u0644\u062d\u064a\u0637\u0629 \u0648\u0627\u062a\u0628\u0627\u0639 \u0627\u0644\u0625\u0631\u0634\u0627\u062f\u0627\u062a \u0625\u062b\u0631 \u0627\u0644\u062d\u0627\u0644\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0634\u0647\u062f\u0647\u0627 \u0623\u062c\u0632\u0627\u0621 \u0645\u0646 \u0645\u0646\u0637\u0642\u0629 #\u0627\u0644\u0645\u062f\u064a\u0646\u0629_\u0627\u0644\u0645\u0646\u0648\u0631\u0629 .\n\u0648\u0644\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u062d\u0627\u0644\u0629 \u0639\u0628\u0631 \u0627\u0644\u0631\u0627\u0628\u0637:\n\nhttps://ncm.gov.sa/Ar/alert/Pages/default.aspx",
-      "source": "Saudi Civil Defense",
-      "source_url": "https://nitter.net/SaudiDCD/status/2037070152068456639#m",
-      "published": "2026-03-26T07:32:25+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -1338,28 +1382,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "957477f723411eb0897604066d716905",
-      "title": "#Kuwait oil price down USD 22.27 to USD 124.15 pb @kpcofficialkw  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2037055164519948529",
-      "published": "2026-03-26T06:32:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2005,50 +2027,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3787616",
-      "title": "Trump: Iran wants deal \u2018so badly\u2019; White House says campaign \u2018very close\u2019 to meeting goals",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/trump-iran-wants-deal-so-badly-white-house-says-campaign-very-close-to-meeting-goals/",
-      "published": "2026-03-26T01:49:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3787645&preview=true&preview_id=3787645",
-      "title": "IDF soldier killed in gunfight with Hezbollah in Lebanon; another injured by \u2018friendly fire\u2019",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/liveblog-march-26-2026/",
-      "published": "2026-03-26T01:01:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2036970875602227549",
       "title": "The siren has been sounded. Citizens and residents are urged to remain calm and head to the nearest safe place",
       "source": "Bahrain Ministry of Interior",
@@ -2064,28 +2042,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3787570",
-      "title": "Hopes for diplomatic end to Iran war give boost to shares, ease price of oil",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/hopes-for-diplomatic-end-to-iran-war-give-boost-to-shares-ease-price-of-oil/",
-      "published": "2026-03-25T23:18:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2775,28 +2731,6 @@
       }
     },
     {
-      "id": "1320343aa35e58e3de9bd49505b17f18",
-      "title": "\ud83d\udd3a Iran demands recognition of Tehran's sovereignty over Strait of Hormuz as its natural, legal right",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2036816357212479917",
-      "published": "2026-03-25T14:43:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=79862",
       "title": "Pentagon, Lockheed sign plan to boost PrSM missile production",
       "source": "Breaking Defense",
@@ -3171,28 +3105,6 @@
       }
     },
     {
-      "id": "2036730277536350618",
-      "title": "Press release regarding the resumption of social events commencing on Wednesday, March 25, emphasizing the importance of following the approved guidelines and regulatory protocols. #MOIQatar",
-      "source": "Qatar Ministry of Interior EN",
-      "source_url": "https://nitter.net/MOI_QatarEn/status/2036730277536350618#m",
-      "published": "2026-03-25T09:01:53+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2036725389721288988",
       "title": "The Early Warning System is a vital preventive tool designed to promptly alert the public and strengthen national preparedness in times of emergency.\n\nFor your safety, always rely on official instructions and adhere to the guidance issued by relevant authorities.",
       "source": "UAE NCEMA",
@@ -3220,28 +3132,6 @@
       "source": "UAE NCEMA (RSS.app)",
       "source_url": "https://x.com/NCEMAUAE/status/2036725389721288988",
       "published": "2026-03-25T08:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2036713233449697717",
-      "title": "RT by @CivilDefenceAD: The National Emergency Crisis and Disaster Management Authority has issued public guidance on use of the National Early Warning System during adverse weather, and urged the public to follow safety instructions as soon as the alert is received.",
-      "source": "Abu Dhabi Civil Defence",
-      "source_url": "https://nitter.net/ADMediaOffice/status/2036713233449697717#m",
-      "published": "2026-03-25T07:54:09+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -3721,6 +3611,28 @@
       }
     },
     {
+      "id": "2036442078847103409",
+      "title": "\ud83c\udfa5WATCH: IDF troops continue targeted ground operations in southern Lebanon \n\nTroops eliminated 8 terrorists and dismantled an underground shaft. Dozens of weapons were found in the shaft, including anti-tank rockets, Kalashnikov rifles, machine guns & grenades.",
+      "source": "Israel Defense Forces",
+      "source_url": "https://nitter.net/IDF/status/2036442078847103409#m",
+      "published": "2026-03-24T13:56:41+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "2036434308794126412",
       "title": "MDA Update following the missile fire towards the Negev region:",
       "source": "Magen David Adom",
@@ -3956,28 +3868,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2036132537433514066",
-      "title": "REVEALED: Two missiles launched last night by the Iranian terrorist regime towards Israel\u2014fell in Lebanese territory\n\nHezbollah decided to join the Iranian terror regime in its attacks against Israel, putting the lives of Lebanese civilians and the entire State of Lebanon at risk. \n\nThe Iranian terror regime doesn\u2019t just coordinate with Hezbollah\u2014it funds it. Hezbollah is the regime\u2019s most powerful proxy, operating on its behalf. Despite this, the Iranian terror regime directly attacked the civilians of Lebanon.\n\nThe message is clear: Iran and Hezbollah are not protecting Lebanon\u2014they are systematically harming it and its civilians.",
-      "source": "Israel Defense Forces",
-      "source_url": "https://nitter.net/IDF/status/2036132537433514066#m",
-      "published": "2026-03-23T17:26:41+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
