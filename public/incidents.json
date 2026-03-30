@@ -1,22 +1,44 @@
 {
-  "generated_at": "2026-03-30T18:55:14.854888+00:00",
-  "total_incidents": 176,
+  "generated_at": "2026-03-30T19:54:03.535094+00:00",
+  "total_incidents": 179,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east",
-      "title": "Middle East crisis live: US and Iran in talks, White House insists; Trump \u2018quite interested\u2019 in asking Arab allies to help pay for war",
+      "title": "Middle East crisis live: US \u2018committed to finishing the job\u2019 in Iran, Rubio says, amid reports of fresh strikes in Tehran",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east",
-      "published": "2026-03-30T18:52:13+00:00",
+      "published": "2026-03-30T19:43:29+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 35.6892,
+        "lng": 51.389
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=80212",
+      "title": "Navy unveils final RFP for new trainer aircraft to replace T-45 Goshawk",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/03/navy-unveils-final-rfp-for-new-trainer-aircraft-to-replace-t-45-goshawk/",
+      "published": "2026-03-30T19:40:07+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -29,7 +51,7 @@
       "title": "Israel passes law to give death penalty to Palestinians convicted of lethal attacks",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/mar/30/israel-passes-law-death-penalty-palestinian-convicted-terrorists",
-      "published": "2026-03-30T18:41:03+00:00",
+      "published": "2026-03-30T19:29:35+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -40,6 +62,226 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774897943",
+      "title": "What we know about attack on key Israeli oil refinery",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/what-we-know-about-attack-on-key-israeli-oil-refinery?traffic_source=rss",
+      "published": "2026-03-30T19:19:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774890416",
+      "title": "French police make two more arrests over foiled attack on Bank of America",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/30/french-police-make-2-more-arrests-over-suspected-attack-on-bank-of-america?traffic_source=rss",
+      "published": "2026-03-30T19:15:50+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4gd20evgp0o#0",
+      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-30T19:14:12+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2038695151908933996",
+      "title": "Update following recent missile attack on Israel:",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2038695151908933996#m",
+      "published": "2026-03-30T19:09:35+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2e88ae062131f009e4e7d2947d8798e5",
+      "title": "Update following recent missile attack on Israel:",
+      "source": "Magen David Adom (RSS.app)",
+      "source_url": "https://x.com/Mdais/status/2038695151908933996",
+      "published": "2026-03-30T19:09:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.moroccoworldnews.com/?p=285088",
+      "title": "Hammouchi Expands Morocco Security Ties With Liberia, Indonesia",
+      "source": "Morocco World News",
+      "source_url": "https://www.moroccoworldnews.com/2026/03/285088/hammouchi-expands-morocco-security-ties-with-liberia-indonesia/",
+      "published": "2026-03-30T19:07:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3791507",
+      "title": "Iran blows hole in US aluminum supply chain with strikes on Gulf smelters",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/iran-blows-hole-in-us-aluminum-supply-chain-with-strikes-on-gulf-smelters/",
+      "published": "2026-03-30T19:05:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3791531",
+      "title": "Moshe Yitzchak Katz, Israeli-US soldier killed in Lebanon, laid to rest in Jerusalem",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/israeli-us-soldier-moshe-yitzchak-katz-killed-in-lebanon-laid-to-rest-in-jerusalem/",
+      "published": "2026-03-30T18:57:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774896578",
+      "title": "Cuba waits for Russian oil tanker to arrive amid US blockade",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/cuba-waits-for-russian-oil-tanker-to-arrive-amid-us-blockade?traffic_source=rss",
+      "published": "2026-03-30T18:56:01+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2a4ae08efa1ef2b424ed2695ee30ca7b",
+      "title": "#Saudi Crown Prince and Prime Minister Prince Mohammad bin Salman, King Abdullah II of #Jordan and Amir of #Qatar Sheikh Tamim bin Hamad Al Thani meet in Jeddah to discuss the current regional military escalation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2038688904199463348",
+      "published": "2026-03-30T18:44:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 21.4858,
+        "lng": 39.1925
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -106,6 +348,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/mar/30/trump-threatens-to-obliterate-irans-energy-grid-if-ceasefire-not-reached-shortly",
+      "title": "Trump threatens to \u2018obliterate\u2019 Iran\u2019s energy grid if ceasefire not reached \u2018shortly\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/mar/30/trump-threatens-to-obliterate-irans-energy-grid-if-ceasefire-not-reached-shortly",
+      "published": "2026-03-30T18:33:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -347,6 +611,28 @@
         "lng": 51.389
       },
       "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy41vqx4pdzo#0",
+      "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-30T18:08:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -971,50 +1257,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774877734",
-      "title": "UK pro-Palestine activist arrested weeks after being released on bail",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/30/uk-pro-palestine-activist-arrested-weeks-after-being-released-on-bail?traffic_source=rss",
-      "published": "2026-03-30T16:18:31+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774887060",
-      "title": "Palestine\u2019s Land Day: 50 Years of Resistance",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/palestines-land-day-50-years-of-resistance?traffic_source=rss",
-      "published": "2026-03-30T16:14:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/03/30/ukraines-drone-masters-eye-iran-war-to-kickstart-export-ambitions/",
       "title": "Ukraine\u2019s drone masters eye Iran war to kickstart export ambitions",
       "source": "Defense News",
@@ -1027,28 +1269,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774859793",
-      "title": "We dug up medics in Gaza. A year later, international law remains buried",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/3/30/we-dug-up-medics-in-gaza-a-year-later-international-law-remains-buried?traffic_source=rss",
-      "published": "2026-03-30T16:13:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
@@ -1213,28 +1433,6 @@
       }
     },
     {
-      "id": "76a2000aeba99dbd62370c23ab41d83e",
-      "title": "#Kuwait's Ministry of Defense announces that it had detected and dealt with 13 hostile drones in the past 24 hours, targeting a power and water desalination plant @KuwaitArmyGHQ  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2038636792186826757",
-      "published": "2026-03-30T15:17:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2038635742209945822",
       "title": "The Ministry of Interior emphasizes the importance of not spreading rumors or sharing unverified information, and calls on everyone to verify information and ensure it comes from official sources before sharing it, in order to avoid legal accountability.\n#MOIQatar",
       "source": "Qatar Ministry of Interior EN",
@@ -1250,28 +1448,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/03/30/teenager-hired-on-snapchat-arrested-over-bank-of-america-bomb-plot-in-paris/",
-      "title": "Teenager 'hired on Snapchat' arrested over Bank of America bomb plot in Paris",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/03/30/teenager-hired-on-snapchat-arrested-over-bank-of-america-bomb-plot-in-paris/",
-      "published": "2026-03-30T15:01:06+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1447,28 +1623,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3791320",
-      "title": "Kharg Island is key to Iran\u2019s oil exports, but targeting it would carry major risks",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/kharg-island-is-key-to-irans-oil-exports-but-targeting-it-would-carry-major-risks/",
-      "published": "2026-03-30T14:26:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1712,28 +1866,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/mar/30/trump-boomer-war-iran",
-      "title": "Trump is fighting a \u2018boomer war\u2019 in Iran: a relic unpopular with anyone under 60 | Stephen Wertheim",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/mar/30/trump-boomer-war-iran",
-      "published": "2026-03-30T12:00:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2041,28 +2173,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2038512396017320072",
-      "title": "Israel MOD signs approx $48M deal with @ElbitSystemsLtd for tens of thousands of land munitions.\n\nRead More: https://www.linkedin.com/feed/update/urn:li:activity:7444277780202278912",
-      "source": "Israel Ministry of Defense",
-      "source_url": "https://nitter.net/Israel_MOD/status/2038512396017320072#m",
-      "published": "2026-03-30T07:03:23+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -2951,28 +3061,6 @@
       }
     },
     {
-      "id": "651e3571a6e2452c0afd6d157b34da13",
-      "title": "UAE Air Defence systems are actively engaging missiles & UAV threats coming from Iran #WamNews",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DWd3fELiOuA",
-      "published": "2026-03-29T11:28:11+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2038215522165416148",
       "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
       "source": "UAE NCEMA",
@@ -3369,7 +3457,7 @@
       }
     },
     {
-      "id": "https://www.bbc.com/news/articles/cd6l5n8jv4yo#0",
+      "id": "https://www.bbc.com/news/articles/cd6l5n8jv4yo#1",
       "title": "Iran-backed Houthis join war with attack against Israel",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
@@ -3802,28 +3890,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cn0w1qxzd4xo#0",
-      "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-27T21:30:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
