@@ -1,14 +1,146 @@
 {
-  "generated_at": "2026-03-29T23:28:54.560629+00:00",
-  "total_incidents": 169,
+  "generated_at": "2026-03-30T02:05:48.459447+00:00",
+  "total_incidents": 178,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/29/middle-east-crisis-live-explosions-tehran-yemen-houthis-iran-war-updates-trump-us-israel-strikes-lebanon",
-      "title": "Middle East crisis live: Houthis launch drone attack on Israel; UN peacekeeper killed in Lebanon",
+      "title": "Middle East crisis live: Trump says he wants to \u2018take the oil\u2019 in Iran and could seize Kharg Island \u2018easily\u2019",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/29/middle-east-crisis-live-explosions-tehran-yemen-houthis-iran-war-updates-trump-us-israel-strikes-lebanon",
-      "published": "2026-03-29T23:28:12+00:00",
-      "type": "drone",
+      "published": "2026-03-30T02:04:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/03/30/gulf-consulting-market-steady-as-conflict-shifts-demand-to-cyber-security/",
+      "title": "Gulf consulting market steady as conflict shifts demand to cyber security",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/03/30/gulf-consulting-market-steady-as-conflict-shifts-demand-to-cyber-security/",
+      "published": "2026-03-30T02:00:00+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3790880&preview=true&preview_id=3790880",
+      "title": "Trump: Killing Iran\u2019s leaders is \u2018regime change,\u2019 deal to end war \u2018could be soon\u2019",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog-march-30-2026/",
+      "published": "2026-03-30T01:57:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/29/iran-accuses-us-plotting-ground-assault-publicly-seeking-talks",
+      "title": "Iran accuses US of plotting ground assault while publicly seeking talks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/29/iran-accuses-us-plotting-ground-assault-publicly-seeking-talks",
+      "published": "2026-03-30T01:49:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774833782",
+      "title": "Iranian academic describes US-Israeli attacks on Iran\u2019s universities",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iranian-academic-describes-us-israeli-attacks-on-irans-universities?traffic_source=rss",
+      "published": "2026-03-30T01:24:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3790809",
+      "title": "Blackouts hit parts of Tehran as Israel conducts strikes in Iran amid peace talks",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/blackouts-hit-parts-of-tehran-as-israel-conducts-strikes-in-iran-amid-peace-talks/",
+      "published": "2026-03-30T01:17:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774832852",
+      "title": "Netanyahu orders deeper Israeli invasion into Lebanon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/netanyahu-orders-deeper-israeli-invasion-into-lebanon?traffic_source=rss",
+      "published": "2026-03-30T01:09:32+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
@@ -18,6 +150,512 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774827977",
+      "title": "Oil rises above $116 a barrel as Iran accuses US of preparing invasion",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/3/30/oil-rises-above-116-a-barrel-as-iran-accuses-us-of-preparing-invasion?traffic_source=rss",
+      "published": "2026-03-30T00:53:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774828990",
+      "title": "Iranian attack damages Kuwait power and desalination plant, kills worker",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/30/iranian-attack-damages-kuwait-power-and-desalination-plant-kills-worker?traffic_source=rss",
+      "published": "2026-03-30T00:52:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/mar/30/trump-news-updates-maga-cpac-conservative-conference-iran-dhs-abortion-no-kings",
+      "title": "Trump news at a glance: Generational divide over Iran war emerges at key conservative conference",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/mar/30/trump-news-updates-maga-cpac-conservative-conference-iran-dhs-abortion-no-kings",
+      "published": "2026-03-30T00:49:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3790641",
+      "title": "Knesset approves 2026 budget, Israel\u2019s largest ever, sending billions to Haredi institutions",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/knesset-approves-2026-budget-israels-largest-ever-sending-billions-to-haredi-institutions/",
+      "published": "2026-03-30T00:34:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4fcbdb95a0665e0fa2b43d58932b1455",
+      "title": "#Kuwait's Ministry of Electricity, Water and Renewable Energy: A service building at one of the power and water distillation plants was damaged in a brutal Iranian attack, resulting in the death of a worker of Indian nationality The technical and emergency teams have immediately dealt with the repercussions of the incident in line with the approved emergency plan #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2038409572453425317",
+      "published": "2026-03-30T00:14:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774825304",
+      "title": "Iran war live: Trump says wants to take Iran\u2019s oil; Kuwait power site hit",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/3/30/iran-war-live-worker-killed-in-kuwait-israel-intercepts-drones-from-yemen?traffic_source=rss",
+      "published": "2026-03-30T00:00:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/mar/30/china-teapot-refineries-crude-oil-iran-war",
+      "title": "China\u2019s \u2018teapot\u2019 oil refineries keep economy brewing \u2013 but surging crude prices leave them strained",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/mar/30/china-teapot-refineries-crude-oil-iran-war",
+      "published": "2026-03-30T00:00:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2038403502305910941",
+      "title": "Authorities in Dubai confirm that the sounds heard across parts of the city were the result of successful air defence interception operations. Please rely on official sources for updates.",
+      "source": "Dubai Media Office",
+      "source_url": "https://nitter.net/DXBMediaOffice/status/2038403502305910941#m",
+      "published": "2026-03-29T23:50:41+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2038403502305910941",
+      "title": "RT by @moiuae: Authorities in Dubai confirm that the sounds heard across parts of the city were the result of successful air defence interception operations. Please rely on official sources for updates.",
+      "source": "UAE Ministry of Interior",
+      "source_url": "https://nitter.net/DXBMediaOffice/status/2038403502305910941#m",
+      "published": "2026-03-29T23:50:41+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "716b44e24474ba1d337cea566fdaccbf",
+      "title": "RT by @moiuae: Authorities in Dubai confirm that the sounds heard across parts of the city were the result of successful air defence interception operations. Please rely on official sources for updates.",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2038403502305910941",
+      "published": "2026-03-29T23:50:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "716b44e24474ba1d337cea566fdaccbf",
+      "title": "Authorities in Dubai confirm that the sounds heard across parts of the city were the result of successful air defence interception operations. Please rely on official sources for updates.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2038403502305910941",
+      "published": "2026-03-29T23:50:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "716b44e24474ba1d337cea566fdaccbf",
+      "title": "RT by @moiuae: Authorities in Dubai confirm that the sounds heard across parts of the city were the result of successful air defence interception operations. Please rely on official sources for updates.",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2038403502305910941",
+      "published": "2026-03-29T23:50:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=spotlight&p=3790321",
+      "title": "Jewish National Fund-USA brotherhood mission shows solidarity with Israel during wartime - Sponsored Content",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/spotlight/jewish-national-fund-usa-brotherhood-mission-shows-solidarity-with-israel-during-wartime/",
+      "published": "2026-03-29T23:49:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2038401283237765578",
+      "title": "Alert: The danger has passed in Eastern Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
+      "source": "Saudi Civil Defense",
+      "source_url": "https://nitter.net/SaudiDCD/status/2038401283237765578#m",
+      "published": "2026-03-29T23:41:52+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d499c22f0084fbda214c714bfccbc414",
+      "title": "Alert: The danger has passed in Eastern Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2038401283237765578",
+      "published": "2026-03-29T23:41:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2038401042988081489",
+      "title": "Alert: The danger has passed in Al-Kharj Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
+      "source": "Saudi Civil Defense",
+      "source_url": "https://nitter.net/SaudiDCD/status/2038401042988081489#m",
+      "published": "2026-03-29T23:40:54+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "82e3696f945e4f476a8b43d4820f8c33",
+      "title": "Alert: The danger has passed in Al-Kharj Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2038401042988081489",
+      "published": "2026-03-29T23:40:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2038399959070916823",
+      "title": "A warning has been issued by the National Early Warning Platform in the Eastern Province to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense",
+      "source_url": "https://nitter.net/SaudiDCD/status/2038399959070916823#m",
+      "published": "2026-03-29T23:36:36+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "53d2506a7f955160121431a3e5bb2993",
+      "title": "A warning has been issued by the National Early Warning Platform in the Eastern Province to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2038399959070916823",
+      "published": "2026-03-29T23:36:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2038399053961003481",
+      "title": "A warning has been issued by the National Early Warning Platform in Al-Kharj Governorate to warn of a danger, follow the instructions below :",
+      "source": "Saudi Civil Defense",
+      "source_url": "https://nitter.net/SaudiDCD/status/2038399053961003481#m",
+      "published": "2026-03-29T23:33:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a07c7449710f17b16bf3d4bbd38117e1",
+      "title": "A warning has been issued by the National Early Warning Platform in Al-Kharj Governorate to warn of a danger, follow the instructions below :",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2038399053961003481",
+      "published": "2026-03-29T23:33:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "98efe817b2abd2c92a8a81b81f98f585",
+      "title": "#Kuwait's Ministry of Electricity: A service building at a power station and water distillation facility was targeted by a brutal Iranian attack  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2038399104338772177",
+      "published": "2026-03-29T23:33:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2038397644884590785",
+      "title": "The siren has been sounded.. Citizens and residents are urged to remain calm and head to the nearest safe place.",
+      "source": "Bahrain Ministry of Interior",
+      "source_url": "https://nitter.net/moi_bahrain/status/2038397644884590785#m",
+      "published": "2026-03-29T23:27:24+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -333,50 +971,6 @@
       }
     },
     {
-      "id": "67b084f642032f588b8f6cabc461ea4c",
-      "title": "Ministry of Foreign Affairs: #Kuwait strongly condemns and denounces the attacks that targeted the residences of the Iraqi Kurdistan Region President Nechirvan Barzani, and leader of the Kurdistan Democratic Party (KDP) Masoud Barzani  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2038355952613699835",
-      "published": "2026-03-29T20:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "42df0fd879bdb199e85a62db25c7d89b",
-      "title": "Chief of #Kuwait Fire Force (KFF) Major General Talal Al-Roumi checked on Captain Falah Mohammad Falah, a KFF member who was wounded while performing his duty  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2038355343256731955",
-      "published": "2026-03-29T20:39:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3790651",
       "title": "Iran\u2019s envoy to remain in Lebanon in defiance of expulsion by Beirut \u2014 diplomatic source",
       "source": "Times of Israel",
@@ -391,28 +985,6 @@
         "lng": 35.5018
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774814879",
-      "title": "Qatari TV station hit in Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss",
-      "published": "2026-03-29T20:11:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -641,50 +1213,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774805842",
-      "title": "Lebanon\u2019s Catholics observe Palm Sunday under looming threat of war",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss",
-      "published": "2026-03-29T19:36:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774803405",
-      "title": "RSF attack on Sudan\u2019s South Kordofan kills at least 14, including children",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/29/rsf-attack-on-sudans-south-kordofan-kills-at-least-14-including-children?traffic_source=rss",
-      "published": "2026-03-29T19:22:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "4838eceb40758c00014c081974806017",
       "title": "\ud83d\udea8#BREAKING Hezbollah: We targeted an Israeli army unit consisting of 15 soldiers inside a building in the town of Houla and inflicted direct casualties on them.",
       "source": "Mehr News (RSS.app)",
@@ -699,28 +1227,6 @@
         "lng": 34.8516
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774798808",
-      "title": "Cuba is not alone, deputy FM says as US threats grow",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/29/cuba-is-not-alone-deputy-fm-says-as-us-threats-grow?traffic_source=rss",
-      "published": "2026-03-29T19:06:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -817,28 +1323,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/mar/29/iran-accuses-us-plotting-ground-assault-publicly-seeking-talks",
-      "title": "Iran accuses US of plotting ground assault while publicly seeking talks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/mar/29/iran-accuses-us-plotting-ground-assault-publicly-seeking-talks",
-      "published": "2026-03-29T18:03:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2038312750712311891",
       "title": "UAE President calls President of the Kurdistan Region of Iraq and condemns terrorist attack on his residence  \n\n#WamNews\n\nhttps://www.wam.ae/a/bzg4up7",
       "source": "WAM English",
@@ -854,28 +1338,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=spotlight&p=3790663",
-      "title": "The Iran War: the end? - Sponsored Content",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/spotlight/the-iran-war-the-end/",
-      "published": "2026-03-29T17:50:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1653,28 +2115,6 @@
       }
     },
     {
-      "id": "2038215454926442968",
-      "title": "RT by @moiuae: \u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0627\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0627\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u062a\u0639\u0627\u0645\u0644 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629.\n\nUAE Air Defences system are actively engaging with missiles and UAV threats\n\nMOD asserts that the sounds heard across the country are the result of ongoing engaging operations of missiles and UAV's\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Interior",
-      "source_url": "https://nitter.net/modgovae/status/2038215454926442968#m",
-      "published": "2026-03-29T11:23:27+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "0651e53ae575b02639a882e3ef84f39c",
       "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
       "source": "UAE NCEMA (RSS.app)",
@@ -2203,28 +2643,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites",
-      "title": "Houthi forces enter Iran conflict with missile attacks on Israeli military sites",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites",
-      "published": "2026-03-29T00:00:40+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/c0rxz7ggv8go#1",
       "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
       "source": "BBC Middle East",
@@ -2423,28 +2841,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/mar/28/israeli-soldiers-cnn-crew-west-bank-foreign-press-association",
-      "title": "Media association condemns \u2018violent assault\u2019 on CNN crew by Israeli soldiers",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/mar/28/israeli-soldiers-cnn-crew-west-bank-foreign-press-association",
-      "published": "2026-03-28T18:18:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2037932667400782283",
       "title": "WATCH the Israeli and U.S. Air Forces complete a joint aerial refueling \ud83c\uddee\ud83c\uddf1\ud83e\udd1d\ud83c\uddfa\ud83c\uddf8\n\nSong credit: Free Bird - Lynyrd Skynyrd",
       "source": "Israel Defense Forces",
@@ -2599,28 +2995,6 @@
       }
     },
     {
-      "id": "2037886161096732672",
-      "title": "R to @RoyalOmanPolice: Before you leave your house:\nCheck the road's condition and safety, check the latest traffic alerts, and avoid roads that are closed or affected.\nA simple step could protect you from dangers.\n#royalomanpolice",
-      "source": "Royal Oman Police",
-      "source_url": "https://nitter.net/RoyalOmanPolice/status/2037886161096732672#m",
-      "published": "2026-03-28T13:34:57+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ed62e267b7cf74c5d84ddcd0f90e3303",
       "title": "Before you leave your house: Check the road's condition and safety, check the latest traffic alerts, and avoid roads that are closed or affected. A simple step could protect you from dangers.#royalomanpolice pic.",
       "source": "Royal Oman Police (RSS.app)",
@@ -2677,50 +3051,6 @@
         "city": null,
         "lat": 25.3548,
         "lng": 51.1839
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2037878704760606837",
-      "title": "Mengambil foto, menyebarkan, atau membagikan informasi terkait penangkisan rudal dan drone serta lokasi jatuhnya akan membuat Anda terjerat hukum.",
-      "source": "Saudi Civil Defense",
-      "source_url": "https://nitter.net/SaudiDCD/status/2037878704760606837#m",
-      "published": "2026-03-28T13:05:19+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "45afaacf1e8d8a0fd8445f8ebb280345",
-      "title": "Mengambil foto, menyebarkan, atau membagikan informasi terkait penangkisan rudal dan drone serta lokasi jatuhnya akan membuat Anda terjerat hukum.",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2037878704760606837",
-      "published": "2026-03-28T13:05:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 100,
       "is_government": true,
@@ -2833,50 +3163,6 @@
         "lng": 48.0
       },
       "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2037863804860522511",
-      "title": "Ang pagkuha ng video, pag-post, o pagbabahagi ng impormasyong may kaugnayan sa paghadlang sa mga missile at drone pati na ang mga pinagbagsakan nito ay maglalagay sa iyo sa pananagutang legal.",
-      "source": "Saudi Civil Defense",
-      "source_url": "https://nitter.net/SaudiDCD/status/2037863804860522511#m",
-      "published": "2026-03-28T12:06:07+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1e7304ab9445403bcc35185477c4fd3f",
-      "title": "Ang pagkuha ng video, pag-post, o pagbabahagi ng impormasyong may kaugnayan sa paghadlang sa mga missile at drone pati na ang mga pinagbagsakan nito ay maglalagay sa iyo sa pananagutang legal.",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2037863804860522511",
-      "published": "2026-03-28T12:06:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -3061,50 +3347,6 @@
       }
     },
     {
-      "id": "2037848695803187489",
-      "title": "Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability.",
-      "source": "Saudi Civil Defense",
-      "source_url": "https://nitter.net/SaudiDCD/status/2037848695803187489#m",
-      "published": "2026-03-28T11:06:05+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "cc3382e09983e0c02643ce689ac99286",
-      "title": "Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability.",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2037848695803187489",
-      "published": "2026-03-28T11:06:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2037847204031766736",
       "title": "Commitment to school safety rules and guidelines ensures the security of our children and students. #MOIQatar",
       "source": "Qatar Ministry of Interior EN",
@@ -3149,7 +3391,7 @@
       }
     },
     {
-      "id": "https://www.bbc.com/news/articles/crr10v5p7lgo#0",
+      "id": "https://www.bbc.com/news/articles/crr10v5p7lgo#1",
       "title": "Gaza peace doubts deepen as attention shifts to Iran",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
@@ -3611,7 +3853,7 @@
       }
     },
     {
-      "id": "https://www.bbc.com/news/articles/c62l7l99z9do#0",
+      "id": "https://www.bbc.com/news/articles/c62l7l99z9do#1",
       "title": "Palestinian man killed as death toll from West Bank settler violence climbs",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
@@ -3670,50 +3912,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2037319607170511061",
-      "title": "As the clocks changed, no reports of injuries from latest missile fired at Israel.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2037319607170511061#m",
-      "published": "2026-03-27T00:03:40+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ce26e9053b5df480205e8e1420a50e5a",
-      "title": "As the clocks changed, no reports of injuries from latest missile fired at Israel.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2037319607170511061",
-      "published": "2026-03-27T00:03:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
