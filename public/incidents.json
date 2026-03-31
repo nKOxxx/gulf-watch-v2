@@ -1,13 +1,101 @@
 {
-  "generated_at": "2026-03-31T17:53:54.018826+00:00",
-  "total_incidents": 173,
+  "generated_at": "2026-03-31T18:57:34.244281+00:00",
+  "total_incidents": 169,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
-      "title": "Middle East crisis live: \u2018Go get your own oil,\u2019 Trump tells allies in angry outburst",
+      "title": "Middle East crisis live: US has begun flying B52 bombers over Iran, Pentagon says",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
-      "published": "2026-03-31T17:50:54+00:00",
+      "published": "2026-03-31T18:53:37+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2039044904425562274",
+      "title": "RT by @mofauae: Abdulla bin Zayed recieved @NikosDendias where they discussed the unprovoked and terrorist missile attacks on the UAE and a number of countries in the region. Both sides also discussed the strategic relations between \ud83c\udde6\ud83c\uddea&\ud83c\uddec\ud83c\uddf7.",
+      "source": "UAE Ministry of Foreign Affairs",
+      "source_url": "https://nitter.net/OFMUAE/status/2039044904425562274#m",
+      "published": "2026-03-31T18:19:23+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774980521",
+      "title": "Palestinians in occupied West Bank protest Israel\u2019s death penalty law",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/palestinians-in-occupied-west-bank-protest-israels-death-penalty-law?traffic_source=rss",
+      "published": "2026-03-31T18:18:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774980672",
+      "title": "Israeli strike hits building in Beirut\u2019s southern suburbs",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israeli-strike-hits-building-in-beiruts-southern-suburbs?traffic_source=rss",
+      "published": "2026-03-31T18:16:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.moroccoworldnews.com/?p=285207",
+      "title": "France Confirms Nicolas Forissier\u2019s Visit to Morocco to Explore 2030 World Cup Opportunities",
+      "source": "Morocco World News",
+      "source_url": "https://www.moroccoworldnews.com/2026/03/285207/france-confirms-nicolas-forissiers-visit-to-morocco-to-explore-2030-world-cup-opportunities/",
+      "published": "2026-03-31T18:13:06+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +103,72 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774969453",
+      "title": "US-Israel launch major attacks as Iranian authorities maintain defiance",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/31/us-israel-launch-major-attacks-as-iranian-authorities-maintain-defiance?traffic_source=rss",
+      "published": "2026-03-31T18:07:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3792321",
+      "title": "Iran\u2019s regime remains defiant despite absorbing massive blows from Israel and the US",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/irans-regime-remains-defiant-despite-absorbing-massive-blows-from-israel-and-the-us/",
+      "published": "2026-03-31T17:54:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774969869",
+      "title": "One month of war on Iran cost Arab countries up to $194bn: UNDP",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/31/one-month-of-war-in-middle-east-cost-arab-states-up-to-194bn-undp?traffic_source=rss",
+      "published": "2026-03-31T17:48:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -136,7 +290,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/video/2026/mar/31/israeli-strike-destroys-building-in-beiruts-southern-suburb-video",
-      "title": "Israeli strike destroys building in Beirut's southern suburb \u2013 video",
+      "title": "Israeli strike destroys building in southern suburb of Beirut \u2013 video",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/video/2026/mar/31/israeli-strike-destroys-building-in-beiruts-southern-suburb-video",
       "published": "2026-03-31T17:20:59+00:00",
@@ -554,7 +708,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/2026/mar/31/israel-vows-occupy-large-parts-southern-lebanon-expand-buffer-zone",
-      "title": "Israel vows to occupy large parts of southern Lebanon to expand buffer zone",
+      "title": "Israel vows to occupy swathes of southern Lebanon to expand buffer zone",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/mar/31/israel-vows-occupy-large-parts-southern-lebanon-expand-buffer-zone",
       "published": "2026-03-31T16:10:02+00:00",
@@ -663,28 +817,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774972741",
-      "title": "Trump attacks NATO allies as pressure mounts over Strait of Hormuz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/trump-attacks-nato-allies-as-pressure-mounts-over-strait-of-hormuz?traffic_source=rss",
-      "published": "2026-03-31T16:01:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=80262",
       "title": "What NATO wants most, and how Breaking Defense is expanding in Europe",
       "source": "Breaking Defense",
@@ -751,30 +883,8 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774968808",
-      "title": "Qatar says Iran\u2019s attacks on neighbours crossed \u2018many red lines\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/3/31/qatar-warns-iranian-attacks-on-region-causing-catastrophic-effects?traffic_source=rss",
-      "published": "2026-03-31T15:54:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/03/31/aoun-urges-negotiations-as-israel-reiterates-plan-to-demolish-border-villages-using-gaza-models/",
-      "title": "Aoun urges negotiations as Israel reiterates plan to demolish border villages using Gaza 'models'",
+      "title": "Lebanon's Aoun urges talks as Israel plans to turn border villages 'into Gaza'",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/03/31/aoun-urges-negotiations-as-israel-reiterates-plan-to-demolish-border-villages-using-gaza-models/",
       "published": "2026-03-31T15:52:15+00:00",
@@ -1191,28 +1301,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/lifestyle/motoring/2026/03/31/stop-drive-warning-issued-for-some-vehicles-from-opel-dodge-jeep-ram-and-more-over-faulty-airbags-in-uae/",
-      "title": "'Stop-drive' warning issued for some vehicles from Opel, Dodge, Jeep, RAM and more over faulty airbags in UAE",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/lifestyle/motoring/2026/03/31/stop-drive-warning-issued-for-some-vehicles-from-opel-dodge-jeep-ram-and-more-over-faulty-airbags-in-uae/",
-      "published": "2026-03-31T14:46:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/c4gd20evgp0o#0",
       "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
       "source": "BBC Middle East",
@@ -1279,28 +1367,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3791957",
-      "title": "Iranian media says desalination plant on Gulf island non-functional after airstrikes",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/iranian-media-says-desalination-plant-on-gulf-island-is-non-functional-after-airstrikes/",
-      "published": "2026-03-31T13:39:00+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2038967373185667293",
       "title": "\u203c\ufe0fEXPOSED: Hezbollah has seized control of the Christian village of Qawzah and is launching terror attacks from within it.\n\nHezbollah has launched rockets and missiles launches and anti-tank fire from inside the village, a repeated strategy that dangerously exploits civilians as human shields.",
       "source": "Israel Defense Forces",
@@ -1316,28 +1382,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3791998",
-      "title": "Satellite images begin to show damage wrought across the region by Iran war",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/satellite-images-begin-to-show-damage-wrought-across-the-region-by-iran-war/",
-      "published": "2026-03-31T12:58:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1851,28 +1895,6 @@
       }
     },
     {
-      "id": "2038902688465989645",
-      "title": "RT by @moiuae: Authorities confirm that they are responding to an incident caused by debris from a successful interception that fell on residential houses in southern Dubai, resulting in property damage and minor injuries to four Asian nationals.",
-      "source": "UAE Ministry of Interior",
-      "source_url": "https://nitter.net/DXBMediaOffice/status/2038902688465989645#m",
-      "published": "2026-03-31T08:54:16+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "6081baf4f52fa44b9a8be1683305cea4",
       "title": "RT by @moiuae: Authorities confirm that they are responding to an incident caused by debris from a successful interception that fell on residential houses in southern Dubai, resulting in property damage and minor injuries to four Asian nationals.",
       "source": "UAE MOI (RSS.app)",
@@ -2173,72 +2195,6 @@
         "lng": 51.1839
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2038796994198859796",
-      "title": "R to @WAMNEWS_ENG: Dubai authorities confirmed that response teams have successfully extinguished the fire involving a Kuwaiti oil tanker.Relevant teams continue to assess the situation, take the necessary measures.\n\n#WamNews",
-      "source": "WAM English",
-      "source_url": "https://nitter.net/WAMNEWS_ENG/status/2038796994198859796#m",
-      "published": "2026-03-31T01:54:17+00:00",
-      "type": "ground",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2038764791477809311",
-      "title": "Authorities in Dubai confirm their response to an incident involving a drone affecting a Kuwaiti oil tanker in Dubai waters (Anchorage \u201cE\u201d), with no injuries reported. \n\n#WamNews \n\nhttps://www.wam.ae/a/175byun",
-      "source": "WAM English",
-      "source_url": "https://nitter.net/WAMNEWS_ENG/status/2038764791477809311#m",
-      "published": "2026-03-30T23:46:19+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2038752415244304494",
-      "title": "Authorities in Dubai responded to a fire in an abandoned house in Al Badaa caused by debris following an air defence interception. Four minor injuries were reported among individuals in the vicinity of the house, according to Dubai Media Office.\n\n#WamNews",
-      "source": "WAM English",
-      "source_url": "https://nitter.net/WAMNEWS_ENG/status/2038752415244304494#m",
-      "published": "2026-03-30T22:57:08+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -3325,28 +3281,6 @@
       }
     },
     {
-      "id": "2038342043458802094",
-      "title": "R to @mofauae: UAE Strongly Condemns Iran\u2019s Unprovoked Terrorist Attack on the State of Kuwait\n\nhttps://www.mofa.gov.ae/en/mediahub/news/2026/3/29/uae-kuawat",
-      "source": "UAE Ministry of Foreign Affairs",
-      "source_url": "https://nitter.net/mofauae/status/2038342043458802094#m",
-      "published": "2026-03-29T19:46:28+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "b7d8f6fc4c3adf5761e51eb1f81d435b",
       "title": "The Media briefing by the National Communication Centre on the latest developments in light of Iran\u2019s wrongful attacks. ...",
       "source": "Bahrain MOI (RSS.app)",
@@ -3689,28 +3623,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2038211496782778630",
-      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Defence",
-      "source_url": "https://nitter.net/modgovae/status/2038211496782778630#m",
-      "published": "2026-03-29T11:07:43+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 100,
       "is_government": true,
