@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-03-31T21:36:02.276791+00:00",
-  "total_incidents": 158,
+  "generated_at": "2026-03-31T22:31:01.717472+00:00",
+  "total_incidents": 156,
   "incidents": [
+    {
+      "id": "be400120e35677a39db64d0018c84ef3",
+      "title": "Loud blasts heard in the surroundings of Beirut caused by shelling from Israeli drone occupation targeted a car on the main road, causing injuries and significant damage.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2039106819604316315",
+      "published": "2026-03-31T22:25:00+00:00",
+      "type": "explosion",
+      "status": "confirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c05d7md899ro#0",
+      "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-31T22:07:26+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2039100047220982007",
+      "title": "The siren has been sounded .. Citizens and residents are urged to remain calm and head to the nearest safe place.",
+      "source": "Bahrain Ministry of Interior",
+      "source_url": "https://nitter.net/moi_bahrain/status/2039100047220982007#m",
+      "published": "2026-03-31T21:58:30+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774992566",
+      "title": "Iran ambassador refuses to leave Lebanon despite expulsion order",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iran-ambassador-refuses-to-leave-lebanon-despite-expulsion-order?traffic_source=rss",
+      "published": "2026-03-31T21:43:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3792446",
+      "title": "American journalist kidnapped in Baghdad; Iraq says manhunt underway, one detained",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/american-journalist-kidnapped-in-baghdad-iraq-says-manhunt-underway-one-detained/",
+      "published": "2026-03-31T21:33:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.3152,
+        "lng": 44.3661
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.moroccoworldnews.com/?p=285264",
       "title": "Global Outcry as Israel Passes Death Penalty Law for Convicted Palestinians",
@@ -17,6 +127,50 @@
         "lng": 34.8516
       },
       "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774966308",
+      "title": "Russian tanker reaches Cuba amid critical energy shortage",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/3/31/russian-tanker-reaches-cuba-amid-critical-energy-shortage?traffic_source=rss",
+      "published": "2026-03-31T21:25:56+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774970010",
+      "title": "\u2018I need to leave\u2019: Cuba\u2019s tourism workers reel from US oil blockade",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/3/31/i-need-to-leave-cubas-tourism-workers-reel-from-us-oil-blockade?traffic_source=rss",
+      "published": "2026-03-31T21:24:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -69,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
-      "title": "Middle East crisis live: US has begun flying B52 bombers over Iran, Pentagon says",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
-      "published": "2026-03-31T21:05:58+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war",
       "title": "\u2018Get your own oil\u2019: Trump launches tirade against Europe for not joining Iran war",
       "source": "The Guardian",
@@ -127,28 +259,6 @@
         "lng": 35.8623
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774989981",
-      "title": "Israeli air attack kills father and two-year-old son in Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israeli-air-attack-kills-father-and-two-year-old-son-in-gaza?traffic_source=rss",
-      "published": "2026-03-31T20:51:14+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -223,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774988603",
-      "title": "UN expert Albanese confronted by pro-Israeli protesters in Germany",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/un-expert-albanese-confronted-by-pro-israeli-protesters-in-germany?traffic_source=rss",
-      "published": "2026-03-31T20:29:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2039071619369357617",
       "title": "\u2b55\ufe0fIDF Inquiry Concludes: Yesterday\u2019s incident in which @UNIFIL_ troops were killed was not caused by IDF activity.\n\nOver the past day, the IDF completed its review of the incident yesterday, in which it was reported that UNIFIL troops were killed by the explosion of an explosive device in the Bani Haiyyan area in southern Lebanon. A comprehensive operational examination indicates that no explosive device was placed in the area by IDF troops, and that no IDF troops were present in the area at all.\n\nThe IDF is operating against Hezbollah, and not against UNIFIL, the Lebanese Armed Forces, or Lebanese civilians. \n\nThe IDF calls on UNIFIL to avoid presence in combat zones where the IDF has issued warnings to the civilian population to evacuate for their safety.",
       "source": "Israel Defense Forces",
@@ -260,28 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774987000",
-      "title": "Israelis attempt to perform Passover sacrifice at Al-Aqsa",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israelis-attempt-to-perform-passover-sacrifice-at-al-aqsa?traffic_source=rss",
-      "published": "2026-03-31T20:03:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -348,28 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1774984866",
-      "title": "What\u2019s behind Donald Trump\u2019s interest in Iran\u2019s Kharg Island?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/3/31/whats-behind-donald-trumps-interest-in-irans-kharg-island?traffic_source=rss",
-      "published": "2026-03-31T19:42:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -729,28 +773,6 @@
       }
     },
     {
-      "id": "faa74940f4e25a7c708112a30ea24b9a",
-      "title": "#Kuwait's official gazette publishes a draft law on the formation of specialized courts to handle state security offenses and terrorism-related crimes, a measure aiming to fast-track the process given the severity of such cases  pic.",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2039026265286385821",
-      "published": "2026-03-31T17:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=80272",
       "title": "Army aiming for ITEP to reach full qualification by 2028, senior leaders say",
       "source": "Breaking Defense",
@@ -788,28 +810,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "20659656c004bda66293bc5588ac91b6",
-      "title": "#Turkiye's Minister of Trade Omer Bolat: Transit visas for all international land truck drivers from #SaudiArabia will be provided for 15 days to meet requests from the Arab Gulf region.  #Kuwait pic.",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2039016704441831871",
-      "published": "2026-03-31T16:27:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1301,28 +1301,6 @@
       }
     },
     {
-      "id": "https://www.bbc.com/news/articles/c4gd20evgp0o#0",
-      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-31T14:40:08+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "0f2646df82b2bba5ec3551b4252ea08e",
       "title": "\ud83d\udcf8An Armenian martyr, who was killed in recent US-Israeli attacks on Iran's Isfahan, was honored in a funeral ceremony at Saint Mary Church before burial in the city\u2019s Armenian cemetery.",
       "source": "Mehr News (RSS.app)",
@@ -1544,8 +1522,8 @@
     },
     {
       "id": "2038941095166677297",
-      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Interior",
+      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Defence",
       "source_url": "https://nitter.net/modgovae/status/2038941095166677297#m",
       "published": "2026-03-31T11:26:53+00:00",
       "type": "missile",
@@ -1566,8 +1544,8 @@
     },
     {
       "id": "2038941095166677297",
-      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Defence",
+      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/modgovae/status/2038941095166677297#m",
       "published": "2026-03-31T11:26:53+00:00",
       "type": "missile",
@@ -1676,8 +1654,8 @@
     },
     {
       "id": "2038940277705220219",
-      "title": "RT by @moiuae: UAE air defences engaged 8 Ballistic missiles and 4 Cruise missiles and 36 UAV's.\n\nThe UAE air defences on 31th March 2026 engaged 8 Ballistic missiles, 4 Cruise missiles and 36 UAV's launched from Iran.\n\nSince the start of the blatant Iranian attacks, UAE air defences have engaged 433 ballistic missiles, 19 cruise missiles and 1,977 UAVs.\n\nThe attacks resulted in the martyrdom of 2 members of the armed forces while performing their national duty, in addition to the martyrdom of a Moroccan civilian contracted by the Armed Forces, as well as 8 fatalities of Pakistani, Nepali, Bangladeshi, Palestinian and Indian nationalities.\n\nA total of 188 people were also injured, with injuries ranging from minor to moderate and severe. The injured included nationals of the UAE, Egypt, Sudan, Ethiopia, the Philippines, Pakistan, Iran, India, Bangladesh, Sri Lanka, Azerbaijan, Yemen, Uganda, Eritrea, Lebanon, Afghanistan, Bahrain, Comoros, T\u00fcrkiye, Iraq, Nepal, Nigeria, Oman, Jordan, Palestine, Ghana, Indonesia, Sweden and Tunisia.\n\nThe Ministry of Defence affirmed that it remains fully prepared and ready to deal with any threats and will firmly confront anything that aims to undermine the security of the country, in a manner that ensures the protection of its sovereignty, security and stability and safeguards its interests and national capabilities.\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Interior",
+      "title": "UAE air defences engaged 8 Ballistic missiles and 4 Cruise missiles and 36 UAV's.\n\nThe UAE air defences on 31th March 2026 engaged 8 Ballistic missiles, 4 Cruise missiles and 36 UAV's launched from Iran.\n\nSince the start of the blatant Iranian attacks, UAE air defences have engaged 433 ballistic missiles, 19 cruise missiles and 1,977 UAVs.\n\nThe attacks resulted in the martyrdom of 2 members of the armed forces while performing their national duty, in addition to the martyrdom of a Moroccan civilian contracted by the Armed Forces, as well as 8 fatalities of Pakistani, Nepali, Bangladeshi, Palestinian and Indian nationalities.\n\nA total of 188 people were also injured, with injuries ranging from minor to moderate and severe. The injured included nationals of the UAE, Egypt, Sudan, Ethiopia, the Philippines, Pakistan, Iran, India, Bangladesh, Sri Lanka, Azerbaijan, Yemen, Uganda, Eritrea, Lebanon, Afghanistan, Bahrain, Comoros, T\u00fcrkiye, Iraq, Nepal, Nigeria, Oman, Jordan, Palestine, Ghana, Indonesia, Sweden and Tunisia.\n\nThe Ministry of Defence affirmed that it remains fully prepared and ready to deal with any threats and will firmly confront anything that aims to undermine the security of the country, in a manner that ensures the protection of its sovereignty, security and stability and safeguards its interests and national capabilities.\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Defence",
       "source_url": "https://nitter.net/modgovae/status/2038940277705220219#m",
       "published": "2026-03-31T11:23:38+00:00",
       "type": "missile",
@@ -1698,8 +1676,8 @@
     },
     {
       "id": "2038940277705220219",
-      "title": "UAE air defences engaged 8 Ballistic missiles and 4 Cruise missiles and 36 UAV's.\n\nThe UAE air defences on 31th March 2026 engaged 8 Ballistic missiles, 4 Cruise missiles and 36 UAV's launched from Iran.\n\nSince the start of the blatant Iranian attacks, UAE air defences have engaged 433 ballistic missiles, 19 cruise missiles and 1,977 UAVs.\n\nThe attacks resulted in the martyrdom of 2 members of the armed forces while performing their national duty, in addition to the martyrdom of a Moroccan civilian contracted by the Armed Forces, as well as 8 fatalities of Pakistani, Nepali, Bangladeshi, Palestinian and Indian nationalities.\n\nA total of 188 people were also injured, with injuries ranging from minor to moderate and severe. The injured included nationals of the UAE, Egypt, Sudan, Ethiopia, the Philippines, Pakistan, Iran, India, Bangladesh, Sri Lanka, Azerbaijan, Yemen, Uganda, Eritrea, Lebanon, Afghanistan, Bahrain, Comoros, T\u00fcrkiye, Iraq, Nepal, Nigeria, Oman, Jordan, Palestine, Ghana, Indonesia, Sweden and Tunisia.\n\nThe Ministry of Defence affirmed that it remains fully prepared and ready to deal with any threats and will firmly confront anything that aims to undermine the security of the country, in a manner that ensures the protection of its sovereignty, security and stability and safeguards its interests and national capabilities.\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Defence",
+      "title": "RT by @moiuae: UAE air defences engaged 8 Ballistic missiles and 4 Cruise missiles and 36 UAV's.\n\nThe UAE air defences on 31th March 2026 engaged 8 Ballistic missiles, 4 Cruise missiles and 36 UAV's launched from Iran.\n\nSince the start of the blatant Iranian attacks, UAE air defences have engaged 433 ballistic missiles, 19 cruise missiles and 1,977 UAVs.\n\nThe attacks resulted in the martyrdom of 2 members of the armed forces while performing their national duty, in addition to the martyrdom of a Moroccan civilian contracted by the Armed Forces, as well as 8 fatalities of Pakistani, Nepali, Bangladeshi, Palestinian and Indian nationalities.\n\nA total of 188 people were also injured, with injuries ranging from minor to moderate and severe. The injured included nationals of the UAE, Egypt, Sudan, Ethiopia, the Philippines, Pakistan, Iran, India, Bangladesh, Sri Lanka, Azerbaijan, Yemen, Uganda, Eritrea, Lebanon, Afghanistan, Bahrain, Comoros, T\u00fcrkiye, Iraq, Nepal, Nigeria, Oman, Jordan, Palestine, Ghana, Indonesia, Sweden and Tunisia.\n\nThe Ministry of Defence affirmed that it remains fully prepared and ready to deal with any threats and will firmly confront anything that aims to undermine the security of the country, in a manner that ensures the protection of its sovereignty, security and stability and safeguards its interests and national capabilities.\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/modgovae/status/2038940277705220219#m",
       "published": "2026-03-31T11:23:38+00:00",
       "type": "missile",
@@ -3075,28 +3053,6 @@
         "lng": 48.0
       },
       "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2038462665635323950",
-      "title": "The siren has been sounded .Citizens and residents are urged to remain calm and head to the nearest safe place",
-      "source": "Bahrain Ministry of Interior",
-      "source_url": "https://nitter.net/moi_bahrain/status/2038462665635323950#m",
-      "published": "2026-03-30T03:45:46+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
