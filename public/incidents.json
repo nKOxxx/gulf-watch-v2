@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-04T04:14:30.649978+00:00",
-  "total_incidents": 181,
+  "generated_at": "2026-04-04T05:54:45.586939+00:00",
+  "total_incidents": 174,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
       "title": "Middle East crisis live: US and Iranian forces race to recover missing pilot from downed jet; Israel bombards Beirut",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
-      "published": "2026-04-04T04:05:04+00:00",
+      "published": "2026-04-04T05:41:49+00:00",
       "type": "explosion",
       "status": "unconfirmed",
       "location": {
@@ -25,8 +25,74 @@
       }
     },
     {
+      "id": "https://www.thenationalnews.com/news/mena/2026/04/04/iraq-taps-syria-route-in-necessity-driven-but-promising-oil-export-push-officials-say/",
+      "title": "Iraq taps Syria route in necessity-driven but promising oil export push, officials say",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/04/04/iraq-taps-syria-route-in-necessity-driven-but-promising-oil-export-push-officials-say/",
+      "published": "2026-04-04T05:38:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3791400",
+      "title": "Could Paramount acquisition of CNN shift coverage of Israel?",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/could-paramount-acquisition-of-cnn-shift-coverage-of-israel/",
+      "published": "2026-04-04T05:17:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1775251737",
+      "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+      "published": "2026-04-04T03:51:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/mena/2026/04/04/live-iran-war-us-israel/",
-      "title": "Iran war latest: One US crew member rescued after F-15 fighter jet downed over Iran",
+      "title": "Iran war latest: US pilot still missing after two warplanes downed over Iran and the Gulf",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/04/04/live-iran-war-us-israel/",
       "published": "2026-04-04T03:44:01+00:00",
@@ -92,28 +158,6 @@
     },
     {
       "id": "2040264748181471655",
-      "title": "RT by @moiuae: Authorities confirm that they responded to a minor incident caused by debris from an aerial interception that fell on the facade of the Oracle building in Dubai Internet City. No injuries were reported.",
-      "source": "UAE Ministry of Interior",
-      "source_url": "https://nitter.net/DXBMediaOffice/status/2040264748181471655#m",
-      "published": "2026-04-04T03:06:36+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2040264748181471655",
       "title": "Authorities confirm that they responded to a minor incident caused by debris from an aerial interception that fell on the facade of the Oracle building in Dubai Internet City. No injuries were reported.",
       "source": "Dubai Media Office",
       "source_url": "https://nitter.net/DXBMediaOffice/status/2040264748181471655#m",
@@ -127,6 +171,28 @@
         "lng": 55.2708
       },
       "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2040264748181471655",
+      "title": "RT by @moiuae: Authorities confirm that they responded to a minor incident caused by debris from an aerial interception that fell on the facade of the Oracle building in Dubai Internet City. No injuries were reported.",
+      "source": "UAE Ministry of Interior",
+      "source_url": "https://nitter.net/DXBMediaOffice/status/2040264748181471655#m",
+      "published": "2026-04-04T03:06:36+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -422,28 +488,6 @@
     },
     {
       "id": "2040245329157886196",
-      "title": "RT by @moiuae: Authorities confirm that they responded to an incident caused by debris from an aerial interception that fell onto the fa\u00e7ade of a building in the Dubai Marina area. No fire or injuries were reported.",
-      "source": "UAE Ministry of Interior",
-      "source_url": "https://nitter.net/DXBMediaOffice/status/2040245329157886196#m",
-      "published": "2026-04-04T01:49:27+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2040245329157886196",
       "title": "Authorities confirm that they responded to an incident caused by debris from an aerial interception that fell onto the fa\u00e7ade of a building in the Dubai Marina area. No fire or injuries were reported.",
       "source": "Dubai Media Office",
       "source_url": "https://nitter.net/DXBMediaOffice/status/2040245329157886196#m",
@@ -457,6 +501,28 @@
         "lng": 55.2708
       },
       "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2040245329157886196",
+      "title": "RT by @moiuae: Authorities confirm that they responded to an incident caused by debris from an aerial interception that fell onto the fa\u00e7ade of a building in the Dubai Marina area. No fire or injuries were reported.",
+      "source": "UAE Ministry of Interior",
+      "source_url": "https://nitter.net/DXBMediaOffice/status/2040245329157886196#m",
+      "published": "2026-04-04T01:49:27+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -708,7 +774,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3794382&preview=true&preview_id=3794382",
-      "title": "Iran reportedly recovering bombed missile bunkers within hours after being struck",
+      "title": "Iran said restoring bombed missile bunkers within hours after being struck",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/liveblog-april-4-2026/",
       "published": "2026-04-03T23:38:38+00:00",
@@ -876,28 +942,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1775247209",
-      "title": "Will force be used to reopen Strait of Hormuz?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "published": "2026-04-03T20:55:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1137,28 +1181,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3794208",
-      "title": "Christians mark subdued Good Friday in Jerusalem, wider region amid Iran war",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/christians-mark-subdued-good-friday-in-jerusalem-wider-region-amid-iran-war/",
-      "published": "2026-04-03T19:11:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
       },
       "credibility": 85,
       "is_government": false,
@@ -2138,8 +2160,8 @@
     },
     {
       "id": "2040027980198801575",
-      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Interior",
+      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Defence",
       "source_url": "https://nitter.net/modgovae/status/2040027980198801575#m",
       "published": "2026-04-03T11:25:47+00:00",
       "type": "missile",
@@ -2160,8 +2182,8 @@
     },
     {
       "id": "2040027980198801575",
-      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Defence",
+      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Interior",
       "source_url": "https://nitter.net/modgovae/status/2040027980198801575#m",
       "published": "2026-04-03T11:25:47+00:00",
       "type": "missile",
@@ -2204,8 +2226,8 @@
     },
     {
       "id": "40750da5f39a703aa88bb84f31282894",
-      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629#MOD#UAEMinistryOfDefence pic.",
-      "source": "UAE MOD (RSS.app)",
+      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629#MOD#UAEMinistryOfDefence pic.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/modgovae/status/2040027980198801575",
       "published": "2026-04-03T11:25:00+00:00",
       "type": "missile",
@@ -2226,8 +2248,8 @@
     },
     {
       "id": "40750da5f39a703aa88bb84f31282894",
-      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629#MOD#UAEMinistryOfDefence pic.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629#MOD#UAEMinistryOfDefence pic.",
+      "source": "UAE MOD (RSS.app)",
       "source_url": "https://x.com/modgovae/status/2040027980198801575",
       "published": "2026-04-03T11:25:00+00:00",
       "type": "missile",
@@ -2907,11 +2929,11 @@
       }
     },
     {
-      "id": "2039822586301788605",
-      "title": "RT by @mofauae: Bahrain, supported by the GCC and Jordan, has proposed a Security Council Resolution on the Strait of Hormuz. More info on the resolution below \u2b07\ufe0f",
+      "id": "2039823211551211700",
+      "title": "RT @UAEMissionToUN: Bahrain, supported by the GCC and Jordan, has proposed a Security Council Resolution on the Strait of Hormuz. More info\u2026",
       "source": "UAE Ministry of Foreign Affairs",
-      "source_url": "https://nitter.net/UAEMissionToUN/status/2039822586301788605#m",
-      "published": "2026-04-02T21:49:37+00:00",
+      "source_url": "https://nitter.net/mofauae/status/2039823211551211700#m",
+      "published": "2026-04-02T21:52:06+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -3801,182 +3823,6 @@
         "lng": 53.688
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2039219617906741436",
-      "title": "R to @Mdais: MDA: Following missile fire toward the State of Israel\n\n14 casualties: an 11-year-old girl in serious condition; a 36-year-old woman and 13-year-old boy in moderate condition; 11 in light condition. All being treated and evacuated.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2039219617906741436#m",
-      "published": "2026-04-01T05:53:38+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 14,
-        "military": 0,
-        "civilian": 14
-      }
-    },
-    {
-      "id": "5f6335e6425b3b079f0a81535b471f36",
-      "title": "MDA: Following missile fire toward the State of Israel 14 casualties: an 11-year-old girl in serious condition; a 36-year-old woman and 13-year-old boy in moderate condition; 11 in light condition. All being treated and evacuated.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2039219617906741436",
-      "published": "2026-04-01T05:53:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 14,
-        "military": 0,
-        "civilian": 14
-      }
-    },
-    {
-      "id": "2039211733890286012",
-      "title": "MDA: Following missile fire toward the State of Israel\n\nAn 11-year-old girl in serious condition (conscious, shrapnel injuries) is being evacuated to Sheba Medical Center. 2 additional casualties in mild condition are being treated at the scene. Updates to follow.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2039211733890286012#m",
-      "published": "2026-04-01T05:22:18+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "afa6791375ff3d6fe5445ffc7a604d9d",
-      "title": "MDA: Following missile fire toward the State of Israel An 11-year-old girl in serious condition (conscious, shrapnel injuries) is being evacuated to Sheba Medical Center. 2 additional casualties in mild condition are being treated at the scene. Updates to follow.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2039211733890286012",
-      "published": "2026-04-01T05:22:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2039210660647567793",
-      "title": "R to @Mdais: From the scene in central Israel",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2039210660647567793#m",
-      "published": "2026-04-01T05:18:02+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5c9bc5779517ad57d266ca6cc88a6bda",
-      "title": "From the scene in central Israel",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2039210660647567793",
-      "published": "2026-04-01T05:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2039208563009101892",
-      "title": "MDA Spokesperson: Following missile fire toward the State of Israel\n\nMDA EMTs and paramedics are searching locations where reports were received and treating people who were injured on their way to shelters. Updates as required.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2039208563009101892#m",
-      "published": "2026-04-01T05:09:42+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5d601db4b6915dd9cffd582baf638781",
-      "title": "MDA Spokesperson: Following missile fire toward the State of Israel MDA EMTs and paramedics are searching locations where reports were received and treating people who were injured on their way to shelters. Updates as required.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2039208563009101892",
-      "published": "2026-04-01T05:09:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
