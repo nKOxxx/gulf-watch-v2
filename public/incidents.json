@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-04-06T22:32:19.018148+00:00",
-  "total_incidents": 179,
+  "generated_at": "2026-04-06T23:31:52.274213+00:00",
+  "total_incidents": 177,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
+      "title": "Middle East crisis live: Iran warns of \u2018devastating\u2019 retaliation after Trump\u2019s expletive-laden threats over strait of Hormuz",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
+      "published": "2026-04-06T23:21:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/apr/06/trump-iran-easter-press-conference",
+      "title": "Down the rabbit hole: Trump offers dark Iran warnings after Easter bunny act",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/apr/06/trump-iran-easter-press-conference",
+      "published": "2026-04-06T22:55:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "951cbbe21301bab05b29545be494b02b",
+      "title": "Qatari Ministry of Foreign Affairs: #Qatar condemns the storming of Al Aqsa Mosque by the Israeli occupation national security minister  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2041287778567094422",
+      "published": "2026-04-06T22:51:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fea17b5b02180ac3ae0fdd589cdb04b2",
+      "title": "#US Central Command (CENTCOM): US military has launched strikes against more than 13,000 targets in #Iran since the start of the \"Operation Epic Fury\" on February 28 amid ongoing diplomatic efforts to end the crisis  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2041287390489133263",
+      "published": "2026-04-06T22:50:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0e6daa4db2eff6ff20996b7d889d638f",
+      "title": "Palestinian Islamic Waqf Department in #Jerusalem: Israeli occupation national security minister stormed Al-Aqsa Mosque  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2041287141427200377",
+      "published": "2026-04-06T22:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1961c020e380953e588421a60005547d",
+      "title": "Saudi Ministry of Defense announce the interception and destruction of four ballistic missiles and two drones in the Eastern Region  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2041286393272393863",
+      "published": "2026-04-06T22:46:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "2041280694551277931",
       "title": "Alert: The danger has passed in Eastern Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
@@ -40,28 +172,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
-      "title": "Middle East crisis live: Iran warns of \u2018devastating\u2019 retaliation after Trump\u2019s expletive-laden threats over strait of Hormuz",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
-      "published": "2026-04-06T22:22:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -304,50 +414,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2041263745389773286",
-      "title": "Alert: The danger has passed in Eastern Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense",
-      "source_url": "https://nitter.net/SaudiDCD/status/2041263745389773286#m",
-      "published": "2026-04-06T21:16:16+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f541ec5d60500077ca1911f719de2960",
-      "title": "Alert: The danger has passed in Eastern Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2041263745389773286",
-      "published": "2026-04-06T21:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1169,78 +1235,12 @@
       }
     },
     {
-      "id": "eda8811640dcf36ed3218df17489c371",
-      "title": "#UAE President Sheikh Mohamed bin Zayed Al-Nahyan discusses with #Kuwait's Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah the escalating military situation in the region & its serious repercussions on regional & international security & stability.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2041189312708964454",
-      "published": "2026-04-06T16:20:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a7a3c00f744172c9691ff9db02c99701",
-      "title": "US President Donald Trump says Tuesday marks the final deadline he has set for Iran to reach an agreement or face \"severe consequences,\" urging Tehran to seize the opportunity before it is too late.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2041188804254384212",
-      "published": "2026-04-06T16:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2041188465803407774",
       "title": "\ud83c\udfafSTRUCK: The largest petrochemical complex in Iran, responsible for producing and exporting chemical materials for the manufacturing of explosives.\n\nWith this strike, the IDF has now targeted Iran\u2019s 2 biggest petrochemical complexes, rendering more than 85% of Iran\u2019s petrochemical export capacity inoperable.\n\nThe damage to this infrastructure will disrupt the regime\u2019s ability to produce essential components for the missile industry intended to target Israel and other countries in the Middle East.",
       "source": "Israel Defense Forces",
       "source_url": "https://nitter.net/IDF/status/2041188465803407774#m",
       "published": "2026-04-06T16:17:08+00:00",
       "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "81781205f79d4e74fccb1a1e2cbb6b72",
-      "title": "#Iran's official news agency says Tehran rejects a ceasefire & insists on a permanent end to the war.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2041187957265019282",
-      "published": "2026-04-06T16:15:00+00:00",
-      "type": "incident",
       "status": "confirmed",
       "location": {
         "country": "Iran",
@@ -1379,28 +1379,6 @@
         "city": null,
         "lat": 33.8547,
         "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "912897be42945a04983453f74a85c319",
-      "title": "#Qatar's Ministry of Defense announces that the State of Qatar was targeted by several drones launched from #Iran  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2041176938023170418",
-      "published": "2026-04-06T15:31:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": true,
@@ -2640,28 +2618,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
-      "title": "At least 15 killed in strikes on Lebanon \u2013 as it happened",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
-      "published": "2026-04-06T03:54:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 15,
-        "military": 0,
-        "civilian": 15
       }
     },
     {
