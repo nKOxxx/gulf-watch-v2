@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-07T20:42:42.041392+00:00",
-  "total_incidents": 175,
+  "generated_at": "2026-04-07T21:39:24.350050+00:00",
+  "total_incidents": 189,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
       "title": "UN chief decries \u2018incendiary rhetoric\u2019 after Trump ramps up threats against Iran as deal deadline looms \u2013 Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
-      "published": "2026-04-07T20:40:09+00:00",
+      "published": "2026-04-07T21:18:36+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +18,248 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c117c810600ca44ef908d4870ab6b0a4",
+      "title": "#GCC Secretary-General Jasem Al-Budaiwi expresses his strong condemnation of the demonstrators storming the Consulate of #Kuwait in Basra, #Iraq  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2041626709561102345",
+      "published": "2026-04-07T21:18:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 30.5156,
+        "lng": 47.7804
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a28b75f8cf6339b66093274a83e53a7c",
+      "title": "In a press statement, the #Kuwaiti Foreign Ministry says that such acts represent a serious and blatant violation of #Iraq's international commitments, particularly regarding the #Vienna Convention on Consular Relations for 1963, mainly Article 31 that obliges the host country to fully protect and safeguard consular missions' premises @MOFAKuwait  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2041626021263217125",
+      "published": "2026-04-07T21:15:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/",
+      "title": "Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/",
+      "published": "2026-04-07T21:12:52+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1775595539",
+      "title": "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/protesters-in-iraq-swarm-kuwaiti-consulate-after-deadly-rocket-attack?traffic_source=rss",
+      "published": "2026-04-07T21:12:04+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2041624803640008717",
+      "title": "As part of the ongoing monitoring of field developments, the Ministry of Interior confirms that security authorities have responded to an incident resulting from the interception of Iranian missiles by Qatari air defence systems, which led to debris falling on a citizen\u2019s residence in the Muraikh area. \n#MOIQatar",
+      "source": "Qatar Ministry of Interior EN",
+      "source_url": "https://nitter.net/MOI_QatarEn/status/2041624803640008717#m",
+      "published": "2026-04-07T21:10:59+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1775593958",
+      "title": "Iranians brace for possible devastation as Trump\u2019s deadline looms",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/4/7/iranians-brace-for-possible-devastation-as-trumps-deadline-looms?traffic_source=rss",
+      "published": "2026-04-07T21:08:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1775592086",
+      "title": "How is the US-Israel war on Iran affecting Russian-Iranian relations?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/4/7/how-is-the-us-israel-war-on-iran-affecting-russian-iranian-relations?traffic_source=rss",
+      "published": "2026-04-07T21:04:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "210369d500df53ab8919a2a629d4e92d",
+      "title": "The #Qatari Ministry of Defense announces that the Armed Forces intercepted a missile attack that targeted the country's territory  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2041620859681468677",
+      "published": "2026-04-07T20:55:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0f71a3de989b927d663d4430a9b260a4",
+      "title": "#Kuwait condemns and denounces in the strongest terms storming and sabotage targeting the Kuwaiti Consulate in #Iraq's Basra City, along with blatant aggression on the consulate's premises in an unacceptable and serious breach of diplomatic norms and conventions #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2041620540985676284",
+      "published": "2026-04-07T20:54:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 30.5156,
+        "lng": 47.7804
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1775588261",
+      "title": "\u2018Policy of abuse\u2019: Women march in Cuba against US energy blockade",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/4/7/policy-of-abuse-women-march-in-cuba-against-us-energy-blockade?traffic_source=rss",
+      "published": "2026-04-07T20:44:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "af8ce81c8d0e5f93f5d776c1d5efd602",
+      "title": "#Bahrain's Minister of Foreign Affairs Dr. Abdullatif Al-Zayani expresses deep regret at the #UN Security Council's failure to adopt a draft resolution on securing maritime navigation in the Strait of #Hormuz.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2041616649137115405",
+      "published": "2026-04-07T20:38:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -40,6 +282,50 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "530dacaa190558e888aa84eb66339c99",
+      "title": "The #Qatari Ministry of Interior announces that the security threat level is so high that everyone should stay indoors  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2041615238739489100",
+      "published": "2026-04-07T20:32:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2041614848543617217",
+      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
+      "source": "UAE Ministry of Interior",
+      "source_url": "https://nitter.net/NCEMAUAE/status/2041614848543617217#m",
+      "published": "2026-04-07T20:31:25+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -70,7 +356,29 @@
     },
     {
       "id": "cc141069afbcf857270f17f994eb3bc1",
-      "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
+      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/NCEMAUAE/status/2041614848543617217",
+      "published": "2026-04-07T20:31:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cc141069afbcf857270f17f994eb3bc1",
+      "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
       "source": "UAE NCEMA (RSS.app)",
       "source_url": "https://x.com/NCEMAUAE/status/2041614848543617217",
       "published": "2026-04-07T20:31:00+00:00",
@@ -83,6 +391,28 @@
         "lng": 48.0
       },
       "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cc141069afbcf857270f17f994eb3bc1",
+      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/NCEMAUAE/status/2041614848543617217",
+      "published": "2026-04-07T20:31:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -106,6 +436,50 @@
       },
       "credibility": 100,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1775583445",
+      "title": "Russia and China block UN resolution on Strait of Hormuz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/4/7/russia-and-china-block-un-resolution-on-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-04-07T20:17:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1775592363",
+      "title": "Pope Leo slams Trump\u2019s threat that Iran\u2019s \u2018civilisation will die\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/pope-leo-slams-trumps-threat-that-irans-civilisation-will?traffic_source=rss",
+      "published": "2026-04-07T20:15:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -157,50 +531,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1775591060",
-      "title": "Massive fire engulfs oil storage tanks near Baghdad",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/massive-fire-engulfs-oil-storage-tanks-near-baghdad?traffic_source=rss",
-      "published": "2026-04-07T19:45:51+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.3152,
-        "lng": 44.3661
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1775582206",
-      "title": "\u2018No end in sight\u2019 if Trump acts on threat to destroy Iran infrastructure",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/4/7/no-end-in-sight-if-trump-acts-on-threat-to-destroy-iran-infrastructure?traffic_source=rss",
-      "published": "2026-04-07T19:41:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-navy/2026/04/07/us-navy-seeks-1200-increase-in-tomahawk-missile-procurement-for-2027/",
       "title": "US Navy seeks 1,200% increase in Tomahawk missile procurement for 2027",
       "source": "Defense News",
@@ -245,25 +575,25 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1775589199",
-      "title": "Iranians form human chains across bridges, at power plants",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranians-form-human-chains-across-bridges-at-power-plants?traffic_source=rss",
-      "published": "2026-04-07T19:37:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
+      "id": "2041601208213807264",
+      "title": "MDA Spokesperson: Following the missile fire toward southern Israel:\n\nMDA EMTs and paramedics are providing medical treatment to 2 casualties in mild condition, aged 30 and 50, with shrapnel injuries.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2041601208213807264#m",
+      "published": "2026-04-07T19:37:13+00:00",
+      "type": "missile",
+      "status": "confirmed",
       "location": {
-        "country": "Iran",
+        "country": "Israel",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 31.0461,
+        "lng": 34.8516
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
-        "total": 0,
+        "total": 2,
         "military": 0,
-        "civilian": 0
+        "civilian": 2
       }
     },
     {
@@ -301,28 +631,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b63b1a1366d30c3dbc5b8097cc3ca0ed",
-      "title": "#Qatari Deputy Prime Minister and Minister of State for Defense Affairs Sheikh Saoud bin Abdulrahman and #Spanish Minister of Defense Margarita Robles discussed the latest regional situation over the phone  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2041599966171259154",
-      "published": "2026-04-07T19:32:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
       },
       "credibility": 95,
       "is_government": true,
@@ -553,28 +861,6 @@
       }
     },
     {
-      "id": "38447d937a7614968aee458fec6021f1",
-      "title": "The Qatari Foreign Ministry reaffirms #Qatar's position regarding mediation has not changed, echoing its full support for Pakistan-led ongoing mediation efforts  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2041596820975939713",
-      "published": "2026-04-07T19:19:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "33ac1841a1172b5b5e2b5184d899817d",
       "title": ". The United Arab Emirates deeply regrets that the UN Security Council (UNSC) failed today to endorse a clear framework ...",
       "source": "WAM News (RSS.app)",
@@ -597,6 +883,28 @@
       }
     },
     {
+      "id": "https://www.bbc.com/news/articles/clyxk5640wko#0",
+      "title": "French couple leave Iran after more than three years in jail",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-07T19:18:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "2041596375553753595",
       "title": "UAE deeply regrets UNSC\u2019s failure to endorse clear international cooperation framework in ending Iran\u2019s illegal attacks, threats to global economy\n\n#WamNews \n\nhttps://www.wam.ae/a/bzlhrby",
       "source": "WAM English",
@@ -612,116 +920,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5cd4c642be571e9e72b4755cd7de169a",
-      "title": "#French President Emmanuel #Macron says that Cecile Kohler and Jacques Paris are free and on their way to French territory, after three and a half years of detention in #Iran  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2041596336714203480",
-      "published": "2026-04-07T19:17:00+00:00",
-      "type": "raid",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "56f7efcb0add64fa9300294562c17921",
-      "title": "#Kuwait Fire Force (KFF) handled 23 routine reports and received no reports of emergency on falling shrapnel from hostile flying objects, whether missiles or drones @kff_kw  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2041595742670692521",
-      "published": "2026-04-07T19:15:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1775589071",
-      "title": "Video: Historic building in Ukraine up in flames after Russia drone attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/video-historic-building-in-ukraine-up-in-flames-after-russia-drone-attack?traffic_source=rss",
-      "published": "2026-04-07T19:14:12+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1775577851",
-      "title": "French nationals return home following Iran prison release",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/4/7/french-nationals-return-home-following-iran-prison-release?traffic_source=rss",
-      "published": "2026-04-07T19:07:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1775588455",
-      "title": "What we know about the shooting by Istanbul\u2019s Israeli consulate",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/what-we-know-about-the-shooting-by-istanbuls-israeli-consulate?traffic_source=rss",
-      "published": "2026-04-07T19:02:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -765,28 +963,6 @@
         "lng": 39.5692
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f213e1c57fb008b2eabae9ca5e8d455a",
-      "title": "Arab League Secretary-General Ahmad Aboul-Gheit expresses his deep regret at #UN Security Council failure to adopt a draft resolution on securing maritime navigation in the Strait of #Hormuz after #Russia and #China vetoed it  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2041586134162010119",
-      "published": "2026-04-07T18:37:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -905,6 +1081,28 @@
       }
     },
     {
+      "id": "https://www.bbc.com/news/articles/crm1xjp08k3o#0",
+      "title": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-07T17:50:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/europe/2026/04/07/two-french-citizens-returning-home-after-years-of-detention-in-iran/",
       "title": "Two French citizens returning home after years of detention in Iran",
       "source": "The National UAE",
@@ -942,28 +1140,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "462b81929236585441f078052f6f5fc0",
-      "title": "#Kuwait's Cabinet urges citizens and residents to adhere to the calls issued by the Ministries of Defense and Interior, the National Guard, and the Fire Force, urging the public not to circulate images or videos from targeted sites and avoid spreading rumors  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2041568813875966032",
-      "published": "2026-04-07T17:28:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1433,28 +1609,6 @@
       }
     },
     {
-      "id": "2041540504811196447",
-      "title": "RT @UAEMissionToUN: Skyrocketing food prices and fuel costs. Blocked raw materials and essential supplies. Billions of people around the wo\u2026",
-      "source": "UAE Ministry of Foreign Affairs",
-      "source_url": "https://nitter.net/mofauae/status/2041540504811196447#m",
-      "published": "2026-04-07T15:36:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/pentagon-congress/2026/04/07/us-hits-military-targets-on-irans-kharg-island/",
       "title": "US hits military targets on Iran\u2019s Kharg Island",
       "source": "Defense News",
@@ -1631,6 +1785,28 @@
       }
     },
     {
+      "id": "2041528232298623423",
+      "title": "RT by @mofauae: Skyrocketing food prices and fuel costs. Blocked raw materials and essential supplies. Billions of people around the world are paying more for basic commodities due to Iran\u2019s illegal actions. Now is the time for international action to protect freedom of navigation in the Strait of Hormuz.\n\nThe UAE urges the UNSC to adopt the \u201cOpen the Strait\u201d resolution and end Iran\u2019s attacks and threats to the global economy.\n\nWatch live\u2b07\ufe0f https://webtv.un.org/en/asset/k1z/k1z38t1pq1\n\n\ud83d\udcc5 7 April 2026\n\u23f0 11:00 AM (Eastern Standard Time)",
+      "source": "UAE Ministry of Foreign Affairs",
+      "source_url": "https://nitter.net/UAEMissionToUN/status/2041528232298623423#m",
+      "published": "2026-04-07T14:47:14+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "2041523615531749516",
       "title": "\ud83c\udfafSTRUCK: 8 bridge segments utilized by the Iranian terror regime for transporting weapons & military equipment.\n\nThe IDF struck 8 bridge segments in several areas, including Tehran, Karaj, Tabriz, Kashan, & Qom. Prior to the strike, several steps were taken to mitigate harm to civilians.",
       "source": "Israel Defense Forces",
@@ -1709,6 +1885,28 @@
         "city": null,
         "lat": 25.3463,
         "lng": 55.4209
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2041489941515870496",
+      "title": "Operational Update:\nDue to the Passover holiday, crossings from Israel into the Gaza Strip will be closed this Wednesday (April 8). Collection efforts on the Gazan side of the Kerem Shalom Crossing will continue on this day.\n\nBeyond the 8th, crossings continue to operate at a stable volume to meet the needs identified by the international community, with hundreds of aid trucks entering Gaza daily.\n\nRafah Crossing Update:\nSince February, approximately 1,150 people have exited Gaza, and approximately 1,150 people have entered Gaza.",
+      "source": "COGAT",
+      "source_url": "https://nitter.net/cogatonline/status/2041489941515870496#m",
+      "published": "2026-04-07T12:15:05+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
       },
       "credibility": 95,
       "is_government": true,
@@ -1808,8 +2006,8 @@
     },
     {
       "id": "2041472757557534950",
-      "title": "RT by @mofauae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Foreign Affairs",
+      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Defence",
       "source_url": "https://nitter.net/modgovae/status/2041472757557534950#m",
       "published": "2026-04-07T11:06:48+00:00",
       "type": "missile",
@@ -1830,8 +2028,8 @@
     },
     {
       "id": "2041472757557534950",
-      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Defence",
+      "title": "RT by @mofauae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
+      "source": "UAE Ministry of Foreign Affairs",
       "source_url": "https://nitter.net/modgovae/status/2041472757557534950#m",
       "published": "2026-04-07T11:06:48+00:00",
       "type": "missile",
@@ -2041,28 +2239,6 @@
         "lng": 53.8478
       },
       "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2041461213868298539",
-      "title": "RT by @moiuae: \u062a\u062a\u0639\u0627\u0645\u0644 \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0645\u0639 \u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a \u0635\u0627\u0631\u0648\u062e\u064a\u0629 \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u0633\u064a\u0631\u0629 \u0642\u0627\u062f\u0645\u0629 \u0645\u0646 \u0627\u064a\u0631\u0627\u0646 \u0648\u062a\u0624\u0643\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0623\u0646 \u0627\u0644\u0627\u0635\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u0641\u064a \u0645\u0646\u0627\u0637\u0642 \u0645\u062a\u0641\u0631\u0642\u0629 \u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u0629 \u0647\u064a \u0646\u062a\u064a\u062c\u0629 \u062a\u0639\u0627\u0645\u0644 \u0645\u0646\u0638\u0648\u0645\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629\u060c \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629.\n\nUAE Air Defences system are actively engaging with missiles and UAV threats\n\nMOD asserts that the sounds heard across the country are the result of ongoing engaging operations of missiles and UAV's\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Interior",
-      "source_url": "https://nitter.net/modgovae/status/2041461213868298539#m",
-      "published": "2026-04-07T10:20:56+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -2445,6 +2621,28 @@
       }
     },
     {
+      "id": "2041403346116862226",
+      "title": "MDA Spokesperson: Following the missile fire toward central Israel: \n\nMDA teams have been dispatched to search reported sites. Updates to follow as required.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2041403346116862226#m",
+      "published": "2026-04-07T06:30:59+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "6cd715ee4737de6bf0aed6b80c61cf72",
       "title": "MDA Spokesperson: Following the missile fire toward central Israel: MDA teams have been dispatched to search reported sites. Updates to follow as required. pic.",
       "source": "Magen David Adom (RSS.app)",
@@ -2613,28 +2811,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/czexw94rj5jo#0",
-      "title": "Little sign of breakthrough as Trump's Iran deadline nears",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-04-06T23:04:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -2929,28 +3105,6 @@
       }
     },
     {
-      "id": "https://www.bbc.com/news/articles/cvgl0ng8z0do#0",
-      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-04-06T15:40:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2041178639102816666",
       "title": "\ud83d\udcf8 Southern Lebanon: IDF troops located underground living quarters, and uncovered military vests, RPG rockets, & explosive devices alongside a flag of the UNHCR organization.\n\nIn additional activities, the troops located several weapons stockpiles, including AK-47 rifles, RPG launchers, & sniper rifles.",
       "source": "Israel Defense Forces",
@@ -3105,11 +3259,55 @@
       }
     },
     {
+      "id": "2041129063679426626",
+      "title": "Landmark Defense Deal During Wartime: Israel MOD to Supply Advanced @ElbitSystemsLtd PULS Rocket Artillery System to Greece in Deal Worth Approximately $750 Million\n\nRead More: https://www.linkedin.com/feed/update/urn:li:activity:7446894189637734402",
+      "source": "Israel Ministry of Defense",
+      "source_url": "https://nitter.net/Israel_MOD/status/2041129063679426626#m",
+      "published": "2026-04-06T12:21:05+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "dc0fdf3073dff4e7e92b542d4916c1d1",
       "title": "Landmark Defense Deal During Wartime: Israel MOD to Supply Advanced @ElbitSystemsLtd PULS Rocket Artillery System to Greece in Deal Worth Approximately $750 Million Read More:",
       "source": "Israel MOD (RSS.app)",
       "source_url": "https://x.com/Israel_MOD/status/2041129063679426626",
       "published": "2026-04-06T12:21:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2041120788829405437",
+      "title": "Following the latest missile barrage towards central Israel:",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2041120788829405437#m",
+      "published": "2026-04-06T11:48:12+00:00",
       "type": "missile",
       "status": "confirmed",
       "location": {
@@ -3141,28 +3339,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2041110848295621018",
-      "title": "RT by @mofauae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629.\n\nUAE Air Defences engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 \n#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629\n#MOD\n#UAEMinistryOfDefence",
-      "source": "UAE Ministry of Foreign Affairs",
-      "source_url": "https://nitter.net/modgovae/status/2041110848295621018#m",
-      "published": "2026-04-06T11:08:42+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -3259,6 +3435,28 @@
       }
     },
     {
+      "id": "2041090221610094661",
+      "title": "R to @Mdais: Further update: Following last night\u2019s incident in Haifa:\n\nAs of 12:40, a woman approximately 35 years old was rescued without signs of life. MDA paramedics pronounced her dead.\n\nIn summary, all four missing persons have been rescued, and pronounced dead.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2041090221610094661#m",
+      "published": "2026-04-06T09:46:45+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.794,
+        "lng": 34.9896
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "86b15df8688801c167f8e47116398c0e",
       "title": "Further update: Following last night\u2019s incident in Haifa: As of 12:40, a woman approximately 35 years old was rescued without signs of life. MDA paramedics pronounced her dead. In summary, all four missing persons have been rescued, and pronounced dead.",
       "source": "Magen David Adom (RSS.app)",
@@ -3278,6 +3476,28 @@
         "total": 0,
         "military": 0,
         "civilian": 0
+      }
+    },
+    {
+      "id": "2041085751698297285",
+      "title": "R to @Mdais: Update: As of 12:20, a man in his 40s has been rescued without signs of life. MDA paramedics have pronounced him dead.\n\nSo far, 3 casualties have been rescued: a man and a woman in their 80s, and a man in his 40s.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2041085751698297285#m",
+      "published": "2026-04-06T09:28:59+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 3,
+        "military": 0,
+        "civilian": 3
       }
     },
     {
@@ -3303,6 +3523,28 @@
       }
     },
     {
+      "id": "2041082726992797797",
+      "title": "MDA Spokesperson: Following last night\u2019s incident in Haifa:\n\nAfter complex rescue operations, MDA paramedics pronounced the death of a man and a woman, both approximately 80 years old, and are continuing to provide medical cover for the continuation of the rescue operations.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2041082726992797797#m",
+      "published": "2026-04-06T09:16:58+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.794,
+        "lng": 34.9896
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "ea5c8f561e3b8238ee5d6cbaaa043b45",
       "title": "MDA Spokesperson: Following last night\u2019s incident in Haifa: After complex rescue operations, MDA paramedics pronounced the death of a man and a woman, both approximately 80 years old, and are continuing to provide medical cover for the continuation of the rescue operations.",
       "source": "Magen David Adom (RSS.app)",
@@ -3315,6 +3557,28 @@
         "city": null,
         "lat": 32.794,
         "lng": 34.9896
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2041067518001881502",
+      "title": "Israel MOD to Accelerate Arrow Interceptor Production\n\nRead More: https://www.linkedin.com/posts/israelimod_israel-mod-to-accelerate-arrow-interceptor-activity-7446832131881754625-LE1C?utm_source=share&utm_medium=member_ios&rcm=ACoAACoGTWsBhTxoJG7xP0ZwnL8No_iAzlkHrWo",
+      "source": "Israel Ministry of Defense",
+      "source_url": "https://nitter.net/Israel_MOD/status/2041067518001881502#m",
+      "published": "2026-04-06T08:16:32+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 95,
       "is_government": true,
@@ -3413,6 +3677,28 @@
       }
     },
     {
+      "id": "2041008811951943865",
+      "title": "Updates from central Israel:",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2041008811951943865#m",
+      "published": "2026-04-06T04:23:15+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "1986a7451cca9f6410dcb20ded039424",
       "title": "Updates from central Israel: pic.",
       "source": "Magen David Adom (RSS.app)",
@@ -3425,6 +3711,28 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2041001510008500422",
+      "title": "Following the missile fire toward northern Israel:\n\nAt a scene in Haifa, MDA EMTs and paramedics are providing medical treatment and evacuating 4 mildly injured patients with signs of smoke inhalation to Rambam Hospital. A man and a woman in their 40s, and two 5-year-old girls.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2041001510008500422#m",
+      "published": "2026-04-06T03:54:14+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.794,
+        "lng": 34.9896
       },
       "credibility": 95,
       "is_government": true,
@@ -3545,6 +3853,28 @@
       }
     },
     {
+      "id": "2040960662797508742",
+      "title": "Elderly woman treated by MDA after falling on her way to a shelter following Red Alert sirens in central Israel. Patient is unconscious and in unstable condition. Evacuated to Ichilov Hospital for further treatment.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2040960662797508742#m",
+      "published": "2026-04-06T01:11:55+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "6933c2d45f8c3b60b2a544cf860fd213",
       "title": "Elderly woman treated by MDA after falling on her way to a shelter following Red Alert sirens in central Israel. Patient is unconscious and in unstable condition. Evacuated to Ichilov Hospital for further treatment.",
       "source": "Magen David Adom (RSS.app)",
@@ -3603,6 +3933,28 @@
         "lng": 39.5692
       },
       "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2040822753159201229",
+      "title": "Number of people injured, including at least one in serious condition, following missile strike on residential building kn Haifa region.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2040822753159201229#m",
+      "published": "2026-04-05T16:03:55+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.794,
+        "lng": 34.9896
+      },
+      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -3670,28 +4022,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-f-15-airman-from-iran/",
-      "title": "US special forces rescue second F-15 airman from Iran",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-f-15-airman-from-iran/",
-      "published": "2026-04-05T13:40:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -3824,28 +4154,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cgqkn4j48qdo#1",
-      "title": "US says it has arrested relatives of late Iranian \u200bgeneral Qasem \u200bSoleimani",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-04-04T21:29:46+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
