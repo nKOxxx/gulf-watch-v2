@@ -1,13 +1,79 @@
 {
-  "generated_at": "2026-04-09T21:42:47.345838+00:00",
+  "generated_at": "2026-04-09T22:37:40.147545+00:00",
   "total_incidents": 151,
   "incidents": [
+    {
+      "id": "2042368956451725766",
+      "title": "MDA Spokesperson: Following the missile fire toward Israel: \n\nAt this stage, there are no known casualties or missile impacts.\n\nMDA EMTs and paramedics are treating a small number of people who were injured on their way to shelters. Updates as required.",
+      "source": "Magen David Adom",
+      "source_url": "https://nitter.net/Mdais/status/2042368956451725766#m",
+      "published": "2026-04-09T22:27:59+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8e7944f5f95c3266fe1bff50151f3217",
+      "title": "MDA Spokesperson: Following the missile fire toward Israel: At this stage, there are no known casualties or missile impacts. MDA EMTs and paramedics are treating a small number of people who were injured on their way to shelters. Updates as required.",
+      "source": "Magen David Adom (RSS.app)",
+      "source_url": "https://x.com/Mdais/status/2042368956451725766",
+      "published": "2026-04-09T22:27:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3798570",
+      "title": "Reservist rabbi who called to \u2018flatten\u2019 Gaza will be honored at state Independence Day event",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/reservist-rabbi-who-called-to-flatten-gaza-will-be-honored-at-state-independence-day-event/",
+      "published": "2026-04-09T22:15:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news",
       "title": "Middle East crisis live: Netanyahu says \u2018no ceasefire in Lebanon\u2019 as Israel attacks \u2018Hezbollah launch sites\u2019",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news",
-      "published": "2026-04-09T21:40:26+00:00",
+      "published": "2026-04-09T22:13:36+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +81,72 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e912ef7659d781c9f5ddb647c24cfd72",
+      "title": "The Ministry of Foreign Affairs and International Cooperation of #Libya's Government of National Unity welcomes the #US-Iran ceasefire, affirming its support for initiatives aimed at achieving lasting peace  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2042363359991853150",
+      "published": "2026-04-09T22:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "14aa9190a9f2639b0d9557ad3c396fd3",
+      "title": "The Ministry of Foreign Affairs expresses #Kuwait's strong condemnation and denunciation of the criminal attacks launched by the Islamic Republic of #Iran and its proxies, including factions, militias, and affiliated armed groups, using drones @MOFAKuwait  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2042357585894859023",
+      "published": "2026-04-09T21:42:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1775767559",
+      "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss",
+      "published": "2026-04-09T21:36:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
       },
       "credibility": 90,
       "is_government": false,
@@ -311,28 +443,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1775764080",
-      "title": "Khamenei says Tehran \u2018astonished the world\u2019 during US-Israeli war on Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/4/9/khamenei-says-tehran-astonished-the-world-during-us-israeli-war-on-iran?traffic_source=rss",
-      "published": "2026-04-09T20:16:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "23031fa8abc511e4a783237dd2792558",
       "title": "#Bahrain's Crown Prince and Prime Minister Prince Salman bin Hamad Al Khalifa discusses with #UK Prime Minister Keir Starmer ways to enhance bilateral cooperation, as well as regional developments and their impact on the global economy and regional and international security and stability, in addition to issues of mutual interest  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -348,50 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1775763895",
-      "title": "Iran: Strait of Hormuz open with restrictions",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/iran-strait-of-hormuz-open-with-restrictions?traffic_source=rss",
-      "published": "2026-04-09T20:13:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1775762201",
-      "title": "Saudi Arabia says operational activities halted at several energy sites",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/4/9/saudi-arabia-says-operational-activities-halted-at-several-energy-sites?traffic_source=rss",
-      "published": "2026-04-09T20:09:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -575,50 +641,6 @@
       }
     },
     {
-      "id": "eda04fe6b478eae380eeed846ad6855e",
-      "title": "Gulf Cooperation Council (GCC) information ministries' undersecretaries meet to bolster media collaboration to deliver well-adjusted and unified Gulf messages and counter rumors and disinformation targeting Gulf security and stability  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2042323202035048797",
-      "published": "2026-04-09T19:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c06aad01bcfae283c84108d614b1923a",
-      "title": "#US President Donald #Trump expresses his optimism about the success of diplomatic efforts to reach an agreement with #Iran during high-stakes talks in #Pakistan, while warning Iran, \"If they don't make a deal, it's going to be very painful.\"  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2042322867174494678",
-      "published": "2026-04-09T19:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3798574",
       "title": "Israel says peace talks with Lebanon to begin ASAP, rejects calls for truce first",
       "source": "Times of Israel",
@@ -634,28 +656,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "74151fef5c7d9ef0901c2318489778d5",
-      "title": "#Kuwait's Ministry of Defense stresses that the country's air defenses are currently responding to hostile drone attacks that penetrated the country These attacks targeted some vital facilities in the country, the Spokesman for the Ministry of Defense Col. Saud Al-Atwan said in a news statement @KuwaitArmyGHQ  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2042315404761067841",
-      "published": "2026-04-09T18:55:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
