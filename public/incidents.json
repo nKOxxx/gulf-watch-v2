@@ -1,17 +1,127 @@
 {
-  "generated_at": "2026-04-10T20:32:13.925894+00:00",
-  "total_incidents": 125,
+  "generated_at": "2026-04-10T21:33:44.921881+00:00",
+  "total_incidents": 123,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
       "title": "Middle East crisis live: Trump warns of fresh Iran strikes if talks fail; Lebanon and Israel agree to meet in US",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
-      "published": "2026-04-10T20:30:06+00:00",
+      "published": "2026-04-10T21:25:36+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/apr/10/jd-vance-warns-iran-against-trying-to-play-the-us-in-peace-talks",
+      "title": "JD Vance warns Iran against trying to \u2018play\u2019 the US in peace talks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/apr/10/jd-vance-warns-iran-against-trying-to-play-the-us-in-peace-talks",
+      "published": "2026-04-10T21:20:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c93en5q2zl3o#0",
+      "title": "Lebanon and Israel officials to meet in US on Tuesday",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-10T20:51:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1775850261",
+      "title": "Why is Hungary\u2019s election so important on the international stage?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/4/10/why-is-hungarys-election-so-important-on-the-international-stage?traffic_source=rss",
+      "published": "2026-04-10T20:38:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2042700047343849979",
+      "title": "RT by @mofauae: Abdullah bin Zayed Holds Phone Calls with Foreign Ministers to Discuss Regional Developments\n\nH.H. Sheikh Abdullah bin Zayed Al Nahyan, Deputy Prime Minister and Minister of Foreign Affairs, held phone calls with a number of foreign ministers to discuss the latest regional developments following Iran\u2019s unprovoked and terrorist missile attacks targeting the UAE and several countries in the region and beyond. \n\nH.H. Sheikh Abdullah bin Zayed Al Nahyan held discussions with Helen Mcentee, Minister for Foreign Affairs and Trade, and Minister for Defence of Ireland; Paulo Rangel, Minister of State and Foreign Affairs of Portugal; and Dr. Arnoldo Andr\u00e9 Tinoco, Minister of Foreign Affairs and Worship of Costa Rica. \n\nH.H. Sheikh Abdullah bin Zayed expressed his appreciation to the ministers for their countries\u2019 solidarity with the UAE, affirming that all residents and visitors in the country are safe.\n\u00a0\nH.H. Sheikh Abdullah bin Zayed Al Nahyan and the ministers also reviewed the latest regional developments following the announcement by U.S. President Donald Trump of a two-week ceasefire between the United States and Iran.\n\nThe calls also underscored the importance of concerted international efforts to achieve sustainable peace and promote security and stability in the region.",
+      "source": "UAE Ministry of Foreign Affairs",
+      "source_url": "https://nitter.net/OFMUAE/status/2042700047343849979#m",
+      "published": "2026-04-10T20:23:37+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1775852098",
+      "title": "US-Iran negotiations in Islamabad: What to expect?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/us-iran-negotiations-in-islamabad-what-to-expect?traffic_source=rss",
+      "published": "2026-04-10T20:19:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -84,28 +194,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c93en5q2zl3o#0",
-      "title": "Lebanon says ceasefire must be in place before Israel talks",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-04-10T19:43:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -289,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.moroccoworldnews.com/?p=286530",
-      "title": "Iran-US-Israel Conflict Shapes Crypto\u2019s Biggest 2026 Stress Test",
-      "source": "Morocco World News",
-      "source_url": "https://www.moroccoworldnews.com/2026/04/286530/iran-us-israel-conflict-shapes-cryptos-biggest-2026-stress-test/",
-      "published": "2026-04-10T18:18:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3799248",
       "title": "Jewish-owned Israeli restaurant vandalized in Munich; police suspect antisemitic motive",
       "source": "Times of Israel",
@@ -348,50 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1775839867",
-      "title": "Is the US-Iran ceasefire already doomed?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/4/10/is-trumps-iran-ceasefire-already-doomed?traffic_source=rss",
-      "published": "2026-04-10T18:01:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1775836105",
-      "title": "OIC condemns Israeli approval of 34 new West Bank settlements",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/4/10/oic-condemns-israeli-approval-of-34-new-west-bank-settlements?traffic_source=rss",
-      "published": "2026-04-10T18:01:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -465,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/apr/10/jd-vance-warns-iran-against-trying-to-play-the-us-in-peace-talks",
-      "title": "JD Vance warns Iran against trying to \u2018play\u2019 the US in peace talks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/apr/10/jd-vance-warns-iran-against-trying-to-play-the-us-in-peace-talks",
-      "published": "2026-04-10T17:20:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/commentisfree/2026/apr/10/the-guardian-view-on-trumps-civilisational-threats-the-words-that-fuel-war-must-be-condemned",
       "title": "The Guardian view on Trump\u2019s civilisational threats: the words that fuel war must be condemned | Editorial",
       "source": "The Guardian",
@@ -523,28 +523,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1775840391",
-      "title": "Starmer and Trump talked military options to reopen Strait of Hormuz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "published": "2026-04-10T17:03:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1763,28 +1741,6 @@
       }
     },
     {
-      "id": "2042332049412071844",
-      "title": "CBUAE 2025 report highlights exceptional growth in UAE financial system\n\n#WamNews \n\nhttps://www.wam.ae/a/bzmomjv",
-      "source": "WAM English",
-      "source_url": "https://nitter.net/WAMNEWS_ENG/status/2042332049412071844#m",
-      "published": "2026-04-09T20:01:19+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2042314616357707818",
       "title": "\u201cWe continue to fight against Hezbollah with great intensity. Yesterday, we entered into a ceasefire in Iran, the IDF\u2019s achievements in the war against Iran are unprecedented and historic. Iran before this war is not the same Iran; it is far weaker. We are prepared to resume fighting with great determination if required at any given moment\u201d\n\n\u2014 IDF Chief of the General Staff LTG Eyal Zamir during a situational assessment on the outskirts of Bint Jbeil in southern Lebanon.\n\nRead more of the Chief of the General Staff\u2019s full remarks here: https://www.idf.il/337139",
       "source": "Israel Defense Forces",
@@ -2182,8 +2138,8 @@
     },
     {
       "id": "44a796232ed48cd7a6a011d9048f164d",
-      "title": "RT by @moiuae: Ministry of Defence confirms UAE airspace free of any air threats during past hours The Ministry of Defence announced that on 9th April 2026, UAE air defence systems did not detect any ballistic missiles, cruise missiles, or UAVs launched from Iran. Since the onset of the\u2026 pic.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "Ministry of Defence confirms UAE airspace free of any air threats during past hours The Ministry of Defence announced that on 9th April 2026, UAE air defence systems did not detect any ballistic missiles, cruise missiles, or UAVs launched from Iran. Since the onset of the\u2026 pic.",
+      "source": "UAE MOD (RSS.app)",
       "source_url": "https://x.com/modgovae/status/2042196918672191644",
       "published": "2026-04-09T11:04:00+00:00",
       "type": "missile",
@@ -2204,8 +2160,8 @@
     },
     {
       "id": "44a796232ed48cd7a6a011d9048f164d",
-      "title": "Ministry of Defence confirms UAE airspace free of any air threats during past hours The Ministry of Defence announced that on 9th April 2026, UAE air defence systems did not detect any ballistic missiles, cruise missiles, or UAVs launched from Iran. Since the onset of the\u2026 pic.",
-      "source": "UAE MOD (RSS.app)",
+      "title": "RT by @moiuae: Ministry of Defence confirms UAE airspace free of any air threats during past hours The Ministry of Defence announced that on 9th April 2026, UAE air defence systems did not detect any ballistic missiles, cruise missiles, or UAVs launched from Iran. Since the onset of the\u2026 pic.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/modgovae/status/2042196918672191644",
       "published": "2026-04-09T11:04:00+00:00",
       "type": "missile",
