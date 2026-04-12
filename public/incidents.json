@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-04-12T21:31:13.128303+00:00",
-  "total_incidents": 108,
+  "generated_at": "2026-04-12T22:29:32.988154+00:00",
+  "total_incidents": 105,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1776029957",
+      "title": "These are people Israel killed in Lebanon on a single day",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
+      "published": "2026-04-12T21:44:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "9f88020fd5aa93c15ad7d03dd911db88",
       "title": "Lebanese Cabinet's crisis management unit: The death toll from Israeli occupation airstrikes on South #Lebanon has risen to 2,055 victims  #KUNA",
@@ -136,17 +158,17 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3800594",
-      "title": "Hezbollah rocket hits remains of 1,500-year-old Byzantine church in Nahariya",
+      "title": "Hezbollah rocket hits remains of 1,500-year-old Byzantine church in northern Israel",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/hezbollah-rocket-hits-remains-of-1500-year-old-byzantine-church-in-nahariya/",
       "published": "2026-04-12T20:13:09+00:00",
       "type": "missile",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Israel",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -194,28 +216,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1776012940",
-      "title": "How shaky is the Iran-US ceasefire?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/12/how-shaky-is-the-iran-us-ceasefire?traffic_source=rss",
-      "published": "2026-04-12T19:46:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -971,28 +971,6 @@
       }
     },
     {
-      "id": "df4874dd75c56ab61f618aab84efe13b",
-      "title": "His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah visits the Supply & Catering Authority of the Ministry of Defense, accompanied by Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah & Assistant Chief of Staff for Supply & Catering, Major General Engineer Salah Saud Al-Azmi.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2043309548979548543",
-      "published": "2026-04-12T12:45:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 17.0151,
-        "lng": 54.0924
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2043309041036706108",
       "title": "\ud83d\udd34ELIMINATED: The terrorists responsible for killing Staff Sergeant Touvel Yosef Lifshiz.\n\nIDF soldiers identified at a Hezbollah site a terrorist armed with an AK-47 weapon and a number of magazines in his possession. The soldiers eliminated the terrorist.\n\nIn the building, the soldiers also located the body of the terrorist who was eliminated during the encounter on April 7.",
       "source": "Israel Defense Forces",
@@ -1455,6 +1433,28 @@
       }
     },
     {
+      "id": "2043089512222371872",
+      "title": "RT @OFMUAE: Abdullah bin Zayed & @DrSJaishankar discuss the repercussions of the unprovoked & terrorist Iranian attacks targeting the UAE a\u2026",
+      "source": "UAE Ministry of Foreign Affairs",
+      "source_url": "https://nitter.net/mofauae/status/2043089512222371872#m",
+      "published": "2026-04-11T22:11:13+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "2043058011267305752",
       "title": "R to @mofauae: Abdullah bin Zayed Condemns Terror Plots Targeting Kuwait\u2019s National Security and Financing of Terrorist Entities, and Commends Vigilance of its Security Services",
       "source": "UAE Ministry of Foreign Affairs",
@@ -1555,28 +1555,6 @@
         "city": null,
         "lat": 25.3548,
         "lng": 51.1839
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2043021750162854063",
-      "title": "RT by @mofauae: Abdullah bin Zayed & @DrSJaishankar discuss the repercussions of the unprovoked & terrorist Iranian attacks targeting the UAE and a number of countries in the region, as well as regional developments following the announcement of the two-week ceasefire between the US & Iran. Both sides also discussed \ud83c\udde6\ud83c\uddea\u2013\ud83c\uddee\ud83c\uddf3 strategic relations.",
-      "source": "UAE Ministry of Foreign Affairs",
-      "source_url": "https://nitter.net/OFMUAE/status/2043021750162854063#m",
-      "published": "2026-04-11T17:41:57+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 100,
       "is_government": true,
@@ -2328,50 +2306,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2042368956451725766",
-      "title": "MDA Spokesperson: Following the missile fire toward Israel: \n\nAt this stage, there are no known casualties or missile impacts.\n\nMDA EMTs and paramedics are treating a small number of people who were injured on their way to shelters. Updates as required.",
-      "source": "Magen David Adom",
-      "source_url": "https://nitter.net/Mdais/status/2042368956451725766#m",
-      "published": "2026-04-09T22:27:59+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8e7944f5f95c3266fe1bff50151f3217",
-      "title": "MDA Spokesperson: Following the missile fire toward Israel: At this stage, there are no known casualties or missile impacts. MDA EMTs and paramedics are treating a small number of people who were injured on their way to shelters. Updates as required.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2042368956451725766",
-      "published": "2026-04-09T22:27:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
