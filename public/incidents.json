@@ -1,13 +1,387 @@
 {
-  "generated_at": "2026-04-13T15:13:23.107886+00:00",
-  "total_incidents": 105,
+  "generated_at": "2026-04-13T17:00:20.436078+00:00",
+  "total_incidents": 99,
   "incidents": [
     {
-      "id": "2043706027430818032",
-      "title": "HE Capital Governor Chairs Security Committee Meeting\n\nhttps://www.policemc.gov.bh/en/news/77822/",
+      "id": "2043735464419700835",
+      "title": "\ud83c\udfaf\u23f024HR RECAP: ~150 Hezbollah targets were struck in numerous areas across southern Lebanon.\n\nAccomplishments:\n- Rocket launchers & UAVs struck\n- Military structures, anti-tank missile launch points & terror command centers were targeted\n- Terrorist cells that attempted to carry out a terror attack against IDF soldiers were thwarted",
+      "source": "Israel Defense Forces",
+      "source_url": "https://nitter.net/IDF/status/2043735464419700835#m",
+      "published": "2026-04-13T16:58:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.moroccoworldnews.com/?p=286897",
+      "title": "Morocco, Nigeria to Sign Intergovernmental Deal on $25 Billion Gas Pipeline",
+      "source": "Morocco World News",
+      "source_url": "https://www.moroccoworldnews.com/2026/04/286897/morocco-nigeria-to-sign-intergovernmental-deal-on-25-billion-gas-pipeline/",
+      "published": "2026-04-13T16:52:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "title": "Middle East crisis live: Trump vows that ships approaching US blockade of Iran\u2019s ports will be \u2018eliminated\u2019, after sparring with pope",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "published": "2026-04-13T16:46:12+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/04/13/cyber-security-threat-ai-automation-qualys/",
+      "title": "Cyber attacks on digital infrastructure speeding up, report says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/04/13/cyber-security-threat-ai-automation-qualys/",
+      "published": "2026-04-13T16:30:39+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.moroccoworldnews.com/?p=286881",
+      "title": "Huawei Morocco Pushes Vertical AI for Government, Defense at GITEX Africa 2026",
+      "source": "Morocco World News",
+      "source_url": "https://www.moroccoworldnews.com/2026/04/286881/huawei-morocco-pushes-vertical-ai-for-government-defense-at-gitex-africa-2026/",
+      "published": "2026-04-13T16:30:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church",
+      "title": "Pope Leo visits Algeria in sign of Africa\u2019s growing importance to Catholic church",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church",
+      "published": "2026-04-13T16:26:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/04/13/uk-ship-carrying-mine-sweeping-drones-to-be-based-in-oman/",
+      "title": "UK ship carrying mine-sweeping drones to be based in Oman",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/04/13/uk-ship-carrying-mine-sweeping-drones-to-be-based-in-oman/",
+      "published": "2026-04-13T16:25:25+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1776088917",
+      "title": "Iran releases assets of women\u2019s football captain in Australia asylum row",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/4/13/iran-releases-assets-of-womens-football-captain-in-australia-asylum-row?traffic_source=rss",
+      "published": "2026-04-13T16:23:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/apr/13/ideology-and-principles-clash-in-trumps-iran-war",
+      "title": "Ideology and principles clash in Trump\u2019s Iran war | Letters",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/apr/13/ideology-and-principles-clash-in-trumps-iran-war",
+      "published": "2026-04-13T16:23:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2043726276960112957",
+      "title": "\ud83d\udd34ELIMINATED: A number of armed terrorists from Hamas who had approached the Yellow Line in central Gaza.\n\nThe terrorists posed an immediate threat to IDF troops and were eliminated in a precise strike.\n\nAmong the terrorists was Yousef Ibrahim Mahmoud Basheti, a Hamas terrorist who was part of the cell that fired an anti-tank missile in January 2024, killing 21 IDF soldiers.",
+      "source": "Israel Defense Forces",
+      "source_url": "https://nitter.net/IDF/status/2043726276960112957#m",
+      "published": "2026-04-13T16:21:29+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/04/13/imo-chief-rejects-iranian-toll-plan-for-strait-of-hormuz/",
+      "title": "IMO chief rejects Iranian toll plan for Strait of Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/04/13/imo-chief-rejects-iranian-toll-plan-for-strait-of-hormuz/",
+      "published": "2026-04-13T16:21:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d7d4096e37bdc67966f13b8b2dc181ea",
+      "title": "Pakistan\u2019s Defense Minister Khawaja Asif said on Monday that positive progress is being made in talks between Iran and the United States and that the possibility of further talks still exists.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2043721656527450504",
+      "published": "2026-04-13T16:03:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/04/13/risks-to-shipping-high-as-us-begins-strait-of-hormuz-blockade/",
+      "title": "Risks to shipping high as US begins Strait of Hormuz blockade",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/04/13/risks-to-shipping-high-as-us-begins-strait-of-hormuz-blockade/",
+      "published": "2026-04-13T15:53:03+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/apr/13/israeli-forces-fire-teargas-at-schoolchildren-holding-west-bank-sit-in",
+      "title": "Israeli forces fire teargas at schoolchildren holding West Bank sit-in",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/apr/13/israeli-forces-fire-teargas-at-schoolchildren-holding-west-bank-sit-in",
+      "published": "2026-04-13T15:51:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "03c851b8a2b3715900363109a599919a",
+      "title": "UK Ambassador to Kuwait: The United Kingdom reaffirms its commitment to stand alongside Kuwait & support its forces in safeguarding the country.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2043718650578837962",
+      "published": "2026-04-13T15:51:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1776093249",
+      "title": "Lebanon Latest: Talks scheduled as Israeli strikes continue",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/aje-onl-aje_onl_lebanon_wrap-130426?traffic_source=rss",
+      "published": "2026-04-13T15:41:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "346b2f4f86518d537711653ba03d8404",
+      "title": "#France stresses the need to respect the ceasefire between #Iran and the #US, and to work towards a swift and lasting diplomatic solution, while emphasizing the importance of ensuring freedom of navigation in the Strait of Hormuz  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2043715664725103009",
+      "published": "2026-04-13T15:39:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2043710859738849539",
+      "title": "HH Southern Governor Chairs Security Committee Meeting\n\nhttps://www.policemc.gov.bh/en/news/77823/",
       "source": "Bahrain Ministry of Interior",
-      "source_url": "https://nitter.net/moi_bahrain/status/2043706027430818032#m",
-      "published": "2026-04-13T15:01:01+00:00",
+      "source_url": "https://nitter.net/moi_bahrain/status/2043710859738849539#m",
+      "published": "2026-04-13T15:20:13+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -25,21 +399,87 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-      "title": "Middle East crisis live: US launches blockade of Iran\u2019s ports as Pope Leo says he has \u2018no intention to debate\u2019 Trump over war",
+      "id": "https://www.theguardian.com/world/2026/apr/13/french-cement-maker-lafarge-convicted-financing-terror-groups-syria",
+      "title": "French cement maker convicted of financing terror groups to keep its Syria plant working",
       "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-      "published": "2026-04-13T15:00:33+00:00",
+      "source_url": "https://www.theguardian.com/world/2026/apr/13/french-cement-maker-lafarge-convicted-financing-terror-groups-syria",
+      "published": "2026-04-13T15:20:08+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "Syria",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 34.8021,
+        "lng": 38.9968
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=81173",
+      "title": "The Pentagon wants a 188 percent bump for missile procurement. Can industry deliver?",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/04/the-pentagon-wants-a-188-percent-bump-for-missile-procurement-can-industry-deliver/",
+      "published": "2026-04-13T15:13:26+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1776083004",
+      "title": "What do we know about sea mines in and around the Strait of Hormuz?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/4/13/what-do-we-know-about-sea-mines-in-and-around-the-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-04-13T15:12:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2043706027430818032",
+      "title": "HE Capital Governor Chairs Security Committee Meeting\n\nhttps://www.policemc.gov.bh/en/news/77822/",
+      "source": "Bahrain Ministry of Interior",
+      "source_url": "https://nitter.net/moi_bahrain/status/2043706027430818032#m",
+      "published": "2026-04-13T15:01:01+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -158,7 +598,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1776088139",
-      "title": "Trump says Iranian ships will be \u2018eliminated\u2019 as US naval blockade begins",
+      "title": "Trump says Iranian ships to be \u2018eliminated\u2019 as US naval blockade begins",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/4/13/trump-says-iranian-ships-will-be-eliminated-as-us-naval-blockade-begins?traffic_source=rss",
       "published": "2026-04-13T14:36:46+00:00",
@@ -575,28 +1015,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1776077044",
-      "title": "Israeli forces kill three Palestinians in Gaza, arrest dozens in West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/4/13/israeli-forces-kill-three-palestinians-in-gaza-arrest-dozens-in-west-bank?traffic_source=rss",
-      "published": "2026-04-13T12:52:40+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "85eedbf9f6e63ee10ab9361a2f38108a",
       "title": "#Saudi Foreign Minister Prince Faisal bin Farhan Al-Saud discusses with Iranian Foreign Minister Abbas Araghchi the latest developments following the peace negotiations between #Iran & the United States.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -631,28 +1049,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1776078634",
-      "title": "At least six killed in Israeli strikes in southern Lebanon",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss",
-      "published": "2026-04-13T12:39:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -927,50 +1323,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1776082391",
-      "title": "Cement company Lafarge found guilty in Syria terrorism financing case",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/cement-company-lafarge-found-guilty-in-syria-terrorism-financing-case?traffic_source=rss",
-      "published": "2026-04-13T12:18:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1776074648",
-      "title": "Israel is trying to change Jerusalem\u2019s religious identity",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/4/13/israel-is-trying-to-change-jerusalems-religious-identity?traffic_source=rss",
-      "published": "2026-04-13T12:02:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "465ee78fc5e20da4a3a7b7d1abd91c2c",
       "title": "Iran's First Vice President Mohammad Reza Aref has stressed the need to stand against aggression, thanking the stances of the Spanish government towards regional developments.",
       "source": "Mehr News (RSS.app)",
@@ -1037,28 +1389,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/europe/2026/04/13/spain-reopens-embassy-in-tehran-with-commitment-to-support-peace/",
-      "title": "Spain reopens embassy in Tehran 'with commitment to support peace'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/04/13/spain-reopens-embassy-in-tehran-with-commitment-to-support-peace/",
-      "published": "2026-04-13T11:44:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/apr/13/strait-of-hormuz-blockade-what-why-explained-navy-trump-iran",
       "title": "Why is the US threatening to block Iranian ports and how would it work?",
       "source": "The Guardian",
@@ -1081,94 +1411,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3800935",
-      "title": "Iran says train service resumed on routes damaged by strikes during war",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/iran-says-train-service-resumed-on-routes-damaged-by-strikes-during-war/",
-      "published": "2026-04-13T11:33:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/04/13/pope-leo-says-he-will-continue-to-speak-out-loudly-against-war-after-trumps-attacks/",
-      "title": "Pope Leo says he will continue to 'speak out loudly' against war after Trump's attacks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/04/13/pope-leo-says-he-will-continue-to-speak-out-loudly-against-war-after-trumps-attacks/",
-      "published": "2026-04-13T11:26:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1776061662",
-      "title": "How the US-Iran talks in Islamabad unfolded",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
-      "published": "2026-04-13T11:21:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/04/13/lafarge-found-guilty-of-financing-terrorism-in-syria-and-breaching-sanctions/",
-      "title": "Lafarge found guilty of financing terrorism in Syria and breaching sanctions",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/04/13/lafarge-found-guilty-of-financing-terrorism-in-syria-and-breaching-sanctions/",
-      "published": "2026-04-13T11:12:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "32233ee54ce11844659d9df5a1b601f4",
       "title": "#Russia warns that the closure of the Strait of Hormuz poses a direct threat to food security in several Middle Eastern countries.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -1181,50 +1423,6 @@
         "city": null,
         "lat": 26.5,
         "lng": 56.5
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "60c84ce71195526cc43043d0fb7ef0d7",
-      "title": "#Oman & #Botswana signed agreements on mineral exploration, oil storage & solar energy development. The agreements were signed during a meeting between Sultan Haitham bin Tariq & President Duma Gideon Boko.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2043639675458294198",
-      "published": "2026-04-13T10:37:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8ad842cfa6d7463e0db4ed6d18a461fc",
-      "title": "#Oman's Minister of Transport: The Sultanate is ensuring supply chain continuity amid current geopolitical challenges affecting aviation & ports in the region.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2043634428551839989",
-      "published": "2026-04-13T10:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
       },
       "credibility": 95,
       "is_government": true,
@@ -1293,28 +1491,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/apr/13/benjamin-netanyahu-middle-east-greater-israel",
-      "title": "What Benjamin Netanyahu and the Israeli right really mean when they invoke \u2018Greater Israel\u2019 | Daniel Levy",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/apr/13/benjamin-netanyahu-middle-east-greater-israel",
-      "published": "2026-04-13T09:00:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1477,6 +1653,28 @@
       }
     },
     {
+      "id": "2043564434686406744",
+      "title": "RT by @mofauae: What does the US-UAE relationship actually look like in 2026?  @BadrJafar writes in the @NYTimes about a partnership that has quietly become one of America's most important, and why this crisis is the moment to recognise it. \n\nFrom record trade figures to the 65,000 Americans who call the #UAE home, it is a 360-degree partnership built by businesses, universities, hospitals, and millions of individual choices.\n\nhttps://www.nytimes.com/2026/04/13/opinion/uae-iran-war-trump-gulf-oil-dubai.html?smid=nytcore-android-share",
+      "source": "UAE Ministry of Foreign Affairs",
+      "source_url": "https://nitter.net/uaesebp/status/2043564434686406744#m",
+      "published": "2026-04-13T05:38:23+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "d94a757af7640a41a717180d956a96a2",
       "title": "IRGC Quds Force Commander Brigadier General Esmail Qaani says that just as Yemen made the US and Israeli regime flee the Red Sea, the Resistance Front will expel them from the region.",
       "source": "Mehr News (RSS.app)",
@@ -1491,94 +1689,6 @@
         "lng": 34.8516
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4e076f7ac62fc42b9119fd9b2c69b605",
-      "title": "Iranian President Masoud Pezeshkian says that an agreement could be in reach if the US gives up its totalitarianism.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2043534412730790046",
-      "published": "2026-04-13T03:39:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2043524634033754451",
-      "title": "Notice Regarding the Importance of Adhering to Traffic Laws and Regulations, Helping to Enhance Public Safety. #MOIQatar",
-      "source": "Qatar Ministry of Interior EN",
-      "source_url": "https://nitter.net/MOI_QatarEn/status/2043524634033754451#m",
-      "published": "2026-04-13T03:00:14+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal",
-      "title": "Israeli strike kills paramedic, says Lebanese Red Cross \u2013 as it happened",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal",
-      "published": "2026-04-13T02:17:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/commentisfree/2026/apr/13/iran-war-trump-nuclear-climate-threat-australia-role-responsibility",
-      "title": "The Iran war has heightened the nuclear and climate threat. Australia must help the world step back from the brink | Chris Barrie",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/australia-news/commentisfree/2026/apr/13/iran-war-trump-nuclear-climate-threat-australia-role-responsibility",
-      "published": "2026-04-13T01:17:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1602,50 +1712,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/apr/12/trump-says-us-will-blockade-strait-of-hormuz-as-iran-peace-talks-fail",
-      "title": "Trump says US will blockade strait of Hormuz after Iran peace talks fail",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/apr/12/trump-says-us-will-blockade-strait-of-hormuz-as-iran-peace-talks-fail",
-      "published": "2026-04-12T18:33:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/apr/12/the-guardian-view-on-us-iran-talks-trumps-diplomacy-falters-as-risk-of-war-grows",
-      "title": "The Guardian view on US-Iran talks: Trump\u2019s diplomacy falters as risk of war grows | Editorial",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/apr/12/the-guardian-view-on-us-iran-talks-trumps-diplomacy-falters-as-risk-of-war-grows",
-      "published": "2026-04-12T16:43:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1733,28 +1799,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2043346518355108071",
-      "title": "MOI: Precautionary Measures Taken to Resume Second-Phase Repairs at GPIC Facility After Iranian Attack\n\nhttps://www.policemc.gov.bh/en/news/77793/",
-      "source": "Bahrain Ministry of Interior",
-      "source_url": "https://nitter.net/moi_bahrain/status/2043346518355108071#m",
-      "published": "2026-04-12T15:12:28+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -1873,50 +1917,6 @@
       }
     },
     {
-      "id": "2043309041036706108",
-      "title": "\ud83d\udd34ELIMINATED: The terrorists responsible for killing Staff Sergeant Touvel Yosef Lifshiz.\n\nIDF soldiers identified at a Hezbollah site a terrorist armed with an AK-47 weapon and a number of magazines in his possession. The soldiers eliminated the terrorist.\n\nIn the building, the soldiers also located the body of the terrorist who was eliminated during the encounter on April 7.",
-      "source": "Israel Defense Forces",
-      "source_url": "https://nitter.net/IDF/status/2043309041036706108#m",
-      "published": "2026-04-12T12:43:32+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2043197982011461956",
-      "title": "\u2b55\ufe0fDISMANTLED: An explosives manufacturing lab in Tulkarem, following an intelligence indication.\n\nDuring the activity, IDF soldiers located:\n\u2022 IEDs, including ~200 pipe bombs\n\u2022 Fire extinguishers intended to be used as explosive charges attached to vehicles\n\u2022 Large gas cylinders with the potential to be used as under-vehicle explosive devices\n\u2022 50+ kilograms of improvised explosive material\n\nThe explosives made in the lab were intended to target IDF soldiers operating in Judea & Samaria and to be used for carrying out terror attacks against Israeli civilians.",
-      "source": "Israel Defense Forces",
-      "source_url": "https://nitter.net/IDF/status/2043197982011461956#m",
-      "published": "2026-04-12T05:22:14+00:00",
-      "type": "explosion",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/cjd8jrd1vnyo#0",
       "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
       "source": "BBC Middle East",
@@ -1932,28 +1932,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2043089512222371872",
-      "title": "RT @OFMUAE: Abdullah bin Zayed & @DrSJaishankar discuss the repercussions of the unprovoked & terrorist Iranian attacks targeting the UAE a\u2026",
-      "source": "UAE Ministry of Foreign Affairs",
-      "source_url": "https://nitter.net/mofauae/status/2043089512222371872#m",
-      "published": "2026-04-11T22:11:13+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1983,18 +1961,18 @@
       }
     },
     {
-      "id": "2043032592602038373",
-      "title": "Community Voice | What are your thoughts on safety and security procedures within educational institutions and workplaces?\n#MOIQatar #PoliceWithYou",
-      "source": "Qatar Ministry of Interior EN",
-      "source_url": "https://nitter.net/MOI_QatarEn/status/2043032592602038373#m",
-      "published": "2026-04-11T18:25:02+00:00",
+      "id": "2043021750162854063",
+      "title": "RT by @mofauae: Abdullah bin Zayed & @DrSJaishankar discuss the repercussions of the unprovoked & terrorist Iranian attacks targeting the UAE and a number of countries in the region, as well as regional developments following the announcement of the two-week ceasefire between the US & Iran. Both sides also discussed \ud83c\udde6\ud83c\uddea\u2013\ud83c\uddee\ud83c\uddf3 strategic relations.",
+      "source": "UAE Ministry of Foreign Affairs",
+      "source_url": "https://nitter.net/OFMUAE/status/2043021750162854063#m",
+      "published": "2026-04-11T17:41:57+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
-        "country": "Qatar",
+        "country": "UAE",
         "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 100,
       "is_government": true,
@@ -2196,116 +2174,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=81150",
-      "title": "Navy to mothball USS Boise, capping off years of maintenance challenges",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/04/navy-to-mothball-uss-boise-capping-off-years-of-maintenance-challenges/",
-      "published": "2026-04-10T16:45:34+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2042633967640416335",
-      "title": "RT by @CivilDefenceAD: Read more: https://www.mediaoffice.abudhabi/en/security/abu-dhabi-civil-defence-authority-organises-1st-community-responder-forum-to-reinforce-culture-of-volunteerism",
-      "source": "Abu Dhabi Civil Defence",
-      "source_url": "https://nitter.net/ADMediaOffice/status/2042633967640416335#m",
-      "published": "2026-04-10T16:01:02+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2042633962137489565",
-      "title": "RT by @CivilDefenceAD: .@CivilDefenceAD has organised the first Community Responder Forum to support volunteer work, introducing the Community Responder application, showcasing accredited training programmes, and hosting discussions on ways to enhance volunteer initiatives and volunteers\u2019 safety.",
-      "source": "Abu Dhabi Civil Defence",
-      "source_url": "https://nitter.net/ADMediaOffice/status/2042633962137489565#m",
-      "published": "2026-04-10T16:01:01+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f179f5f0302835d12eb87bdef853e773",
-      "title": "RT by @CivilDefenceAD: .@CivilDefenceAD has organised the first Community Responder Forum to support volunteer work, introducing the Community Responder application, showcasing accredited training programmes, and hosting discussions on ways to enhance volunteer initiatives and volunteers\u2019 safety. pic.",
-      "source": "Abu Dhabi Civil Defence (RSS.app)",
-      "source_url": "https://x.com/ADMediaOffice/status/2042633962137489565",
-      "published": "2026-04-10T16:01:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2042633753441513664",
-      "title": "RT by @CivilDefenceAD: \u0644\u0642\u0631\u0627\u0621\u0629 \u0627\u0644\u0645\u0632\u064a\u062f: https://www.mediaoffice.abudhabi/ar/security/abu-dhabi-civil-defence-authority-organises-1st-community-responder-forum-to-reinforce-culture-of-volunteerism",
-      "source": "Abu Dhabi Civil Defence",
-      "source_url": "https://nitter.net/ADMediaOffice/status/2042633753441513664#m",
-      "published": "2026-04-10T16:00:11+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
