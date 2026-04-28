@@ -63,53 +63,16 @@ FEEDS = [
     
     # Tier 5 - Egypt/Levant
     {"name": "Egypt Today", "url": "https://www.egypttoday.com/rss", "country": "Egypt", "credibility": 75},
-    {"name": "Daily Star Lebanon", "url": "https://www.dailystar.com.lb/rss", "country": "Lebanon", "credibility": 75},
+    {"name": "Ya Libnan", "url": "https://yalibnan.com/feed/", "country": "Lebanon", "credibility": 80},
     {"name": "Jordan Times", "url": "https://jordantimes.com/rss", "country": "Jordan", "credibility": 75},
     
     # Tier 6 - North Africa
     {"name": "Morocco World News", "url": "https://www.moroccoworldnews.com/feed/", "country": "Morocco", "credibility": 70},
     {"name": "Tunisia Live", "url": "https://www.tunisia-live.net/feed/", "country": "Tunisia", "credibility": 70},
     
-    # Official Government Twitter/X Accounts (via Nitter RSS)
-    # UAE
-    {"name": "UAE Ministry of Interior", "url": "https://nitter.net/moiuae/rss", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "UAE NCEMA", "url": "https://nitter.net/NCEMAUAE/rss", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "UAE Ministry of Defence", "url": "https://nitter.net/modgovae/rss", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "UAE National Guard", "url": "https://nitter.net/Uaengc/rss", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "UAE Government Media Office", "url": "https://nitter.net/UAEmediaoffice/rss", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "WAM News Agency", "url": "https://nitter.net/wamnews/rss", "country": "UAE", "credibility": 95, "is_government": True},
-    {"name": "WAM English", "url": "https://nitter.net/WAMNEWS_ENG/rss", "country": "UAE", "credibility": 95, "is_government": True},
-    {"name": "Dubai Media Office", "url": "https://nitter.net/DXBMediaOffice/rss", "country": "UAE", "credibility": 95, "is_government": True},
-    {"name": "Abu Dhabi Civil Defence", "url": "https://nitter.net/CivilDefenceAD/rss", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "Dubai Civil Defence", "url": "https://nitter.net/DCDDubai/rss", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "Sharjah Civil Defence", "url": "https://nitter.net/civildefenceshj/rss", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "UAE GCAA", "url": "https://nitter.net/gcaauae/rss", "country": "UAE", "credibility": 95, "is_government": True},
-    {"name": "UAE Ministry of Foreign Affairs", "url": "https://nitter.net/mofauae/rss", "country": "UAE", "credibility": 100, "is_government": True},
-    
-    # Saudi Arabia
-    {"name": "Saudi Ministry of Interior", "url": "https://nitter.net/MOISaudiArabia/rss", "country": "Saudi Arabia", "credibility": 100, "is_government": True},
-    {"name": "Saudi Civil Defense", "url": "https://nitter.net/SaudiDCD/rss", "country": "Saudi Arabia", "credibility": 100, "is_government": True},
-    
-    # Qatar
-    {"name": "Qatar Ministry of Interior EN", "url": "https://nitter.net/MOI_QatarEn/rss", "country": "Qatar", "credibility": 100, "is_government": True},
-    {"name": "Qatar Civil Defence", "url": "https://nitter.net/civildefenceqa/rss", "country": "Qatar", "credibility": 100, "is_government": True},
-    
-    # Kuwait
-    {"name": "Kuwait Ministry of Interior EN", "url": "https://nitter.net/moi_kuw_en/rss", "country": "Kuwait", "credibility": 100, "is_government": True},
-    {"name": "Kuwait Fire Force", "url": "https://nitter.net/kff_kw/rss", "country": "Kuwait", "credibility": 100, "is_government": True},
-    
-    # Bahrain
-    {"name": "Bahrain Ministry of Interior", "url": "https://nitter.net/moi_bahrain/rss", "country": "Bahrain", "credibility": 100, "is_government": True},
-    
-    # Oman
-    {"name": "Royal Oman Police", "url": "https://nitter.net/RoyalOmanPolice/rss", "country": "Oman", "credibility": 100, "is_government": True},
-    
-    # Israel
-    {"name": "Israel Defense Forces", "url": "https://nitter.net/IDF/rss", "country": "Israel", "credibility": 95, "is_government": True},
-    {"name": "Israel Ministry of Defense", "url": "https://nitter.net/Israel_MOD/rss", "country": "Israel", "credibility": 95, "is_government": True},
-    {"name": "Magen David Adom", "url": "https://nitter.net/Mdais/rss", "country": "Israel", "credibility": 95, "is_government": True},
-    {"name": "COGAT", "url": "https://nitter.net/cogatonline/rss", "country": "Israel", "credibility": 95, "is_government": True},
-    
+    # Official Government RSS Feeds
+    {"name": "UAE Ministry of Interior", "url": "https://www.moi.gov.ae/en/rss/news.aspx", "country": "UAE", "credibility": 100, "is_government": True},
+
     # RSS.app Twitter/X Feeds (UAE)
     {"name": "UAE MOI (RSS.app)", "url": "https://rss.app/feeds/oPyw4FJ41usBjG0c.xml", "country": "UAE", "credibility": 100, "is_government": True},
     {"name": "UAE MOD (RSS.app)", "url": "https://rss.app/feeds/5DzID481Msg3w5Go.xml", "country": "UAE", "credibility": 100, "is_government": True},
@@ -141,7 +104,6 @@ FEEDS = [
     {"name": "Royal Oman Police (RSS.app)", "url": "https://rss.app/feeds/YHfnfinoL5JV1J7T.xml", "country": "Oman", "credibility": 100, "is_government": True},
     
     # RSS.app Israel
-    {"name": "IDF (RSS.app)", "url": "https://rss.app/feeds/oPyw4FJ41usBjG0c.xml", "country": "Israel", "credibility": 95, "is_government": True},
     {"name": "Israel MOD (RSS.app)", "url": "https://rss.app/feeds/ONFaZNztIulPvZDc.xml", "country": "Israel", "credibility": 95, "is_government": True},
     {"name": "Magen David Adom (RSS.app)", "url": "https://rss.app/feeds/ySovRTttsScjix9r.xml", "country": "Israel", "credibility": 95, "is_government": True},
     
