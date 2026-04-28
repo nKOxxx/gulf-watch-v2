@@ -20,6 +20,8 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
+      env:
+        FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         
     - name: Install dependencies
       run: pip install feedparser
