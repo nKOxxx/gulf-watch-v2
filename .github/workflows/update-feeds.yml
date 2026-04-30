@@ -2,7 +2,7 @@ name: Update RSS Feeds
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour (24 times/day)
+    - cron: '0 */2 * * *'  # Every 2 hours (12 times/day)
   workflow_dispatch:  # Manual trigger
 
 permissions:
@@ -24,7 +24,7 @@ jobs:
         FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         
     - name: Install dependencies
-      run: pip install feedparser
+      run: pip install -r scripts/requirements.txt
       
     - name: Fetch RSS feeds
       env:
