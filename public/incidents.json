@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-02T13:22:44.120394+00:00",
-  "total_incidents": 71,
+  "generated_at": "2026-05-02T14:53:57.962884+00:00",
+  "total_incidents": 67,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1777722747",
-      "title": "Mali probes soldiers suspected of involvement in military base attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks?traffic_source=rss",
-      "published": "2026-05-02T13:03:28+00:00",
+      "id": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
+      "title": "Nato seeks to \u2018understand the details\u2019 of US decision to withdraw troops from Germany",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
+      "published": "2026-05-02T14:50:26+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,11 +25,55 @@
       }
     },
     {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3814903",
+      "title": "Hezbollah fires rockets at troops in Lebanon, no injuries; IDF strikes terror sites",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/hezbollah-fires-rockets-at-troops-in-lebanon-no-injuries-idf-strikes-terror-sites/",
+      "published": "2026-05-02T14:44:33+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd7pn0zywggo#0",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-02T14:28:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
       "title": "Germany says it expected Trump\u2019s withdrawal of US troops as row over Iran comments grows \u2013 live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-      "published": "2026-05-02T12:59:54+00:00",
+      "published": "2026-05-02T14:21:40+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -37,6 +81,72 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3814850",
+      "title": "NATO seeks clarity as US to withdraw 5,000 troops from Germany amid rift with Europe",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/nato-seeks-clarity-as-us-to-withdraw-5000-troops-from-germany-amid-rift-with-europe/",
+      "published": "2026-05-02T13:25:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777721172",
+      "title": "The dark side of Gaza\u2019s new fancy cafes and restaurants",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/5/2/the-dark-side-of-gazas-new-fancy-cafes-and-restaurants?traffic_source=rss",
+      "published": "2026-05-02T13:12:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777722747",
+      "title": "Mali probes soldiers suspected of involvement in military base attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks?traffic_source=rss",
+      "published": "2026-05-02T13:03:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -92,7 +202,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3814831",
-      "title": "US\u2019s Spirit Airlines goes bankrupt amid Iran war price fuel surge",
+      "title": "US\u2019s Spirit Airlines declares immediate bankruptcy amid Iran war price fuel surge",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/uss-spirit-airlines-goes-bankrupt-amid-iran-war-price-fuel-surge/",
       "published": "2026-05-02T12:40:24+00:00",
@@ -180,7 +290,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3814806",
-      "title": "Settlers fire at Israeli paraglider, Palestinian homes, in separate incidents",
+      "title": "2 settlers fire at Israeli paraglider, Palestinian homes, in separate incidents",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/settlers-fire-at-israeli-paraglider-palestinian-homes-in-separate-incidents/",
       "published": "2026-05-02T11:40:02+00:00",
@@ -245,28 +355,6 @@
       }
     },
     {
-      "id": "https://www.moroccoworldnews.com/?p=289579",
-      "title": "Rabat Hosts Morocco-Germany Talks to Deepen Energy Transition Cooperation",
-      "source": "Morocco World News",
-      "source_url": "https://www.moroccoworldnews.com/2026/05/289579/rabat-hosts-morocco-germany-talks-to-deepen-energy-transition-cooperation/",
-      "published": "2026-05-02T11:28:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3814822",
       "title": "Two detained Gaza flotilla leaders brought to Israel for questioning",
       "source": "Times of Israel",
@@ -281,28 +369,6 @@
         "lng": 34.4668
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cd7pn0zywggo#0",
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-02T11:03:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -333,30 +399,8 @@
       }
     },
     {
-      "id": "https://www.moroccoworldnews.com/?p=289576",
-      "title": "UN Security Council Enters Critical Phase in MINURSO Mandate Review",
-      "source": "Morocco World News",
-      "source_url": "https://www.moroccoworldnews.com/2026/05/289576/un-security-council-enters-critical-phase-in-minurso-mandate-review/",
-      "published": "2026-05-02T10:53:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/05/02/a-new-wave-of-israeli-strikes-hit-south-lebanon-despite-continuing-ceasefire/",
-      "title": "Several killed as Israel launches dozens of intense strikes across south Lebanon",
+      "title": "Several killed as Israel launches dozens of strikes across south Lebanon",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/05/02/a-new-wave-of-israeli-strikes-hit-south-lebanon-despite-continuing-ceasefire/",
       "published": "2026-05-02T10:44:29+00:00",
@@ -400,41 +444,19 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3814723",
-      "title": "Top UK cop: British Jews facing greatest ever threat amid \u2018epidemic\u2019 of antisemitism",
+      "title": "Top UK cop: Jews facing greatest ever threat; Starmer mulls banning some anti-Israel protests",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/top-uk-cop-british-jews-facing-greatest-ever-threat-amid-epidemic-of-antisemitism/",
       "published": "2026-05-02T09:27:41+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Israel",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1777710678",
-      "title": "Japan\u2019s Takaichi pledges deeper energy cooperation with Vietnam",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss",
-      "published": "2026-05-02T09:16:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -487,28 +509,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1777704482",
-      "title": "Spirit Airlines begins \u2018wind-down\u2019, cancels all flights over fuel crisis",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
-      "published": "2026-05-02T08:09:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ad59c7c68b6954a1e0cbe4ee7877fce1",
       "title": "Iran, France FMs discuss latest developments in region",
       "source": "Mehr News (RSS.app)",
@@ -523,50 +523,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1777701822",
-      "title": "UK\u2019s Starmer eyes banning some pro-Palestine protests",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/2/uks-starmer-eyes-banning-some-pro-palestine-protests?traffic_source=rss",
-      "published": "2026-05-02T07:55:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3814704",
-      "title": "Two men shot dead in apparent underworld hit in central Israel",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/two-men-shot-dead-in-apparent-underworld-hit-in-central-israel/",
-      "published": "2026-05-02T07:15:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -766,28 +722,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.moroccoworldnews.com/?p=289564",
-      "title": "AI Set to Reshape Up to 55% of Jobs in the US, BCG Report Finds",
-      "source": "Morocco World News",
-      "source_url": "https://www.moroccoworldnews.com/2026/05/289564/ai-set-to-reshape-up-to-55-of-jobs-in-the-us-bcg-report-finds/",
-      "published": "2026-05-01T20:55:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 70,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1315,28 +1249,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/apr/30/senate-republicans-block-trump-iran-war-halt",
-      "title": "Trump administration says hostilities in Iran \u2018terminated\u2019 ahead of war powers deadline",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/apr/30/senate-republicans-block-trump-iran-war-halt",
-      "published": "2026-05-01T03:10:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
