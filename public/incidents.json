@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-05-02T10:57:02.886102+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-05-02T13:22:44.120394+00:00",
+  "total_incidents": 71,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1777722747",
+      "title": "Mali probes soldiers suspected of involvement in military base attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks?traffic_source=rss",
+      "published": "2026-05-02T13:03:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
       "title": "Germany says it expected Trump\u2019s withdrawal of US troops as row over Iran comments grows \u2013 live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-      "published": "2026-05-02T10:48:55+00:00",
+      "published": "2026-05-02T12:59:54+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,8 +47,316 @@
       }
     },
     {
+      "id": "https://www.aljazeera.com/?t=1777719301",
+      "title": "Israeli air strikes kill 10 people in southern Lebanon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
+      "published": "2026-05-02T12:55:34+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777725806",
+      "title": "Flotilla activists return to Istanbul after Israel detains them at sea",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss",
+      "published": "2026-05-02T12:46:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3814831",
+      "title": "US\u2019s Spirit Airlines goes bankrupt amid Iran war price fuel surge",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/uss-spirit-airlines-goes-bankrupt-amid-iran-war-price-fuel-surge/",
+      "published": "2026-05-02T12:40:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d3b70b7f2bf857d8bdea00406af7fa6a",
+      "title": "#Kuwait Financial Intelligence Unit stresses the importance of strengthening & updating digital communication channels in line with rapid developments & enhancing its media presence across various digital platforms & websites.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2050552745698967719",
+      "published": "2026-05-02T12:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/05/02/iraqs-al-zaidi-in-erbil-to-gain-support-of-kurdish-leaders/",
+      "title": "Iraq's Al Zaidi in Erbil to gain support of Kurdish leaders",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/05/02/iraqs-al-zaidi-in-erbil-to-gain-support-of-kurdish-leaders/",
+      "published": "2026-05-02T12:13:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 36.1911,
+        "lng": 44.0092
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7765703d7edd9ea9701b237537b93564",
+      "title": ". The General Civil Aviation Authority has announced the full resumption of normal air navigation operations within UAE ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DX1dGynCIa4",
+      "published": "2026-05-02T11:51:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3814806",
+      "title": "Settlers fire at Israeli paraglider, Palestinian homes, in separate incidents",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/settlers-fire-at-israeli-paraglider-palestinian-homes-in-separate-incidents/",
+      "published": "2026-05-02T11:40:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777717440",
+      "title": "NATO assessing details of US troop withdrawal from Germany",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany?traffic_source=rss",
+      "published": "2026-05-02T11:34:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777712862",
+      "title": "Trump says US Navy acting \u2018like pirates\u2019 to enforce Iran blockade",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss",
+      "published": "2026-05-02T11:34:12+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.moroccoworldnews.com/?p=289579",
+      "title": "Rabat Hosts Morocco-Germany Talks to Deepen Energy Transition Cooperation",
+      "source": "Morocco World News",
+      "source_url": "https://www.moroccoworldnews.com/2026/05/289579/rabat-hosts-morocco-germany-talks-to-deepen-energy-transition-cooperation/",
+      "published": "2026-05-02T11:28:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3814822",
+      "title": "Two detained Gaza flotilla leaders brought to Israel for questioning",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/two-detained-gaza-flotilla-leaders-brought-to-israel-for-questioning/",
+      "published": "2026-05-02T11:25:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd7pn0zywggo#0",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-02T11:03:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence",
+      "title": "\u2018Go inside, he will kill you\u2019: Israeli militants step up West Bank school attacks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence",
+      "published": "2026-05-02T11:00:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.moroccoworldnews.com/?p=289576",
+      "title": "UN Security Council Enters Critical Phase in MINURSO Mandate Review",
+      "source": "Morocco World News",
+      "source_url": "https://www.moroccoworldnews.com/2026/05/289576/un-security-council-enters-critical-phase-in-minurso-mandate-review/",
+      "published": "2026-05-02T10:53:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/mena/2026/05/02/a-new-wave-of-israeli-strikes-hit-south-lebanon-despite-continuing-ceasefire/",
-      "title": "A new wave of Israeli strikes hit south Lebanon despite continuing ceasefire",
+      "title": "Several killed as Israel launches dozens of intense strikes across south Lebanon",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/05/02/a-new-wave-of-israeli-strikes-hit-south-lebanon-despite-continuing-ceasefire/",
       "published": "2026-05-02T10:44:29+00:00",
@@ -47,21 +377,21 @@
       }
     },
     {
-      "id": "https://www.bbc.com/news/articles/cd7pn0zywggo#0",
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-02T09:41:07+00:00",
+      "id": "d563c2851c5ad3edba5aa32c31a1305b",
+      "title": ". Gulf Cooperation Council (GCC) countries outperformed the global average in the 2026 Economic Freedom Index, reflectin...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DX1Rj80iNQg",
+      "published": "2026-05-02T10:10:10+00:00",
       "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
-        "country": "Israel",
+        "country": null,
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 95,
-      "is_government": false,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -223,28 +553,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1777706891",
-      "title": "China\u2019s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss",
-      "published": "2026-05-02T07:37:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3814704",
       "title": "Two men shot dead in apparent underworld hit in central Israel",
       "source": "Times of Israel",
@@ -259,28 +567,6 @@
         "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1777695503",
-      "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
-      "published": "2026-05-02T06:47:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -311,28 +597,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1777678778",
-      "title": "Iran war: What\u2019s happening on day 64 as Trump rejects Tehran\u2019s proposal",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss",
-      "published": "2026-05-02T06:27:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=179997",
       "title": "Israel strikes in southern Lebanon kill 10 people as a Hezbollah drone wounds 2 Israeli soldiers",
       "source": "Ya Libnan",
@@ -347,72 +611,6 @@
         "lng": 34.8516
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3813213",
-      "title": "US synagogue helps Palestinians raise money for Gaza, finds common ground over falafel",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/us-synagogue-helps-palestinians-raise-money-for-gaza-finds-common-ground-over-falafel/",
-      "published": "2026-05-02T02:30:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3814670",
-      "title": "US military reaches deal with 7 tech firms to use their AI on classified systems",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/us-military-reaches-deal-with-7-tech-firms-to-use-their-ai-on-classified-systems/",
-      "published": "2026-05-02T01:42:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3814665",
-      "title": "US pulling 5,000 troops from Germany amid spat with Trump over Iran war",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/us-pulling-5000-troops-from-germany-amid-spat-with-trump-over-iran-war/",
-      "published": "2026-05-02T00:28:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -575,6 +773,28 @@
       }
     },
     {
+      "id": "https://www.moroccoworldnews.com/?p=289564",
+      "title": "AI Set to Reshape Up to 55% of Jobs in the US, BCG Report Finds",
+      "source": "Morocco World News",
+      "source_url": "https://www.moroccoworldnews.com/2026/05/289564/ai-set-to-reshape-up-to-55-of-jobs-in-the-us-bcg-report-finds/",
+      "published": "2026-05-01T20:55:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/05/01/marine-corps-fields-3500-first-person-view-attack-drones/",
       "title": "Marine Corps fields 3,500 first-person view attack drones",
       "source": "Defense News",
@@ -685,28 +905,6 @@
       }
     },
     {
-      "id": "34920b4e3cc9e731be2f8496f401e11b",
-      "title": "US President is not satisfied with Iran's recent proposal  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2050285006753350118",
-      "published": "2026-05-01T18:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=82952",
       "title": "Israel delivers Tamir interceptors to US Marine Corps for MRIC program",
       "source": "Breaking Defense",
@@ -722,50 +920,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4767c1ed6ec98aad51b8dcc844917ecf",
-      "title": "Iranian Foreign Minister briefs Iraqi counterpart on recent talks with US.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2050261212349214991",
-      "published": "2026-05-01T17:08:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a1563b5f438c82aa3ced06d1f2294d7c",
-      "title": "#USTreasury Department : targets Iranian shadow banking networks.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2050260551985414477",
-      "published": "2026-05-01T17:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1291,28 +1445,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/apr/30/israel-intercepts-detains-crews-gaza-aid-flotillas-crete",
-      "title": "Israel intercepts and detains crews of Gaza aid flotilla near Crete",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/apr/30/israel-intercepts-detains-crews-gaza-aid-flotillas-crete",
-      "published": "2026-04-30T16:53:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
