@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-05-03T20:52:29.521525+00:00",
-  "total_incidents": 69,
+  "generated_at": "2026-05-03T22:51:23.733389+00:00",
+  "total_incidents": 67,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+      "title": "Trump says US will escort trapped ships from Gulf amid \u2018very positive\u2019 talks with Iran",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+      "published": "2026-05-03T22:27:46+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f6bc40f49dac0d21dfba6a0324bfd71d",
+      "title": "#US President Donald Trump announced a process to free stranded ships in the Strait of Hormuz  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2051057034246709295",
+      "published": "2026-05-03T21:51:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777841414",
+      "title": "Iran lawmaker says Strait of Hormuz will not return to pre\u2011war state",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss",
+      "published": "2026-05-03T20:51:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777831228",
+      "title": "Is Mali\u2019s military government losing control?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/5/3/is-malis-military-government-losing-control?traffic_source=rss",
+      "published": "2026-05-03T20:30:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.timesofisrael.com/?p=3815674",
       "title": "Jerusalem Christians not surprised by attack on nun as abuse becomes routine",
@@ -91,34 +179,12 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1777824304",
-      "title": "Israel\u2019s strategy of \u2018permanent war\u2019: A race against time?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss",
-      "published": "2026-05-03T19:36:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3815596",
-      "title": "Trump said to nix Iran plan that aimed to end war in month, defer nuclear issue",
+      "title": "Trump: Latest Iran terms unacceptable; US on Monday to start guiding ships out of Hormuz",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/trump-said-to-nix-iran-plan-that-aimed-to-end-war-in-month-defer-nuclear-issue/",
       "published": "2026-05-03T19:13:11+00:00",
-      "type": "incident",
+      "type": "naval",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
@@ -201,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1777830493",
-      "title": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss",
-      "published": "2026-05-03T17:52:00+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "74bbfb574f2e089a1be8ab1c75cef5c5",
       "title": "#Oman's Foreign Minister Bader Al-Busaidi & Iranian counterpart Abbas Araghchi discuss the latest efforts to reach understandings between Tehran & Washington over Iran's nuclear file & other outstanding issues.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -238,28 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-      "title": "Trump casts doubt on Iran peace deal and says Tehran has not \u2018paid a big enough price\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-      "published": "2026-05-03T17:08:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -303,28 +325,6 @@
         "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1777822103",
-      "title": "Bulk carrier attacked by multiple small craft off Iran, UKMTO says",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says?traffic_source=rss",
-      "published": "2026-05-03T16:47:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -524,50 +524,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "02bfe503c3a40d336331fbb8a9908c45",
-      "title": "The Secretariat General of the Organization of Arab Petroleum Exporting Countries (OAPEC) announces the withdrawal of the United Arab Emirates from the organization's membership, effective from May 1  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2050939871234003299",
-      "published": "2026-05-03T14:05:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/05/03/palestinian-killed-in-israeli-raid-in-nablus-as-west-bank-violence-escalates/",
-      "title": "Palestinian killed in Israeli raid in Nablus as West Bank violence escalates",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/05/03/palestinian-killed-in-israeli-raid-in-nablus-as-west-bank-violence-escalates/",
-      "published": "2026-05-03T13:12:07+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
