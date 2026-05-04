@@ -1,20 +1,108 @@
 {
-  "generated_at": "2026-05-04T17:45:39.105624+00:00",
-  "total_incidents": 80,
+  "generated_at": "2026-05-04T19:47:12.872154+00:00",
+  "total_incidents": 87,
   "incidents": [
     {
-      "id": "4fdd68c4fa908265aea008fff3b0c16f",
-      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/NCEMAUAE/status/2051354580521558342",
-      "published": "2026-05-04T17:33:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
+      "id": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+      "title": "Middle East crisis live: Trump warns Iranian forces they will be \u2018blown off the face of the Earth\u2019 if they target US ships",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+      "published": "2026-05-04T19:42:14+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
+      "title": "Donald Trump sends warships to break Iran\u2019s strait of Hormuz blockade",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
+      "published": "2026-05-04T19:26:25+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/05/04/uae-cybersecurity-hackers-safety/",
+      "title": "UAE cautions against 'rushed digital decision-making' in warning over potential cyber attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/05/04/uae-cybersecurity-hackers-safety/",
+      "published": "2026-05-04T19:16:26+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
       "location": {
         "country": "UAE",
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777913289",
+      "title": "Gangland wars killing dozens of bystanders, report Swedish police",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/4/gangland-wars-killing-dozens-of-bystanders-report-swedish-police?traffic_source=rss",
+      "published": "2026-05-04T19:12:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c5cae2375d85adcf9ac9433e0a60b28a",
+      "title": "RT by @moiuae: \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629#MOD#UAEMinistryOfDefence pic.",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/modgovae/status/2051377907034157477",
+      "published": "2026-05-04T19:06:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 100,
       "is_government": true,
@@ -25,12 +113,166 @@
       }
     },
     {
-      "id": "494f29a057295ac2df8c334eb4884939",
-      "title": "\u0627\u0644\u0622\u0646 \u062a\u062a\u0639\u0627\u0645\u0644 \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0645\u0639 \u062a\u0647\u062f\u064a\u0640\u062f \u0635\u0627\u0631\u0648\u062e\u064a\u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0628\u0642\u0627\u0621 \u0641\u064a \u0645\u0643\u0627\u0646 \u0622\u0645\u0646 \u0648\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u062a\u062d\u0630\u064a\u0631\u0627\u062a \u0648\u0627\u0644\u0645\u0633\u062a\u062c\u062f\u0627\u062a \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0627\u0642\u0640\u0640\u0639 \u0627\u0644\u0631\u0633\u0645\u064a\u0640\u0629. Air defense systems are currently dealing with a missile threat. Please remain in a safe place and follow warnings and updates on the official channels.",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2051354548233699476",
-      "published": "2026-05-04T17:33:00+00:00",
+      "id": "c5cae2375d85adcf9ac9433e0a60b28a",
+      "title": "\u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0627\u0644\u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629 \u0648\u0627\u0644\u062c\u0648\u0627\u0644\u0629 \u0648\u0627\u0644\u0645\u0633\u064a\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629#MOD#UAEMinistryOfDefence pic.",
+      "source": "UAE MOD (RSS.app)",
+      "source_url": "https://x.com/modgovae/status/2051377907034157477",
+      "published": "2026-05-04T19:06:00+00:00",
       "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777921249",
+      "title": "Iran-US clash over alleged warship attack in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-us-clash-over-alleged-warship-attack-in-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-05-04T19:02:46+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3d89d600459fa75c56d18d2513c833c5",
+      "title": "RT by @moiuae: The UAE air defence systems engaged 12 ballistic missiles, 3 cruise missiles, and 4 UAV\u2019s. The Ministry of Defence announced that on May 4, 2026, the UAE air defence systems engaged 12 ballistic missiles, 3 cruise missiles, and 4 UAV\u2019s launched from Iran, resulting in 3 moderate\u2026 pic.",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/modgovae/status/2051377052998332472",
+      "published": "2026-05-04T19:02:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3d89d600459fa75c56d18d2513c833c5",
+      "title": "The UAE air defence systems engaged 12 ballistic missiles, 3 cruise missiles, and 4 UAV\u2019s. The Ministry of Defence announced that on May 4, 2026, the UAE air defence systems engaged 12 ballistic missiles, 3 cruise missiles, and 4 UAV\u2019s launched from Iran, resulting in 3 moderate\u2026 pic.",
+      "source": "UAE MOD (RSS.app)",
+      "source_url": "https://x.com/modgovae/status/2051377052998332472",
+      "published": "2026-05-04T19:02:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5ffc92658a9ea287f0e8f74b72036bc8",
+      "title": "#UAE Ministry of Defense: Air defenses are currently intercepting missiles and drones for the third time today  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2051373393161650283",
+      "published": "2026-05-04T18:48:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777906743",
+      "title": "Tackling methane emissions key for climate change and energy security: IEA",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/4/tackling-methane-emissions-key-for-climate-change-and-energy-security-iea?traffic_source=rss",
+      "published": "2026-05-04T18:34:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/career-submariner-selected-to-perform-duties-of-under-secretary-of-the-navy/",
+      "title": "Career submariner selected to perform duties of under secretary of the Navy",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/career-submariner-selected-to-perform-duties-of-under-secretary-of-the-navy/",
+      "published": "2026-05-04T18:25:21+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f35be5d3e46682c26cd37ac0c517a7eb",
+      "title": "Ang mga residenteng lalabag sa panuntunan sa pagkuha ng permit para sa Hajj ay papatawan ng multang nagkakahalaga ng (20,000) riyals, deportasyon, at ban sa pagpasok sa Kaharian sa loob ng (10) taon. #WalangHajjKungWalangPermit",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2051364914548064422",
+      "published": "2026-05-04T18:14:00+00:00",
+      "type": "incident",
       "status": "confirmed",
       "location": {
         "country": null,
@@ -39,6 +281,204 @@
         "lng": 48.0
       },
       "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/05/04/uae-to-adopt-remote-learning-for-rest-of-week-after-iran-attacks/",
+      "title": "UAE to adopt remote learning for rest of week after Iran attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/05/04/uae-to-adopt-remote-learning-for-rest-of-week-after-iran-attacks/",
+      "published": "2026-05-04T18:12:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c7ee503d68d6670b813f6cc8281116c3",
+      "title": "Warga mukim yang melanggar syarat perolehan izin haji akan dikenakan denda finansial sebesar (20.000) riyal, deportasi, serta larangan masuk ke wilayah Kerajaan selama (10) tahun. #TidakAdaHajiTanpaIzin",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2051363598388093249",
+      "published": "2026-05-04T18:09:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/",
+      "title": "US destroys six Iranian small boats, shoots down missiles, drones, admiral says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/",
+      "published": "2026-05-04T18:06:58+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8ee41eca7d4b110f342e40715260e84b",
+      "title": "Residents who violate the requirement to obtain a Hajj permit will be subject to a fine of SAR 20,000, deportation, and a 10-year ban from entering the Kingdom. #No_Hajj_Without_Permit",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2051362802141392977",
+      "published": "2026-05-04T18:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a2a50c17f1fbc59289e3f5c959f708ef",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the renewed terrorist, unprovoked Iranian attacks target...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DX7RjxlE1sJ",
+      "published": "2026-05-04T18:05:23+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3816228",
+      "title": "Shin Bet quietly reverses ban on Urich accessing Prime Minister\u2019s Office \u2013 report",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/shin-bet-quietly-reverses-ban-on-urich-accessing-prime-ministers-office-report/",
+      "published": "2026-05-04T17:56:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "60f923f294bc4a026bd325d240142c4d",
+      "title": "Kuwait's Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah phone call UAE Deputy Prime Minister & Minister of Foreign Affairs Sheikh Abdullah bin Zayed, condemns the Iranian attacks that targeted the UAE earlier in the day.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2051358572500369527",
+      "published": "2026-05-04T17:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/air-warfare/2026/05/04/former-qatari-aircraft-on-track-for-summer-air-force-one-delivery/",
+      "title": "Former Qatari aircraft on track for summer Air Force One delivery",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/air-warfare/2026/05/04/former-qatari-aircraft-on-track-for-summer-air-force-one-delivery/",
+      "published": "2026-05-04T17:47:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2abd203a04cc1e9ba1a535b23e8e3e7d",
+      "title": ". Ministry of Defence: UAE air defences currently engaging missile and drone attacks coming from Iran #WamNews",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DX7PXHqCHl1",
+      "published": "2026-05-04T17:46:11+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -69,21 +509,43 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-      "title": "Middle East crisis live: UAE says it has intercepted three Iran fired drones; US denies that Iran hit warship near strait of Hormuz",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-      "published": "2026-05-04T17:27:37+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
+      "id": "4fdd68c4fa908265aea008fff3b0c16f",
+      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/NCEMAUAE/status/2051354580521558342",
+      "published": "2026-05-04T17:33:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
       "location": {
         "country": "UAE",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 23.4241,
+        "lng": 53.8478
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "494f29a057295ac2df8c334eb4884939",
+      "title": "\u0627\u0644\u0622\u0646 \u062a\u062a\u0639\u0627\u0645\u0644 \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0645\u0639 \u062a\u0647\u062f\u064a\u0640\u062f \u0635\u0627\u0631\u0648\u062e\u064a\u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0628\u0642\u0627\u0621 \u0641\u064a \u0645\u0643\u0627\u0646 \u0622\u0645\u0646 \u0648\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u062a\u062d\u0630\u064a\u0631\u0627\u062a \u0648\u0627\u0644\u0645\u0633\u062a\u062c\u062f\u0627\u062a \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0627\u0642\u0640\u0640\u0639 \u0627\u0644\u0631\u0633\u0645\u064a\u0640\u0629. Air defense systems are currently dealing with a missile threat. Please remain in a safe place and follow warnings and updates on the official channels. pic.",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2051354548233699476",
+      "published": "2026-05-04T17:33:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -223,28 +685,6 @@
       }
     },
     {
-      "id": "466432476e9083aa4c8391598ba35893",
-      "title": "\u0627\u0644\u0622\u0646 \u062a\u062a\u0639\u0627\u0645\u0644 \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0645\u0639 \u062a\u0647\u062f\u064a\u0640\u062f \u0635\u0627\u0631\u0648\u062e\u064a\u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0628\u0642\u0627\u0621 \u0641\u064a \u0645\u0643\u0627\u0646 \u0622\u0645\u0646 \u0648\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u062a\u062d\u0630\u064a\u0631\u0627\u062a \u0648\u0627\u0644\u0645\u0633\u062a\u062c\u062f\u0627\u062a \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0627\u0642\u0640\u0640\u0639 \u0627\u0644\u0631\u0633\u0645\u064a\u0640\u0629. Air defense systems are currently dealing with a missile threat. Please remain in a safe place and follow warnings and updates on the official channels.",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2051337349477617887",
-      "published": "2026-05-04T16:25:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1777911614",
       "title": "Would you bet on the next disaster? The rise of prediction markets",
       "source": "Al Jazeera",
@@ -260,28 +700,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "06b65d1d3b08e4771751d346b6124658",
-      "title": "\u0627\u0644\u0622\u0646 \u062a\u062a\u0639\u0627\u0645\u0644 \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0645\u0639 \u062a\u0647\u062f\u064a\u0640\u062f \u0635\u0627\u0631\u0648\u062e\u064a\u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0628\u0642\u0627\u0621 \u0641\u064a \u0645\u0643\u0627\u0646 \u0622\u0645\u0646 \u0648\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u062a\u062d\u0630\u064a\u0631\u0627\u062a \u0648\u0627\u0644\u0645\u0633\u062a\u062c\u062f\u0627\u062a \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0627\u0642\u0640\u0640\u0639 \u0627\u0644\u0631\u0633\u0645\u064a\u0640\u0629. Air defense systems are currently dealing with a missile threat. Please remain in a safe place and follow warnings and updates on the official channels.",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2051337268028403903",
-      "published": "2026-05-04T16:24:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -355,72 +773,6 @@
       }
     },
     {
-      "id": "e7bc6b35da83276a09a02c445e96ed23",
-      "title": "The media office of the #Emirate of #Fujairah in the United Arab Emirates announces that a fire broke out at the Fujairah Oil Industry Zone (FOIZ), following what it described as an #Iranian drone strike  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2051333199234560293",
-      "published": "2026-05-04T16:08:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1777910368",
-      "title": "Lebanon Latest",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/2026/5/4/lebanon-latest?traffic_source=rss",
-      "published": "2026-05-04T16:05:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d7f6cea380d44cfde00e830dfcf1cd33",
-      "title": "A #UAE-based industrial forum represents a viable opportunity for manufacturers, investors and innovators to share their expertise with one another while giving impetus to existential agreements, a pair of Kuwaiti officials said  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2051332518041804829",
-      "published": "2026-05-04T16:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse",
       "title": "British Gaza flotilla activists say they needed hospital care after Israeli forces\u2019 abuse",
       "source": "The Guardian",
@@ -436,50 +788,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1777902836",
-      "title": "US official says China is \u2018funding\u2019 Iran, urges Beijing to help open Hormuz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz?traffic_source=rss",
-      "published": "2026-05-04T15:55:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ea2ea9aee69749ef3bb36aada2503487",
-      "title": "\u0627\u0644\u0622\u0646 \u062a\u062a\u0639\u0627\u0645\u0644 \u0627\u0644\u062f\u0641\u0627\u0639\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0645\u0639 \u062a\u0647\u062f\u064a\u0640\u062f \u0635\u0627\u0631\u0648\u062e\u064a\u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0628\u0642\u0627\u0621 \u0641\u064a \u0645\u0643\u0627\u0646 \u0622\u0645\u0646 \u0648\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u062a\u062d\u0630\u064a\u0631\u0627\u062a \u0648\u0627\u0644\u0645\u0633\u062a\u062c\u062f\u0627\u062a \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0627\u0642\u0640\u0640\u0639 \u0627\u0644\u0631\u0633\u0645\u064a\u0640\u0629. Air defense systems are currently dealing with a missile threat. Please remain in a safe place and follow warnings and updates on the official channels.",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2051328393330016572",
-      "published": "2026-05-04T15:49:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -568,28 +876,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1777908411",
-      "title": "UAE reports missile and drone strikes incoming from Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss",
-      "published": "2026-05-04T15:37:11+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -722,28 +1008,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1777875146",
-      "title": "Does Trump hold \u2018all the cards\u2019 against Iran in the Strait of Hormuz?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/4/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz?traffic_source=rss",
-      "published": "2026-05-04T14:56:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1015,28 +1279,6 @@
       }
     },
     {
-      "id": "a0def5bec1080ad63077af7f2f8aea2a",
-      "title": "The Community Development Authority in Dubai (CDA) announces the results of the eighth Social Survey (2024\u20132025), underscoring the emirate\u2019s commitment to advancing a data-driven social development ecosystem and supporting decision-making aligned with the objectives of the Dubai Social Agenda 33. The survey also supports efforts to strengthen family stability and social cohesion, in line with the \u2018Year of the Family\u2019. @CDA_Dubai",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2051276182499611078",
-      "published": "2026-05-04T12:22:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=180046",
       "title": "Live update: Iran threatens to attack ships trying to transit Hormuz",
       "source": "Ya Libnan",
@@ -1059,28 +1301,6 @@
       }
     },
     {
-      "id": "26b586f327a46a4745bf092588e5384c",
-      "title": ". The United Arab Emirates has strongly condemned and denounced the Iranian terrorist attack involving two drones that t...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DX6mkpGiDvO",
-      "published": "2026-05-04T11:49:57+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/asia-pacific/2026/05/04/interview-gen-ronald-clark-us-army-pacific-commander/",
       "title": "Interview: Gen. Ronald Clark, US Army Pacific commander",
       "source": "Defense News",
@@ -1093,50 +1313,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3815405",
-      "title": "Survey finds fewer than 25% of Gaza border residents feel safe, 40% don\u2019t trust state",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/survey-finds-fewer-than-25-of-gaza-border-residents-feel-safe-40-dont-trust-state/",
-      "published": "2026-05-04T11:23:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
-      "title": "Iran says ships being \u2018guided\u2019 by US through Hormuz must work with its armed forces",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
-      "published": "2026-05-04T11:09:06+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
       },
       "credibility": 90,
       "is_government": false,
@@ -1731,28 +1907,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/05/01/us-to-close-its-flagship-gaza-mission-as-trump-plan-stalls/",
-      "title": "US to close its flagship Gaza mission as Trump plan stalls",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/05/01/us-to-close-its-flagship-gaza-mission-as-trump-plan-stalls/",
-      "published": "2026-05-01T19:38:57+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
