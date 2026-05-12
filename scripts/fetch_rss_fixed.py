@@ -28,34 +28,27 @@ coord_extractor = CoordinateExtractor()
 # MENA-focused RSS feeds
 FEEDS = [
     # Tier 1 - International
-    {"name": "Reuters Middle East", "url": "https://www.reuters.com/news/archive/middleeast.rss", "country": "International", "credibility": 95},
-    {"name": "BBC Middle East", "url": "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml", "country": "International", "credibility": 95},
+    {"name": "BBC Middle East", "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", "country": "International", "credibility": 95},
     {"name": "The Guardian", "url": "https://www.theguardian.com/world/middleeast/rss", "country": "International", "credibility": 90},
     {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "country": "Qatar", "credibility": 90},
     
     # Tier 2 - Gulf Regional
     {"name": "The National UAE", "url": "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml", "country": "UAE", "credibility": 85},
-    {"name": "Gulf News", "url": "https://gulfnews.com/rss", "country": "UAE", "credibility": 85},
-    {"name": "Khaleej Times", "url": "https://www.khaleejtimes.com/arc/outboundfeeds/rss/?outputType=xml", "country": "UAE", "credibility": 80},
     
     # Saudi Arabia
     {"name": "Arab News", "url": "https://www.arabnews.com/rss.xml", "country": "Saudi Arabia", "credibility": 80},
-    {"name": "Saudi Gazette", "url": "https://saudigazette.com.sa/feed/", "country": "Saudi Arabia", "credibility": 80},
     {"name": "Al Riyadh (EN)", "url": "https://www.alriyadh.com/en/rss", "country": "Saudi Arabia", "credibility": 75},
     {"name": "Saudi Press Agency", "url": "https://www.spa.gov.sa/rss", "country": "Saudi Arabia", "credibility": 85},
     
     # Bahrain
-    {"name": "Bahrain News Agency", "url": "https://www.bna.bh/en/rss", "country": "Bahrain", "credibility": 80},
     {"name": "Gulf Daily News", "url": "https://www.gdnonline.com/rss", "country": "Bahrain", "credibility": 75},
     
     # Oman
-    {"name": "Oman News Agency", "url": "https://www.omanews.gov.om/rss", "country": "Oman", "credibility": 80},
     {"name": "Oman Daily Observer", "url": "https://www.omanobserver.om/rss", "country": "Oman", "credibility": 75},
     
     # Tier 3 - Israel/Palestine
     {"name": "Times of Israel", "url": "https://www.timesofisrael.com/feed/", "country": "Israel", "credibility": 85},
     {"name": "Jerusalem Post", "url": "https://www.jpost.com/Rss/RssFeedsHeadlines.aspx", "country": "Israel", "credibility": 85},
-    {"name": "Haaretz", "url": "https://www.haaretz.com/rss.xml", "country": "Israel", "credibility": 85},
     
     # Tier 4 - Defense/Security
     {"name": "Defense News", "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", "country": "International", "credibility": 90},
