@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-05-16T03:36:12.753539+00:00",
-  "total_incidents": 78,
+  "generated_at": "2026-05-16T06:26:17.708837+00:00",
+  "total_incidents": 74,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/05/16/uae-reaffirms-commitment-to-protecting-its-sovereignty-in-face-of-iranian-attacks/",
+      "title": "UAE reaffirms commitment to protecting its sovereignty in face of Iranian attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/05/16/uae-reaffirms-commitment-to-protecting-its-sovereignty-in-face-of-iranian-attacks/",
+      "published": "2026-05-16T04:59:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8cfc6bb2dc46d4b1889dc281a1f6c41b",
+      "title": "The US war on Iran was supposed to be swift and decisive. Instead, it has produced a war of attrition that is eroding Trump's support at home faster than any battlefield setback could.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2055503961583501540",
+      "published": "2026-05-16T04:21:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/banking/2026/05/16/global-banks-are-becoming-too-large-for-states-to-rescue/",
+      "title": "Global banks are becoming too large for states to rescue",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/banking/2026/05/16/global-banks-are-becoming-too-large-for-states-to-rescue/",
+      "published": "2026-05-16T04:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1778901919",
+      "title": "Israel launches deadly air strikes on Gaza City apartment building",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
+      "published": "2026-05-16T03:37:28+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3824517",
       "title": "Iraqi militia commander charged in US for plotting attacks on Jewish targets for Iran",
@@ -114,17 +202,17 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/05/16/new-york-charges-iraqi-man-over-alleged-terror-plot-targeting-synagogue/",
-      "title": "New York charges Iraqi man over alleged terror plot targeting synagogue",
+      "title": "Iraqi man 'linked to Iran-backed militia' charged over alleged bomb plot targeting New York synagogue",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/us/2026/05/16/new-york-charges-iraqi-man-over-alleged-terror-plot-targeting-synagogue/",
       "published": "2026-05-16T00:58:40+00:00",
-      "type": "incident",
+      "type": "explosion",
       "status": "unconfirmed",
       "location": {
-        "country": "Iraq",
+        "country": "Iran",
         "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 85,
       "is_government": false,
@@ -201,6 +289,28 @@
       }
     },
     {
+      "id": "https://www.timesofisrael.com/?p=3824508",
+      "title": "Report: Israel, US readying for renewed strikes on Iran for as early as next week",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog-may-16-2026/",
+      "published": "2026-05-15T23:31:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://yalibnan.com/?p=180380",
       "title": "Trump says Xi offered help on Iran \u2014 but  would it help end the war",
       "source": "Ya Libnan",
@@ -260,28 +370,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3824463",
-      "title": "UAE rejects \u2018attempts to justify Iranian terror\u2019 after Tehran alleges role in war",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/uae-rejects-attempts-to-justify-iranian-terror-after-tehran-alleges-role-in-war/",
-      "published": "2026-05-15T21:27:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -369,94 +457,6 @@
         "lng": 34.4668
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1778877426",
-      "title": "Cuba hit by protests, blackouts amid oil shortage",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cuba-hit-by-protests-blackouts-amid-oil-shortage?traffic_source=rss",
-      "published": "2026-05-15T20:40:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3824428",
-      "title": "Porous ceasefire extended for 45-days after third round of Israel-Lebanon talks",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/porous-ceasefire-extended-for-45-days-after-third-round-of-israel-lebanon-talks/",
-      "published": "2026-05-15T20:36:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1778866177",
-      "title": "Ex-Sinaloa security chief in Mexico arrested in US over alleged cartel ties",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/15/ex-sinaloa-security-chief-in-mexico-arrested-in-us-over-alleged-cartel-ties?traffic_source=rss",
-      "published": "2026-05-15T20:31:24+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3824454",
-      "title": "Prosecutors seek death penalty for man charged with killing Israeli DC embassy staffers",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/prosecutors-seek-death-penalty-for-man-charged-with-killing-israeli-dc-embassy-staffers/",
-      "published": "2026-05-15T20:10:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -598,7 +598,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/05/15/israel-lebanon-ceasefire-extended-by-45-days/",
-      "title": "Israel-Lebanon ceasefire extended by 45 days",
+      "title": "Israel-Lebanon ceasefire extended by 45 days but deadly strikes continue",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/us/2026/05/15/israel-lebanon-ceasefire-extended-by-45-days/",
       "published": "2026-05-15T18:44:44+00:00",
@@ -677,28 +677,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/05/15/how-israel-is-erasing-south-lebanon-from-map-during-ceasefire/",
-      "title": "How Israel is erasing south Lebanon from map during \u2018ceasefire'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/05/15/how-israel-is-erasing-south-lebanon-from-map-during-ceasefire/",
-      "published": "2026-05-15T18:02:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1367,28 +1345,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/commentisfree/2026/may/14/iran-war-criminal-aggression",
-      "title": "When will the Iran war end? The US can\u2019t even decide when it began | Lawrence Douglas",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/may/14/iran-war-criminal-aggression",
-      "published": "2026-05-14T16:00:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/cx219xwxg9no#0",
       "title": "'Floating armoury' ship reportedly seized by Iran",
       "source": "BBC Middle East",
@@ -1667,50 +1623,6 @@
         "lng": 34.4668
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "91e7594d7039f21e90c4ca0b197ddaab",
-      "title": "Iranian Foreign Minister Araghchi has told Norway's Deputy FM that US maximalist demands, threatening rhetoric, and lack of good faith are the principal obstacles to ending the war and reaching a deal.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2054440122352034217",
-      "published": "2026-05-13T05:54:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a09069a99b223699c9222d1c577a6797",
-      "title": "The top diplomats from China and Pakistan held a phone conversation on Wednesday, discussing efforts to end the war on Iran and secure a ceasefire deal between Tehran and Washington.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2054423345408438414",
-      "published": "2026-05-13T04:47:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 70,
       "is_government": false,
       "casualties": {
         "total": 0,
