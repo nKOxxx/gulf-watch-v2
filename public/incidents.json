@@ -1,13 +1,57 @@
 {
-  "generated_at": "2026-05-18T10:14:35.790858+00:00",
-  "total_incidents": 83,
+  "generated_at": "2026-05-18T15:42:46.570481+00:00",
+  "total_incidents": 73,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/05/18/us-air-force-looks-to-convert-offshore-oil-rigs-into-rocket-recovery-platforms/",
+      "title": "US Air Force looks to convert offshore oil rigs into rocket recovery platforms",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/05/18/us-air-force-looks-to-convert-offshore-oil-rigs-into-rocket-recovery-platforms/",
+      "published": "2026-05-18T15:35:50+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c142vz80553o#0",
+      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T15:30:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
       "title": "Middle East crisis live: Trump warns \u2018clock is ticking\u2019 for Iran to reach peace deal",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
-      "published": "2026-05-18T10:12:52+00:00",
+      "published": "2026-05-18T15:16:22+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,12 +69,518 @@
       }
     },
     {
-      "id": "https://www.bbc.com/news/articles/c142vz80553o#0",
-      "title": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-18T10:00:47+00:00",
+      "id": "https://www.aljazeera.com/?t=1779107110",
+      "title": "Israeli attacks kill at least 7 in Lebanon despite \u2018ceasefire\u2019 extension",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/18/israeli-attacks-kill-at-least-7-in-lebanon-despite-ceasefire-extension?traffic_source=rss",
+      "published": "2026-05-18T15:02:06+00:00",
       "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/05/18/lebanese-president-vows-to-do-impossible-to-end-israels-war-on-country/",
+      "title": "Lebanese President vows to 'do impossible' to end Israel's war on country",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/05/18/lebanese-president-vows-to-do-impossible-to-end-israels-war-on-country/",
+      "published": "2026-05-18T14:38:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d192f8a54066d176de551bf2710e8953",
+      "title": "The #US Central Command says that 84 commercial vessels in the Strait of Hormuz had been redirected since the start of the US blockade on Iranian ports.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2056383021771559083",
+      "published": "2026-05-18T14:34:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4be283bee0b8dfd1a9d426c43af3c678",
+      "title": "Civil aviation chief chairs meeting on Hajj arrangements at #Kuwait airport  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2056382504555180146",
+      "published": "2026-05-18T14:32:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779090331",
+      "title": "What is the UAE\u2019s Barakah nuclear plant, nearly hit by a drone?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/18/what-is-the-uaes-barakah-nuclear-plant-nearly-hit-by-a-drone?traffic_source=rss",
+      "published": "2026-05-18T14:09:47+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3821983",
+      "title": "The only Iran deal Trump can get is no better than Obama\u2019s \u2018horrible\u2019 JCPOA",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/the-only-iran-deal-trump-can-get-is-no-better-than-obamas-horrible-jcpoa/",
+      "published": "2026-05-18T13:49:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4e42aabb6e5ec26d6675669f9dbdf17e",
+      "title": "Latifa bint Mohammed statement marking International Museum Day 2026: Museums offer an opportunity to encounter our shared humanity beyond the immediacy of external circumstances, reminding us that culture has always been a means through which people make sense of the world and forge connections across generations and geographies.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2056371548265877989",
+      "published": "2026-05-18T13:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/property/2026/05/18/emaar-exits-syria-jv-to-go-solo-on-500m-development/",
+      "title": "Emaar exits Syria JV to go solo on $500m development",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/property/2026/05/18/emaar-exits-syria-jv-to-go-solo-on-500m-development/",
+      "published": "2026-05-18T13:38:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3825896",
+      "title": "Iran says it responded to \u2018excessive\u2019 US proposal, after Trump warns \u2018clock ticking\u2019",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/iran-says-it-responded-to-excessive-us-proposal-after-trump-warns-clock-ticking/",
+      "published": "2026-05-18T13:35:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f08e2b1124d66b4fa636c2c82adea20d",
+      "title": ". ADGM, the international financial centre of Abu Dhabi, has reported a strong start to 2026, underscored by continued e...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DYe1QhJiAJI",
+      "published": "2026-05-18T13:30:45+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties/",
+      "title": "Former University of Michigan researcher accused of hiding Chinese military drone ties",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties/",
+      "published": "2026-05-18T13:30:26+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2c9c7d219d230b7b5c05a7fc683faf1e",
+      "title": ". AD Ports Group (ADX: ADPORTS) today announced that it has signed an agreement to acquire MBS Logistics, a Germany-base...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DYe1FT7CKwh",
+      "published": "2026-05-18T13:29:13+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c6dd785c30b17ca9ba8e6460a9c4b1d5",
+      "title": "RT by @CivilDefenceAD: .@CivilDefenceAD has participated in @FDICevent in the US, one of the world\u2019s largest firefighting, rescue and emergency services events, joining advanced field training sessions and reinforcing its commitment to exchanging expertise with global civil defence entities.",
+      "source": "Abu Dhabi Civil Defence (RSS.app)",
+      "source_url": "https://x.com/ADMediaOffice/status/2056360594652164372",
+      "published": "2026-05-18T13:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779030076",
+      "title": "Iran eyes challenging stock market reopening after lengthy war closure",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/5/18/iran-eyes-challenging-stock-market-reopening-after-lengthy-war-closure?traffic_source=rss",
+      "published": "2026-05-18T13:03:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779093365",
+      "title": "The Gulf does not have to choose Iran or Israel",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/5/18/the-gulf-does-not-have-to-choose-iran-or-israel?traffic_source=rss",
+      "published": "2026-05-18T12:49:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779103982",
+      "title": "Iran sends response to US proposal to end war via mediator Pakistan",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/18/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan-2?traffic_source=rss",
+      "published": "2026-05-18T12:44:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5a9fac655ac7d6562785580bd4ff0e27",
+      "title": "#Oman's Ministry of Finance says public revenues rose by 13 percent to USD 7.75 billion by the end of the first quarter of 2026 compared to the same period last year, driven by higher net oil revenues.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2056354731161780265",
+      "published": "2026-05-18T12:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=180479",
+      "title": "Time for Trump to deliver on his threats",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/05/18/time-for-trump-to-deliver-on-his-threats/?utm_source=rss&utm_medium=rss&utm_campaign=time-for-trump-to-deliver-on-his-threats",
+      "published": "2026-05-18T12:36:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3739179",
+      "title": "IDF struggles to throttle endless feed of soldiers posting misdeeds on social media",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/idf-struggles-to-throttle-endless-feed-of-soldiers-posting-misdeeds-on-social-media/",
+      "published": "2026-05-18T12:15:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4393f46d5a93890af5aa00bdb88849e5",
+      "title": "The Arab League and the Arab Parliament condemn the attack targeting #Saudi Arabia involving three drones that violated Saudi airspace, affirming their full solidarity with the Kingdom in confronting anything that threatens its security and stability  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2056343810808967575",
+      "published": "2026-05-18T11:59:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "010d4de6c277bdb8dd41e296958c8bbf",
+      "title": "Defense Minister discusses with #Chinese Ambassador to #Kuwait a number of issues of mutual interest  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2056337013112996305",
+      "published": "2026-05-18T11:32:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "300a4c75bc21e976f560ad07358a4834",
+      "title": "EU High Representative for Foreign Affairs and Security Policy affirms that the European Union is working to deepen its cooperation with regional actors, foremost among them Gulf countries, to address the humanitarian and economic consequences of the Iran war  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2056336631230071233",
+      "published": "2026-05-18T11:30:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3825935",
+      "title": "\u2018I don\u2019t know what would have happened if we\u2019d won,\u2019 says Israel\u2019s Eurovision chief",
+      "source": "Times of Israel",
+      "source_url": "https://www.jewishnews.co.uk/i-dont-know-what-would-have-happened-if-wed-won-says-israels-eurovision-chief/",
+      "published": "2026-05-18T11:18:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3825822",
+      "title": "Israeli Navy intercepts vessels in Gaza-bound flotilla off Cyprus coast",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/israeli-navy-begins-to-intercept-vessels-in-gaza-bound-flotilla-off-cyprus-coast/",
+      "published": "2026-05-18T10:06:52+00:00",
+      "type": "naval",
       "status": "unconfirmed",
       "location": {
         "country": "Palestine",
@@ -38,7 +588,7 @@
         "lat": 31.5017,
         "lng": 34.4668
       },
-      "credibility": 95,
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -91,153 +641,21 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1779096674",
-      "title": "Video: US calls on G7 to impose US-led sanctions on Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
-      "published": "2026-05-18T09:46:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/05/18/gcc-condemns-drone-attack-on-saudi-arabia-launched-from-iraqi-airspace/",
-      "title": "GCC condemns drone attack on Saudi Arabia 'launched from Iraqi airspace'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/05/18/gcc-condemns-drone-attack-on-saudi-arabia-launched-from-iraqi-airspace/",
-      "published": "2026-05-18T09:42:53+00:00",
+      "id": "9388dc286b1fd1744091f8b72ce54b3b",
+      "title": ". United Nations Secretary-General Ant\u00f3nio Guterres said he was \"deeply alarmed\" by reports that drone strikes set fire ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DYeadmICP4t",
+      "published": "2026-05-18T09:36:36+00:00",
       "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779092976",
-      "title": "US military carries out more strikes against ISIL fighters in Nigeria",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/18/us-military-carries-out-more-strikes-against-isil-fighters-in-nigeria?traffic_source=rss",
-      "published": "2026-05-18T09:39:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
         "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "56c3a98b669fcd981a18aa740236776b",
-      "title": "The #Oman Petroleum & Energy Show 2026 opens in #Muscat with broad participation from government bodies, global energy firms, investors, experts & specialists.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2056308166015537308",
-      "published": "2026-05-18T09:37:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/05/18/un-chief-leads-global-denunciation-of-drone-attack-on-uae-nuclear-power-plant/",
-      "title": "UN chief leads global denunciation of drone attack on UAE nuclear power plant",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/05/18/un-chief-leads-global-denunciation-of-drone-attack-on-uae-nuclear-power-plant/",
-      "published": "2026-05-18T09:23:16+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3825766",
-      "title": "Nova exhibit banner in London taken down over police\u2019s fear of attacks",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/nova-exhibit-banner-in-london-taken-down-over-polices-fear-of-attacks-report/",
-      "published": "2026-05-18T09:13:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779095013",
-      "title": "Israeli settlers run over livestock in occupied West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss",
-      "published": "2026-05-18T09:09:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -267,285 +685,21 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1779087247",
-      "title": "Israel built two military bases in Iraq before war on Iran: New York Times",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
-      "published": "2026-05-18T08:57:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/markets/2026/05/18/oil-climbs-while-stocks-and-bonds-drop-as-trump-threatens-to-renew-strikes-on-iran/",
-      "title": "Oil climbs while stocks and bonds drop as Trump threatens to renew strikes on Iran",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/markets/2026/05/18/oil-climbs-while-stocks-and-bonds-drop-as-trump-threatens-to-renew-strikes-on-iran/",
-      "published": "2026-05-18T08:41:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/05/18/iran-seizes-assets-of-129-people-accused-of-links-to-the-us-and-israel/",
-      "title": "Iran seizes assets of 129 people accused of links to the US and Israel",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/05/18/iran-seizes-assets-of-129-people-accused-of-links-to-the-us-and-israel/",
-      "published": "2026-05-18T08:40:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779093114",
-      "title": "Netanyahu says Israel controls 60 percent of Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/netanyahu-says-israel-controls-60-percent-of-gaza?traffic_source=rss",
-      "published": "2026-05-18T08:35:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f672ac5f13e3b8e841a2b38014935f61",
-      "title": "#Qatar condemns an attempted drone attack targeting #SaudiArabia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2056270580874150389",
-      "published": "2026-05-18T07:08:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ee17f69f8a7173aa2e39a2c6be6af81c",
-      "title": "Mohammed bin Rashid bin Mohammed visits the headquarters of the Economic Security Centre of Dubai and reviews its efforts to strengthen Dubai\u2019s position as a trusted global economic hub.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2056270155345531030",
-      "published": "2026-05-18T07:06:00+00:00",
+      "id": "a7a64584d4db09ad40377aca8d117a08",
+      "title": "RT by @moiuae: 1 day to go. Tomorrow, Abu Dhabi becomes the centre of global security dialogue, where leaders, authorities, and experts come together to shape what\u2019s next at\u00a0ISNR Abu Dhabi\u00a02026. \ud83d\uddd3 19-21 May 2026 \ud83d\udccd ADNEC Centre Abu Dhabi Register to visit:",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/ISNRAbuDhabi/status/2056285701923320266",
+      "published": "2026-05-18T08:08:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
         "country": "UAE",
         "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
+        "lat": 24.4539,
+        "lng": 54.3773
       },
-      "credibility": 95,
+      "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "92e282ba30650a3dd02a00c3e9eaef0e",
-      "title": "#Oman condemns a drone attack targeting the Barakah nuclear power plant in Al-Dhafra region of the #UAE  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2056269877678076411",
-      "published": "2026-05-18T07:05:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ffb08391996b35cada8c70825288e097",
-      "title": "#Egypt condemns an attempted drone attack targeting #SaudiArabia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2056269256052940820",
-      "published": "2026-05-18T07:02:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 26.8206,
-        "lng": 30.8025
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b35efaa6f61862eb7cf18c41967d7e13",
-      "title": "GCC Secretary-General condemns a hostile drone attack targeting #SaudiArabia from Iraqi airspace.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2056267709285900428",
-      "published": "2026-05-18T06:56:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "12d53451088d2c8a2fc416ad5b33e6e6",
-      "title": ". The Sultanate of Oman expressed its condemnation and denunciation of the drone attack targeting the Barakah Nuclear Po...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DYeH0ABCMwv",
-      "published": "2026-05-18T06:53:38+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3825702",
-      "title": "Anti-Israel Croatian president refusing to sign off on new Israeli envoy \u2014 report",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/anti-israel-croatian-president-refusing-to-sign-off-on-new-israeli-envoy-report/",
-      "published": "2026-05-18T06:49:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f6846968c37e5564713fc6d9522dda7d",
-      "title": "Dubai World Trade Centre Free Zone announces its results for 2025, with the number of new licences issued reaching 850, representing a 41% year-on-year increase. Licence renewals remain strong at 1,822, supported by a 96% renewal rate, while the total number of active companies within the Free Zone exceeds 2,500.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2056265850467037408",
-      "published": "2026-05-18T06:49:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3825044",
-      "title": "Nir Oz marks birthday of Johnny Siman Tov, killed on October 7",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/nir-oz-marks-birthday-of-johnny-siman-tov-killed-on-october-7/",
-      "published": "2026-05-18T06:24:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -567,116 +721,6 @@
         "lng": 51.389
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ab67a7b6f3380e9fd77b26f504e8a0e4",
-      "title": "#Kuwait condemns Iraqi drone attacks targeting the Kingdom of #SaudiArabia.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2056246824306909588",
-      "published": "2026-05-18T05:33:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3825693",
-      "title": "Israel approves new defense complex on site of former UNRWA East Jerusalem HQ",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/israel-approves-new-defense-complex-at-former-unrwa-east-jerusalem-headquarters/",
-      "published": "2026-05-18T05:25:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3825689",
-      "title": "4 crew members eject safely after two US Navy jets collide during air show in Idaho",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/4-crew-members-eject-safely-after-two-us-navy-jets-collide-during-air-show-in-idaho/",
-      "published": "2026-05-18T03:52:37+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3825682",
-      "title": "Report: Netanyahu revealed secret UAE visit to avoid being upstaged by election rival Bennett",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/report-netanyahu-revealed-secret-uae-visit-to-avoid-being-upstaged-by-election-rival-bennett/",
-      "published": "2026-05-18T03:05:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3825674",
-      "title": "Israel begins intercepting Gaza flotilla after it warned ships to \u2018turn back immediately\u2019",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/liveblog-may-18-2026/",
-      "published": "2026-05-18T01:28:58+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -773,28 +817,6 @@
       }
     },
     {
-      "id": "146f3d8541cbe337d081899702f7a307",
-      "title": ". The United Arab Emirates has condemned in the strongest terms the drone attacks targeting the Kingdom of Saudi Arabia,...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DYdFW9eiFOl",
-      "published": "2026-05-17T21:12:57+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/cwy27pkj1l1o#0",
       "title": "UAE reports strike near Abu Dhabi nuclear power plant",
       "source": "BBC Middle East",
@@ -810,28 +832,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "142ab2190d8a6d9a7d4dadb22cf46220",
-      "title": "#Kuwait's Minister of Foreign Affairs and his Emirati counterpart Sheikh Abdullah bin Zayed Al Nahyan, discussed the security situation following a drone attack on the Barakah Nuclear Energy Plant in the Al Dhafra region in the #UAE  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2056114029416849489",
-      "published": "2026-05-17T20:46:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -905,94 +905,6 @@
       }
     },
     {
-      "id": "9828aaa409d992e3c4909255daccb07a",
-      "title": "The United Arab Emirates has condemned in the strongest terms the unprovoked terrorist attack targeting an electricity g...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DYcizUECAC3",
-      "published": "2026-05-17T16:10:59+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d031b76b34e3c8e79d6b6d7cb546b937",
-      "title": "Dubai Customs\u2019 Green Corridor initiative enhances trade flow and strengthens supply chain resilience, reaffirming Dubai\u2019s readiness and agility in responding to regional developments. The initiative was launched in cooperation with Oman Customs, Khorfakkan Port, and Fujairah Port. Customs declarations processed through corridor surge from 12,000 in March to nearly 100,000 in April, with value of transported goods up from AED1 billion to over AED8 billion. @DubaiCustoms",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2056038825034699078",
-      "published": "2026-05-17T15:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "15b48edee70e6b33087037292809648b",
-      "title": "The UAE Food Bank signs a Memorandum of Understanding (MoU) with the Dubai Community Contributions Establishment \u2013 JOOD, as part of ongoing efforts to strengthen strategic partnerships that support humanitarian initiatives and reinforce a sustainable culture of giving across the Emirate of Dubai. @CDA_Dubai I @DMunicipality",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2056021454827950266",
-      "published": "2026-05-17T14:38:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6c1df67dbb1bbdedae2571b07b8bbebd",
-      "title": "The Ministry of Defence announced that the UAE air defence systems today intercepted three UAVs that entered the country...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DYcXZwJE9PF",
-      "published": "2026-05-17T14:31:23+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=180445",
       "title": "Dozens of Houthi rebels  killed in Lebanon in Israeli strikes targeting Hezbollah",
       "source": "Ya Libnan",
@@ -1046,28 +958,6 @@
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=180439",
-      "title": "Drone strike sparks a fire   near UAE\u2019s nuclear power plant , as Iran prepares public for war",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/05/17/drone-strike-sparks-a-fire-near-uaes-nuclear-power-plant-as-iran-prepares-public-for-war/?utm_source=rss&utm_medium=rss&utm_campaign=drone-strike-sparks-a-fire-near-uaes-nuclear-power-plant-as-iran-prepares-public-for-war",
-      "published": "2026-05-17T11:52:02+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -1213,28 +1103,6 @@
       }
     },
     {
-      "id": "348f7402b3fae987b0896eb861999455",
-      "title": "\u0627\u062e\u062a\u062a\u0645 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a \u0628\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0645\u0639 \u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0627\u0644\u062f\u0648\u0631\u0629 \u0627\u0644\u062a\u0623\u0633\u064a\u0633\u064a\u0629 \u0644\u0625\u0639\u062f\u0627\u062f \u0645\u062f\u0631\u0628\u064a \u0627\u0644\u0644\u064a\u0627\u0642\u0629 \u0627\u0644\u0628\u062f\u0646\u064a\u0629\u060c \u0648\u0627\u0644\u062a\u064a \u0623\u064f\u0642\u064a\u0645\u062a \u0628\u0645\u0642\u0631 \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0641\u064a \u0627\u0644\u0634\u0627\u0631\u0642\u0629\u060c \u062e\u0644\u0627\u0644 \u0627\u0644\u0641\u062a\u0631\u0629 \u0645\u0646 6 \u0623\u0628\u0631\u064a\u0644 \u0648\u062d\u062a\u0649 15 \u0645\u0627\u064a\u0648 2026\u060c \u0628\u0645\u0634\u0627\u0631\u0643\u0629 (47) \u0645\u062a\u062f\u0631\u0628\u0627\u064b \u0645\u0646 \u0645\u0646\u062a\u0633\u0628\u064a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0648\u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0634\u0631\u0637\u0629 \u0628\u0627\u0644\u062f\u0648\u0644\u0629\u060c \u0648\u0647\u062f\u0641\u062a \u0627\u0644\u062f\u0648\u0631\u0629 \u0625\u0644\u0649 \u062a\u0623\u0647\u064a\u0644 \u0627\u0644\u0643\u0648\u0627\u062f\u0631 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0648\u0631\u0641\u0639 \u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u062c\u0627\u0647\u0632\u064a\u0629 \u0627\u0644\u0628\u062f\u0646\u064a\u0629\u060c \u0645\u0646 \u062e\u0644\u0627\u0644 \u0628\u0631\u0646\u0627\u0645\u062c \u062a\u062f\u0631\u064a\u0628\u064a \u0645\u062a\u0643\u0627\u0645\u0644 \u062c\u0645\u0639 \u0628\u064a\u0646 \u0627\u0644\u062c\u0627\u0646\u0628\u064a\u0646 \u0627\u0644\u0646\u0638\u0631\u064a \u0648\u0627\u0644\u0645\u064a\u062f\u0627\u0646\u064a\u060c \u062d\u064a\u062b \u0634\u0645\u0644 \u0627\u0644\u062c\u0627\u0646\u0628 \u0627\u0644\u0646\u0638\u0631\u064a \u0645\u0641\u0627\u0647\u064a\u0645 \u0627\u0644\u062a\u0631\u0628\u064a\u0629 \u0627\u0644\u0628\u062f\u0646\u064a\u0629 \u0648\u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629\u060c \u0641\u064a\u0645\u0627 \u062a\u0636\u0645\u0646 \u0627\u0644\u062c\u0627\u0646\u0628 \u0627\u0644\u0639\u0645\u0644\u064a\u060c \u062a\u062f\u0631\u064a\u0628\u0627\u062a \u0645\u062a\u062e\u0635\u0635\u0629 \u0641\u064a \u0628\u0646\u0627\u0621 \u0634\u062e\u0635\u064a\u0629 \u0627\u0644\u0645\u062f\u0631\u0628\u060c \u0648\u0623\u0633\u0627\u0644\u064a\u0628 \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0645\u062a\u062f\u0631\u0628\u064a\u0646\u060c \u0648\u062a\u0645\u0627\u0631\u064a\u0646 \u0627\u0644\u0645\u0631\u0648\u0646\u0629 \u0648\u0627\u0644\u0625\u0637\u0627\u0644\u0629\u060c \u0648\u0627\u0644\u0633\u0631\u0639\u0629 \u0648\u0627\u0644\u062a\u062d\u0645\u0644\u060c \u0648\u0627\u0644\u062a\u062f\u0631\u064a\u0628 \u0627\u0644\u062f\u0627\u0626\u0631\u064a\u060c \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0625\u0639\u062f\u0627\u062f \u0627\u0644\u062e\u0637\u0637 \u0627\u0644\u062a\u062f\u0631\u064a\u0628\u064a\u0629 \u0627\u0644\u0645\u0635\u063a\u0631\u0629. Police Sports Association, in cooperation",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2055928564793725229",
-      "published": "2026-05-17T08:29:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "82dadd91962a6031fe61c147ccf529da",
       "title": "Pakistani Prime Minister Shahbaz Sharif pledged to spare no effort in securing lasting peace between Iran and the United States, voicing optimism that a sustainable agreement can be reached through Islamabad's mediation.",
       "source": "Mehr News (RSS.app)",
@@ -1360,28 +1228,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "62197265ff47c3dfe01c4f748f0a7802",
-      "title": "\u0639\u0642\u062f \u0627\u0644\u062a\u062d\u0627\u0644\u0641 \u0627\u0644\u0623\u0645\u0646\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0628\u062a\u0646\u0638\u064a\u0645 \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0648\u0628\u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0645\u0639 \u062c\u0645\u0647\u0648\u0631\u064a\u062a\u064a \u0633\u0646\u063a\u0627\u0641\u0648\u0631\u0629 \u0648\u0641\u0631\u0646\u0633\u0627\u060c \u0648\u0631\u0634\u0629 \u0639\u0645\u0644 \u062f\u0648\u0644\u064a\u0629 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u0644 \u062a\u062d\u062a \u0639\u0646\u0648\u0627\u0646 \"\u0645\u062a\u062d\u062f\u0648\u0646 \u0636\u062f \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u0644\"\u060c \u0641\u064a \u0625\u0637\u0627\u0631 \u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u062f\u0648\u0644\u064a \u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u0623\u0633\u0627\u0644\u064a\u0628 \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u0644 \u0627\u0644\u062d\u062f\u064a\u062b\u0629\u060c \u0648\u0627\u0644\u062d\u062f \u0645\u0646 \u0623\u0646\u0634\u0637\u0629 \u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0625\u062c\u0631\u0627\u0645\u064a\u0629 \u0627\u0644\u0639\u0627\u0628\u0631\u0629 \u0644\u0644\u062d\u062f\u0648\u062f\u060c \u0648\u0634\u0647\u062f\u062a \u0627\u0644\u0648\u0631\u0634\u0629 \u062a\u0646\u0641\u064a\u0630 \u0628\u0631\u0646\u0627\u0645\u062c \u062a\u062f\u0631\u064a\u0628\u064a \u0645\u062a\u062e\u0635\u0635 \u0641\u064a \u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u0644\u060c \u0628\u0645\u0634\u0627\u0631\u0643\u0629 \u0648\u0627\u0633\u0639\u0629 \u0645\u0646 \u0627\u0644\u062c\u0647\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0648\u0627\u0644\u062e\u0628\u0631\u0627\u0621 \u0648\u0627\u0644\u0634\u0631\u0643\u0627\u062a \u0627\u0644\u062a\u0642\u0646\u064a\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0627\u0644\u0645\u062a\u062e\u0635\u0635\u0629 \u0641\u064a \u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u0631\u0642\u0645\u064a \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0646 25 \u062f\u0648\u0644\u0629. Organized by the UAE and coordinated with the Republics of Singapore and France, the International Security Alliance (ISA) held an international workshop on combating fraud under the theme \u201cUnited Against Fraud\u201d in Singapore from May 11 to 13, 2026. The works",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2055610754301309155",
-      "published": "2026-05-16T11:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1755,72 +1601,6 @@
         "lng": 51.389
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=84236",
-      "title": "Army\u2019s autonomy office looks beyond drone, robot platforms to \u2018packages of capability\u2019",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/05/armys-autonomy-office-looks-beyond-drone-robot-platforms-to-packages-of-capability/",
-      "published": "2026-05-15T15:22:36+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=84114",
-      "title": "From destroyers to drones, how a Europe-led coalition aims to open the Strait of Hormuz",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/05/from-destroyers-to-drones-how-a-europe-led-coalition-aims-to-open-the-strait-of-hormuz/",
-      "published": "2026-05-15T14:51:07+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=84099",
-      "title": "Here\u2019s how the Army plans to spend nearly $1 billion in procuring small counter drone tech",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/05/heres-how-the-army-plans-to-spend-nearly-1-billion-in-procuring-small-counter-drone-tech/",
-      "published": "2026-05-15T13:20:05+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
