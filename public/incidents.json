@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-05-24T08:35:24.970395+00:00",
-  "total_incidents": 73,
+  "generated_at": "2026-05-24T11:19:36.375492+00:00",
+  "total_incidents": 81,
   "incidents": [
+    {
+      "id": "b8bbf22ccbcedb81ae58daab91c50b1f",
+      "title": "Jazeera Airways launches its first commercial flights to #London Luton Airport from #Kuwait International Airport Terminal 5, with four weekly flights starting July 8.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2058501576143098035",
+      "published": "2026-05-24T10:53:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9bac2aa703ca2854eebd4f2694892b76",
+      "title": "#Kuwait's Ministry of Oil organizes a virtual seminar on developments in liquefied natural gas & hydrogen in cooperation with OAPEC  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2058500348654780632",
+      "published": "2026-05-24T10:48:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/05/24/uae-aid-convoys-deliver-930-tonnes-of-relief-to-gaza-before-eid-al-adha/",
+      "title": "UAE aid convoys deliver 930 tonnes of relief to Gaza before Eid Al Adha",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/05/24/uae-aid-convoys-deliver-930-tonnes-of-relief-to-gaza-before-eid-al-adha/",
+      "published": "2026-05-24T10:42:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9807987062ada814c214522ff7626e7f",
+      "title": "#Russia carries out a large-scale \"retaliatory\" strike against #Ukrainian military & command targets using hypersonic missiles & advanced missile systems.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2058498974416330828",
+      "published": "2026-05-24T10:42:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
+      "title": "Middle East crisis live: Rubio sees initial progress on reopening Hormuz after Trump claims Iran deal \u2018largely negotiated\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
+      "published": "2026-05-24T10:37:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f7bd33ae520eedf4e276bcc8e9bbede9",
+      "title": "EU Chief welcomes progress toward reaching an agreement between #US & #Iran, stressing the need for a deal that would effectively reduce tensions & contain the repercussions of instability in the region.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2058495452434124892",
+      "published": "2026-05-24T10:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779607476",
+      "title": "Iran war day 86: Trump announces potential deal amid \u2018cloud of mistrust\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
+      "published": "2026-05-24T10:25:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2f8ad22e8bf927a1ab817226cd23ac8f",
+      "title": "The Ports, Customs and Free Zone Corporation (PCFC) says the measures and initiatives implemented by Dubai Customs as part of its comprehensive proactive strategy have strengthened the smooth flow of trade and reinforced supply chain resilience, in line with Dubai\u2019s economic vision and its commitment to enhancing economic security and ensuring the readiness of vital sectors amid evolving regional and geopolitical developments.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2058493591719399575",
+      "published": "2026-05-24T10:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3829265",
+      "title": "Three said killed in Israeli strike in Gaza, including one-year-old child",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/three-said-killed-in-israeli-strike-in-gaza-including-one-year-old-child/",
+      "published": "2026-05-24T10:18:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/video/2026/may/24/marco-rubio-says-significant-progress-made-in-talks-with-iran-video",
+      "title": "Marco Rubio says 'significant' progress made in talks with Iran \u2013 video",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/video/2026/may/24/marco-rubio-says-significant-progress-made-in-talks-with-iran-video",
+      "published": "2026-05-24T10:14:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3829283&preview=true&preview_id=3829283",
+      "title": "Daily Briefing May 24: Why Israel could object to potential Iran deal",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/daily-briefing-may-24-why-israel-could-object-to-potential-iran-deal/",
+      "published": "2026-05-24T10:11:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779610101",
+      "title": "Marco Rubio says \u2018significant progress\u2019 made in US-Iran talks to end war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+      "published": "2026-05-24T10:01:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779602227",
+      "title": "US, Iran inch closer to deal to end the war: What to know",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+      "published": "2026-05-24T09:37:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/business/2026/may/24/oil-markets-danger-zone-us-iran-deal",
+      "title": "With oil markets nearing the danger zone, a US-Iran deal can\u2019t come soon enough | Heather Stewart",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/may/24/oil-markets-danger-zone-us-iran-deal",
+      "published": "2026-05-24T09:32:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779613896",
+      "title": "Russia pounds Ukraine\u2019s capital with hypersonic missile",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss",
+      "published": "2026-05-24T09:20:47+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/05/24/i-couldnt-give-my-wife-one-rose-gazas-flowers-trampled-by-israels-war/",
+      "title": "'I couldn't give my wife one rose': Gaza's flowers trampled by Israel's war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/05/24/i-couldnt-give-my-wife-one-rose-gazas-flowers-trampled-by-israels-war/",
+      "published": "2026-05-24T09:20:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779612797",
+      "title": "Trump says US and Iran deal to end war is \u2018largely negotiated\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss",
+      "published": "2026-05-24T09:10:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1332c241c2ec00a6ffc96e369efff4f0",
+      "title": "#Turkiye's President Erdogan stresses that Ankara supports resolving issues through dialogue & diplomacy, welcoming progress in talks with #Iran.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2058473940192813531",
+      "published": "2026-05-24T09:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3829245",
+      "title": "2 killed as light aircraft crashes near Tel Adashim in north",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/2-critically-injured-as-light-aircraft-crashes-near-tel-adashim-in-north/",
+      "published": "2026-05-24T08:52:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 2,
+        "military": 0,
+        "civilian": 2
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3829229",
+      "title": "Iran executes first man accused of espionage during current war with US and Israel",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/iran-executes-first-man-accused-of-espionage-during-current-war-with-us-and-israel/",
+      "published": "2026-05-24T08:51:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779612470",
+      "title": "Rubio says \u2018significant progress\u2019 made in US-Iran negotiations",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss",
+      "published": "2026-05-24T08:51:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779358747",
+      "title": "Yemen war sees scramble for scant resources between displaced and locals",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
+      "published": "2026-05-24T08:47:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/05/24/several-killed-in-bomb-blast-in-pakistans-quetta-says-pm/",
+      "title": "Several killed in railway blast in Pakistan's Quetta",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/05/24/several-killed-in-bomb-blast-in-pakistans-quetta-says-pm/",
+      "published": "2026-05-24T08:43:10+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779609734",
+      "title": "Toxic gases hinder rescue efforts inside deadly China mine",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/toxic-gases-hinder-rescue-efforts-inside-deadly-china-mine?traffic_source=rss",
+      "published": "2026-05-24T08:36:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "5b3d190f896a2c6e70cdf7370e4c1ad7",
       "title": "#Kuwait Airways increases flights to 728 weekly to 58 destinations in June @KuwaitAirways  #KUNA",
@@ -26,7 +554,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3829185",
-      "title": "US-Iran deal to open strait for 60 days, Iran to discuss giving up enriched uranium: Reports",
+      "title": "US-Iran deal said to open strait for 60 days, Iran to discuss giving up enriched uranium",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/us-iran-deal-to-open-strait-for-60-days-iran-to-discuss-giving-up-enriched-uranium-reports/",
       "published": "2026-05-24T08:29:02+00:00",
@@ -39,28 +567,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
-      "title": "Middle East crisis live: Rubio sees initial progress on reopening Hormuz after Trump claims Iran deal \u2018largely negotiated\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
-      "published": "2026-05-24T08:26:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -113,28 +619,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1779602222",
-      "title": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears?traffic_source=rss",
-      "published": "2026-05-24T07:29:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ca5a80263212065f0ff912ce53189283",
       "title": "Dubai Chamber of Commerce concludes the Ethiopia leg of its trade mission to Ghana and Ethiopia, organising 510 bilateral business meetings in Addis Ababa between companies from Dubai and their Ethiopian counterparts. The meetings created a platform to explore opportunities for cooperation and develop new partnerships across a range of priority sectors.",
       "source": "Dubai Media Office (RSS.app)",
@@ -150,28 +634,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779601563",
-      "title": "Man dies in northeast Australia after shark attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
-      "published": "2026-05-24T07:13:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -289,94 +751,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1779585740",
-      "title": "LIVE: Trump says Iran deal \u2018largely negotiated\u2019; Pakistan says talks soon",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
-      "published": "2026-05-24T05:35:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bdf798ae6ec36fc2c3772454fdfe5ff9",
-      "title": "#US Secret Service officers shot, killed a person who fired at them just outside the White House complex on Saturday evening. The suspect approached a security checkpoint in the area and fired at the officers, CNN quoted Secret Service spokesperson as saying. The officers returned fire and hit the suspect, who later died at a nearby hospital.  #Kuna",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2058407677307334788",
-      "published": "2026-05-24T04:40:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/05/24/gunman-killed-after-opening-fire-near-white-house/",
-      "title": "Gunman killed after opening fire near White House",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/05/24/gunman-killed-after-opening-fire-near-white-house/",
-      "published": "2026-05-24T03:58:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779588664",
-      "title": "Iranian sources lay out Iran-US deal details",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
-      "published": "2026-05-24T02:16:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3829149",
       "title": "Suspect shot dead after firing near White House security checkpoint, Secret Service says",
       "source": "Times of Israel",
@@ -400,14 +774,14 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3829153",
-      "title": "Iranian report: Deal stipulates US and allies won\u2019t attack Iran or its proxies, and vice versa",
+      "title": "Israeli official: Trump told PM that final Iran deal will see nuke program dismantled, all enriched uranium removed",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/liveblog-may-24-2026/",
       "published": "2026-05-24T01:29:25+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "Israel",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -465,28 +839,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3829123",
-      "title": "\u2018Nightmare for Israel\u2019: Senior GOP senators criticize alleged terms of emerging Iran deal",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/nightmare-for-israel-senior-gop-senators-criticize-alleged-terms-of-emerging-iran-deal/",
-      "published": "2026-05-24T00:03:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/ce8pn63q771o#0",
       "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
       "source": "BBC Middle East",
@@ -501,138 +853,6 @@
         "lng": 56.5
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3829094",
-      "title": "Iranian soccer team moves World Cup base camp from US to Mexico",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/iranian-soccer-team-moves-world-cup-base-camp-from-us-to-mexico/",
-      "published": "2026-05-23T22:00:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1a16720e1578b1e33d0be878e2a85e98",
-      "title": "US President announces details of deal with Iran will be announced shortly and refers to MoU pertaining peace  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2058306788290625569",
-      "published": "2026-05-23T21:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779568252",
-      "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
-      "published": "2026-05-23T21:14:39+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3d0556c02c8e56087dc7d6ecd270e698",
-      "title": "US President: Final aspects and details of the Deal are currently being discussed, and will be announced shortly. The Strait of Hormuz will be opened.",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2058294516449227202",
-      "published": "2026-05-23T21:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3829044",
-      "title": "Spanish police beat and detain returning Gaza flotilla activists amid clashes at airport",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/spanish-police-beat-and-detain-gaza-flotilla-activists-amid-clashes-at-airport/",
-      "published": "2026-05-23T21:09:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3829015",
-      "title": "Israel wins gold and silver medals at European windsurfing championship",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/israel-wins-gold-and-silver-medals-at-european-windsurfing-championship/",
-      "published": "2026-05-23T21:01:19+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1103,28 +1323,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
-      "title": "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
-      "published": "2026-05-23T01:14:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=85029",
       "title": "Navy green lights seven MUSV marketplace submissions to advance to prototype phase",
       "source": "Breaking Defense",
@@ -1577,28 +1775,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/clyp32weyn8o#0",
-      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-21T08:48:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 95,
       "is_government": false,
