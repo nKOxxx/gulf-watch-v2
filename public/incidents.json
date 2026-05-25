@@ -1,13 +1,145 @@
 {
-  "generated_at": "2026-05-25T17:47:56.058370+00:00",
+  "generated_at": "2026-05-25T19:48:17.857309+00:00",
   "total_incidents": 65,
   "incidents": [
+    {
+      "id": "bcceaf42f082c659cdee0f08ee63f859",
+      "title": "#Russia asks foreign diplomats to leave Kyiv immediately ahead of imminent strikes on military infrastructure, defensive manufacturing facilities and command and decision-making centers  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2058992394972864927",
+      "published": "2026-05-25T19:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779736421",
+      "title": "Kyiv\u2019s Chornobyl Museum devastated in overnight Russian missile attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/kyivs-chornobyl-museum-devastated-in-overnight-russian-missile-attack?traffic_source=rss",
+      "published": "2026-05-25T19:19:37+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=180651",
+      "title": "Trump links Abraham Accords to any Iran deal. Pakistan reject the idea",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/05/25/trump-links-abraham-accords-to-any-iran-deal-pakistan-reject-the-idea/?utm_source=rss&utm_medium=rss&utm_campaign=trump-links-abraham-accords-to-any-iran-deal-pakistan-reject-the-idea",
+      "published": "2026-05-25T19:17:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779736212",
+      "title": "Father mourns daughter killed in Israeli strike on Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+      "published": "2026-05-25T19:12:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz",
+      "title": "Iran denies deal with US is imminent despite some progress",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz",
+      "published": "2026-05-25T19:06:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779735323",
+      "title": "Lebanon marks Liberation Day under Israeli bombardment",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/lebanon-marks-liberation-day-under-israeli-bombardment?traffic_source=rss",
+      "published": "2026-05-25T19:02:14+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
       "title": "Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
-      "published": "2026-05-25T17:34:36+00:00",
+      "published": "2026-05-25T18:58:42+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,11 +157,99 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1779727404",
-      "title": "Mexico steps in to host Iran\u2019s World Cup team after US refusal",
+      "id": "https://www.timesofisrael.com/?p=3830292",
+      "title": "Bank of Israel cuts borrowing costs, while flagging geopolitical risks",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/bank-of-israel-cuts-borrowing-costs-while-flagging-geopolitical-risks/",
+      "published": "2026-05-25T18:57:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779726730",
+      "title": "In Lebanon, everything and nothing has changed since 2000",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/mexico-steps-in-to-host-irans-world-cup-team-after-us-refusal?traffic_source=rss",
-      "published": "2026-05-25T17:31:01+00:00",
+      "source_url": "https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss",
+      "published": "2026-05-25T18:56:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/05/25/hezbollah-lifts-heat-on-lebanese-government-on-anniversary-of-israeli-withdrawal/",
+      "title": "Hezbollah lifts heat on Lebanese government on anniversary of Israeli withdrawal",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/05/25/hezbollah-lifts-heat-on-lebanese-government-on-anniversary-of-israeli-withdrawal/",
+      "published": "2026-05-25T18:51:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/may/25/iran-bomb-trump-deal-sparks-alarm-israel-netanyahu",
+      "title": "\u2018If Iran gets a bomb it will be Bibi\u2019s\u2019: Trump\u2019s deal outline sparks alarm in Israel",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/may/25/iran-bomb-trump-deal-sparks-alarm-israel-netanyahu",
+      "published": "2026-05-25T18:50:49+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=180645",
+      "title": "Iran\u2019s president orders  restoration of internet access, after longest blackout in history",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/05/25/irans-president-orders-restoration-of-internet-access-report/?utm_source=rss&utm_medium=rss&utm_campaign=irans-president-orders-restoration-of-internet-access-report",
+      "published": "2026-05-25T18:12:30+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -37,6 +257,116 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779726186",
+      "title": "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss",
+      "published": "2026-05-25T18:11:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9684ba5db572649e15963a935ce3a81d",
+      "title": "#Russia askes foreign diplomats to leave Kyiv immediately ahead of imminent strikes on military infrastructure, defensive manufacturing facilities and command and decision-making centers  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2058972103391478034",
+      "published": "2026-05-25T18:02:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779707256",
+      "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss",
+      "published": "2026-05-25T17:46:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3830289",
+      "title": "One arrested as Gaza flotilla activists face rowdy welcome on return to Austria",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/one-arrested-as-gaza-flotilla-activists-face-rowdy-welcome-on-return-to-austria/",
+      "published": "2026-05-25T17:41:29+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1779720100",
+      "title": "Subdued Lebanon Liberation Day celebrations under new Israeli occupation",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/5/25/subdued-lebanon-liberation-day-celebrations-under-new-israeli-occupation?traffic_source=rss",
+      "published": "2026-05-25T17:39:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -83,116 +413,6 @@
         "lng": 51.389
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779726109",
-      "title": "Rescuers search for survivors after hotel collapse in Philippines",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/rescuers-search-for-survivors-after-hotel-collapse-in-philippines?traffic_source=rss",
-      "published": "2026-05-25T16:26:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779717462",
-      "title": "Russia warns foreigners to leave Kyiv as it prepares \u2018systematic strikes\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/25/russia-warns-foreigners-to-leave-kyiv-as-it-prepares-systematic-strikes?traffic_source=rss",
-      "published": "2026-05-25T16:12:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz",
-      "title": "Iran denies deal with US is imminent despite some progress",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz",
-      "published": "2026-05-25T16:06:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779724229",
-      "title": "Nearly 300 tourists rescued after cable cars halt mid-air",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/nearly-300-tourists-rescued-after-cable-cars-halt-mid-air?traffic_source=rss",
-      "published": "2026-05-25T15:58:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779700292",
-      "title": "Train bomb in Pakistan\u2019s Baloch region: Why violence is on the rise",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/5/25/train-bomb-in-pakistans-baloch-region-why-violence-is-on-the-rise?traffic_source=rss",
-      "published": "2026-05-25T15:43:21+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -281,28 +501,6 @@
         "lng": 53.688
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1779719790",
-      "title": "Trump links Iran negotiations to expansion of Abraham Accords",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss",
-      "published": "2026-05-25T14:43:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -531,50 +729,6 @@
       }
     },
     {
-      "id": "6715389bb0372d87c7e517b77b9e6a63",
-      "title": "Defense Minister and Acting Minister of Interior discusses with #Pakistan's Ambassador to #Kuwait ways to support and develop bilateral cooperation in various fields  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2058898010369658929",
-      "published": "2026-05-25T13:08:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "250f2244a0d7835d3383df7ea54e63d9",
-      "title": "#Kuwait's Charity Society announces the signing of an agreement with United Nations Development Programme to rehabilitate partially damaged homes for displaced families in Gaza  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2058897514326085864",
-      "published": "2026-05-25T13:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/2026/05/25/trump-links-abraham-accords-to-iran-deal/",
       "title": "Trump links Abraham Accords to Iran deal",
       "source": "The National UAE",
@@ -633,50 +787,6 @@
         "lng": 48.0
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3830089",
-      "title": "Netanyahu admits to aides he has little influence over Trump on Iran \u2014 sources",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/netanyahu-admits-to-aides-he-has-little-influence-over-trump-on-iran-sources/",
-      "published": "2026-05-25T12:31:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3830016",
-      "title": "Hezbollah UAV hits Metula home amid wave of attacks, none hurt; ministers urge escalation",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/hezbollah-drone-hits-metula-home-amid-wave-of-attacks-nobody-hurt-ministers-urge-escalation/",
-      "published": "2026-05-25T12:04:41+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -873,28 +983,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/news/audio/2026/may/25/the-death-penalty-returns-to-israel-podcast",
-      "title": "The death penalty returns to Israel \u2013 podcast",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/news/audio/2026/may/25/the-death-penalty-returns-to-israel-podcast",
-      "published": "2026-05-25T02:00:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -1147,50 +1235,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=180611",
-      "title": "Top Republican senators   Graham and Wicker blast reports of 60-day ceasefire deal with Iran",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/05/24/top-republican-senators-graham-and-wicker-blast-reports-of-60-day-ceasefire-deal-with-iran/?utm_source=rss&utm_medium=rss&utm_campaign=top-republican-senators-graham-and-wicker-blast-reports-of-60-day-ceasefire-deal-with-iran",
-      "published": "2026-05-24T00:36:56+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=180608",
-      "title": "Iran war live updates: Trump says peace deal is near",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/05/24/iran-war-live-updates-trump-says-peace-deal-is-near/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-live-updates-trump-says-peace-deal-is-near",
-      "published": "2026-05-24T00:17:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/ce8pn63q771o#0",
       "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
       "source": "BBC Middle East",
@@ -1372,50 +1416,6 @@
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/all-female-senate-delegation-sets-off-for-high-north-amid-growing-military-tensions/",
       "published": "2026-05-22T20:24:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-marine-corps/2026/05/22/us-marine-corps-tests-using-helicopter-as-mobile-drone-command-center/",
-      "title": "US Marine Corps tests using helicopter as mobile drone command center",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-marine-corps/2026/05/22/us-marine-corps-tests-using-helicopter-as-mobile-drone-command-center/",
-      "published": "2026-05-22T18:59:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/",
-      "title": "Congressional report tallies 42 US aircraft lost or damaged in Operation Epic Fury",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/",
-      "published": "2026-05-22T17:49:18+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
