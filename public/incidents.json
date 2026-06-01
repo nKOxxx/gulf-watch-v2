@@ -1,14 +1,190 @@
 {
-  "generated_at": "2026-06-01T04:45:43.300526+00:00",
+  "generated_at": "2026-06-01T11:44:56.898816+00:00",
   "total_incidents": 71,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
-      "title": "Middle East crisis live: Kuwait reports missile and drone attack; US says it struck Iran radar sites over weekend",
+      "title": "Middle East crisis live: Israel targets southern Beirut as Kuwait condemns Iranian missile and drone attack",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
-      "published": "2026-06-01T04:33:51+00:00",
+      "published": "2026-06-01T11:41:45+00:00",
       "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fe76b7c7504751be53da0dce1f0f832f",
+      "title": "His Highness the Crown Prince Sheikh Sabah Khaled Al-Hamad Al-Sabah receives His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah, First Deputy Prime Minister & Minister of Interior Sheikh Fahad Yusuf Saud Al-Sabah & Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2061411866140655683",
+      "published": "2026-06-01T11:37:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780301437",
+      "title": "Greece reopens Syrian and Afghan asylum cases, hoping for returns",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/1/greece-reopens-syrian-and-afghan-asylum-cases-hoping-for-returns?traffic_source=rss",
+      "published": "2026-06-01T11:27:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ddabb3d735033769951afe41c281527e",
+      "title": "Dubai Taxi Company (DTC) signs a Memorandum of Understanding with AJ Industries, a leading provider of sustainable and innovative automotive solutions in Ajman, to explore opportunities for a strategic partnership aimed at expanding mobility services in the Emirate of Ajman.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2061406550460436705",
+      "published": "2026-06-01T11:16:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/06/01/poland-spends-165-billion-in-eu-backed-loans-on-heavy-army-weapons/",
+      "title": "Poland spends $16.5 billion in EU-backed loans on heavy army weapons",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/06/01/poland-spends-165-billion-in-eu-backed-loans-on-heavy-army-weapons/",
+      "published": "2026-06-01T11:11:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3834169",
+      "title": "Gaza mediators to resume Hamas disarmament talks in Egypt looking to unblock impasse",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/gaza-mediators-to-resume-hamas-disarmament-talks-in-egypt-looking-to-unblock-impasse/",
+      "published": "2026-06-01T11:10:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780311681",
+      "title": "French Navy seizes Russian oil tanker",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/french-navy-seizes-russian-oil-tanker?traffic_source=rss",
+      "published": "2026-06-01T11:05:56+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780293817",
+      "title": "What is Lebanon\u2019s Beaufort Castle, and why has Israel captured it?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss",
+      "published": "2026-06-01T10:58:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780310228",
+      "title": "Kuwait condemns Iranian attack as Iran-US trade new strikes",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kuwait-condemns-iranian-attack-as-iran-us-trade-new-strikes?traffic_source=rss",
+      "published": "2026-06-01T10:45:04+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Kuwait",
@@ -25,11 +201,297 @@
       }
     },
     {
-      "id": "666c9494da2730620d66d0aef7f9322f",
-      "title": "US Air Force attack radar site, and command and control centers in Iran.  #KUNA #KUWAIT",
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/01/israeli-forces-kill-two-palestinians-in-occupied-west-bank/",
+      "title": "Israeli forces kill two Palestinians in occupied West Bank",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/01/israeli-forces-kill-two-palestinians-in-occupied-west-bank/",
+      "published": "2026-06-01T10:33:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780305110",
+      "title": "French navy, backed by the UK, intercepts Russian oil tanker",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker?traffic_source=rss",
+      "published": "2026-06-01T10:24:51+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/markets/2026/06/01/manus-on-markets-middle-east-tensions-rise-as-us-and-iran-trade-attacks/",
+      "title": "Manus on Markets: Middle East tensions rise as US and Iran trade attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/markets/2026/06/01/manus-on-markets-middle-east-tensions-rise-as-us-and-iran-trade-attacks/",
+      "published": "2026-06-01T10:23:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780309133",
+      "title": "Israel bombs a beloved Lebanese landmark, chef Husen Fayad\u2019s restaurant",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israel-bombs-a-beloved-lebanese-landmark-chef-husen-fayads-restaurant?traffic_source=rss",
+      "published": "2026-06-01T10:21:22+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=180837",
+      "title": "Tiny Guyana poised for big oil gains and growth strains",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/01/tiny-guyana-poised-for-big-oil-gains-and-growth-strains/?utm_source=rss&utm_medium=rss&utm_campaign=tiny-guyana-poised-for-big-oil-gains-and-growth-strains",
+      "published": "2026-06-01T10:20:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780291228",
+      "title": "US, Iran trade new attacks amid talks: Here\u2019s what we know",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know?traffic_source=rss",
+      "published": "2026-06-01T10:13:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "89299b786968b95d746316165398299e",
+      "title": "#Kuwait's Public Authority of Civil Aviation (PACA): Successful transportation of pilgrims during the 1447 AH Hajj season & the gradual reopening of Terminal 1 (T1) reflects effective coordination among government authorities & airport partners  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2061301106114756765",
-      "published": "2026-06-01T04:17:00+00:00",
+      "source_url": "https://x.com/kuna_en/status/2061385584724091379",
+      "published": "2026-06-01T09:53:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/06/01/no-slowdown-in-gulf-sovereign-investments-amid-iran-war/",
+      "title": "No slowdown in Gulf sovereign investments amid Iran war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/06/01/no-slowdown-in-gulf-sovereign-investments-amid-iran-war/",
+      "published": "2026-06-01T09:52:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/06/01/emirates-flight-from-edinburgh-to-dubai-rerouted-to-manchester-over-fuel-supply-issue/",
+      "title": "Emirates flight from Edinburgh to Dubai rerouted to Manchester over fuel supply issue",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/06/01/emirates-flight-from-edinburgh-to-dubai-rerouted-to-manchester-over-fuel-supply-issue/",
+      "published": "2026-06-01T09:51:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/01/iraqi-deputy-oil-minister-arrested-on-suspicion-of-corruption/",
+      "title": "Iraqi Deputy Oil Minister arrested on suspicion of corruption",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/01/iraqi-deputy-oil-minister-arrested-on-suspicion-of-corruption/",
+      "published": "2026-06-01T09:49:38+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/crlpy8n7pr6o#0",
+      "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-01T09:32:04+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3834179&preview=true&preview_id=3834179",
+      "title": "IDF soldier killed, 3 hurt, in Hezbollah drone attack near newly seized Beaufort Castle",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/idf-soldier-killed-3-hurt-in-hezbollah-drone-attack-near-newly-seized-beaufort-castle/",
+      "published": "2026-06-01T09:29:53+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 3,
+        "military": 3,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4g419e2xlvo#0",
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-01T09:28:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "46aedc429bfd14bec6e9e882c228909b",
+      "title": "#Kuwait's Ministry of Foreign Affairs reiterates Kuwait's strongest condemnation & denunciation of the repeated Iranian attacks, describing them as a dangerous escalation & a direct assault on Kuwait's security & stability  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2061377268228685979",
+      "published": "2026-06-01T09:20:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -47,12 +509,100 @@
       }
     },
     {
-      "id": "6167adbccfdd2579eb13c623ac4bdb47",
-      "title": "Kuwaiti air defenses repel drone and missile attacks.  #KUNA #KUWAIT",
+      "id": "https://www.timesofisrael.com/?post_type=spotlight&p=3834206",
+      "title": "The scandal that changed Israel forever: The Lavon Affair - Sponsored Content",
+      "source": "Times of Israel",
+      "source_url": "https://toi.li/pao4df",
+      "published": "2026-06-01T09:19:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780304949",
+      "title": "Ultra-Orthodox Jewish demonstrators storm Israeli police station",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss",
+      "published": "2026-06-01T09:14:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
+      "title": "Iran targets American base in region after US strikes Iranian air defences",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
+      "published": "2026-06-01T09:13:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon",
+      "title": "Netanyahu orders Israeli bombing of southern Beirut",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon",
+      "published": "2026-06-01T08:37:17+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5a6f01cdb79fc9ca8bea9246734c574b",
+      "title": "#Kuwait International Airport resumes receiving and operating flights of Arab & foreign airlines as part of a gradual reopening plan following the completion of repair & upgrade works & enhanced operational readiness  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2061300179332891046",
-      "published": "2026-06-01T04:13:00+00:00",
-      "type": "missile",
+      "source_url": "https://x.com/kuna_en/status/2061363876533281021",
+      "published": "2026-06-01T08:27:00+00:00",
+      "type": "incident",
       "status": "confirmed",
       "location": {
         "country": "Kuwait",
@@ -62,6 +612,138 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3834145",
+      "title": "Iran hangs two protesters for giving \u2018pretext\u2019 for US-Israeli attacks",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/iran-hangs-two-protesters-for-giving-pretext-for-us-israeli-attacks/",
+      "published": "2026-06-01T08:11:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3834107",
+      "title": "Israel says it will renew strikes on Hezbollah in Beirut after lobbying for US green light",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/israel-says-it-will-renew-strikes-on-hezbollah-in-beirut-after-lobbying-for-us-green-light/",
+      "published": "2026-06-01T08:00:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "beabbcff26dc345cff8dcb9798bd5a31",
+      "title": "Iran\u2019s Caretaker Defense Minister Brigadier General Majid Ebn al-Reza has said that the country remains fully prepared to defend itself, adding that new military surprises are on the way.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2061350948069388294",
+      "published": "2026-06-01T07:35:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/film/2026/jun/01/the-guest-review-the-risks-of-protecting-refugees-in-the-poland-belarus-danger-zone",
+      "title": "The Guest review \u2013 the risks of protecting refugees in the Poland-Belarus danger zone",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/film/2026/jun/01/the-guest-review-the-risks-of-protecting-refugees-in-the-poland-belarus-danger-zone",
+      "published": "2026-06-01T06:00:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c2l2yl7r8r2o#0",
+      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-01T05:33:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/global-development/2026/jun/01/kawthar-al-husayjawi-killed-refusing-forced-marriage-marry-family-celebrated-iraq",
+      "title": "\u2018My 15-year-old relative was killed for refusing to marry her cousin. My family celebrated by dancing in the street\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/jun/01/kawthar-al-husayjawi-killed-refusing-forced-marriage-marry-family-celebrated-iraq",
+      "published": "2026-06-01T05:00:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -83,292 +765,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/01/live-kuwait-missiles-us-iran-war/",
-      "title": "Iran war latest: Kuwait attacked after US confirms multiple 'self-defence strikes' on Iran",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/01/live-kuwait-missiles-us-iran-war/",
-      "published": "2026-06-01T03:18:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/editorial/2026/06/01/will-the-world-ever-see-real-accountability-for-alleged-israeli-military-crimes/",
-      "title": "Will the world ever see real accountability for alleged Israeli military crimes?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/06/01/will-the-world-ever-see-real-accountability-for-alleged-israeli-military-crimes/",
-      "published": "2026-06-01T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/06/01/how-china-is-quietly-calming-global-oil-markets/",
-      "title": "How China is quietly calming global oil markets",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/06/01/how-china-is-quietly-calming-global-oil-markets/",
-      "published": "2026-06-01T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/lifestyle/wellbeing/2026/06/01/what-are-the-risks-of-turning-to-ai-for-mental-health-support-and-solutions/",
-      "title": "What are the risks of turning to AI for mental health support and solutions?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/lifestyle/wellbeing/2026/06/01/what-are-the-risks-of-turning-to-ai-for-mental-health-support-and-solutions/",
-      "published": "2026-06-01T02:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3834057",
-      "title": "Colombia election heads to run-off between pro- and anti-Israel contenders",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/colombia-election-heads-to-run-off-between-pro-and-anti-israel-contenders/",
-      "published": "2026-06-01T01:33:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon",
-      "title": "European leaders condemn Israel\u2019s deepening incursion into Lebanon",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon",
-      "published": "2026-06-01T01:03:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3834053",
-      "title": "US says it hit Iranian military targets over the weekend as Kuwait reports fresh missile, drone attacks",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/liveblog-june-01-2026/",
-      "published": "2026-06-01T00:44:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3834003",
-      "title": "Shas leader threatens Haredi \u2018tax revolt\u2019 over latest push to conscript yeshiva students",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/shas-leader-threatens-haredi-tax-revolt-over-latest-push-to-conscript-yeshiva-students/",
-      "published": "2026-06-01T00:12:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1780269367",
-      "title": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
-      "published": "2026-06-01T00:00:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1eae6f4b041c69bf17d008a6a50942a5",
-      "title": "The United Arab Emirates strongly condemned the storming of the Al-Aqsa Mosque compound by Israeli settlers under police protection, labeling it a provocative act of extremism.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2061236043991400680",
-      "published": "2026-05-31T23:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b92f3285df831ffc0616d173bd14556c",
-      "title": "Arab League Secretary-General Ahmad Aboul-Gheit strongly condemned the ongoing Israeli occupation's aggression against Lebanon, citing territorial incursions and the destruction of southern villages and archaeological sites.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2061235562875388234",
-      "published": "2026-05-31T23:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3834006",
-      "title": "NY leaders join over 50,000 marchers at Israel Day parade boycotted by Mamdani",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/ny-leaders-join-over-50000-marchers-at-israel-day-parade-boycotted-by-mamdani/",
-      "published": "2026-05-31T23:56:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3825869",
-      "title": "Tehran memories meet the Israeli sun in Iranian-born artist\u2019s paintings on show in Tel Aviv",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/tehran-memories-meet-the-israeli-sun-in-iranian-born-artists-paintings-on-show-in-tel-aviv/",
-      "published": "2026-05-31T23:10:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -421,72 +817,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3833935",
-      "title": "Two teen girls hurt, one seriously, in car-ramming terror attack at West Bank junction",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/two-teen-girls-hurt-one-seriously-in-car-ramming-terror-attack-at-west-bank-junction/",
-      "published": "2026-05-31T21:37:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9466,
-        "lng": 35.3027
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3833920",
-      "title": "EU sanctions Hamas politburo members along with four settler groups",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/eu-sanctions-hamas-politburo-members-along-with-four-settler-groups/",
-      "published": "2026-05-31T20:49:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/05/31/new-york-mayor-mamdani-stays-away-from-citys-israel-day-parade/",
-      "title": "New York Mayor Mamdani stays away from city's Israel Day parade",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/05/31/new-york-mayor-mamdani-stays-away-from-citys-israel-day-parade/",
-      "published": "2026-05-31T20:20:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=180832",
       "title": "The hesitation behind the Iran deal: This is not the Trump we know",
       "source": "Ya Libnan",
@@ -524,50 +854,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "da1ceaa18aee083932fd4c979cc87e9b",
-      "title": "Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah & Qatari Prime Minister & Foreign Minister Sheikh Mohammad bin Abdulrahman discuss the latest developments in the region & ongoing efforts aimed at enhancing regional & international security & stability.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2061143437215191134",
-      "published": "2026-05-31T17:51:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7a8904c9deced18f30f94acae98b52e3",
-      "title": "Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah & Saudi Foreign Minister Prince Faisal bin Farhan Al-Saud discussed the latest developments in the region & ongoing efforts aimed at enhancing regional & international security & stability.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2061142866957664383",
-      "published": "2026-05-31T17:48:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -663,28 +949,6 @@
       }
     },
     {
-      "id": "e86bb0caf0d6e4f34f8f1ce0c35c6dd1",
-      "title": "Health authorities in the #Gaza Strip warn of a worsening humanitarian & medical crisis at Al-Aqsa Martyrs Hospital after the facility entered a critical phase due to severe electricity shortages & the failure of a main backup generator.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2061109419576844501",
-      "published": "2026-05-31T15:35:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=180821",
       "title": "Trump requests several amendments to negotiated Iran deal",
       "source": "Ya Libnan",
@@ -722,72 +986,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fff0d6193300be515624744cc926d4c3",
-      "title": "GCC Statistical Center: GCC countries have successfully implemented strategies to enhance water sustainability resources & achieve water security for future generations.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2061038383984410710",
-      "published": "2026-05-31T10:53:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1888eba7e12e9ce61bcb63747708e377",
-      "title": "Eight people were killed & 32 others injured in a bus accident in southern #Turkiye's Denizli province.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2061035953347572075",
-      "published": "2026-05-31T10:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8a7605226cb8669a7513f3961ba8efb8",
-      "title": "GDRFA Dubai welcomes returning pilgrims arriving home through Dubai Airports with a special passport stamp bearing the slogan \u201cThe UAE Welcomes the Return of Pilgrims\u201d. @GDRFADUBAI",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2061031335494664606",
-      "published": "2026-05-31T10:25:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -854,28 +1052,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7f27a98d8ffded1d4195e34d6ad7dea6",
-      "title": "Dubai\u2019s Roads and Transport Authority generates AED 5.3 billion in revenue through digital channels in 2025, marking a 20.6% increase compared to 2024. Transactions completed through digital channels exceeded 628 million, a 13% rise.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2060990769616572855",
-      "published": "2026-05-31T07:44:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1015,50 +1191,6 @@
       }
     },
     {
-      "id": "76034cb85a9075588537f7914dbece80",
-      "title": ". The National Emergency Crisis and Disaster Management Authority (NCEMA) and the Ministry of Health and Prevention have...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DY9zBc6CBYD",
-      "published": "2026-05-30T14:07:40+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "af8e7bc510510bd016d4d54fcc140e8c",
-      "title": ". A delegation from the World Health Organisation (WHO) has visited the UAE field hospital in Rafah, southern Gaza Strip...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DY9t5RrtjB5",
-      "published": "2026-05-30T13:24:45+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "39e1a4a8e7fd62b27236b1afb381aac0",
       "title": "The National Emergency Crisis and Disaster Management Authority #NCEMA and Ministry of Health and Prevention @mohapuae monitor Ebola Virus Developments and Strengthen National Response Readiness.",
       "source": "UAE NCEMA (RSS.app)",
@@ -1147,28 +1279,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/news/ng-interactive/2026/may/30/iran-broken-economy-emboldened-regime-iranians-abandoned-fallout-of-war",
-      "title": "A broken economy and an emboldened regime: Iranians abandoned to endure fallout from war",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/news/ng-interactive/2026/may/30/iran-broken-economy-emboldened-regime-iranians-abandoned-fallout-of-war",
-      "published": "2026-05-30T05:00:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "0c0d7c11eb0285f52edab2686e41f21d",
       "title": "Iran's spokesman has pushed back on Western pressure language, confirmed Iran and Oman will jointly manage Hormuz's future, and said the focus is on ending the war, not discussing uranium enrichment details.",
       "source": "Mehr News (RSS.app)",
@@ -1235,28 +1345,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=180783",
-      "title": "Iran war live: Tehran says ceasefire deal with US still not reached",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/05/30/iran-war-live-tehran-says-ceasefire-deal-with-us-still-not-reached/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-live-tehran-says-ceasefire-deal-with-us-still-not-reached",
-      "published": "2026-05-30T00:03:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/05/29/how-russia-is-turning-ukraines-drones-against-nato/",
       "title": "How Russia is turning Ukraine\u2019s drones against NATO",
       "source": "Defense News",
@@ -1291,28 +1379,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/may/29/trump-on-verge-of-approving-peace-deal-with-major-iranian-concessions",
-      "title": "Trump claims to be on verge of peace deal but Iran signals no agreement reached",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/may/29/trump-on-verge-of-approving-peace-deal-with-major-iranian-concessions",
-      "published": "2026-05-29T19:21:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -1477,50 +1543,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/global/europe/2026/05/29/ukraine-would-gain-advantage-over-russian-glide-bombs-with-gripen-meteor-combo/",
-      "title": "Ukraine would gain advantage over Russian glide bombs with Gripen-Meteor combo",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/05/29/ukraine-would-gain-advantage-over-russian-glide-bombs-with-gripen-meteor-combo/",
-      "published": "2026-05-29T13:16:14+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/asia-pacific/2026/05/29/new-zealand-budget-spares-defense-intelligence-agencies-from-cuts/",
-      "title": "New Zealand budget spares defense, intelligence agencies from cuts",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/29/new-zealand-budget-spares-defense-intelligence-agencies-from-cuts/",
-      "published": "2026-05-29T12:05:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=85486",
       "title": "Romania deploys F-16s after Russian drone strike on civilian infrastructure",
       "source": "Breaking Defense",
@@ -1535,28 +1557,6 @@
         "lng": 55.9754
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c87qng40wz9o#0",
-      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-29T09:17:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
