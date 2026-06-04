@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-06-04T21:44:57.614251+00:00",
-  "total_incidents": 79,
+  "generated_at": "2026-06-04T23:12:37.958618+00:00",
+  "total_incidents": 77,
   "incidents": [
+    {
+      "id": "e3d580e4d42c0cba915b17c896927901",
+      "title": "US State Secretary deplores atrocious Iranian attacks on Kuwait airport  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2062666890477015552",
+      "published": "2026-06-04T22:44:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7161f5a0f0567a191fbab786365d029d",
+      "title": "OPEC chief stresses oil demand remains resilient despite geopolitical tensions  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2062662578287857825",
+      "published": "2026-06-04T22:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780607208",
+      "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
+      "published": "2026-06-04T21:40:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/technology/2026/jun/04/microsoft-to-tighten-human-rights-measures-after-inquiry-into-israels-use-of-its-tech",
       "title": "Microsoft to tighten human rights measures after inquiry into Israel\u2019s use of its tech",
@@ -48,7 +114,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3836782",
-      "title": "Statement by Iran\u2019s leader says US, Israel hit by \u2018decisive blow\u2019 amid mixed signals on talks",
+      "title": "\u2018Khamenei\u2019 says US, Israel hit by \u2018decisive blow\u2019 amid mixed signals on talks, US security alert",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/statement-by-irans-leader-says-us-israel-hit-by-decisive-blow-amid-mixed-signals-on-talks/",
       "published": "2026-06-04T20:53:15+00:00",
@@ -57,8 +123,8 @@
       "location": {
         "country": "Israel",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -213,28 +279,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1780590741",
-      "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
-      "published": "2026-06-04T18:59:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -509,28 +553,6 @@
       }
     },
     {
-      "id": "efc422dc58e91f51f064fc71c14b7502",
-      "title": "#GCC Secretary General extends condolences to and sympathy to #India over the death of an Indian national and injury of others as a result of the recent Iranian attacks on #Kuwait  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2062579247852441925",
-      "published": "2026-06-04T16:56:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/news/video/2026/jun/04/israel-and-lebanon-agree-yet-another-ceasefire-but-can-it-hold-the-latest",
       "title": "Is the Israel-Lebanon ceasefire over before it began? - The Latest",
       "source": "The Guardian",
@@ -565,28 +587,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/06/04/saudi-arabian-arrested-after-uk-university-security-guard-shot-with-crossbow/",
-      "title": "Saudi Arabian arrested after UK university security guard shot with crossbow",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/06/04/saudi-arabian-arrested-after-uk-university-security-guard-shot-with-crossbow/",
-      "published": "2026-06-04T16:47:44+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
       },
       "credibility": 85,
       "is_government": false,
@@ -707,28 +707,6 @@
       }
     },
     {
-      "id": "51dd333f2f6a39727d50ac23019e134c",
-      "title": "#Kuwait's Deputy Prime Minister and Minister of Interior visits injured victims of the Iranian aggressions on Kuwait International Airport to check on their health and quality of medical care provided #KUNA_video",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2062551856224575755",
-      "published": "2026-06-04T15:07:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "6e327821f79f35921cf4dbc189e1ca4c",
       "title": "Dubai\u2019s Roads and Transport Authority (RTA) has confirmed the full operational readiness of air-conditioned rest areas for delivery riders ahead of the summer season. The project forms part of RTA\u2019s efforts to enhance traffic safety, reduce accident risks, improve riders\u2019 quality of life, and encourage compliance with traffic laws and regulations.",
       "source": "Dubai Media Office (RSS.app)",
@@ -741,28 +719,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "75209c7008ade57ded59f3950835410c",
-      "title": "Deputy Prime Minister and Minister of Interior visits injured victims of the Iranian aggression on #Kuwait International Airport at Farwaniya and Jaber Al-Ahmad Hospitals to check on their health  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2062551199707017552",
-      "published": "2026-06-04T15:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": true,
