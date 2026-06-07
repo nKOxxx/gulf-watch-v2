@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-07T19:39:24.348762+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-06-07T21:18:15.043570+00:00",
+  "total_incidents": 65,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
-      "title": "Middle East crisis live: IDF says Iran has launched missiles towards Israel after strikes on Lebanon",
+      "title": "Middle East crisis live: Iran launches missiles towards Israel after Lebanon airstrikes",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
-      "published": "2026-06-07T19:33:32+00:00",
+      "published": "2026-06-07T20:59:59+00:00",
       "type": "missile",
       "status": "unconfirmed",
       "location": {
@@ -29,7 +29,7 @@
       "title": "Israel strikes Beirut suburb days after US-brokered truce",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-07T19:06:53+00:00",
+      "published": "2026-06-07T20:56:09+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -39,6 +39,358 @@
         "lng": 35.5018
       },
       "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "33fac4f005b1bf946483f5e312d98c1b",
+      "title": "Syrian authorities announced the closure of southern air corridors for 12 hours, from Sunday night 11 pm to Monday morning 11 am  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2063725117432008909",
+      "published": "2026-06-07T20:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f08c19a64187d84ddc098df11ef6dc32",
+      "title": "#Iran's Civil Aviation Organization announced the closure of the western section of the country's airspace until further notice  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2063724319260201323",
+      "published": "2026-06-07T20:46:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f7d38d424fcb675ad94ffd52e3118a9f",
+      "title": "#Kuwait's Minister of Oil: The periodical and regular meetings held within the framework of following developments contribute to the enhancement of the supply security and stability of global oil markets  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2063724066201088472",
+      "published": "2026-06-07T20:45:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b92470f7da342092efd6df9877dc7577",
+      "title": "#US President Donald Trump has called on #Iran to return to the negotiating table and sign a deal, a step to contain escalation between Iran and the Israeli occupation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2063720506323251205",
+      "published": "2026-06-07T20:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "704dda62d06342ce744e72aeac1ceb1a",
+      "title": "#Iran's news agency (Mehr): Tens of precision-guided missiles have been launched by the Iranian Armed Forces at main military bases and centers in the depth of the occupied territories",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2063718953382289461",
+      "published": "2026-06-07T20:25:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/07/iran-attacks-israel-with-missiles-and-drones-after-beirut-strike/",
+      "title": "Iran attacks Israel with missiles and drones after Beirut strike",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/07/iran-attacks-israel-with-missiles-and-drones-after-beirut-strike/",
+      "published": "2026-06-07T20:15:17+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "728979599695c266fc5e87b86245d51a",
+      "title": "Israeli occupation media reported that Iran has launched missiles toward the center and north of the occupied territories  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2063716309360074827",
+      "published": "2026-06-07T20:14:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780862993",
+      "title": "Iran fires missiles at Israel after it attacked Beirut",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
+      "published": "2026-06-07T20:12:55+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3838362",
+      "title": "IDF reveals key Hezbollah command tunnel network near south Lebanon\u2019s Beaufort",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/idf-reveals-key-hezbollah-command-tunnel-network-near-south-lebanons-beaufort/",
+      "published": "2026-06-07T20:12:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780862273",
+      "title": "Iran losing patience with Israel and US over ceasefire violations",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss",
+      "published": "2026-06-07T20:01:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/07/israel-escalates-war-hezbollah-airstrikes-beirut",
+      "title": "Iran launches missiles at Israel in response to strikes on Beirut",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/07/israel-escalates-war-hezbollah-airstrikes-beirut",
+      "published": "2026-06-07T19:53:11+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3838288",
+      "title": "Trump: US \u2018very close\u2019 to deal with Iran, but demanding stricter nuclear terms",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/trump-us-very-close-to-deal-with-iran-but-demanding-stricter-nuclear-terms/",
+      "published": "2026-06-07T19:52:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3838299",
+      "title": "Nine reported killed in Israeli strikes in Gaza as Egypt hosts new round of talks",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/nine-reported-killed-in-israeli-strikes-in-gaza-as-egypt-hosts-new-round-of-talks/",
+      "published": "2026-06-07T19:48:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "311457f65a851580800b229680c7fc77",
+      "title": "Iran has reportedly fired missiles at the Israeli occupation on Sunday night while Israeli occupation officials vowed to retaliate, according to Arabiya News Channel",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2063709116145545682",
+      "published": "2026-06-07T19:46:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780861061",
+      "title": "Iranian World Cup excitement dulled by war and economic crisis",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
+      "published": "2026-06-07T19:43:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780844790",
+      "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss",
+      "published": "2026-06-07T19:13:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -179,28 +531,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?post_type=spotlight&p=3838254",
-      "title": "Back to Beaufort? Israel\u2019s Lebanon dilemma - Sponsored Content",
-      "source": "Times of Israel",
-      "source_url": "https://toi.li/kArU8W",
-      "published": "2026-06-07T17:05:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1780851198",
       "title": "Nigerian forces rescue 360 captives from Boko Haram",
       "source": "Al Jazeera",
@@ -223,50 +553,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1780844733",
-      "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
-      "published": "2026-06-07T16:49:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=spotlight&p=3838240",
-      "title": "The World in Front of Me: Israel - Sponsored Content",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/spotlight/the-world-in-front-of-me-israel/",
-      "published": "2026-06-07T16:49:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jun/07/uk-sanctions-israel-deter-proposed-west-bank-settlement-palestine",
       "title": "UK readies sanctions against Israel to deter proposed illegal West Bank settlement",
       "source": "The Guardian",
@@ -279,50 +565,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1780848598",
-      "title": "Police say two suspects have been shot and killed in Israel gun attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss",
-      "published": "2026-06-07T16:17:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1780848183",
-      "title": "Al Jazeera reports from Beirut after Israeli attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
-      "published": "2026-06-07T16:04:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
       },
       "credibility": 90,
       "is_government": false,
@@ -465,116 +707,6 @@
       }
     },
     {
-      "id": "51cb3559432899b5c2a6a1ea4a1af78d",
-      "title": "#Lebanon's Ministry of Public Health announces that the death toll from Israeli occupation attacks on Lebanon has risen to 3,613 people  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2063635613056680078",
-      "published": "2026-06-07T14:54:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "102a2fe00ed8211bde09328718a5eff7",
-      "title": "#OPEC+ agrees to implement a production increase of 188,000 barrels per day (bpd) in July as part of their collective commitment to maintaining stability in the global oil market  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2063635001216762320",
-      "published": "2026-06-07T14:51:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/07/jordan-drugs-captagon/",
-      "title": "Jordan sentences drug dealer to death for killing three security personnel",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/07/jordan-drugs-captagon/",
-      "published": "2026-06-07T14:50:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/07/israel-escalates-war-hezbollah-airstrikes-beirut",
-      "title": "Iran vows \u2018painful\u2019 response after Israel strikes Beirut\u2019s southern suburbs",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/07/israel-escalates-war-hezbollah-airstrikes-beirut",
-      "published": "2026-06-07T14:49:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6d35f5fbb82da6b0f7453a4e1a2d48eb",
-      "title": "#Kuwait's Public Authority of Civil Aviation submits second official protest letter to the International Civil Aviation Organization (#ICAO) regarding Iran's repeated attacks and violations of Kuwait's airspace, sovereignty, and on Kuwait International Airport facilities  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2063633900857925876",
-      "published": "2026-06-07T14:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=181020",
       "title": "Live update : Middle East war \u2013 Trump won\u2019t link Lebanon to Iran deal and won\u2019t lift sanctions upfront",
       "source": "Ya Libnan",
@@ -663,28 +795,6 @@
       }
     },
     {
-      "id": "e42678601b02b82598122b6ad4f4d1ce",
-      "title": "Official data shows #Oman's oil exports rose 2.7 percent to 102.7 million barrels in April, compared with the same month last year  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2063592799610507668",
-      "published": "2026-06-07T12:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "9e04d520f629bbc78072e4beed7798b1",
       "title": ". The United Arab Emirates has strongly condemned and denounced the Israeli targeting of a vehicle belonging to the Leba...",
       "source": "WAM News (RSS.app)",
@@ -697,50 +807,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3f5f4cc12b81971f7137d4846111d356",
-      "title": "His Highness the Crown Prince receives Acting Prime Minister & Minister of Interior, Minister of Defense & Minister of Foreign Affairs  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2063581695291342855",
-      "published": "2026-06-07T11:19:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "84f2877d2bc3e4945a60a9753571fd60",
-      "title": "The #Kuwait National Guard (KNG) marks its 59th anniversary on June 7, commemorating nearly six decades of distinguished service in safeguarding the homeland, protecting vital installations and providing support to state institutions as part of Kuwait's national security and defense system @kng_kw  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2063580306230169941",
-      "published": "2026-06-07T11:14:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -986,28 +1052,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fef357626ba1d9a50607f137e8941ab7",
-      "title": ". The UAE has condemned in the strongest terms the terrorist ballistic missile and drone attacks by Iran targeting the K...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DZPp0-8CBiY",
-      "published": "2026-06-06T12:33:39+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
