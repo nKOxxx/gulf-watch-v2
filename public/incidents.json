@@ -1,20 +1,174 @@
 {
-  "generated_at": "2026-06-07T17:23:23.595666+00:00",
-  "total_incidents": 66,
+  "generated_at": "2026-06-07T19:39:24.348762+00:00",
+  "total_incidents": 63,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
-      "title": "Middle East crisis live: Iran threatens Israel and US after strikes on Lebanon",
+      "title": "Middle East crisis live: IDF says Iran has launched missiles towards Israel after strikes on Lebanon",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
-      "published": "2026-06-07T17:09:54+00:00",
-      "type": "incident",
+      "published": "2026-06-07T19:33:32+00:00",
+      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c0qyevk8139o#0",
+      "title": "Israel strikes Beirut suburb days after US-brokered truce",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-07T19:06:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "db99c83885a13afa51671f538b9c0aeb",
+      "title": "#Egypt's Foreign Minister Badr Abdelatty and #Qatar's Prime Minister and Minister of Foreign Affairs Sheikh Mohammad bin Abdulrahman, discussed coordination toward regional issues to achieve common interests and safeguard Arab national security  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2063698998322516165",
+      "published": "2026-06-07T19:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/06/07/crypto-mining-iran-electricity-grid/",
+      "title": "Illegal crypto mining burdening electricity grid, Iranian authorities warn",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/06/07/crypto-mining-iran-electricity-grid/",
+      "published": "2026-06-07T19:03:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3838247",
+      "title": "Military Police probing killing of Palestinian infant by soldier in the West Bank",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/military-police-probing-killing-of-palestinian-infant-by-soldier-in-the-west-bank/",
+      "published": "2026-06-07T18:41:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9466,
+        "lng": 35.3027
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/07/bahrain-says-mourning-for-irans-supreme-leader-prohibited-during-ashura/",
+      "title": "Bahrain says mourning for Iran's supreme leader 'prohibited' during Ashura",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/07/bahrain-says-mourning-for-irans-supreme-leader-prohibited-during-ashura/",
+      "published": "2026-06-07T17:30:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=spotlight&p=3838276",
+      "title": "When the Israel Day Parade is more than a parade - Sponsored Content",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/spotlight/when-the-israel-day-parade-is-more-than-a-parade/",
+      "published": "2026-06-07T17:23:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780848588",
+      "title": "Bolivia\u2019s legislature passes law allowing use of troops against protesters",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss",
+      "published": "2026-06-07T17:13:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -135,28 +289,6 @@
       }
     },
     {
-      "id": "https://www.bbc.com/news/articles/c0qyevk8139o#0",
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-07T16:42:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1780848598",
       "title": "Police say two suspects have been shot and killed in Israel gun attack",
       "source": "Al Jazeera",
@@ -267,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1780837018",
-      "title": "Iran\u2019s World Cup squad lands in Mexico amid US visa row",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
-      "published": "2026-06-07T15:20:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/us/2026/06/07/senate-iran-resolution-vote-trump/",
       "title": "War with Iran: Will US Senate vote to limit Trump's power?",
       "source": "The National UAE",
@@ -345,28 +455,6 @@
         "city": null,
         "lat": 24.4539,
         "lng": 54.3773
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3838086",
-      "title": "IDF strikes Beirut\u2019s Dahiyeh after Hezbollah fires rockets at northern Israel",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/idf-strikes-beiruts-dahiyeh-after-hezbollah-fires-rockets-at-northern-israel/",
-      "published": "2026-06-07T15:04:31+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
       },
       "credibility": 85,
       "is_government": false,
@@ -509,50 +597,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/07/israeli-military-claims-it-struck-hezbollah-in-beirut-suburbs/",
-      "title": "At least two killed in Israeli military strikes on Beirut suburbs",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/07/israeli-military-claims-it-struck-hezbollah-in-beirut-suburbs/",
-      "published": "2026-06-07T13:43:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3837960",
-      "title": "Committee presents proposed rehab overhaul as war-wounded strain system",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/committee-presents-proposed-rehab-overhaul-as-war-wounded-strain-system/",
-      "published": "2026-06-07T13:28:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/c5yz3zdp3jqo#0",
       "title": "Iran's World Cup team lands in Mexico amid US visa row",
       "source": "BBC Middle East",
@@ -567,72 +611,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/06/07/opec-agrees-fourth-monthly-output-rise-despite-hormuz-closure-and-price-swings/",
-      "title": "Opec agrees fourth monthly output rise despite Hormuz closure and price swings",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/06/07/opec-agrees-fourth-monthly-output-rise-despite-hormuz-closure-and-price-swings/",
-      "published": "2026-06-07T13:21:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/06/07/trump-iran-deal-hard-for-them/",
-      "title": "Trump complains 'it's very hard' for Iran and US to reach peace deal",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/06/07/trump-iran-deal-hard-for-them/",
-      "published": "2026-06-07T13:18:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3838051",
-      "title": "In first since 2022, Bank of Israel buys foreign currency to stem sharp shekel gain",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/in-first-since-2022-bank-of-israel-buys-foreign-currency-to-stem-sharp-shekel-gain/",
-      "published": "2026-06-07T13:11:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -756,28 +734,6 @@
       "source": "KUNA Kuwait (RSS.app)",
       "source_url": "https://x.com/kuna_en/status/2063580306230169941",
       "published": "2026-06-07T11:14:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2edfac16183396b1c258c63082642f89",
-      "title": "His Highness the Amir receives His Highness the Crown Prince, Acting Prime Minister & Minister of Interior, Minister of Defense & Minister of Foreign Affairs.  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2063567811394289931",
-      "published": "2026-06-07T10:24:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -1046,28 +1002,6 @@
       "status": "confirmed",
       "location": {
         "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3f667753b714872e5602a76464f4e295",
-      "title": ". The United Arab Emirates has condemned in the strongest terms terrorist drone and missile attacks by Iran targeting th...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DZPpnG_iF6F",
-      "published": "2026-06-06T12:31:46+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
