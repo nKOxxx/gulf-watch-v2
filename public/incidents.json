@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-06-07T23:10:25.490787+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-06-08T04:26:22.498624+00:00",
+  "total_incidents": 67,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
-      "title": "Middle East crisis live: Iran launches missiles towards Israel after Lebanon airstrikes",
+      "title": "Middle East crisis live: Israel says it has struck targets in central and western Iran",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
-      "published": "2026-06-07T23:09:14+00:00",
+      "published": "2026-06-08T04:20:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780891467",
+      "title": "Debris reported in Jordan after Iranian missiles aimed at Israel intercepte",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/aje-onl-nf_debris-reported-in-jordan-after-iranian-missiles-070626?traffic_source=rss",
+      "published": "2026-06-08T04:14:35+00:00",
       "type": "missile",
       "status": "unconfirmed",
       "location": {
@@ -17,6 +39,336 @@
         "lng": 53.688
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/08/how-israel-and-iran-ended-up-trading-strikes/",
+      "title": "How Israel and Iran ended up trading strikes",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/08/how-israel-and-iran-ended-up-trading-strikes/",
+      "published": "2026-06-08T04:01:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/08/zidane-iqbal-on-iraqs-historic-world-cup-return-it-was-written-in-the-stars/",
+      "title": "Zidane Iqbal on Iraq's historic World Cup return: 'It was written in the stars'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/08/zidane-iqbal-on-iraqs-historic-world-cup-return-it-was-written-in-the-stars/",
+      "published": "2026-06-08T04:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/06/08/philippines-earthquake-tsunami-warning/",
+      "title": "Philippines issues tsunami warning after 7.8 magnitude earthquake",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/06/08/philippines-earthquake-tsunami-warning/",
+      "published": "2026-06-08T03:07:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/art-design/2026/06/08/how-irans-attacks-on-the-uae-introduced-disorder-to-juma-al-hajs-paintings/",
+      "title": "How Iran's attacks on the UAE introduced disorder to Juma Al Haj\u2019s paintings",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/arts-culture/art-design/2026/06/08/how-irans-attacks-on-the-uae-introduced-disorder-to-juma-al-hajs-paintings/",
+      "published": "2026-06-08T03:02:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/06/08/how-the-gulf-crisis-and-a-hot-year-are-changing-the-energy-debate/",
+      "title": "How the Gulf crisis and a hot year are changing the energy debate",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/06/08/how-the-gulf-crisis-and-a-hot-year-are-changing-the-energy-debate/",
+      "published": "2026-06-08T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "20abdc71b8c5849919341c4f5c25e8f5",
+      "title": "Multiple explosions hit several Iranian cities  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2063814822949421073",
+      "published": "2026-06-08T02:46:00+00:00",
+      "type": "explosion",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "17428f0ff0dae34fd9fbb4e999cf7e97",
+      "title": "Israeli occupation forces launch airstrikes on Iran  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2063814500176842938",
+      "published": "2026-06-08T02:44:00+00:00",
+      "type": "airstrike",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9f668ac1794008e53c1becf9d907f119",
+      "title": "Alert: The danger has passed in Al-Kharj Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2063812768256434254",
+      "published": "2026-06-08T02:38:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8ce422cf4da2c074b61c78c28425830d",
+      "title": "A warning has been issued by the National Early Warning Platform in Al-Kharj Governorate to warn of a danger, follow the instructions below :",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2063810697822109831",
+      "published": "2026-06-08T02:29:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181027",
+      "title": "Live Updates: Israel and Iran trade attacks after Israel\u2019s deadly strike in Beirut",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/08/live-updates-israel-and-iran-trade-attacks-after-israels-deadly-strike-in-beirut/?utm_source=rss&utm_medium=rss&utm_campaign=live-updates-israel-and-iran-trade-attacks-after-israels-deadly-strike-in-beirut",
+      "published": "2026-06-08T02:15:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780876859",
+      "title": "Powerful earthquake hits Philippines, triggering tsunami alerts across Asia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines?traffic_source=rss",
+      "published": "2026-06-08T00:23:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780877425",
+      "title": "Iran and Israel trade threats after Tehran launches missiles",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss",
+      "published": "2026-06-08T00:13:30+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780873732",
+      "title": "Iran war live: Explosions in Tehran, Isfahan as Israel launches attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
+      "published": "2026-06-08T00:00:00+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3838476",
+      "title": "Trump ties Israel\u2019s hands, as the partnership that went to war 100 days ago collapses",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/trump-ties-israels-hands-as-the-partnership-that-went-to-war-100-days-ago-collapses/",
+      "published": "2026-06-07T23:53:33+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3838503",
+      "title": "Iran, Houthis fire missiles at central Israel as IDF strikes military targets in Iran",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog-june-8-2026/",
+      "published": "2026-06-07T23:51:57+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -245,72 +597,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1780866497",
-      "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
-      "published": "2026-06-07T21:12:03+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/07/live-us-iran-war-israel-attack/",
-      "title": "Iran war latest: Iran attacks Israel with missiles and drones after Beirut strike",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/07/live-us-iran-war-israel-attack/",
-      "published": "2026-06-07T21:11:05+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1780862124",
-      "title": "Iran fires missiles at Israel after Beirut attack \u2018crossed all red lines\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
-      "published": "2026-06-07T21:08:59+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/c0qyevk8139o#0",
       "title": "Israel strikes Beirut suburb days after US-brokered truce",
       "source": "BBC Middle East",
@@ -377,94 +663,6 @@
       }
     },
     {
-      "id": "f7d38d424fcb675ad94ffd52e3118a9f",
-      "title": "#Kuwait's Minister of Oil: The periodical and regular meetings held within the framework of following developments contribute to the enhancement of the supply security and stability of global oil markets  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2063724066201088472",
-      "published": "2026-06-07T20:45:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b92470f7da342092efd6df9877dc7577",
-      "title": "#US President Donald Trump has called on #Iran to return to the negotiating table and sign a deal, a step to contain escalation between Iran and the Israeli occupation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2063720506323251205",
-      "published": "2026-06-07T20:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/07/iran-attacks-israel-with-missiles-and-drones-after-beirut-strike/",
-      "title": "Iran attacks Israel with missiles and drones after Beirut strike",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/07/iran-attacks-israel-with-missiles-and-drones-after-beirut-strike/",
-      "published": "2026-06-07T20:15:17+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1780862993",
-      "title": "Iran fires missiles at Israel after it attacked Beirut",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
-      "published": "2026-06-07T20:12:55+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3838362",
       "title": "IDF reveals key Hezbollah command tunnel network near south Lebanon\u2019s Beaufort",
       "source": "Times of Israel",
@@ -479,28 +677,6 @@
         "lng": 35.8623
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1780862273",
-      "title": "Iran losing patience with Israel and US over ceasefire violations",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss",
-      "published": "2026-06-07T20:01:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -553,72 +729,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1780861061",
-      "title": "Iranian World Cup excitement dulled by war and economic crisis",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
-      "published": "2026-06-07T19:43:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1780844790",
-      "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss",
-      "published": "2026-06-07T19:13:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/06/07/crypto-mining-iran-electricity-grid/",
-      "title": "Illegal crypto mining burdening electricity grid, Iranian authorities warn",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/06/07/crypto-mining-iran-electricity-grid/",
-      "published": "2026-06-07T19:03:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3838247",
       "title": "Military Police probing killing of Palestinian infant by soldier in the West Bank",
       "source": "Times of Israel",
@@ -631,50 +741,6 @@
         "city": null,
         "lat": 31.9466,
         "lng": 35.3027
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/07/bahrain-says-mourning-for-irans-supreme-leader-prohibited-during-ashura/",
-      "title": "Bahrain says mourning for Iran's supreme leader 'prohibited' during Ashura",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/07/bahrain-says-mourning-for-irans-supreme-leader-prohibited-during-ashura/",
-      "published": "2026-06-07T17:30:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=spotlight&p=3838276",
-      "title": "When the Israel Day Parade is more than a parade - Sponsored Content",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/spotlight/when-the-israel-day-parade-is-more-than-a-parade/",
-      "published": "2026-06-07T17:23:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
       },
       "credibility": 85,
       "is_government": false,
@@ -729,28 +795,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/06/07/sport-opens-up-life-changing-opportunities-at-special-olympics-uae-games/",
-      "title": "Sport opens up \u2018life-changing opportunities\u2019 at Special Olympics UAE Games",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/07/sport-opens-up-life-changing-opportunities-at-special-olympics-uae-games/",
-      "published": "2026-06-07T15:39:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "8292fd455c26c51780c2e3a1b03935b1",
       "title": "Dubai Integrated Economic Zones Authority (DIEZ) records its highest-ever performance in 2025, with non-oil trade reaching AED491 billion. The figure represents a 46% increase compared to 2024, raising DIEZ\u2019s contribution to Dubai\u2019s non-oil trade to 16%, while the value of trade has quadrupled since 2020. Total trade volume also grew by 50% to reach 667,800 tonnes in 2025.",
       "source": "Dubai Media Office (RSS.app)",
@@ -766,28 +810,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/06/07/senate-iran-resolution-vote-trump/",
-      "title": "War with Iran: Will US Senate vote to limit Trump's power?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/06/07/senate-iran-resolution-vote-trump/",
-      "published": "2026-06-07T15:15:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1059,28 +1081,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=180987",
-      "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/?utm_source=rss&utm_medium=rss&utm_campaign=us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up",
-      "published": "2026-06-06T16:47:03+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/",
       "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
       "source": "Defense News",
@@ -1095,28 +1095,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=180967",
-      "title": "Lebanon inaugurates Ren\u00e9 Mouawad Airport as its second international airport",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/06/lebanon-inaugurates-rene-mouawad-airport-as-its-second-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=lebanon-inaugurates-rene-mouawad-airport-as-its-second-international-airport",
-      "published": "2026-06-06T14:54:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
