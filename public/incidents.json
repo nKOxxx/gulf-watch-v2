@@ -1,14 +1,476 @@
 {
-  "generated_at": "2026-06-10T22:07:35.976496+00:00",
-  "total_incidents": 78,
+  "generated_at": "2026-06-11T04:22:51.350315+00:00",
+  "total_incidents": 75,
   "incidents": [
     {
+      "id": "16288dd78a086e9e9ffbd3509fdb35cf",
+      "title": "DGCA: Kuwait airspace shut down temporarily due to Iranian attacks  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2064922573117264332",
+      "published": "2026-06-11T04:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-      "title": "Middle East crisis live: US military begins launching more airstrikes at \u2018multiple targets\u2019 in Iran",
+      "title": "Middle East crisis live: US says second day of Iran strikes \u2018completed\u2019; Tehran claims it has targeted US base in Bahrain",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-      "published": "2026-06-10T21:56:06+00:00",
-      "type": "airstrike",
+      "published": "2026-06-11T04:00:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781149017",
+      "title": "Dahiyeh crowds rally in favour of Iranian support against Israel",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/dahiyeh-crowds-rally-in-favour-of-iranian-support-against-israel?traffic_source=rss",
+      "published": "2026-06-11T03:49:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3840827",
+      "title": "US launches strikes for second straight night in bid to force Iran to agree on deal",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/us-launches-strikes-for-second-straight-night-in-bid-to-force-iran-to-agree-on-deal/",
+      "published": "2026-06-11T03:41:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3835710",
+      "title": "Depleted but dangerous, Hamas is holding its fire against Israel. The quiet may not last",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/depleted-but-dangerous-hamas-is-holding-its-fire-against-israel-the-quiet-may-not-last/",
+      "published": "2026-06-11T03:10:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5ad0da1cfc3fd6122971af1cc004461d",
+      "title": "Civil aviation announces closure of Kuwait's airspace temporarily and diverts flights to other airports.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2064906798088225143",
+      "published": "2026-06-11T03:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9e9a50766fe99abb0bb8c3cd19415ccf",
+      "title": "US forces attack Iranian targets threatening commercial vessels  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2064906603342524915",
+      "published": "2026-06-11T03:04:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/11/how-a-line-in-the-sand-is-redrawing-gazas-society/",
+      "title": "How a line in the sand is redrawing Gaza's society",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/11/how-a-line-in-the-sand-is-redrawing-gazas-society/",
+      "published": "2026-06-11T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/banking/2026/06/11/jp-morgan-deploys-20bn-in-gulf-and-says-post-iran-war-rebuild-may-cost-hundreds-of-billions/",
+      "title": "JP Morgan deploys $20bn in Gulf and says postwar rebuild may cost hundreds of billions",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/banking/2026/06/11/jp-morgan-deploys-20bn-in-gulf-and-says-post-iran-war-rebuild-may-cost-hundreds-of-billions/",
+      "published": "2026-06-11T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "de9fbe0851694d44739c1137453bac27",
+      "title": "Sounds of warning sirens echo across Bahrain  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2064902433394876794",
+      "published": "2026-06-11T02:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3c41d774c566b6bc7fe05ba48be30acc",
+      "title": "Kuwaiti air defenses repel hostile objects  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2064902301022667172",
+      "published": "2026-06-11T02:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181118",
+      "title": "Lebanon to resume exports to Saudi Arabia after president Aoun and PM Salam  contacted  the Saudi leader",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/11/lebanon-to-resume-exports-to-saudi-arabia-after-president-aoun-and-pm-salam-contacted-the-saudi-leader/?utm_source=rss&utm_medium=rss&utm_campaign=lebanon-to-resume-exports-to-saudi-arabia-after-president-aoun-and-pm-salam-contacted-the-saudi-leader",
+      "published": "2026-06-11T02:39:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/10/live-kuwait-iran-us-strikes/",
+      "title": "Iran war latest: Iran's IRGC claims counter-attacks on US military sites in Bahrain, Jordan and Kuwait",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/10/live-kuwait-iran-us-strikes/",
+      "published": "2026-06-11T02:28:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c777609c48b75c6536b50a126acea530",
+      "title": "Kuwait Army's General Staff: Air defense systems engage with hostile objects.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2064896318762287299",
+      "published": "2026-06-11T02:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e8881ebb67f3fe6b125347f623c9920f",
+      "title": "US Central Command forces complete additional self-defense strikes against multiple targets in Iran.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2064891263782920275",
+      "published": "2026-06-11T02:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "415eebe4df7716ae1856f8189f08eef5",
+      "title": "Iran TV: Powerful explosions hit Karaj, Eshtehard, Abyek and Sirik cities.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2064890335474467265",
+      "published": "2026-06-11T01:59:00+00:00",
+      "type": "explosion",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "eacd0706cddaa38c0cba5bb28e265a11",
+      "title": "US President Donald J. Trump warns of more strikes if Iranians do not sign deal  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2064890090854166704",
+      "published": "2026-06-11T01:58:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "824de6d8a67e8cde8642276b3634821c",
+      "title": "US refutes Iran's claim of closing Strait of Hormuz  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2064889765825044565",
+      "published": "2026-06-11T01:57:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181116",
+      "title": "Amal and Hezbollah leaders are meeting to discuss  ceasefire",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/11/amal-and-hezbollah-leaders-are-meeting-to-discuss-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=amal-and-hezbollah-leaders-are-meeting-to-discuss-ceasefire",
+      "published": "2026-06-11T01:52:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181112",
+      "title": "Iran war updates: U.S. ends its strikes on Iran CENTCOM said",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/11/iran-war-updates-u-s-ends-its-strikes-on-iran-centcom-said/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-updates-u-s-ends-its-strikes-on-iran-centcom-said",
+      "published": "2026-06-11T01:40:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181108",
+      "title": "\u2018Lebanon is not Hezbollah\u2019: Israeli lawmaker pushes Knesset for future peace with Beirut. It is a \u201cwin- win\u201d for everyone he said",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/11/lebanon-is-not-hezbollah-israeli-lawmaker-pushes-knesset-for-future-peace-with-beirut-it-is-a-win-win-for-everyone-he-said/?utm_source=rss&utm_medium=rss&utm_campaign=lebanon-is-not-hezbollah-israeli-lawmaker-pushes-knesset-for-future-peace-with-beirut-it-is-a-win-win-for-everyone-he-said",
+      "published": "2026-06-11T01:20:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781140537",
+      "title": "Iran announces closure of Strait of Hormuz following US strikes",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss",
+      "published": "2026-06-11T01:18:55+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
@@ -25,21 +487,175 @@
       }
     },
     {
-      "id": "ff14f1088e0058aa33f94a1d6567fbf5",
-      "title": "CENTCOM: US air forces launch new round of airstrikes on Iran",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2064827525096775962",
-      "published": "2026-06-10T21:50:00+00:00",
-      "type": "airstrike",
-      "status": "confirmed",
+      "id": "https://www.aljazeera.com/?t=1781140224",
+      "title": "FIFA boss tells critics to \u2018relax\u2019 over Somali referee deportation",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/fifa-boss-tells-critics-to-relax-over-somali-referee-deportation?traffic_source=rss",
+      "published": "2026-06-11T01:15:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3840482&preview=true&preview_id=3840482",
+      "title": "External audit finds PA no longer rewarding security prisoners \u2014 diplomats",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/external-audit-finds-pa-no-longer-rewarding-security-prisoners-diplomats/",
+      "published": "2026-06-11T01:14:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181104",
+      "title": "Ukraine-Russia war update: Moscow car bomb kills one of Putin\u2019s army generals",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/11/ukraine-russia-war-update-moscow-car-bomb-kills-one-of-putins-army-generals/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-russia-war-update-moscow-car-bomb-kills-one-of-putins-army-generals",
+      "published": "2026-06-10T23:28:35+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181100",
+      "title": "Iran live updates: US begins strikes after Hegseth promised \u2018busy\u2019 night",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/11/iran-live-updates-us-begins-strikes-after-hegseth-promised-busy-night/?utm_source=rss&utm_medium=rss&utm_campaign=iran-live-updates-us-begins-strikes-after-hegseth-promised-busy-night",
+      "published": "2026-06-10T23:11:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
       "location": {
         "country": "Iran",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
       },
-      "credibility": 95,
-      "is_government": true,
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181097",
+      "title": "Iran war live: US launches new strikes in Iran after Trump vowed to attack \u2018very hard\u2019",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/11/iran-war-live-us-launches-new-strikes-in-iran-after-trump-vowed-to-attack-very-hard/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-live-us-launches-new-strikes-in-iran-after-trump-vowed-to-attack-very-hard",
+      "published": "2026-06-10T22:42:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3840631",
+      "title": "After rabbis\u2019 threat, IDF says men and women won\u2019t serve in same tanks",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/after-rabbis-threat-idf-says-men-and-women-wont-serve-in-same-tanks/",
+      "published": "2026-06-10T22:39:17+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
+      "title": "US strikes Iran for second day, as ceasefire appears close to collapse",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
+      "published": "2026-06-10T22:31:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3840695",
+      "title": "Palestinians accuse Israeli settlers of impeding firefighters near West Bank village",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/palestinians-accuse-israeli-settlers-of-impeding-firefighters-near-west-bank-village/",
+      "published": "2026-06-10T22:21:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -69,72 +685,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3840771",
-      "title": "US launches new round of \u2018self-defense strikes\u2019 in Iran; Hegseth: \u2018Key facilities\u2019 will be bombed",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/liveblog-june-11-2026/",
-      "published": "2026-06-10T21:46:32+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "088f0091bcb464a860c407ed44af6454",
-      "title": "The Ministerial Council of the Gulf Cooperation Council (GCC) vehemently condemned the cross-border drone and ballistic missile attacks launched against the State of Kuwait, the Kingdom of Bahrain, and the Hashemite Kingdom of Jordan .  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2064820531610673438",
-      "published": "2026-06-10T21:22:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "29681b91f5e43ebd7d2a2d9430b7cc8f",
-      "title": "The Deputy Chief of the General Staff of the Kuwaiti Army Major General Sabah Jaber Al-Ahmad Al-Sabah conducted a comprehensive field inspection across several strategic military installations. During the tour, he commended the high level of discipline, vigilance, and combat readiness displayed by the personnel deployed at the inspected locations.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2064819612298981868",
-      "published": "2026-06-10T21:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3840697",
       "title": "IAEA board demands Iran report uranium stocks, grant inspectors access to facilities",
       "source": "Times of Israel",
@@ -147,160 +697,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4d5b93035957c8140395470dfcd6cc14",
-      "title": "Qatari Deputy Prime Minister and Minister of State for Defense Affairs Sheikh Saud bin Abdulrahman Al Thani and Kuwaiti Army Chief of Staff Lieutenant General Khaled Al-Shuraiaan reviewed bilateral defense relations and explores strategic avenues to develop and strengthen them.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2064812841870180733",
-      "published": "2026-06-10T20:51:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781116395",
-      "title": "Israel kills 16 in Lebanon, UN to probe international law violations",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss",
-      "published": "2026-06-10T20:46:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "742dae98809fc3cc72d65086c199d101",
-      "title": "Bahraini Minister of Foreign Affairs Dr. Abdullatif bin Rashid Al-Zayani said that the Gulf Cooperation Council (GCC) takes pride in its growing partnership with Canada.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2064811347120955852",
-      "published": "2026-06-10T20:46:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781123505",
-      "title": "Gwyneth Paltrow\u2019s Israeli real estate ad goes viral",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/gwyneth-paltrows-israeli-real-estate-ad-goes-viral?traffic_source=rss",
-      "published": "2026-06-10T20:41:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781112935",
-      "title": "India summons US envoy over attack on ship carrying Indian sailors off Oman",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/10/india-summons-us-envoy-over-ship-attack-that-left-three-indians-missing?traffic_source=rss",
-      "published": "2026-06-10T20:05:59+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3840214",
-      "title": "Filmmaker Nadav Lapid receives industry support after boycott at film festival",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/filmmaker-nadav-lapid-receives-industry-support-after-boycott-at-film-festival/",
-      "published": "2026-06-10T19:57:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=spotlight&p=3840706",
-      "title": "Considering Aliyah or buying a home in Israel? Olim Advisors is here to help - Sponsored Content",
-      "source": "Times of Israel",
-      "source_url": "https://toi.li/m7WGHO",
-      "published": "2026-06-10T19:39:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -325,50 +721,6 @@
         "lng": 53.688
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3840570",
-      "title": "Netanyahu urges Lebanese people to \u2018join Israel\u2019 in peace, reject Hezbollah and Iran",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/netanyahu-urges-lebanese-people-to-join-israel-in-peace-reject-hezbollah-and-iran/",
-      "published": "2026-06-10T19:32:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781119075",
-      "title": "Israeli strike on a car kills two in Sidon, Lebanon",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss",
-      "published": "2026-06-10T19:23:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.5631,
-        "lng": 35.3689
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -443,72 +795,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3840232",
-      "title": "Haifa oil refineries will close in 2029, says head of Haifa Bay development agency",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/haifa-oil-refineries-will-close-in-2029-says-head-of-haifa-bay-development-agency/",
-      "published": "2026-06-10T18:32:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.794,
-        "lng": 34.9896
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/06/10/us-leads-worldwide-condemnation-of-irans-lethal-plotting/",
-      "title": "US leads worldwide condemnation of Iran's 'lethal plotting'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/06/10/us-leads-worldwide-condemnation-of-irans-lethal-plotting/",
-      "published": "2026-06-10T18:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/10/live-kuwait-iran-us-strikes/",
-      "title": "Iran war latest: Trump says US will attack Iran 'very hard'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/10/live-kuwait-iran-us-strikes/",
-      "published": "2026-06-10T17:53:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=181091",
       "title": "Trump boils over after Tehran kept him waiting. Ready to make the Iranians pay a price  for the delay",
       "source": "Ya Libnan",
@@ -553,50 +839,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
-      "title": "Trump says Iran \u2018playing us for suckers\u2019 and says US will launch fresh strikes",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
-      "published": "2026-06-10T17:47:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4fa96b72bdcf9f6c0f217680f76b3389",
-      "title": "The Ministerial Council of the Gulf Cooperation Council (GCC) launch the 167th session in Manama, under the chairmanship of Bahraini Minister of Foreign Affairs Dr. Abdullatif Al-Zayani  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2064765783431881092",
-      "published": "2026-06-10T17:44:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.2285,
-        "lng": 50.586
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/06/10/qatari-donated-air-force-one-now-sports-red-white-and-blue-paint-job/",
       "title": "Qatari-donated Air Force One now sports red, white and blue paint job",
       "source": "Defense News",
@@ -611,28 +853,6 @@
         "lng": 51.1839
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/10/three-sailors-missing-in-gulf-of-oman-after-us-hits-oil-tanker/",
-      "title": "Three sailors missing in Gulf of Oman after US hits oil tanker",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/10/three-sailors-missing-in-gulf-of-oman-after-us-hits-oil-tanker/",
-      "published": "2026-06-10T17:17:19+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -707,28 +927,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/06/10/guterres-warns-middle-east-could-slide-into-full-war-after-renewed-iran-us-strikes/",
-      "title": "Guterres warns Middle East could slide into \u2018full war\u2019 after renewed Iran-US strikes",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/06/10/guterres-warns-middle-east-could-slide-into-full-war-after-renewed-iran-us-strikes/",
-      "published": "2026-06-10T16:34:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2806a377d6f1a51175a100be085f9e19",
       "title": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Digital Dubai Authority (Digital Dubai) and Ericsson to foster the exchange of best practices and expertise in digital transformation and AI, while enhancing cooperation in the development of digital systems that support Dubai\u2019s ongoing digital transformation. The agreement was signed during Her Highness\u2019s visit to Sweden, leading a high-level delegation of ministers and government officials.",
       "source": "Dubai Media Office (RSS.app)",
@@ -744,28 +942,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/10/israeli-army-kidnaps-southern-lebanese-villagers-seeking-to-collect-water/",
-      "title": "Israeli army kidnaps southern Lebanese villagers seeking to collect water",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/10/israeli-army-kidnaps-southern-lebanese-villagers-seeking-to-collect-water/",
-      "published": "2026-06-10T16:09:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -817,28 +993,6 @@
       }
     },
     {
-      "id": "28068b47fbf26e4803124915215ae34b",
-      "title": "#Yemen condemns the Iranian missile & drone attacks targeting #Kuwait, #Bahrain & #Jordan.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2064735892594393311",
-      "published": "2026-06-10T15:46:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=181087",
       "title": "Israeli president Herzog tells President Aoun: \u201cMy dream is to travel to Beirut\u201d, urges  Lebanon  to free itself from Hezbollah, Iran  influence",
       "source": "Ya Libnan",
@@ -853,28 +1007,6 @@
         "lng": 35.5018
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/06/10/gcc-condemns-iranian-attacks-on-kuwait-bahrain-and-jordan/",
-      "title": "GCC condemns Iranian attacks on Kuwait, Bahrain and Jordan",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/06/10/gcc-condemns-iranian-attacks-on-kuwait-bahrain-and-jordan/",
-      "published": "2026-06-10T15:21:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -919,28 +1051,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/06/10/sheikh-abdullah-discusses-iranian-attacks-on-uae-with-swedish-foreign-minister/",
-      "title": "Sheikh Abdullah discusses Iranian attacks on UAE with Swedish Foreign Minister",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/10/sheikh-abdullah-discusses-iranian-attacks-on-uae-with-swedish-foreign-minister/",
-      "published": "2026-06-10T14:44:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1279,28 +1389,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=181084",
-      "title": "US launches new strikes on Iran after helicopter downed",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/10/us-launches-new-strikes-on-iran-after-helicopter-downed/?utm_source=rss&utm_medium=rss&utm_campaign=us-launches-new-strikes-on-iran-after-helicopter-downed",
-      "published": "2026-06-10T03:08:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/cwy0l44ex5wo#1",
       "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
       "source": "BBC Middle East",
@@ -1389,28 +1477,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=181082",
-      "title": "Iraq and UAE race to establish alternative oil pipelines as exports through Hormuz dry up",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/09/iraq-and-uae-race-to-establish-alternative-oil-pipelines-as-exports-through-hormuz-dry-up/?utm_source=rss&utm_medium=rss&utm_campaign=iraq-and-uae-race-to-establish-alternative-oil-pipelines-as-exports-through-hormuz-dry-up",
-      "published": "2026-06-09T14:40:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/",
       "title": "Pentagon reveals preferred munitions for one-way attack drones",
       "source": "Defense News",
@@ -1455,28 +1521,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=169971",
-      "title": "Time for federalism in Lebanon",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/09/time-for-federalism-in-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=time-for-federalism-in-lebanon",
-      "published": "2026-06-09T12:17:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/cp8lm75186lo#1",
       "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
       "source": "BBC Middle East",
@@ -1491,50 +1535,6 @@
         "lng": 51.389
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=181072",
-      "title": "Live updates:Israel vows to press military campaign against Hezbollah in Lebanon despite Iran\u2019s warnings",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/09/live-updatesisrael-vows-to-press-military-campaign-against-hezbollah-in-lebanon-despite-irans-warnings/?utm_source=rss&utm_medium=rss&utm_campaign=live-updatesisrael-vows-to-press-military-campaign-against-hezbollah-in-lebanon-despite-irans-warnings",
-      "published": "2026-06-09T02:34:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=181069",
-      "title": "US Treasury will use Iranian assets to help U.S. Gulf allies",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/08/us-treasury-will-use-iranian-assets-to-help-u-s-gulf-allies/?utm_source=rss&utm_medium=rss&utm_campaign=us-treasury-will-use-iranian-assets-to-help-u-s-gulf-allies",
-      "published": "2026-06-08T16:46:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1558,28 +1558,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=181064",
-      "title": "EU sanctions Iranians over restricting naval traffic in Hormuz",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/08/eu-sanctions-iranians-over-restricting-naval-traffic-in-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=eu-sanctions-iranians-over-restricting-naval-traffic-in-hormuz",
-      "published": "2026-06-08T14:39:21+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1668,50 +1646,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9f668ac1794008e53c1becf9d907f119",
-      "title": "Alert: The danger has passed in Al-Kharj Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2063812768256434254",
-      "published": "2026-06-08T02:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8ce422cf4da2c074b61c78c28425830d",
-      "title": "A warning has been issued by the National Early Warning Platform in Al-Kharj Governorate to warn of a danger, follow the instructions below :",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2063810697822109831",
-      "published": "2026-06-08T02:29:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
