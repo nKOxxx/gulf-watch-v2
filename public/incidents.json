@@ -1,13 +1,255 @@
 {
-  "generated_at": "2026-06-11T23:40:02.358682+00:00",
-  "total_incidents": 73,
+  "generated_at": "2026-06-12T04:25:25.684806+00:00",
+  "total_incidents": 75,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
-      "title": "Middle East crisis live: Trump says strait of Hormuz to open \u2018as soon as\u2019 US and Iran sign deal as Iran says no final decision made",
+      "title": "Oil prices fall after Trump says he is cancelling strikes \u2013 as it happened",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
-      "published": "2026-06-11T23:38:52+00:00",
+      "published": "2026-06-12T04:12:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781234367",
+      "title": "South Korea\u2019s ex-President Yoon gets 30 years over drone operation",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/12/south-koreas-ex-president-yoon-gets-30-years-over-drone-operation?traffic_source=rss",
+      "published": "2026-06-12T03:44:39+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/06/12/fire-on-board-please-help-panic-on-board-tanker-hit-by-us-missile-off-oman/",
+      "title": "'Fire on board, please help': the panic on board a tanker hit by a US missile off Oman",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/12/fire-on-board-please-help-panic-on-board-tanker-hit-by-us-missile-off-oman/",
+      "published": "2026-06-12T03:44:07+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3841567",
+      "title": "Seinfeld laughs at streamer asking him to say \u2018Free Palestine\u2019 after Knicks win: \u2018It doesn\u2019t exist\u2019",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/seinfeld-laughs-at-streamer-asking-him-to-say-free-palestine-after-knicks-win-it-doesnt-exist/",
+      "published": "2026-06-12T03:42:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3841561",
+      "title": "Alleged Hamas operative ordered detained pending trial in Greece on terror charges",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/alleged-hamas-operative-ordered-detained-pending-trial-in-greece-on-terror-charges/",
+      "published": "2026-06-12T03:05:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/editorial/2026/06/12/israel-iran-us-middle-east/",
+      "title": "Israel's and Iran's leaderships have more in common than you think",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/06/12/israel-iran-us-middle-east/",
+      "published": "2026-06-12T03:00:00+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/12/war-not-talks-who-are-irans-ultraconservatives/",
+      "title": "War not talks: Who are Iran\u2019s ultraconservatives?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/12/war-not-talks-who-are-irans-ultraconservatives/",
+      "published": "2026-06-12T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/feedback/2026/06/12/uae-israel-lebanon-iran-afghanistan-india-mangoes-emirates/",
+      "title": "We must not lose sight of what Israel is doing in Lebanon right now",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/feedback/2026/06/12/uae-israel-lebanon-iran-afghanistan-india-mangoes-emirates/",
+      "published": "2026-06-12T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/2026/06/12/amna-al-qubaisi-from-uae-motorsports-trailblazer-to-the-time-100-list/",
+      "title": "Amna Al Qubaisi: From UAE motorsports trailblazer to the Time 100 list",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/2026/06/12/amna-al-qubaisi-from-uae-motorsports-trailblazer-to-the-time-100-list/",
+      "published": "2026-06-12T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3841551",
+      "title": "French official accuses Israeli firm of also meddling in elections in New York City, Scotland",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/french-official-accuses-israeli-firm-of-also-meddling-in-elections-in-new-york-city-scotland/",
+      "published": "2026-06-12T02:18:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b5744abe937ccbe8936f513e237eae2a",
+      "title": ". The Muslim World League (MWL) has strongly condemned Iran\u2019s continued criminal aggression against the Kingdom of Bahra...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DZd_2cfCPmz",
+      "published": "2026-06-12T02:15:28+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781223304",
+      "title": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss",
+      "published": "2026-06-12T01:44:15+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,18 +267,106 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3841510",
-      "title": "Netanyahu reportedly not given heads-up about Trump\u2019s announcement, was caught off guard",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/liveblog-june-12-2026/",
-      "published": "2026-06-11T22:43:48+00:00",
+      "id": "https://www.aljazeera.com/?t=1781228207",
+      "title": "Iran World Cup captain reveals Mexico cartel robbery story",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-world-cup-captain-reveals-mexico-cartel-robbery-story?traffic_source=rss",
+      "published": "2026-06-12T01:40:13+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Iran",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781226374",
+      "title": "Israel launches overnight strikes across Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
+      "published": "2026-06-12T01:11:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
+      "title": "Trump claims US and Iran on verge of signing peace agreement, but Tehran says no final decision made",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
+      "published": "2026-06-12T00:57:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3841537",
+      "title": "Helen Mirren criticizes \u2018evil forces\u2019 rising in Israel after \u2018Zionist bitch\u2019 video resurfaced",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/helen-mirren-criticizes-evil-forces-rising-in-israel-after-zionist-bitch-resurfaced/",
+      "published": "2026-06-12T00:49:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3841522",
+      "title": "Slovenia lifts ban on arms trade with Israel; Sa\u2019ar lauds \u2018just decision\u2019 by new PM",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/slovenia-lifts-ban-on-arms-trade-with-israel-saar-lauds-just-decision-by-new-pm/",
+      "published": "2026-06-11T23:57:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -157,116 +487,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1781202880",
-      "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
-      "published": "2026-06-11T21:49:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
-      "title": "Trump says US and Iran on verge of signing peace agreement",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
-      "published": "2026-06-11T21:26:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3838706",
-      "title": "Palestinians allege methodical, \u2018coordinated\u2019 attack after sheep stolen, residents hurt",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/palestinians-allege-methodical-coordinated-attack-after-sheep-stolen-residents-hurt/",
-      "published": "2026-06-11T21:09:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781209740",
-      "title": "How puppets are helping women and children in Gaza cope with trauma",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/how-puppets-are-helping-women-and-children-in-gaza-cope-with-trauma?traffic_source=rss",
-      "published": "2026-06-11T20:40:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3841407",
-      "title": "UK defense secretary resigns, pans Starmer as not spending enough to keep country safe",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/uk-defense-secretary-resigns-pans-starmer-as-not-spending-enough-to-keep-country-safe/",
-      "published": "2026-06-11T20:31:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts",
       "title": "Military strikes on water facilities in Iran may constitute a war crime, experts say",
       "source": "The Guardian",
@@ -281,72 +501,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781208991",
-      "title": "Israel releases Hamas co-founder after two years in detention",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/israel-releases-hamas-co-founder-after-two-years-in-detention?traffic_source=rss",
-      "published": "2026-06-11T20:25:52+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781203033",
-      "title": "Trump administration sanctions Cuba\u2019s national oil company, blasts Castros",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss",
-      "published": "2026-06-11T20:21:55+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3841149",
-      "title": "Canadian payment firm said to discuss buying Israeli-founded Payoneer for $2.7 billion",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/canadian-payment-firm-said-to-discuss-buying-israeli-founded-payoneer-for-2-7-billion/",
-      "published": "2026-06-11T19:55:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -663,28 +817,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/06/11/opec-cuts-oil-demand-outlook-for-this-year-again-as-iran-war-disrupts-markets/",
-      "title": "Opec cuts oil demand outlook for this year again as Iran war disrupts markets",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/06/11/opec-cuts-oil-demand-outlook-for-this-year-again-as-iran-war-disrupts-markets/",
-      "published": "2026-06-11T15:29:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "b4eb7fd0ddd2b6c62d4f76e64a5f49bc",
       "title": "RT by @DXBMediaOffice: RT by @DXBMediaOffice: As part of my official visit to Sweden, I visited Lovable, one of the fastest-growing companies in the development of applications and websites, specialising in AI solutions. I also visited KTH Innovation, the Royal Institute of Technology's innovation arm, where I gained first-hand insight into its integrated approach to supporting the innovation ecosystem. The centre fosters creativity and helps transform ideas and scientific research into startups and ventures with tangible economic and social impact. These visits highlighted the importance of strengthening collaboration with leading global academic and innovation institutions and learning fro",
       "source": "Dubai Media Office (RSS.app)",
@@ -765,28 +897,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/06/11/iran-deal-us-trump/",
-      "title": "Trump says US and Iran are nearing 'great settlement' to end war",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/06/11/iran-deal-us-trump/",
-      "published": "2026-06-11T14:58:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -920,28 +1030,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "dcb5a16b46e3d8f7ac20807a2a40421f",
-      "title": ". The United Arab Emirates has condemned in the strongest terms the renewed hostile missile and drone attacks by Iran th...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DZcfO7mooSG",
-      "published": "2026-06-11T12:11:22+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1125,28 +1213,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-      "title": "US says second day of strikes \u2018completed\u2019 \u2013 as it happened",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-      "published": "2026-06-11T04:24:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=181118",
       "title": "Lebanon to resume exports to Saudi Arabia after president Aoun and PM Salam  contacted  the Saudi leader",
       "source": "Ya Libnan",
@@ -1181,28 +1247,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=181112",
-      "title": "Iran war updates: U.S. ends its strikes on Iran CENTCOM said",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/11/iran-war-updates-u-s-ends-its-strikes-on-iran-centcom-said/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-updates-u-s-ends-its-strikes-on-iran-centcom-said",
-      "published": "2026-06-11T01:40:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 80,
       "is_government": false,
