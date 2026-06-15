@@ -1,17 +1,347 @@
 {
-  "generated_at": "2026-06-15T12:26:16.004780+00:00",
+  "generated_at": "2026-06-15T18:42:36.022858+00:00",
   "total_incidents": 71,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/06/15/uae-hails-us-iran-agreement-and-calls-for-protection-of-maritime-routes/",
-      "title": "UAE hails US-Iran agreement and calls for protection of maritime routes",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/06/15/uae-hails-us-iran-agreement-and-calls-for-protection-of-maritime-routes/",
-      "published": "2026-06-15T12:19:09+00:00",
-      "type": "naval",
+      "id": "https://www.theguardian.com/world/2026/jun/15/analysis-us-iran-peace-deal-nuclear-talks-resume",
+      "title": "Trump hails Iran deal that fixes nothing except a problem his war caused",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/15/analysis-us-iran-peace-deal-nuclear-talks-resume",
+      "published": "2026-06-15T18:33:49+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "UAE",
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c39yvvy273ko#0",
+      "title": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-15T18:27:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7541017be96c7a0f6a3c827ec2f9d74c",
+      "title": "A joint statement on the attack on the Barakah Nuclear Plant has been issued by the United Arab Emirates, Argentina, Arm...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DZndJcGiIe9",
+      "published": "2026-06-15T18:24:37+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781547432",
+      "title": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
+      "published": "2026-06-15T18:23:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cj4gnqw8j52o#0",
+      "title": "Iran deal presents political nightmare for Netanyahu",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-15T18:15:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/video/2026/jun/15/trump-says-iran-deal-has-been-signed-video",
+      "title": "Trump says Iran deal has been signed \u2013 video",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/video/2026/jun/15/trump-says-iran-deal-has-been-signed-video",
+      "published": "2026-06-15T18:09:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781532782",
+      "title": "As deal is agreed with US, not all in Iran are convinced that peace is here",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/6/15/as-deal-is-agreed-with-us-not-all-in-iran-are-convinced-that-peace-is-here?traffic_source=rss",
+      "published": "2026-06-15T18:00:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781543466",
+      "title": "US visa rules leave Iraq\u2019s World Cup fans behind",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_us-visa-rules-leave-iraqs-world-cup-fans-behind-150626?traffic_source=rss",
+      "published": "2026-06-15T17:56:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781545875",
+      "title": "Singer Oliver Tree among six killed in Brazil helicopter collision",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/singer-oliver-tree-among-six-killed-in-brazil-helicopter-collision?traffic_source=rss",
+      "published": "2026-06-15T17:54:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "735a87df0ef0f9e5dd5fabeadcbfab79",
+      "title": "RT by @DXBMediaOffice: RT by @DXBMediaOffice: As we welcome the new Islamic year, we reflect on the blessed occasion of the Prophet\u2019s Hijrah, the historic journey from Makkah to Madinah, a defining moment that changed the course of history. We remember Prophet Muhammad \ufdfa and the timeless values he embodied: compassion, justice, and noble character. On this occasion, we extend our heartfelt congratulations to our leadership, the people of the UAE, and the Arab and Islamic nations. We pray to Allah to bless the year ahead with peace, security, prosperity, and abundant blessings for all.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/HamdanMohammed/status/2066579948953866244",
+      "published": "2026-06-15T17:53:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 17.0151,
+        "lng": 54.0924
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/15/assad-loyalists-in-espionage-and-bombing-cells-arrested-in-syria/",
+      "title": "Assad loyalists in 'espionage and bombing cells' arrested in Syria",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/15/assad-loyalists-in-espionage-and-bombing-cells-arrested-in-syria/",
+      "published": "2026-06-15T17:51:59+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/15/us-iran-ceasefire-respite-true-peace-distant",
+      "title": "US-Iran deal may get oil flowing again, but region\u2019s root problems are unsolved",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/15/us-iran-ceasefire-respite-true-peace-distant",
+      "published": "2026-06-15T17:48:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781544160",
+      "title": "Mass return to southern Lebanon following US-Iran agreement",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/mass-return-to-southern-lebanon-following-us-iran-agreement?traffic_source=rss",
+      "published": "2026-06-15T17:25:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781434885",
+      "title": "Iran vs New Zealand: World Cup team news, start, lineups and where to watch",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/6/15/iran-vs-new-zealand-world-cup-team-news-start-lineups-and-where-to-watch?traffic_source=rss",
+      "published": "2026-06-15T17:23:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3843387",
+      "title": "Settlers attack Palestinians and activists near Hebron, vandalize vehicles",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/settlers-attack-palestinians-and-activists-near-hebron-vandalize-vehicles/",
+      "published": "2026-06-15T17:23:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/15/deal-gives-middle-east-hope-as-us-and-iran-prepare-for-signing-ceremony/",
+      "title": "Deal gives Middle East hope as US and Iran prepare for signing ceremony",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/15/deal-gives-middle-east-hope-as-us-and-iran-prepare-for-signing-ceremony/",
+      "published": "2026-06-15T17:21:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -25,11 +355,341 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/economy/2026/06/15/hormuz-shipping-recovery-reckons-with-mine-risks-despite-us-iran-deal/",
-      "title": "Hormuz shipping recovery reckons with mine risks despite US-Iran deal",
+      "id": "https://yalibnan.com/?p=181250",
+      "title": "U.S.-Iran deal updates: Israel says no Lebanon withdrawal, Iran says funds expected before final talks",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/15/u-s-iran-deal-updates-israel-says-no-lebanon-withdrawal-iran-says-funds-expected-before-final-talks/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-iran-deal-updates-israel-says-no-lebanon-withdrawal-iran-says-funds-expected-before-final-talks",
+      "published": "2026-06-15T16:57:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3843450",
+      "title": "Visiting Somaliland president opens embassy in Jerusalem",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/visiting-somaliland-president-opens-embassy-in-jerusalem/",
+      "published": "2026-06-15T16:55:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/06/15/us-government-restricts-anthropic/",
+      "title": "Is Trump using national security as excuse to punish Anthropic?",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/06/15/hormuz-shipping-recovery-reckons-with-mine-risks-despite-us-iran-deal/",
-      "published": "2026-06-15T12:14:22+00:00",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/06/15/us-government-restricts-anthropic/",
+      "published": "2026-06-15T16:47:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "80e8758ece9994df91893d9584190aca",
+      "title": "#Kuwait's Burgan ran out narrow 32-31 winners over Qatari side Al-Duhail to secure its first ever berth in the finals of the Asian Club Handball Championship.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2066561625495134216",
+      "published": "2026-06-15T16:41:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/video/2026/jun/15/will-us-iran-peace-deal-hold-the-latest",
+      "title": "Will US-Iran peace deal hold? - The Latest",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/video/2026/jun/15/will-us-iran-peace-deal-hold-the-latest",
+      "published": "2026-06-15T16:34:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ff067b7770b36f2f8f73404c11d03763",
+      "title": "#US Vice president denies claims Iran deal includes release of frozen assets  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2066558594573640088",
+      "published": "2026-06-15T16:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "257f955f820fbacb1911dfa4b95bb91b",
+      "title": "#US President: Ships starting to move through Strait of Hormuz  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2066555466335785206",
+      "published": "2026-06-15T16:16:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/video/2026/jun/15/reactions-us-iran-deal-beirut-tehran-tel-aviv-video",
+      "title": "'Still a risk': reactions to US-Iran deal on streets of Beirut, Tehran and Tel Aviv \u2013 video",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/video/2026/jun/15/reactions-us-iran-deal-beirut-tehran-tel-aviv-video",
+      "published": "2026-06-15T16:15:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cabe4c7b8da3c0049c05f2919af17911",
+      "title": "Muslim World League backs diplomatic efforts to ensure regional stability  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2066554360654340451",
+      "published": "2026-06-15T16:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/06/15/russian-strategic-bomber-crashes-in-siberia-during-training-exercise/",
+      "title": "Russian strategic bomber crashes in Siberia during training exercise",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/06/15/russian-strategic-bomber-crashes-in-siberia-during-training-exercise/",
+      "published": "2026-06-15T15:59:42+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=87032",
+      "title": "Israeli MoD cries foul as Israeli booths \u2018boarded up\u2019 at Eurosatory defense show",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/israeli-mod-cries-foul-as-israeli-booths-boarded-up-at-eurosatory-defense-show/",
+      "published": "2026-06-15T15:58:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3843276",
+      "title": "US-Iran deal met with despair in Israel, joy in Lebanon and hope in Iran",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/us-iran-deal-met-with-despair-in-israel-joy-in-lebanon-and-hope-in-iran/",
+      "published": "2026-06-15T15:55:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3843124",
+      "title": "\u2018Wondrous\u2019 Roman busts unearthed in ancient winepress in northern Israel",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/wondrous-roman-busts-unearthed-in-ancient-winepress-in-northern-israel/",
+      "published": "2026-06-15T15:51:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/news/audio/2026/jun/15/will-us-iran-peace-deal-hold-the-latest",
+      "title": "Will US-Iran peace deal hold? \u2013 The Latest",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/news/audio/2026/jun/15/will-us-iran-peace-deal-hold-the-latest",
+      "published": "2026-06-15T15:50:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal",
+      "title": "Oil prices hit three-month low and markets rally amid Iran deal breakthrough",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal",
+      "published": "2026-06-15T15:12:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/15/analysis-us-iran-peace-deal-shipping-sanctions-relief-nuclear-talks-ballistic-missiles",
+      "title": "US-Iran peace deal hinges on shipping, sanctions relief and deferred nuclear talks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/15/analysis-us-iran-peace-deal-shipping-sanctions-relief-nuclear-talks-ballistic-missiles",
+      "published": "2026-06-15T15:11:21+00:00",
       "type": "naval",
       "status": "unconfirmed",
       "location": {
@@ -38,8 +698,360 @@
         "lat": 32.4279,
         "lng": 53.688
       },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3843109",
+      "title": "With Trump\u2019s Iran deal, the October 7 wars are over. Israel really has no idea what to do next",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/with-trumps-iran-deal-the-october-7-wars-are-over-israel-really-has-no-idea-what-to-do-next/",
+      "published": "2026-06-15T14:51:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181248",
+      "title": "Netanyahu and Trump on collision course as US, Iran agree to halt war and Israel refuses to leave  Lebanon",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/15/netanyahu-and-trump-on-collision-course-as-us-iran-agree-to-halt-war-and-israel-refuses-to-leave-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=netanyahu-and-trump-on-collision-course-as-us-iran-agree-to-halt-war-and-israel-refuses-to-leave-lebanon",
+      "published": "2026-06-15T14:47:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2a60ad07402732b0d4f43483e5d05f7d",
+      "title": "#Kuwait's Permanent Ambassador to the #UN calls for sustained US-Iran dialogue to ensure lasting regional peace  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2066529948853002323",
+      "published": "2026-06-15T14:35:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cdr4x3vg347o#0",
+      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-15T14:26:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/06/15/peacekeeper-killings-un-security-council-pakistan-denmark/",
+      "title": "Denmark and Pakistan push UN Security Council action on Peacekeeper killings",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/06/15/peacekeeper-killings-un-security-council-pakistan-denmark/",
+      "published": "2026-06-15T14:22:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c6217106px6o#0",
+      "title": "Oil prices fall and shares jump after US-Iran deal announced",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-15T14:21:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/06/15/ban-on-violent-palestine-action-is-lawful-uk-court-of-appeal-rules/",
+      "title": "Ban on 'violent' Palestine Action is lawful, UK Court of Appeal rules",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/06/15/ban-on-violent-palestine-action-is-lawful-uk-court-of-appeal-rules/",
+      "published": "2026-06-15T14:05:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=86796",
+      "title": "Black Recon \u2018microdrone\u2019 system unveiled by Teledyne FLIR",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/black-recon-microdrone-system-unveiled-by-teledyne-flir/",
+      "published": "2026-06-15T14:03:11+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/pentagon-congress/2026/06/15/iran-us-agree-to-halt-war-and-reopen-hormuz/",
+      "title": "Iran, US agree to halt war and reopen Hormuz",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/06/15/iran-us-agree-to-halt-war-and-reopen-hormuz/",
+      "published": "2026-06-15T13:59:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181245",
+      "title": "Lebanon is being urged  to sever ties with Iran, and use its released funds to compensate for destruction caused by Hezbollah wars",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/15/lebanon-is-being-urged-to-sever-ties-with-iran-and-use-its-released-funds-to-compensate-for-destruction-caused-by-hezbollah-wars/?utm_source=rss&utm_medium=rss&utm_campaign=lebanon-is-being-urged-to-sever-ties-with-iran-and-use-its-released-funds-to-compensate-for-destruction-caused-by-hezbollah-wars",
+      "published": "2026-06-15T13:58:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a2083fac4f36dbc6e288569d4adbfc54",
+      "title": "Kuwait's Public Authority of Civil Aviation announces the limited resumption of operations for Gulf, Arab & foreign airlines through Terminal 4 at Kuwait International Airport.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2066517698163413188",
+      "published": "2026-06-15T13:46:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d51730f3fdec984ebb6275fce23bc9b0",
+      "title": "#Oman backs US-Iran agreement, reaffirms commitment to maritime security.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2066511723943588263",
+      "published": "2026-06-15T13:22:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c39yvz9w8k3o#0",
+      "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-15T13:07:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181243",
+      "title": "What the US and Iran say they have agreed in the memorandum to end the war",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/15/what-the-us-and-iran-say-they-have-agreed-in-the-memorandum-to-end-the-war/?utm_source=rss&utm_medium=rss&utm_campaign=what-the-us-and-iran-say-they-have-agreed-in-the-memorandum-to-end-the-war",
+      "published": "2026-06-15T13:00:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=87035",
+      "title": "France enters \u2018exclusive\u2019 negotiations with MBDA, Safran for long-range strike: DefMin",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/france-enters-exclusive-negotiations-with-mbda-safran-for-long-range-strike-defmin/",
+      "published": "2026-06-15T12:35:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9b70d33aa400837d90b7d910ab14f9ab",
+      "title": "The Gulf Cooperation Council Emergency Management Center boosts crisis management programs & responsibilities in line with directives of GCC leaders  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2066496832453169353",
+      "published": "2026-06-15T12:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -59,204 +1071,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/15/us-proposed-syrian-involvement-in-lebanon-but-damascus-rejects-military-role-adviser-says/",
-      "title": "US proposed Syrian involvement in Lebanon but Damascus rejects military role, adviser says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/15/us-proposed-syrian-involvement-in-lebanon-but-damascus-rejects-military-role-adviser-says/",
-      "published": "2026-06-15T12:04:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 33.5138,
-        "lng": 36.2765
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3a48e7b51462c2a195a6936b2201679f",
-      "title": "#Kuwait's Minister of Justice appoints first group of women court session secretaries, marking a significant milestone in expanding women's participation within Kuwait's judicial support system  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2066491628278137168",
-      "published": "2026-06-15T12:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/15/israel-insists-it-will-not-leave-lebanon-as-netanyahu-flounders-over-us-iran-deal/",
-      "title": "Israel insists it will not leave Lebanon as Netanyahu flounders over US-Iran deal",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/15/israel-insists-it-will-not-leave-lebanon-as-netanyahu-flounders-over-us-iran-deal/",
-      "published": "2026-06-15T11:56:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c6217106px6o#0",
-      "title": "Oil prices fall and shares jump after US-Iran deal announced",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-15T11:54:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a33b84eef5ee8413a638902203ab5ccf",
-      "title": "Arab Parliament welcomes #US-Iran agreement to halt war, describing it as an important step toward reducing tensions & enhancing security & stability in the region  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2066487167765938484",
-      "published": "2026-06-15T11:45:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "955f53587e1e4244b96b855e83136786",
-      "title": "#Iraq welcomes the #US-Iran Agreement, expressing hope that this step would help consolidate regional security & stability  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2066486314061484400",
-      "published": "2026-06-15T11:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781102914",
-      "title": "\u2018Island surrounded by war\u2019: Crimeans panic amid Ukrainian attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/15/island-surrounded-by-war-crimeans-panic-amid-ukrainian-strikes?traffic_source=rss",
-      "published": "2026-06-15T11:38:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781522544",
-      "title": "\u2018Netanyahu\u2019s life project failed with US-Iran deal\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/netanyahus-life-project-failed-with-us-iran?traffic_source=rss",
-      "published": "2026-06-15T11:27:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781512095",
-      "title": "Iran, US agree tentative deal to \u2018end war\u2019: Your questions answered",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered?traffic_source=rss",
-      "published": "2026-06-15T11:21:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -289,50 +1103,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3843142&preview=true&preview_id=3843142",
-      "title": "Daily Briefing June 15 \u2013 Despite Iran deal, Israel determined to hold the fort in Lebanon",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/daily-briefing-june-15-despite-iran-deal-israel-determined-to-hold-the-fort-in-lebanon/",
-      "published": "2026-06-15T11:14:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781521369",
-      "title": "Video shows man shot by Israeli drone while sitting with others in Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/video-shows-man-shot-by-israeli-drone-while-sitting-with-others-in-gaza?traffic_source=rss",
-      "published": "2026-06-15T11:11:46+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5bd2c448d111fd463cac2ef1ec88b5d9",
       "title": ". The Dubai Government affirmed that work on the first phase of the Al Maktoum International Airport development project...",
       "source": "WAM News (RSS.app)",
@@ -348,182 +1118,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/15/us-envoy-tom-barrack-in-baghdad-to-show-support-for-al-zaidi-government-and-improve-relations/",
-      "title": "US envoy Tom Barrack in Baghdad to show support for Al Zaidi government and improve relations",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/15/us-envoy-tom-barrack-in-baghdad-to-show-support-for-al-zaidi-government-and-improve-relations/",
-      "published": "2026-06-15T10:59:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.3152,
-        "lng": 44.3661
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0ea1d21e72dfbab7b45b9c380d243926",
-      "title": "#Lebanon's President Joseph Aoun welcomes the US-Iran Memorandum of Understanding, expressing hope that it would mark the beginning of a broader process to strengthen stability in the region.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2066471071855886703",
-      "published": "2026-06-15T10:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2df7bc660e0c9ba9c5e336d559b3596f",
-      "title": "#Kuwait's Public Authority for Civil Aviation Chief meets with #Ethiopian Ambassador Dr. Sied Jibril to discuss strengthening bilateral cooperation in civil aviation.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2066470494669316596",
-      "published": "2026-06-15T10:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781508423",
-      "title": "UK Court of Appeal upholds ban on Palestine Action as \u2018terrorist\u2019 group",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/15/uk-court-says-proscribing-palestine-action-as-terrorist-group-was-lawful?traffic_source=rss",
-      "published": "2026-06-15T10:37:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/06/15/road-trip-guide-car-rental-red-sea-alula-saudi-arabia/",
-      "title": "How to road trip from Saudi Arabia\u2019s Red Sea coast to the ancient city of AlUla",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/06/15/road-trip-guide-car-rental-red-sea-alula-saudi-arabia/",
-      "published": "2026-06-15T10:32:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f834737acc38693df71fcf1070e5e3fa",
-      "title": "The Organization of Islamic Cooperation welcomes the US-Iran memorandum of understanding aimed at ending military operations & restoring freedom of navigation in the Strait of Hormuz.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2066469004680503564",
-      "published": "2026-06-15T10:32:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c3db1ee3d560bc08ee42b25e20a28b28",
-      "title": "#Palestine welcomes the US-Iran understanding, including steps aimed at ceasefire, de-escalation & reopening the Strait of Hormuz.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2066467548871217190",
-      "published": "2026-06-15T10:27:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3843074",
-      "title": "As Trump heads to G7, world leaders welcome Iran deal, stress need for regional security",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/as-trump-heads-to-g7-world-leaders-welcome-iran-deal-stress-need-for-regional-security/",
-      "published": "2026-06-15T10:23:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -553,204 +1147,6 @@
       }
     },
     {
-      "id": "c295d43eb0887fb49b37f129f4470bff",
-      "title": "#Malaysia welcomes US-Iran memorandum of understanding, describing it as an important step toward de-escalation & a basis for a comprehensive & lasting settlement.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2066464390392459533",
-      "published": "2026-06-15T10:14:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c39yvvy273ko#0",
-      "title": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-15T10:10:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d1c562416265a07f270eae09017f5344",
-      "title": "The first phase of Al Maktoum International Airport, world's largest aviation hub, development project remains on track for commencement of operations in 2032.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2066460528126669215",
-      "published": "2026-06-15T09:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3843047",
-      "title": "Report warns Israeli restrictions pushing Palestinian economy in West Bank to collapse",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/report-warns-israeli-restrictions-pushing-palestinian-economy-in-west-bank-to-collapse/",
-      "published": "2026-06-15T09:54:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3843030",
-      "title": "Israeli defense industry booths walled off at leading French arms exhibition",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/israeli-defense-industry-booths-walled-off-at-leading-french-arms-exhibition/",
-      "published": "2026-06-15T09:44:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3843044",
-      "title": "Oil prices fall and stocks soar with announcement of framework for Iran deal",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/oil-prices-fall-and-stocks-soar-with-announcement-of-framework-for-iran-deal/",
-      "published": "2026-06-15T09:09:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3842990",
-      "title": "Israel vows to stay in south Lebanon; if Iran strikes, we\u2019ll hit it \u2018with full force\u2019",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/israel-vows-to-stay-in-south-lebanon-if-iran-strikes-well-hit-it-with-full-force/",
-      "published": "2026-06-15T08:52:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3843012",
-      "title": "Hamas documents show Oct. 7 attack aimed at thwarting Israel-Saudi normalization",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/hamas-documents-show-oct-7-attack-aimed-at-thwarting-israel-saudi-normalization/",
-      "published": "2026-06-15T08:27:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "82abb52fad4e9e24a900d005fa14f619",
-      "title": "Dubai\u2019s Roads and Transport Authority (RTA) approves the five-year plan 2026\u20132030, covering the construction of 31 pedestrian bridges and tunnels across key locations in Dubai.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2066433397166407896",
-      "published": "2026-06-15T08:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/06/15/french-army-shows-leclerc-tank-with-once-mocked-anti-drone-cage/",
       "title": "French army shows Leclerc tank with once-mocked anti-drone cage",
       "source": "Defense News",
@@ -763,28 +1159,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal",
-      "title": "US and Iran reach framework peace deal to end war",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal",
-      "published": "2026-06-15T07:41:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -817,121 +1191,11 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal",
-      "title": "Oil prices tumble and markets rally amid hopes strait of Hormuz will reopen",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal",
-      "published": "2026-06-15T07:27:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo#0",
+      "id": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo#1",
       "title": "Political tension has undermined World Cup joy, says Iran striker",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-06-15T06:50:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/15/switzerland-anti-immigration-referendum-vote-rejected-population-cap-10-million",
-      "title": "Monday briefing: Trump\u2019s late-night deal with Iran",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/15/switzerland-anti-immigration-referendum-vote-rejected-population-cap-10-million",
-      "published": "2026-06-15T05:54:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/jun/15/iran-war-new-phase-fear-killing-upheaval-normalised",
-      "title": "Even if the Iran war is over, it made its mark: the fear, killing and upheaval were all normalised | Nesrine Malik",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/jun/15/iran-war-new-phase-fear-killing-upheaval-normalised",
-      "published": "2026-06-15T05:00:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
-      "title": "Attacks on education, pupils and staff around the world up by 40%, says study",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
-      "published": "2026-06-15T04:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c9824e0rz75o#0",
-      "title": "Trump heralds Iran deal but questions - and risks - remain",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-15T02:41:25+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -963,28 +1227,6 @@
         "lng": 53.688
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/15/us-iran-peace-deal-terms-details-conditions-explained-what-do-we-know-hormuz-lebanon-israel-nuclear",
-      "title": "What do we know about the US-Iran peace deal \u2013 and what questions remain?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/15/us-iran-peace-deal-terms-details-conditions-explained-what-do-we-know-hormuz-lebanon-israel-nuclear",
-      "published": "2026-06-15T02:29:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1081,50 +1323,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/jun/14/iranian-hardliners-in-vociferous-push-to-reject-proposed-peace-deal-with-us",
-      "title": "Anger among Iranian hardliners at terms of deal agreed with US",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/14/iranian-hardliners-in-vociferous-push-to-reject-proposed-peace-deal-with-us",
-      "published": "2026-06-14T22:34:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=181217",
-      "title": "Israel kills  top Hezbollah commander accused of killing US soldiers in Iraq",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/15/israel-kills-top-hezbollah-commander-accused-of-killing-us-soldiers-in-iraq/?utm_source=rss&utm_medium=rss&utm_campaign=israel-kills-top-hezbollah-commander-accused-of-killing-us-soldiers-in-iraq",
-      "published": "2026-06-14T21:20:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "b116172656133f11ec005936840c355f",
       "title": ". Jasem Mohamed Albudaiwi, Secretary-General of the Gulf Cooperation Council (GCC), launched today, Sunday, at the headq...",
       "source": "WAM News (RSS.app)",
@@ -1147,29 +1345,7 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=181215",
-      "title": "Trump warned\u00a0 Israel and Hezbollah\u00a0not to \u201cblow\u201d\u00a0 the peace deal with Iran and to stop fighting in Lebanon",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/14/trump-warned-israel-and-hezbollah-not-to-blow-the-peace-deal-with-iran-and-to-stop-fighting-in-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=trump-warned-israel-and-hezbollah-not-to-blow-the-peace-deal-with-iran-and-to-stop-fighting-in-lebanon",
-      "published": "2026-06-14T20:19:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/czj83zlx1vjo#0",
+      "id": "https://www.bbc.com/news/articles/czj83zlx1vjo#1",
       "title": "Israeli military says Hezbollah targets struck in Beirut",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
@@ -1249,28 +1425,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=181211",
-      "title": "U.S.-Iran deal could be signed within days, but the Hormuz issue could blow the deal",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/13/u-s-iran-deal-could-be-signed-within-days-but-the-hormuz-issue-could-blow-the-deal/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-iran-deal-could-be-signed-within-days-but-the-hormuz-issue-could-blow-the-deal",
-      "published": "2026-06-13T15:31:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1403,160 +1557,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=86940",
-      "title": "Boeing bows out of Navy\u2019s new trainer jet competition",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/06/boeing-bows-out-of-navys-new-trainer-jet-competition/",
-      "published": "2026-06-12T18:00:00+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "86531647814d1db458b460d5ae5d66ac",
-      "title": "\u0627\u0633\u062a\u0642\u0628\u0644 \u0633\u0639\u0627\u062f\u0629 \u0639\u0644\u064a \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0623\u062d\u0645\u062f\u060c \u0627\u0644\u0648\u0643\u064a\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f \u0644\u0644\u0633\u064a\u0627\u0633\u0627\u062a \u0648\u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0627\u0644\u062f\u0641\u0627\u0639\u064a\u060c \u0627\u0644\u0644\u0648\u0627\u0621 \u062a\u0648\u0628\u064a \u0644\u0627\u0645\u0628\u0631\u062a \u0627\u0644\u0645\u0633\u062a\u0634\u0627\u0631 \u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a \u0644\u062f\u0649 \u0645\u062f\u064a\u0631\u064a\u0629 \u0627\u0644\u062a\u0633\u0644\u064a\u062d \u0627\u0644\u0648\u0637\u0646\u064a \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629\u060c \u0648\u0630\u0644\u0643 \u0641\u064a \u0625\u0637\u0627\u0631 \u062a\u0639\u0632\u064a\u0632 \u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u062b\u0646\u0627\u0626\u064a\u0629 \u0628\u064a\u0646 \u0627\u0644\u0628\u0644\u062f\u064a\u0646. \u0648\u062c\u0631\u0649 \u062e\u0644\u0627\u0644 \u0627\u0644\u0644\u0642\u0627\u0621 \u0628\u062d\u062b \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0648\u062a\u0628\u0627\u062f\u0644 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u0646\u0638\u0631 \u062d\u0648\u0644 \u0633\u0628\u0644 \u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0648\u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0628\u0645\u0627 \u064a\u062e\u062f\u0645 \u0627\u0644\u0645\u0635\u0627\u0644\u062d \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629\u060c \u0648\u064a\u0639\u0632\u0632 \u0623\u0648\u0627\u0635\u0631 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u062c\u0627\u0646\u0628\u064a\u0646. His Excellency Ali Abdullah Al Ahmad, Assistant Undersecretary for Defence Policies and Communications, received Major General Toby Lambert, Military Adviser within the United Kingdom\u2019s National Armaments International team, part of the National Armaments Director Group, as part of ongoing efforts to strengthen",
-      "source": "UAE MOD (RSS.app)",
-      "source_url": "https://x.com/modgovae/status/2065474602474868872",
-      "published": "2026-06-12T16:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/06/12/us-army-commissions-second-cohort-of-tech-executives-into-innovation-unit/",
-      "title": "US Army commissions second cohort of tech executives into innovation unit",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/06/12/us-army-commissions-second-cohort-of-tech-executives-into-innovation-unit/",
-      "published": "2026-06-12T16:01:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/06/12/ukraines-defense-ai-chief-predicts-new-paradigm-of-warfare/",
-      "title": "Ukraine\u2019s defense AI chief predicts \u2018new paradigm\u2019 of warfare",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/06/12/ukraines-defense-ai-chief-predicts-new-paradigm-of-warfare/",
-      "published": "2026-06-12T14:38:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=86356",
-      "title": "Israeli startup unveils laser system it says can kill drones in seconds",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/06/israeli-startup-unveils-laser-system-it-says-can-kill-drones-in-seconds/",
-      "published": "2026-06-12T14:29:16+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c77yje7n287o#1",
-      "title": "Israeli tech firm accused of targeting First Minister in election",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/c77yje7n287o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-12T13:18:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/pentagon/2026/06/12/us-plans-major-cut-to-jets-warships-for-nato-operations-in-europe-nyt-reports/",
-      "title": "US plans major cut to jets, warships for NATO operations in Europe, NYT reports",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/pentagon/2026/06/12/us-plans-major-cut-to-jets-warships-for-nato-operations-in-europe-nyt-reports/",
-      "published": "2026-06-12T13:05:31+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
