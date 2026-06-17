@@ -1,13 +1,57 @@
 {
-  "generated_at": "2026-06-17T18:28:17.985324+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-06-17T22:03:53.441975+00:00",
+  "total_incidents": 61,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
-      "title": "Middle East crisis live: Iran agrees to destroy enriched uranium stockpile, memorandum read out by US officials says",
+      "title": "Middle East crisis live: US-Iran memorandum of understanding signed by both presidents, Iran state media says",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
-      "published": "2026-06-17T18:24:32+00:00",
+      "published": "2026-06-17T21:58:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "76ff8a3d8c5a1834ce65ce20bf64c65c",
+      "title": "Dubai Civil Defence teams successfully contained a minor fire that broke out on a floor undergoing maintenance in a building on Sheikh Zayed Road and completed cooling operations in accordance with established procedures. No injuries were reported.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2067363316037804285",
+      "published": "2026-06-17T21:46:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal",
+      "title": "US releases text of Iran peace plan as Trump says deal averts \u2018worldwide depression\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal",
+      "published": "2026-06-17T21:16:43+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,11 +69,121 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1781709871",
-      "title": "Trump: World will \u2018find out pretty soon\u2019 if Iran MOU signing will happen",
+      "id": "3b87b6f91be9ac38ea5f20f6861de0be",
+      "title": "Spokesman for the Iranian Foreign Ministry: Tehran is currently mulling over the idea of signing by President Masoud Pezeshkian and his US counterpart Donald Trump of the \"Islamabad Memorandum of Understanding\" remotely  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2067354583165272200",
+      "published": "2026-06-17T21:11:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=87377",
+      "title": "Air Force picks General Atomics, Anduril to build first CCA drone wingmen",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/air-force-cca-drone-wingman-anduril-general-atomics-selection/",
+      "published": "2026-06-17T21:05:21+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3844934",
+      "title": "Democratic socialist who accuses Israel of genocide leads DC mayoral primary",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/democratic-socialist-who-accuses-israel-of-genocide-leads-dc-mayoral-primary/",
+      "published": "2026-06-17T20:51:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3845134",
+      "title": "Hezbollah chief: Iran deal a \u2018great victory,\u2019 can be used to expel Israel from Lebanon",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/hezbollah-chief-iran-deal-a-great-victory-can-be-used-to-expel-israel-from-lebanon/",
+      "published": "2026-06-17T20:13:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781726872",
+      "title": "Why was India\u2019s Cockroach Janta Party founder attacked?",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/17/trump-world-will-find-out-pretty-soon-if-iran-mou-signing-will-happen?traffic_source=rss",
-      "published": "2026-06-17T18:08:12+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/why-was-indias-cockroach-janta-party-founder-attacked?traffic_source=rss",
+      "published": "2026-06-17T20:10:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781718751",
+      "title": "Read the US account of unreleased 14-point Iran ceasefire memorandum",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/17/read-the-us-account-of-unreleased-14-point-iran-ceasefire-memorandum?traffic_source=rss",
+      "published": "2026-06-17T20:05:45+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -47,11 +201,99 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/economy/2026/06/17/us-fed-holds-interest-rates-on-iran-war-inflation-bump/",
-      "title": "US Fed holds interest rates on Iran war inflation bump",
+      "id": "https://www.defensenews.com/news/pentagon-congress/2026/06/17/read-the-14-point-memorandum-of-understanding-between-the-united-states-and-iran/",
+      "title": "Read the 14-point memorandum of understanding between the United States and Iran",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/06/17/read-the-14-point-memorandum-of-understanding-between-the-united-states-and-iran/",
+      "published": "2026-06-17T20:02:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/17/palestinian-territories-and-israel-account-for-highest-number-of-child-victims-in-conflict-in-2025-says-un/",
+      "title": "Palestinian territories and Israel account for highest number of child victims in conflict in 2025, says UN",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/06/17/us-fed-holds-interest-rates-on-iran-war-inflation-bump/",
-      "published": "2026-06-17T18:04:07+00:00",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/17/palestinian-territories-and-israel-account-for-highest-number-of-child-victims-in-conflict-in-2025-says-un/",
+      "published": "2026-06-17T20:01:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/17/us-iran-deal-trump",
+      "title": "US-Iran deal takeaways: reopening the strait of Hormuz, waived oil sanctions and Lebanon",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/17/us-iran-deal-trump",
+      "published": "2026-06-17T19:40:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3844458",
+      "title": "Canceled flights, high prices: Is the golden age of American Jewish travel to Israel ending?",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/canceled-flights-high-prices-is-the-golden-age-of-american-jewish-travel-to-israel-ending/",
+      "published": "2026-06-17T19:38:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3845084",
+      "title": "Hezbollah expecting major cash injection from Iran once deal sealed with US \u2014 sources",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/hezbollah-expecting-major-cash-injection-from-iran-once-deal-sealed-with-us-sources/",
+      "published": "2026-06-17T19:12:15+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -69,20 +311,20 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1781710903",
-      "title": "Death toll in Gaza since \u2018ceasefire\u2019 with Israel goes past 1,000",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss",
-      "published": "2026-06-17T17:14:31+00:00",
+      "id": "https://www.thenationalnews.com/news/us/2026/06/17/whats-in-the-iran-deal/",
+      "title": "Full text of the 14-point plan to end the US-Iran war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/06/17/whats-in-the-iran-deal/",
+      "published": "2026-06-17T18:57:51+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Palestine",
+        "country": "Iran",
         "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
+        "lat": 32.4279,
+        "lng": 53.688
       },
-      "credibility": 90,
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -157,72 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1781714273",
-      "title": "Young Palestinian women learn AI to tell stories of war on Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/young-palestinian-women-learn-ai-to-tell-stories-of-war-on-gaza?traffic_source=rss",
-      "published": "2026-06-17T16:58:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/17/live-trump-final-us-iran-deal-g7-60-days-deadline/",
-      "title": "Iran war latest: Trump says final deal in 60 days or US will 'start the process again'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/17/live-trump-final-us-iran-deal-g7-60-days-deadline/",
-      "published": "2026-06-17T16:58:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/17/millions-of-mourners-and-a-detour-in-iraq-what-we-know-about-ali-khameneis-funeral/",
-      "title": "Millions of mourners and a detour in Iraq: What we know about Ali Khamenei's funeral",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/17/millions-of-mourners-and-a-detour-in-iraq-what-we-know-about-ali-khameneis-funeral/",
-      "published": "2026-06-17T16:54:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "e09675b591360a381c3fb6022bf17194",
       "title": "The UAE Floating Hospital at Al Arish Port in the Arab Republic of Egypt has received five patients and injured Palestin...",
       "source": "WAM News (RSS.app)",
@@ -238,28 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781713379",
-      "title": "Trump: \u2018Very strong\u2019 Iran deal is a \u2018wall to a nuclear weapon\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-very-strong-iran-deal-is-a-wall-to-a-nuclear?traffic_source=rss",
-      "published": "2026-06-17T16:30:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -311,50 +465,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/06/17/uae-studies-humanitarian-aid-early-warning-centre-plan-to-boost-crisis-response/",
-      "title": "UAE studies humanitarian aid early warning centre plan to boost crisis response",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/17/uae-studies-humanitarian-aid-early-warning-centre-plan-to-boost-crisis-response/",
-      "published": "2026-06-17T16:20:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781707427",
-      "title": "Why are experts warning latest Ebola outbreak could be \u2018worst ever\u2019?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/17/why-are-experts-warning-latest-ebola-outbreak-could-be-worst-ever?traffic_source=rss",
-      "published": "2026-06-17T16:15:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=87403",
       "title": "Aselsan lands $900M deal to help Turkey build Steel Dome air defense systems",
       "source": "Breaking Defense",
@@ -367,28 +477,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/markets/2026/06/17/uae-bourses-hit-highest-levels-in-three-months-amid-us-iran-peace-deal-optimism/",
-      "title": "UAE bourses hit highest levels in three months amid US-Iran peace deal optimism",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/markets/2026/06/17/uae-bourses-hit-highest-levels-in-three-months-amid-us-iran-peace-deal-optimism/",
-      "published": "2026-06-17T15:29:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 85,
       "is_government": false,
@@ -421,84 +509,18 @@
       }
     },
     {
-      "id": "8a4f4974f241a1b609202be99dad22db",
-      "title": "GCC Chief: Transport ministers discussed implementing directives issued by leaders at their 19th consultative meeting regarding joint transport projects.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2067265546874147227",
-      "published": "2026-06-17T15:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1f90ba1baf66134ab015e9eae2a728da",
-      "title": "#Kuwait's Public Works Minister: A planned railway project linking Gulf Cooperation Council member states is a pillar of economic cooperation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2067265112658923579",
-      "published": "2026-06-17T15:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fc668528e4161dc691de94ea45931444",
-      "title": "Gulf Cooperation Council Chief praises the joint efforts of GCC Interior Ministries in maintaining high-level coordination.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2067256362627735557",
-      "published": "2026-06-17T14:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3843530",
-      "title": "Trump\u2019s deal is a catastrophic capitulation to Iran\u2019s aggressors, leaves Israel vulnerable and constrained",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/trumps-deal-is-a-catastrophic-capitulation-to-irans-aggressors-leaves-israel-vulnerable-and-constrained/",
-      "published": "2026-06-17T14:27:35+00:00",
+      "id": "https://breakingdefense.com/?p=86969",
+      "title": "How one US Army brigade is learning to sacrifice robots in lieu of humans",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/preparing-for-the-future-fight-how-one-brigade-is-sacrificing-robots-in-lieu-of-humans/",
+      "published": "2026-06-17T14:55:33+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": null,
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -575,28 +597,6 @@
       }
     },
     {
-      "id": "fa07005e0bab11dda595329662ab67c8",
-      "title": "Dubai Financial Market Market Capitalisation Exceeds AED 1 Trillion @DFMalerts",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2067231884455928112",
-      "published": "2026-06-17T13:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jun/17/trump-g7-leaders-iran-missile-programme-ukraine",
       "title": "I\u2019ll resume bombing if Iran acts up, Trump warns after criticism of deal",
       "source": "The Guardian",
@@ -612,28 +612,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "46b80446dfcc334e80579a46f4955131",
-      "title": "\u0627\u0644\u0642\u064a\u0645\u0629 \u0627\u0644\u0633\u0648\u0642\u064a\u0629 \u0644\u0633\u0648\u0642 \u062f\u0628\u064a \u0627\u0644\u0645\u0627\u0644\u064a \u062a\u062a\u062c\u0627\u0648\u0632 \u062a\u0631\u064a\u0644\u064a\u0648\u0646 \u062f\u0631\u0647\u0645. @DFMalerts",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2067231257436778857",
-      "published": "2026-06-17T13:01:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -927,28 +905,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=87255",
-      "title": "Mach Industries wins DIU contract for maritime, long-range strike drone",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/06/mach-industries-wins-diu-contract-for-maritime-long-range-strike-drone/",
-      "published": "2026-06-16T18:14:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/us-news/video/2026/jun/16/trump-says-syria-would-do-a-better-job-of-taking-care-of-hezbollah-than-israel-video",
       "title": "Trump says Syria would do a better job than Israel of 'taking care of Hezbollah' \u2013\u00a0video",
       "source": "The Guardian",
@@ -1184,50 +1140,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/jun/16/iran-peace-deal-us-washington-war-lebanon",
-      "title": "Even if Iran benefits from this deal with Washington, any peace is likely to be temporary | Sina Toossi",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/jun/16/iran-peace-deal-us-washington-war-lebanon",
-      "published": "2026-06-16T14:02:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/16/iran-reaction-peace-deal-agreement-us-trump",
-      "title": "\u2018Everyone is angry for different reasons\u2019: scepticism in Iran as peace deal nears",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/16/iran-reaction-peace-deal-agreement-us-trump",
-      "published": "2026-06-16T13:54:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
