@@ -1,13 +1,585 @@
 {
-  "generated_at": "2026-06-19T04:53:00.306295+00:00",
-  "total_incidents": 71,
+  "generated_at": "2026-06-19T10:45:05.907524+00:00",
+  "total_incidents": 75,
   "incidents": [
     {
+      "id": "b3be12201bb86b3843b0c293365aef7a",
+      "title": "#Lebanon: Israeli occupation aircrafts expand their strikes reaching the Beqaa region in northeastern Lebanon.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2067914179114144002",
+      "published": "2026-06-19T10:15:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
+      "title": "Middle East crisis live: Israel strikes targets in Lebanon as US-Iran talks in Switzerland called off",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
+      "published": "2026-06-19T10:14:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781857617",
+      "title": "Can US-Iran peace \u2018deal\u2019 survive Israeli bombing of Lebanon?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/6/19/can-us-iran-peace-deal-survive-israeli-bombing-of-lebanon?traffic_source=rss",
+      "published": "2026-06-19T10:13:34+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/06/19/italy-rejects-aid-scheme-that-buys-us-weapons-for-ukraines-defense/",
+      "title": "Italy rejects aid scheme that buys US weapons for Ukraine\u2019s defense",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/06/19/italy-rejects-aid-scheme-that-buys-us-weapons-for-ukraines-defense/",
+      "published": "2026-06-19T10:03:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781862421",
+      "title": "Israel continues attacks on Lebanon despite US-Iran deal",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-continues-attacks-on-lebanon-despite-us-iran-deal?traffic_source=rss",
+      "published": "2026-06-19T09:54:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781796075",
+      "title": "Syrian activist Hassan Akkad detained in Damascus",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
+      "published": "2026-06-19T09:49:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 33.5138,
+        "lng": 36.2765
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/19/syrian-activist-hassan-akkad-arrested-in-damascus/",
+      "title": "Syrian activist Hassan Akkad arrested in Damascus",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/19/syrian-activist-hassan-akkad-arrested-in-damascus/",
+      "published": "2026-06-19T09:35:41+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 33.5138,
+        "lng": 36.2765
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled",
-      "title": "US-Iran talks in Switzerland abruptly called off",
+      "title": "US-Iran talks abruptly called off after Israel and Hezbollah trade deadly attacks",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled",
-      "published": "2026-06-19T04:48:27+00:00",
+      "published": "2026-06-19T09:35:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3846077",
+      "title": "4-person IDF tank crew, including battalion chief, killed by Hezbollah in south Lebanon",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/4-person-idf-tank-crew-including-battalion-chief-killed-by-hezbollah-in-south-lebanon/",
+      "published": "2026-06-19T09:25:13+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3a8cb6fd40950cdbad0ea3163790aeee",
+      "title": "KPC: #Kuwait oil price down 57 cents to USD 85.90 pb @kpcofficialkw  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2067901397639528803",
+      "published": "2026-06-19T09:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781846395",
+      "title": "US export ban on Anthropic\u2019s AI models further strains alliances",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/19/us-export-ban-on-anthropics-ai-models-further-strains-alliances?traffic_source=rss",
+      "published": "2026-06-19T09:05:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/06/19/seafarers-relief-as-they-prepare-to-return-home-from-strait-of-hormuz/",
+      "title": "Seafarers' relief as they prepare to return home from Strait of Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/19/seafarers-relief-as-they-prepare-to-return-home-from-strait-of-hormuz/",
+      "published": "2026-06-19T08:52:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781776241",
+      "title": "For one Yemeni, World Cup serves as a marker of war and peace",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/6/19/for-one-yemeni-world-cup-serves-as-a-marker-of-war-and-peace?traffic_source=rss",
+      "published": "2026-06-19T08:49:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781850936",
+      "title": "US kills 3 in strike on alleged drug smuggling boat in Eastern Pacific",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/19/us-kills-3-in-strike-on-alleged-drug-smuggling-boat-in-eastern-pacific?traffic_source=rss",
+      "published": "2026-06-19T08:23:26+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3846024",
+      "title": "Times of Israel reporter Zev Stub receives award for Diaspora coverage",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/times-of-israel-reporter-zev-stub-wins-award-for-diaspora-coverage/",
+      "published": "2026-06-19T08:06:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/19/lebanon-nabatieh-city-ashura-ceremony-hezbollah-israel",
+      "title": "Inside the city of grief hit hardest by Israel strikes on southern Lebanon",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/19/lebanon-nabatieh-city-ashura-ceremony-hezbollah-israel",
+      "published": "2026-06-19T08:05:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/06/19/kuwait-to-ramp-up-oil-output-to-two-million-bpd-within-a-week-as-strait-of-hormuz-reopens/",
+      "title": "Kuwait to lift oil output to two million bpd within a week as Strait of Hormuz reopens",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/06/19/kuwait-to-ramp-up-oil-output-to-two-million-bpd-within-a-week-as-strait-of-hormuz-reopens/",
+      "published": "2026-06-19T08:03:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/19/trump-iran-deal-legacy",
+      "title": "Trump\u2019s Iran deal could place his legacy in the hands of Tehran",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/19/trump-iran-deal-legacy",
+      "published": "2026-06-19T08:00:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3845737",
+      "title": "Special election win by Starmer rival could lead to UK PM\u2019s fall: 5 key players and where they stand on Israel",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/uk-special-election-could-topple-starmer-5-key-players-and-where-they-stand-on-israel/",
+      "published": "2026-06-19T07:31:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0b4d8f9701c6902d8e6c66e57f858b18",
+      "title": "Dubai Chambers discusses ways to strengthen trade and investment partnerships between Dubai and Ontario, Canada, during a series of meetings in Toronto. The meetings also explore opportunities to support Canadian companies seeking to expand into Dubai and regional markets.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2067870301220913301",
+      "published": "2026-06-19T07:21:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c03fa41c01b6d8bfe61a56ccdc602c5a",
+      "title": "#Kuwait's 65th Independence Anniversary .. milestone in modern state-building journey (Report)  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2067869441249984522",
+      "published": "2026-06-19T07:17:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b4e3c21bffe45e35bc5ae3980a08e445",
+      "title": "Al Jalila Foundation signs a donation agreement with Easa Saleh Al Gurg Charity Foundation to support Dubai Health's Hamdan Bin Rashid Cancer Hospital, Dubai's first integrated and comprehensive cancer hospital, through an AED 20 million contribution towards advanced engineering systems.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2067867759510221155",
+      "published": "2026-06-19T07:11:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/19/normal-shipping-will-not-resume-in-strait-of-hormuz-until-mines-cleared",
+      "title": "Normal shipping will not resume in strait of Hormuz until 80 mines cleared",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/19/normal-shipping-will-not-resume-in-strait-of-hormuz-until-mines-cleared",
+      "published": "2026-06-19T06:57:10+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f360ebc12184cde8816c5f4cc7e7226e",
+      "title": "#Switzerland's Foreign Ministry announces the postponement of US-Iran talks  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2067863335870104012",
+      "published": "2026-06-19T06:53:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3846000",
+      "title": "Opening round of US-Iran talks canceled as Tehran said to demand halt to Lebanon fighting",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/first-round-of-us-iran-talks-in-switzerland-called-off-clouding-prospects-for-lasting-truce/",
+      "published": "2026-06-19T06:47:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3846005",
+      "title": "Jewish groups push back against Trump\u2019s Iran deal \u2014 but for now more quietly than in 2015",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/jewish-groups-push-back-against-trumps-iran-deal-but-for-now-more-quietly-than-in-2015/",
+      "published": "2026-06-19T06:15:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c7d86ab5c4b2ccaa97c19f6d3359fef9",
+      "title": "Talks that had been planned for \u200bFriday between the \u200cUnited States and Iran at the Burgenstock mountaintop \u200bresort in Switzerland \u200bwill not take place, \u2060according to a \u200bSwiss foreign ministry statement.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2067847861362913334",
+      "published": "2026-06-19T05:52:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -16,7 +588,29 @@
         "lat": 32.4279,
         "lng": 53.688
       },
-      "credibility": 90,
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/06/19/us-iran-talks-delayed-israel-seizes-land-and-uae-tightens-social-media-rules/",
+      "title": "US-Iran talks delayed, Israel seizes land and UAE tightens social media rules",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/06/19/us-iran-talks-delayed-israel-seizes-land-and-uae-tightens-social-media-rules/",
+      "published": "2026-06-19T05:26:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -69,116 +663,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/19/live-us-iran-war-hormuz-deal/",
-      "title": "Iran war latest: Vance says 12.5 million barrels of oil have passed through Strait of Hormuz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/19/live-us-iran-war-hormuz-deal/",
-      "published": "2026-06-19T03:47:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781840478",
-      "title": "Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss",
-      "published": "2026-06-19T03:44:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/19/us-and-iran-set-to-begin-race-against-time-in-burgenstock-to-seal-elusive-peace-deal/",
-      "title": "US and Iran set to begin race against time in Burgenstock to seal elusive peace deal",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/19/us-and-iran-set-to-begin-race-against-time-in-burgenstock-to-seal-elusive-peace-deal/",
-      "published": "2026-06-19T03:24:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/editorial/2026/06/19/iran-us-mou-deal-middle-east/",
-      "title": "US-Iran deal is a cautious step in the right direction",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/06/19/iran-us-mou-deal-middle-east/",
-      "published": "2026-06-19T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/19/not-solid-scepticism-and-hope-among-iranians-over-us-iran-plan/",
-      "title": "'Not solid': scepticism and hope among Iranians over US-Iran plan",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/19/not-solid-scepticism-and-hope-among-iranians-over-us-iran-plan/",
-      "published": "2026-06-19T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=181337",
       "title": "Vance postpones Iran talks trip amidst a shaky ceasefire in Lebanon",
       "source": "Ya Libnan",
@@ -202,7 +686,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3845979",
-      "title": "Moscow oil refinery set ablaze as Ukraine launches massive drone attack",
+      "title": "Moscow oil refinery set ablaze as Ukraine launches biggest drone attack in years",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/moscow-oil-refinery-set-ablaze-as-ukraine-launches-massive-drone-attack/",
       "published": "2026-06-19T02:52:28+00:00",
@@ -267,138 +751,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3845969",
-      "title": "Trump: \u2018We expect a complete ceasefire\u2019 between Hezbollah and Israel",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/trump-we-expect-a-complete-ceasefire-between-hezbollah-and-israel/",
-      "published": "2026-06-19T02:00:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781826643",
-      "title": "Canada vs Qatar World Cup: 3 goals for David, 2 red cards, 1 injured Kone",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/6/19/canada-vs-qatar-world-cup-3-goals-for-david-2-red-cards-1-injured-kone?traffic_source=rss",
-      "published": "2026-06-19T01:14:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 1,
-        "military": 0,
-        "civilian": 1
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781829034",
-      "title": "EU won\u2019t lift key Iran sanctions until formal nuclear deal reached",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/eu-wont-lift-key-iran-sanctions-until-formal-nuclear-deal-reached?traffic_source=rss",
-      "published": "2026-06-19T00:41:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3845962",
-      "title": "Planned US-Iran talks today in Burgenstock canceled, Switzerland confirms",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/liveblog-june-19-2026/",
-      "published": "2026-06-19T00:32:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3845946",
-      "title": "Poll: 71% of Israelis don\u2019t trust Trump to look out for them in Iran deal; just 11% say Israel won war",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/poll-71-of-israelis-dont-trust-trump-to-look-out-for-them-in-iran-deal-just-11-say-israel-won-war/",
-      "published": "2026-06-19T00:17:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1781817886",
-      "title": "Iran war live: JD Vance delays trip to Switzerland for talks with Tehran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/6/19/iran-war-live-jd-vance-defends-iran-deal-as-us-says-naval-blockade-lifted?traffic_source=rss",
-      "published": "2026-06-19T00:00:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/us-news/2026/jun/19/jd-vance-israel-iran-deal-critics",
       "title": "JD Vance tells Iran deal critics in Israel: Trump is your only ally left in the world",
       "source": "The Guardian",
@@ -413,28 +765,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3843638",
-      "title": "NYC primary elections test anti-Israel congressional candidates\u2019 aspirations",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/nyc-primary-elections-test-anti-israel-congressional-candidates-aspirations/",
-      "published": "2026-06-18T22:24:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -487,28 +817,6 @@
       }
     },
     {
-      "id": "49cc16860b73c2e92c98bfef5e3d223a",
-      "title": "#Oman's Foreign Minister Sayyid Badr Al-Busaidi and #Germany's counterpart Johann Wadephul reaffirm support for all efforts aimed at ensuring the success of the recently signed US-Iran memo of understanding  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2067724437000982608",
-      "published": "2026-06-18T21:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=181327",
       "title": "US lifts Iran ports blockade as uncertainty clouds planned Switzerland talks",
       "source": "Ya Libnan",
@@ -545,50 +853,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "db7e8d631e3672d7e6d37f0a28ca9a7c",
-      "title": "Iran's Supreme Leader Mojtaba Khamenei says that the technical negotiations to be held later with the #United States would be face-to-face  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2067712980079227315",
-      "published": "2026-06-18T20:56:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3845880",
-      "title": "Vance slams Israeli \u2018freakout\u2019 over Iran deal, says Trump only world leader who still likes Israel",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/vance-slams-israeli-freakout-over-iran-deal-says-trump-only-world-leader-who-still-likes-israel/",
-      "published": "2026-06-18T20:53:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -707,28 +971,6 @@
       }
     },
     {
-      "id": "3587a60abbbe60490d6506e79483dbf2",
-      "title": "#US President Donald Trump expects a complete ceasefire on all fronts in the Middle East, including #Lebanon, reiterating commitment to peace  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2067697634685399115",
-      "published": "2026-06-18T19:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/us-news/2026/jun/18/gas-prices-fall-iran-deal",
       "title": "Gas prices fall below $4 on average after Trump\u2019s signing of Iran deal to end war",
       "source": "The Guardian",
@@ -788,50 +1030,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e7014ab98612811a460a4d79f492a2bf",
-      "title": "Kuwait Petroleum Corporation (KPC) plans to raise the country's oil production to two million barrels per day (bpd) within a week, amid the reopening of the Strait of Hormuz under a US-Iran peace agreement, according to KPC's Deputy Chairman and CEO Sheikh Nawaf Saud Al-Sabah  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2067689049976971346",
-      "published": "2026-06-18T19:20:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/picture/2026/jun/18/ben-jennings-donald-trump-ceasefire-deal-iran-cartoon",
-      "title": "Ben Jennings on Trump\u2019s ceasefire deal with Iran \u2013 cartoon",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/picture/2026/jun/18/ben-jennings-donald-trump-ceasefire-deal-iran-cartoon",
-      "published": "2026-06-18T18:11:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -949,50 +1147,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/news/audio/2026/jun/18/donald-trump-iran-deal-the-art-of-the-fail-the-latest",
-      "title": "Trump\u2019s Iran deal: the art of the fail? \u2013 The Latest",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/news/audio/2026/jun/18/donald-trump-iran-deal-the-art-of-the-fail-the-latest",
-      "published": "2026-06-18T16:12:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/jun/18/donald-trump-ceasefire-deal-victory-iran-sanctions-tehran-us",
-      "title": "Trump thinks his freshly signed ceasefire deal is a victory. It is \u2013 for Iran | Simon Jenkins",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/jun/18/donald-trump-ceasefire-deal-victory-iran-sanctions-tehran-us",
-      "published": "2026-06-18T16:07:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.5631,
-        "lng": 35.3689
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/clyegr2mp8jo#0",
       "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
       "source": "BBC Middle East",
@@ -1007,28 +1161,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/18/iran-peace-deal-us-trump",
-      "title": "Iran peace deal makes clear how far US has been forced to retreat since 2025",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/18/iran-peace-deal-us-trump",
-      "published": "2026-06-18T15:41:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1074,28 +1206,6 @@
       },
       "credibility": 80,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "07e929c2d76db0a00ea3945351dd84f2",
-      "title": "Camelicious from Dubai The Makers of Camel Milk The world's largest and most advanced camel milk production facility Home to 7,000 camels Produces 3 million litres of camel milk annually Farm area 300 hectares Exports its products to +15 countries worldwide",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2067610814870426027",
-      "published": "2026-06-18T14:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1359,28 +1469,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/pentagon-congress/2026/06/17/congress-seeks-to-limit-us-navy-vessels-built-in-foreign-shipyards/",
-      "title": "Congress seeks to limit US Navy vessels built in foreign shipyards",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/06/17/congress-seeks-to-limit-us-navy-vessels-built-in-foreign-shipyards/",
-      "published": "2026-06-17T17:10:15+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
