@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-06-20T17:38:34.658421+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-06-20T19:43:31.508865+00:00",
+  "total_incidents": 69,
   "incidents": [
+    {
+      "id": "0cc4c80f6d3ca18895413490650c5ad5",
+      "title": "#CENTCOM: More than 17 millions barrels of oil transit Strait of #Hormuz  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2068411303060803956",
+      "published": "2026-06-20T19:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3846654",
+      "title": "IDF strikes in Gaza said to kill at least 9, including Al Jazeera cameraman",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/idf-strikes-in-gaza-said-to-kill-at-least-9-including-al-jazeera-cameraman/",
+      "published": "2026-06-20T18:58:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cx240k9l112o#0",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-20T18:36:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/20/live-us-iran-deal-negotiations-burgenstock-switzerland/",
+      "title": "Iran war latest: Tehran sends top financial and oil officials as part of delegation to Switzerland",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/20/live-us-iran-deal-negotiations-burgenstock-switzerland/",
+      "published": "2026-06-20T18:30:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/20/deadly-strikes-in-lebanon-continue-before-us-iran-talks/",
+      "title": "Iran declares closure of Strait of Hormuz over deadly Israeli strikes in Lebanon",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/20/deadly-strikes-in-lebanon-continue-before-us-iran-talks/",
+      "published": "2026-06-20T18:16:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781978147",
+      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
+      "published": "2026-06-20T18:07:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cwylx1vq18zo#0",
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-20T17:40:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781971744",
+      "title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
+      "published": "2026-06-20T17:39:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
       "title": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
@@ -223,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1781966894",
-      "title": "Iran warns of \u2018reciprocal action\u2019 if US doesn\u2019t honour MOU commitments",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-warns-of-reciprocal-action-if-us-doesnt-honour-mou-commitments?traffic_source=rss",
-      "published": "2026-06-20T15:10:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/06/20/latest-us-iran-deal-talks-switzerland-burgenstock/",
       "title": "US and Iranian officials set to begin peace talks in Switzerland",
       "source": "The National UAE",
@@ -267,30 +421,8 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1781963129",
-      "title": "Nine left in critical condition after UK train collision that killed driver",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss",
-      "published": "2026-06-20T14:50:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3846570",
-      "title": "Iran claims Hormuz closed again as IDF attacks Hezbollah, as Vance says Switzerland talks may start Sunday",
+      "title": "Iran claims Hormuz closed again as IDF attacks Hezbollah; Vance says Switzerland talks may start Sunday",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/iran-closes-hormuz-again-as-idf-attacks-hezbollah-upping-pressure-on-us-before-switzerland-talks/",
       "published": "2026-06-20T14:37:05+00:00",
@@ -333,28 +465,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/20/live-us-iran-deal-negotiations-burgenstock-switzerland/",
-      "title": "Iran war latest: Iran announces closure of Strait of Hormuz over Israeli strikes on Lebanon",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/20/live-us-iran-deal-negotiations-burgenstock-switzerland/",
-      "published": "2026-06-20T13:59:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "1046dbf3463e400d669f55f4a9dfe32a",
       "title": "Iran\u2019s central military command has officially declared the Strait of Hormuz closed to all maritime traffic, citing US and Israeli violations of a memorandum of understating between Tehran and Washington.",
       "source": "Mehr News (RSS.app)",
@@ -369,50 +479,6 @@
         "lng": 51.389
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cx240k9l112o#0",
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-20T13:23:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/20/deadly-strikes-in-lebanon-continue-before-us-iran-talks/",
-      "title": "Deadly strikes in Lebanon continue before US-Iran talks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/20/deadly-strikes-in-lebanon-continue-before-us-iran-talks/",
-      "published": "2026-06-20T13:13:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -502,28 +568,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "09c048d79308dae91f21fd21f662e9da",
-      "title": "KPC: #Kuwait oil price falls 24 cents to USD 85.66 pb  #KUNA @kpcofficialkw",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2068291787509170289",
-      "published": "2026-06-20T11:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -631,28 +675,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3846477",
-      "title": "Swastikas, hate speech reportedly printed in NYC UN-affiliated middle school yearbook",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/swastikas-hate-speech-reportedly-printed-in-nyc-un-affiliated-middle-school-yearbook/",
-      "published": "2026-06-20T07:18:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -1323,7 +1345,7 @@
       }
     },
     {
-      "id": "https://www.bbc.com/news/articles/clyegr2mp8jo#0",
+      "id": "https://www.bbc.com/news/articles/clyegr2mp8jo#1",
       "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
