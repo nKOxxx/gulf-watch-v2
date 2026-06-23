@@ -1,10 +1,450 @@
 {
-  "generated_at": "2026-06-23T03:58:07.809228+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-06-23T07:55:41.210703+00:00",
+  "total_incidents": 67,
   "incidents": [
     {
+      "id": "e371499b6f03430bb352e3e752b692a6",
+      "title": "#Kuwait oil price down 59 cents to USD 85.07 pb",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2069322055019806816",
+      "published": "2026-06-23T07:29:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "02f86575421230e71aa8a8d0a79ace63",
+      "title": "Environment is once again paying the price of Israeli occupation attacks on Lebanese villages and regions (FANA Report)  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2069321842817413445",
+      "published": "2026-06-23T07:29:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782198786",
+      "title": "How a dead extremist Rabbi still shapes Israeli politics today",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/how-a-dead-extremist-rabbi-still-shapes-israeli-politics-today?traffic_source=rss",
+      "published": "2026-06-23T07:17:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "25e44c2eb41c0f39dcfa521576119f08",
+      "title": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf met and held talks with Omani Foreign Minister Sayyid Badr bin Hamad al-Busaidi on Tuesday to discuss new arrangements to manage the strategic Strait of Hormuz.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2069316223691559137",
+      "published": "2026-06-23T07:06:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7203dcf5c604b9ceb1524b0534f3a1b8",
+      "title": "Emirates is honoured at the 2026 Business Traveller Middle East Awards, securing the industry\u2019s most coveted accolade, Best Airline Worldwide, alongside Best First Class and Best Airport Lounge in the Middle East for its First Class Lounge at Dubai International Airport.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2069310386525045115",
+      "published": "2026-06-23T06:43:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782185913",
+      "title": "Why Iran\u2019s President Pezeshkian is heading to Pakistan after US talks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/23/why-irans-president-pezeshkian-is-heading-to-pakistan-after-us-iran-talks?traffic_source=rss",
+      "published": "2026-06-23T06:37:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/06/23/uae-issues-urgent-alert-over-bogus-botox-treatment-posing-serious-risk-to-health/",
+      "title": "UAE issues urgent alert over bogus Botox treatment posing 'serious risk to health'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/23/uae-issues-urgent-alert-over-bogus-botox-treatment-posing-serious-risk-to-health/",
+      "published": "2026-06-23T06:34:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782182817",
+      "title": "Ronaldo, Portugal play Uzbekistan in World Cup: prediction and team news",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/6/23/portugal-vs-uzbekistan-world-cup-ronaldo-prediction-kickoff-team-news?traffic_source=rss",
+      "published": "2026-06-23T06:30:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/06/23/rubio-visits-gulf-to-discuss-iran-deal-qatar-blast-kills-13-and-uae-hotels-see-strong-recovery/",
+      "title": "Rubio visits Gulf to discuss Iran deal, Qatar blast kills 13 and UAE hotels see strong recovery",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/06/23/rubio-visits-gulf-to-discuss-iran-deal-qatar-blast-kills-13-and-uae-hotels-see-strong-recovery/",
+      "published": "2026-06-23T06:20:32+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/23/world-cup-2026-egypt-denied-request-to-stay-in-seattle-ahead-of-iran-game/",
+      "title": "World Cup 2026: Egypt denied request to stay in Seattle ahead of Iran game",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/23/world-cup-2026-egypt-denied-request-to-stay-in-seattle-ahead-of-iran-game/",
+      "published": "2026-06-23T06:13:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/lifestyle/2026/06/23/king-abdullah-crown-prince-hussein-and-princess-rajwa-support-jordan-as-world-cup-dream-comes-to-an-end/",
+      "title": "King Abdullah, Crown Prince Hussein and Princess Rajwa support Jordan as World Cup dream comes to an end",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/lifestyle/2026/06/23/king-abdullah-crown-prince-hussein-and-princess-rajwa-support-jordan-as-world-cup-dream-comes-to-an-end/",
+      "published": "2026-06-23T06:13:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3848241",
+      "title": "Man shot dead near northern Arab Israeli town of Kabul in suspected homicide",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/man-shot-dead-near-northern-arab-israeli-town-of-kabul-in-suspected-homicide/",
+      "published": "2026-06-23T06:11:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3848244",
+      "title": "Trump-endorsed, pro-Israel populist poised to become Colombia\u2019s next president",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/trump-endorsed-pro-israel-populist-poised-to-become-colombias-next-president/",
+      "published": "2026-06-23T06:03:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782191766",
+      "title": "Giannis Antetokounmpo trade: Bucks star to join Miami Heat \u2013 reports",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/6/23/giannis-antetokounmpo-trade-milwaukee-bucks-miami-heat-nba-basketball-reports?traffic_source=rss",
+      "published": "2026-06-23T05:47:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781782446",
+      "title": "Football offers escape for Gaza, but World Cup spirit dimmed",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/6/23/gaza-world-cup-football-offers-escape?traffic_source=rss",
+      "published": "2026-06-23T05:41:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782150962",
+      "title": "Palestine weekly wrap: Israel\u2019s \u2018quiet annexation\u2019 grows louder",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/23/palestine-weekly-wrap-israels-quiet-annexation-grows-louder?traffic_source=rss",
+      "published": "2026-06-23T05:40:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3848214",
+      "title": "Trump: If Iran doesn\u2019t abide by deal, \u2018I will do what I have to do\u2019 to prevent nuke",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/trump-if-iran-doesnt-abide-by-deal-i-will-do-what-i-have-to-do-to-prevent-nuke/",
+      "published": "2026-06-23T05:24:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4998f1d649daab9820d766068ac9b89c",
+      "title": "Technical talks on implementing the Iran-US MoU concluded with agreement on four working groups, Iran's deputy foreign minister and chief technical negotiator said.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2069287463604888002",
+      "published": "2026-06-23T05:12:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3848216",
+      "title": "Extradited US-Israeli indicted in Florida for 2016-2017 threats to Jewish institutions",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/extradited-us-israeli-indicted-in-florida-for-2016-2017-threats-to-jewish-institutions/",
+      "published": "2026-06-23T05:08:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/environment/2026/jun/23/iran-war-oil-prices-hormuz-el-nino-south-east-asia-impact",
+      "title": "\u2018Compound shock effect\u2019: why the Middle East crisis and El Ni\u00f1o could spell disaster in south-east Asia",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/environment/2026/jun/23/iran-war-oil-prices-hormuz-el-nino-south-east-asia-impact",
+      "published": "2026-06-23T04:39:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3848173",
-      "title": "On eve of direct Jerusalem-Beirut talks, Netanyahu vows to maintain presence in Lebanon",
+      "title": "On eve of direct Jerusalem-Beirut talks, Israel vows to maintain presence in Lebanon",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/on-eve-of-direct-jerusalem-beirut-talks-netanyahu-vows-to-maintain-presence-in-lebanon/",
       "published": "2026-06-23T03:23:53+00:00",
@@ -135,28 +575,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1782178999",
-      "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "published": "2026-06-23T01:45:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=181495",
       "title": "Iran Is Taking America for a Ride",
       "source": "Ya Libnan",
@@ -171,72 +589,6 @@
         "lng": 53.688
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/23/mbappe-dazzles-as-france-outclass-iraq-in-stormy-philadelphia/",
-      "title": "Mbappe dazzles as France outclass Iraq in stormy Philadelphia",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/23/mbappe-dazzles-as-france-outclass-iraq-in-stormy-philadelphia/",
-      "published": "2026-06-23T01:32:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782177387",
-      "title": "Israeli strike kills Palestinian girl on her way to sit exam",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
-      "published": "2026-06-23T01:23:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782174877",
-      "title": "Mbappe leads France to win over Iraq in lightning-delayed World Cup game",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/6/23/mbappe-leads-france-to-win-over-iraq-in-lightening-delayed-world-cup-tie?traffic_source=rss",
-      "published": "2026-06-23T00:59:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -356,17 +708,17 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3848163",
-      "title": "Departing Switzerland, Iran\u2019s top negotiator insists Strait of Hormuz will be managed by Tehran",
+      "title": "Smotrich vows no IDF withdrawal \u2018as long as Hezbollah exists in Lebanon\u2019",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
       "published": "2026-06-22T22:14:47+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "Lebanon",
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 33.8547,
+        "lng": 35.8623
       },
       "credibility": 85,
       "is_government": false,
@@ -392,94 +744,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3848105",
-      "title": "Jewish man killed in Montreal shooting that also left a police officer dead",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
-      "published": "2026-06-22T22:07:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "37f6827f71b7444d3fbee73d18cb361c",
-      "title": "#Iraq Prime Minister Ali Al-Zaidi &Turkiye's President Recep Tayyip Erdogan discuss over the phone oil exports via the Kirkuk-Ceyhan pipeline, water security and trade exchange  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2069157280914829622",
-      "published": "2026-06-22T20:35:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3848053",
-      "title": "NYC cafe bars Jewish congressman for Israel ties: \u2018We don\u2019t serve genocide enablers\u2019",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/nyc-coffee-shop-bars-jewish-congressman-we-dont-serve-genocide-enablers/",
-      "published": "2026-06-22T19:46:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/06/22/man-charged-with-terrorism-related-anti-muslim-attacks-in-edinburgh/",
-      "title": "Man charged with terrorism-related 'anti-Muslim attacks' in Edinburgh",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/06/22/man-charged-with-terrorism-related-anti-muslim-attacks-in-edinburgh/",
-      "published": "2026-06-22T19:33:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1103,28 +1367,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/video/2026/jun/21/jd-vance-meets-pakistan-delegation-before-iran-talks-in-switzerland-video",
-      "title": "JD Vance meets Pakistan delegation before Iran talks in Switzerland \u2013 video",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/video/2026/jun/21/jd-vance-meets-pakistan-delegation-before-iran-talks-in-switzerland-video",
-      "published": "2026-06-21T11:19:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "116afb6e5e2900c47a266c0c24845cf7",
       "title": "An Iranian delegation, headed by Parliament Speaker Mohammad Bagher Ghalibaf, has traveled to Switzerland for a new round of talks with the US following the conclusion of the Islamabad memorandum of understanding.",
       "source": "Mehr News (RSS.app)",
@@ -1227,28 +1469,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1046dbf3463e400d669f55f4a9dfe32a",
-      "title": "Iran\u2019s central military command has officially declared the Strait of Hormuz closed to all maritime traffic, citing US and Israeli violations of a memorandum of understating between Tehran and Washington.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2068332226987647004",
-      "published": "2026-06-20T13:56:00+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 70,
       "is_government": false,
       "casualties": {
         "total": 0,
