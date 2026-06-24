@@ -1,20 +1,108 @@
 {
-  "generated_at": "2026-06-24T20:01:04.196846+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-06-24T23:09:03.055017+00:00",
+  "total_incidents": 66,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1782324465",
-      "title": "UN nuclear chief says Iran inspections will happen, Tehran says after deal",
+      "id": "https://www.timesofisrael.com/?p=3849340",
+      "title": "Polls show support for Bennett-Lapid alliance slipping as Eisenkot\u2019s party climbs",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/polls-show-support-for-bennett-lapid-alliance-slipping-as-eisenkots-party-climbs/",
+      "published": "2026-06-24T22:41:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782334357",
+      "title": "European heatwave, scorching weather triggers UK \u2018red\u2019 warning",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal?traffic_source=rss",
-      "published": "2026-06-24T19:33:17+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/european-heatwave-scorching-weather-triggers-uk-red-warning?traffic_source=rss",
+      "published": "2026-06-24T22:31:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/06/24/trump-faces-sharp-criticism-from-fellow-republicans-over-iran-war/",
+      "title": "Trump faces sharp criticism from fellow Republicans over Iran war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/06/24/trump-faces-sharp-criticism-from-fellow-republicans-over-iran-war/",
+      "published": "2026-06-24T22:25:29+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=88156",
+      "title": "Lockheed inks massive THAAD deal worth up to $35B",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/lockheed-inks-massive-thaad-deal-worth-up-to-35b/",
+      "published": "2026-06-24T22:10:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
+      "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
+      "published": "2026-06-24T21:49:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -25,11 +113,33 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1782324241",
-      "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
+      "id": "b5ddcd53b5c983d7f1f3fa910bc9bfc1",
+      "title": "Two people were killed in an Israeli occupation drone strike targeting a vehicle in southern Lebanon, the Lebanese Ministry of Public Health announced.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2069899027743748504",
+      "published": "2026-06-24T21:42:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782336560",
+      "title": "Katz: Israel will not withdraw from Lebanon even if US demands it",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/24/wins-by-mamdani-backed-candidates-deal-blow-to-pro-israel-camp-in-us?traffic_source=rss",
-      "published": "2026-06-24T19:33:12+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_israel-will-not-withdraw-from-lebanon-us-demands-240626?traffic_source=rss",
+      "published": "2026-06-24T21:35:35+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -47,11 +157,77 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1782326710",
-      "title": "Why does Israel want to be less dependent on US weapons?",
+      "id": "https://www.defensenews.com/news/pentagon-congress/2026/06/24/white-house-asks-congress-for-876-billion-mostly-for-iran-war/",
+      "title": "White House asks Congress for $87.6 billion, mostly for Iran war",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/06/24/white-house-asks-congress-for-876-billion-mostly-for-iran-war/",
+      "published": "2026-06-24T21:30:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=88134",
+      "title": "White House sends $87.6B supplemental to Congress, with $67B for defense",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/white-house-sends-87-6b-supplemental-to-congress-with-67b-for-defense/",
+      "published": "2026-06-24T21:19:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782331789",
+      "title": "Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss",
-      "published": "2026-06-24T19:27:46+00:00",
+      "source_url": "https://www.aljazeera.com/sports/2026/6/24/mehdi-taremi-assistant-coach-held-up-at-airport-by-us-officials-iran-says?traffic_source=rss",
+      "published": "2026-06-24T21:01:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782332584",
+      "title": "Palestinian activist faints after his release from Israeli prison",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-activist-faints-after-his-release-from-israeli-prison?traffic_source=rss",
+      "published": "2026-06-24T20:57:55+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -61,6 +237,94 @@
         "lng": 34.8516
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/06/24/us-support-of-israel-poll/",
+      "title": "Nearly half of Americans polled say US is too supportive of Israel",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/06/24/us-support-of-israel-poll/",
+      "published": "2026-06-24T20:45:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3849266",
+      "title": "Colombia\u2019s president-elect vows to work with Israel \u2018like never before\u2019",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/colombias-president-elect-vows-to-work-with-israel-like-never-before/",
+      "published": "2026-06-24T20:45:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3849262",
+      "title": "Israelis less sure US takes country\u2019s interests into account, poll finds",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/israelis-less-sure-us-takes-countrys-interests-into-account-poll-finds/",
+      "published": "2026-06-24T20:45:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181584",
+      "title": "Iran\u2019s chief  negotiator calls deal struck with U.S. a \u201cdeclaration of America\u2019s defeat\u201d",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/24/irans-chief-negotiator-calls-deal-struck-with-u-s-a-declaration-of-americas-defeat/?utm_source=rss&utm_medium=rss&utm_campaign=irans-chief-negotiator-calls-deal-struck-with-u-s-a-declaration-of-americas-defeat",
+      "published": "2026-06-24T20:43:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -135,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1782281239",
-      "title": "Our life stops\u2019: West Bank childhood shattered by Israeli military raids",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/6/24/our-life-stops-west-bank-childhood-shattered-by-israeli-military-raids?traffic_source=rss",
-      "published": "2026-06-24T18:20:11+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/06/24/us-wont-do-anything-to-undermine-gulf-security-says-rubio/",
       "title": "US 'won't do anything' to undermine Gulf security, says Rubio",
       "source": "The National UAE",
@@ -193,72 +435,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782323949",
-      "title": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
-      "published": "2026-06-24T18:03:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782323398",
-      "title": "What to know about the Israeli-developed chip in Apple\u2019s iPhone 17e",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/what-to-know-about-the-israeli-developed-chip-in-apples-iphone-17e?traffic_source=rss",
-      "published": "2026-06-24T18:00:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
-      "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
-      "published": "2026-06-24T17:57:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -326,28 +502,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3849040",
-      "title": "Katz vows no IDF withdrawal from south Lebanon \u2018even if there\u2019s an American demand\u2019",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/katz-vows-no-idf-withdrawal-from-south-lebanon-even-if-theres-an-american-demand/",
-      "published": "2026-06-24T16:44:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -455,28 +609,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/24/syria-lebanon-hezbollah/",
-      "title": "No new Syrian troop build-up at border as Al Shara weighs Lebanon dilemma",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/24/syria-lebanon-hezbollah/",
-      "published": "2026-06-24T14:56:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.3463,
-        "lng": 55.4209
       },
       "credibility": 85,
       "is_government": false,
@@ -839,94 +971,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=87980",
-      "title": "Poland buys V-Bat UAVs from Shield AI for naval forces",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/06/poland-buys-v-bat-uavs-from-shield-ai-for-naval-forces/",
-      "published": "2026-06-23T20:20:47+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=181550",
-      "title": "Allow Lebanon to Become Lebanon Again",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/23/allow-lebanon-to-become-lebanon-again/?utm_source=rss&utm_medium=rss&utm_campaign=allow-lebanon-to-become-lebanon-again",
-      "published": "2026-06-23T20:16:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=87962",
-      "title": "Army launches new low-cost interceptor program, targets fall for first live fire demo",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/06/army-launches-new-low-cost-interceptor-program-targets-fall-for-first-live-fire-demo/",
-      "published": "2026-06-23T19:58:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fd5c2ba56d297e2fc775d314ea317b34",
-      "title": ". Lieutenant General Issa Saif bin Ablan Al Mazrouei, Chief of Staff of the UAE Armed Forces, received today Lieutenant ...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DZ8LOIYCNTe",
-      "published": "2026-06-23T19:32:02+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/06/23/us-army-tests-fire-control-software-that-helps-moving-vehicles-kill-drones/",
       "title": "US Army tests fire control software that helps moving vehicles kill drones",
       "source": "Defense News",
@@ -985,28 +1029,6 @@
         "lng": 56.5
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=87635",
-      "title": "\u2018High risk\u2019 sustainment: How Boeing and the Air Force battled over T-7 data rights",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/06/high-risk-sustainment-how-boeing-and-the-air-force-battled-over-t-7-data-rights/",
-      "published": "2026-06-23T17:25:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
