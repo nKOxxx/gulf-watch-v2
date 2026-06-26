@@ -1,13 +1,563 @@
 {
-  "generated_at": "2026-06-26T16:20:35.595585+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-06-26T19:56:51.658083+00:00",
+  "total_incidents": 74,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/06/26/we-dont-know-anything-about-300bn-iran-reconstruction-fund-says-gcc-secretary-general/",
-      "title": "We don't know anything about $300bn Iran reconstruction fund, says GCC Secretary General",
+      "id": "https://www.aljazeera.com/?t=1782497468",
+      "title": "Israeli attack on car in central Gaza kills three Palestinians",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
+      "published": "2026-06-26T19:49:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782500879",
+      "title": "How much disaster aid will the US provide to Venezuela?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/6/26/how-much-disaster-aid-will-the-u-s-provide-to-venezuela?traffic_source=rss",
+      "published": "2026-06-26T19:41:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782492531",
+      "title": "Trump threatens tariffs for countries that levy digital tax on US firms",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/26/trump-threatens-tariffs-for-countries-that-levy-digital-tax-on-us-firms?traffic_source=rss",
+      "published": "2026-06-26T19:38:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782496994",
+      "title": "Trump blames Iran for \u2018foolish\u2019 strike on cargo ship in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-06-26T19:26:16+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Egypt",
+        "city": null,
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5671ca9ab4756f5cd2d58056cbb90efe",
+      "title": "Gulf Cooperation Council (GCC) Secretary General Jasem Al-Budaiwi welcomes #Oman's announcement, in coordination with International Maritime Organization (IMO), to evacuate over 11,000 stranded seafarers by providing a temporary maritime corridor for vessels  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2070589603837264080",
+      "published": "2026-06-26T19:26:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782477122",
+      "title": "Is the AfD a threat to Germany? Mehdi Hasan & Maximilian Krah",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/head-to-head/2026/6/26/is-the-afd-a-threat-to-germany-mehdi-hasan-maximilian-krah?traffic_source=rss",
+      "published": "2026-06-26T19:24:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c5b6b1411e649f8a53b005801ca41eb5",
+      "title": "#US President Donald Trump accuses Iran of violating the recently signed ceasefire agreement by attacking ships transversing the Strait of Hormuz  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2070588121482199507",
+      "published": "2026-06-26T19:20:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/jun/26/trump-iran-drone-strike-strait-hormuz",
+      "title": "Trump blames Iran for drone strike on cargo ship in strait of Hormuz",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/jun/26/trump-iran-drone-strike-strait-hormuz",
+      "published": "2026-06-26T19:08:22+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Egypt",
+        "city": null,
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782499441",
+      "title": "Israel, Lebanon sign framework deal after US-mediated talks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/israel-lebanon-sign-framework-deal-after-us-mediated-talks?traffic_source=rss",
+      "published": "2026-06-26T19:05:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3850639",
+      "title": "Ex-US national security adviser Bolton pleads guilty in classified information case",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/ex-us-national-security-adviser-bolton-pleads-guilty-in-classified-information-case/",
+      "published": "2026-06-26T19:04:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/26/poor-response-to-call-for-mass-protests-in-gaza-over-living-conditions/",
+      "title": "Poor response to call for mass protests in Gaza over living conditions",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/06/26/we-dont-know-anything-about-300bn-iran-reconstruction-fund-says-gcc-secretary-general/",
-      "published": "2026-06-26T16:00:49+00:00",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/26/poor-response-to-call-for-mass-protests-in-gaza-over-living-conditions/",
+      "published": "2026-06-26T18:45:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "404f06974d50c55304c162e37958258b",
+      "title": "The #US, #Lebanon & the Israeli occupation sign a framework agreement in Washington on Friday after several days of direct negotiations, aiming at ending hostilities  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2070577228467806447",
+      "published": "2026-06-26T18:37:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782496127",
+      "title": "Rescuers race to find survivors of Venezuelan earthquakes",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_inside-venezuelas-race-to-find-earthquake-survivors-260626?traffic_source=rss",
+      "published": "2026-06-26T18:10:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3850611",
+      "title": "6 settlers indicted on terror charges for arson attack on West Bank mosque with people inside",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/6-settlers-indicted-on-terror-charges-for-arson-attack-on-west-bank-mosque-with-people-inside/",
+      "published": "2026-06-26T18:08:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9466,
+        "lng": 35.3027
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo#0",
+      "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-26T18:03:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/06/26/us-pressure-has-put-straitjacket-on-israel-in-lebanon-says-michael-herzog/",
+      "title": "Israel is really restraining itself in Lebanon, says Michael Herzog",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/26/us-pressure-has-put-straitjacket-on-israel-in-lebanon-says-michael-herzog/",
+      "published": "2026-06-26T18:01:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782490063",
+      "title": "Israeli prosecutors charge six settlers after West Bank mosque attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/26/israeli-prosecutors-charge-six-settlers-after-west-bank-mosque-attack?traffic_source=rss",
+      "published": "2026-06-26T18:00:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782496426",
+      "title": "Why did these World Cup ads strike a nerve in Egypt?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt-2?traffic_source=rss",
+      "published": "2026-06-26T17:55:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3850618",
+      "title": "Bucking threats, hundreds in Gaza seen protesting Hamas for first time in a year",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/bucking-threats-hundreds-in-gaza-seen-protesting-hamas-for-first-time-in-a-year/",
+      "published": "2026-06-26T17:37:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=88319",
+      "title": "AM General CEO defends JLTV A2 program after lawmakers\u2019 funding threat",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/am-general-ceo-defends-jltv-a2-program-after-lawmakers-funding-threat/",
+      "published": "2026-06-26T17:30:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5ae97a1ed0b3d3e987f432a96896ed9d",
+      "title": "Naayos na ang Teknikal na Problema sa Early Warning System; Nagpapasalamat ang mga Awtoridad sa Pakikiisa ng Komunidad",
+      "source": "UAE NCEMA (RSS.app)",
+      "source_url": "https://x.com/NCEMAUAE/status/2070554080385359992",
+      "published": "2026-06-26T17:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=88232",
+      "title": "Prime Minister Andy Burnham comes with defense and national security implications",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/prime-minister-andy-burnham-comes-with-defense-and-national-security-implications/",
+      "published": "2026-06-26T16:45:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-army/2026/06/26/101st-soldiers-use-drones-to-drop-grappling-hooks-breach-razor-wire/",
+      "title": "101st soldiers use drones to drop grappling hooks, breach razor wire",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-army/2026/06/26/101st-soldiers-use-drones-to-drop-grappling-hooks-breach-razor-wire/",
+      "published": "2026-06-26T16:38:09+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=181642",
+      "title": "Vance, Rubio split on Iran war, Israel in Lebanon",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/06/26/vance-rubio-split-on-iran-war-israel-in-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=vance-rubio-split-on-iran-war-israel-in-lebanon",
+      "published": "2026-06-26T16:25:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "504d5a9430982d7c28b9f7d6c90c51f1",
+      "title": "Resoluci\u00f3n de un fallo t\u00e9cnico en el sistema de alerta temprana y agradecimiento por la cooperaci\u00f3n y comprensi\u00f3n de la comunidad",
+      "source": "UAE NCEMA (RSS.app)",
+      "source_url": "https://x.com/NCEMAUAE/status/2070543946095493596",
+      "published": "2026-06-26T16:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3850585",
+      "title": "2 men go on trial in Germany over alleged Iran-backed plots targeting Jews",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/2-men-go-on-trial-in-germany-over-alleged-iran-backed-plots-targeting-jews/",
+      "published": "2026-06-26T16:21:35+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +568,28 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5d560545bfce6667e13cfcf339e2c7b4",
+      "title": ". The National Emergency, Crisis and Disaster Management Authority (NCEMA) announced that an unexpected technical malfun...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DaDg6kjCNFg",
+      "published": "2026-06-26T15:56:17+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -61,72 +633,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/06/26/sheikh-abdullah-receives-call-from-irans-foreign-minister/",
-      "title": "Sheikh Abdullah receives call from Iran's Foreign Minister",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/26/sheikh-abdullah-receives-call-from-irans-foreign-minister/",
-      "published": "2026-06-26T15:17:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782480088",
-      "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss",
-      "published": "2026-06-26T14:59:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782480099",
-      "title": "Morocco jails 29, including politicians and sports figures, in drug trial",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/26/morocco-jails-29-including-politicians-and-sports-figures-in-drug-trial?traffic_source=rss",
-      "published": "2026-06-26T14:48:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -201,138 +707,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/26/messi-jordan-argentina/",
-      "title": "Messi video strikes fear into Jordanian hearts before World Cup match",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/26/messi-jordan-argentina/",
-      "published": "2026-06-26T14:19:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782475941",
-      "title": "Iran slams the GCC and the US for \u2018interventionist\u2019 statement: What we know",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
-      "published": "2026-06-26T14:04:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/26/live-israel-lebanon-hezbollah-us-iran-deal-2/",
-      "title": "Iran war latest: Ceasefire under strain as Israel says military killed Hezbollah members in Lebanon",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/26/live-israel-lebanon-hezbollah-us-iran-deal-2/",
-      "published": "2026-06-26T14:03:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/06/26/uae-public-told-to-disregard-safety-alert-after-warning-issued/",
-      "title": "Friday afternoon safety alerts due to 'technical malfunction', authorities say",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/26/uae-public-told-to-disregard-safety-alert-after-warning-issued/",
-      "published": "2026-06-26T13:41:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782325426",
-      "title": "Iraq\u2019s new PM launches anticorruption campaign, but is it enough?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/26/iraqs-new-pm-launches-anticorruption-campaign-but-is-it-enough?traffic_source=rss",
-      "published": "2026-06-26T13:37:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782474132",
-      "title": "Hezbollah demands Israel leave Lebanon \u2018unconditionally\u2019 as US talks extend",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/26/hezbollah-demands-israel-leave-lebanon-unconditionally-as-us-talks-extend?traffic_source=rss",
-      "published": "2026-06-26T13:28:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "7251764f77c22d41f2b0f0d33c4dede3",
       "title": "Dubai Municipality collaborates with internationally renowned architects, including Japanese architect Kengo Kuma, to redesign Alkhazzan Park through a design vision that blends architectural innovation with local cultural identity, enhancing quality of life while supporting the goals of the Dubai 2040 Urban Master Plan. @DMunicipality",
       "source": "Dubai Media Office (RSS.app)",
@@ -355,28 +729,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/europe/2026/06/26/mapping-russias-call-to-xbox-warriors-to-wage-its-ukraine-drone-offensive/",
-      "title": "Mapping Russia's call to Xbox warriors to wage its Ukraine drone offensive",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/06/26/mapping-russias-call-to-xbox-warriors-to-wage-its-ukraine-drone-offensive/",
-      "published": "2026-06-26T13:11:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "817b3c1e2595b1da6cbee7836c3bf4e3",
       "title": "RT by @CivilDefenceAD: RT by @CivilDefenceAD: Teams from Abu Dhabi Police and Abu Dhabi Civil Defence Authority have controlled a fire that broke out Friday morning at the Carpet Souk near Zayed Port in Abu Dhabi. Cooling and smoke extraction operations are underway, with no injuries reported, whilst traffic in the area is flowing normally. Abu Dhabi Police urges the public to obtain information from official sources only.",
       "source": "Abu Dhabi Civil Defence (RSS.app)",
@@ -392,28 +744,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/06/26/steep-property-discounts-lure-gulf-buyers-back-to-london/",
-      "title": "Steep property discounts lure Gulf buyers back to London",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/06/26/steep-property-discounts-lure-gulf-buyers-back-to-london/",
-      "published": "2026-06-26T12:45:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -457,28 +787,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3850432",
-      "title": "4 IDF soldiers injured in Lebanon clash with Hezbollah gunman, ahead of another day of talks",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/four-idf-soldiers-injured-in-southern-lebanon-clash-with-hezbollah-gunman/",
-      "published": "2026-06-26T12:23:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -531,30 +839,8 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjwg9np904qo#0",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-26T11:27:59+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Egypt",
-        "city": null,
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go#0",
-      "title": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
+      "title": "Rainbow flags await Egypt and Iran at awkward Pride Match",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
       "published": "2026-06-26T11:20:11+00:00",
@@ -567,28 +853,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3850453",
-      "title": "Seven arrested over March bombing of Belgian synagogue",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/seven-arrested-over-march-bombing-of-belgian-synagogue/",
-      "published": "2026-06-26T11:11:43+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -861,28 +1125,6 @@
       }
     },
     {
-      "id": "bf6fb924311d656ab98d703b918dc1da",
-      "title": "Kuwait's Permanent Representative to the United Nations, Ambassador Tareq Al-Bannai, has renewed his country's stalwart support for Judge Mahmoud Al-Hamoud's election to the International Court of Justice (ICJ), lauding his illustrious legal career and monumental contributions to international jurisprudence.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2070361989130391625",
-      "published": "2026-06-26T04:22:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/unmanned/2026/06/25/ukraines-top-strike-drone-maker-moves-into-ballistic-missile-defense/",
       "title": "Ukraine\u2019s top strike-drone maker moves into ballistic missile defense",
       "source": "Defense News",
@@ -1147,28 +1389,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/opinion/2026/06/25/europes-defense-build-up-depends-on-getting-partnerships-right/",
-      "title": "Europe\u2019s defense build-up depends on getting partnerships right",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/opinion/2026/06/25/europes-defense-build-up-depends-on-getting-partnerships-right/",
-      "published": "2026-06-25T13:40:27+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=181620",
       "title": "Iran war live: Rubio says zero support from GCC states for Iran Hormuz toll",
       "source": "Ya Libnan",
@@ -1257,28 +1477,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/us-news/2026/jun/25/jd-vance-iran-peace-deal",
-      "title": "JD Vance is the face of the beleaguered Iran deal \u2013 is he its fall guy?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/jun/25/jd-vance-iran-peace-deal",
-      "published": "2026-06-25T09:46:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=181604",
       "title": "Live update: Venezuela declares state of emergency  after Powerful back-to-back earthquakes",
       "source": "Ya Libnan",
@@ -1313,50 +1511,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
-      "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
-      "published": "2026-06-24T21:49:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=181584",
-      "title": "Iran\u2019s chief  negotiator calls deal struck with U.S. a \u201cdeclaration of America\u2019s defeat\u201d",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/06/24/irans-chief-negotiator-calls-deal-struck-with-u-s-a-declaration-of-americas-defeat/?utm_source=rss&utm_medium=rss&utm_campaign=irans-chief-negotiator-calls-deal-struck-with-u-s-a-declaration-of-americas-defeat",
-      "published": "2026-06-24T20:43:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 80,
       "is_government": false,
@@ -1467,28 +1621,6 @@
         "city": null,
         "lat": 26.5,
         "lng": 56.5
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c36ykpw0yego#0",
-      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-23T16:47:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 95,
       "is_government": false,
