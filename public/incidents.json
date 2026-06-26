@@ -1,17 +1,149 @@
 {
-  "generated_at": "2026-06-26T04:08:06.178072+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-06-26T09:35:35.221849+00:00",
+  "total_incidents": 68,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/26/live-us-iran-deal-strait-of-hormuz/",
-      "title": "Iran war latest: Evacuation of stranded sailors through Strait of Hormuz halted after vessel attack",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/26/live-us-iran-deal-strait-of-hormuz/",
-      "published": "2026-06-26T03:20:50+00:00",
-      "type": "naval",
+      "id": "5d22e415860a3d73be4687d5f9228e77",
+      "title": "RT by @CivilDefenceAD: RT by @CivilDefenceAD: Abu Dhabi Police and Abu Dhabi Civil Defence Authority teams continue to deal with a fire that broke out Friday morninig at the Carpet Souk near Zayed port in Abu Dhabi, with no impact on traffic in the area. The public is advised to obtain information from official sources only.",
+      "source": "Abu Dhabi Civil Defence (RSS.app)",
+      "source_url": "https://x.com/ADPoliceHQ/status/2070432969647665568",
+      "published": "2026-06-26T09:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cb2659b2f066eda82960afdc23c10360",
+      "title": "The Iranian Foreign Ministry has strongly condemned an \u201cinterfering, irresponsible and provocative\u201d joint statement issued by the US Secretary of State and foreign ministers of the Persian Gulf Cooperation Council (PGCC).",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2070425436639601134",
+      "published": "2026-06-26T08:34:00+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "864566ae8265735dbf41db362f3a3d54",
+      "title": "Nasdaq Dubai welcomes The Arab Energy Fund\u2019s (TAEF) $500 million Sukuk listing. The transaction reflects the longstanding engagement between TAEF and Nasdaq Dubai. The total Sukuk listed on Nasdaq Dubai exceed $98.6 billion, reinforcing its position among the world's leading venues for Islamic finance.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2070422327448555582",
+      "published": "2026-06-26T08:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782452852",
+      "title": "North Korea conducts major weapons tests; South training \u2018drone warriors\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/26/north-korea-conducts-major-weapons-tests-south-training-drone-warriors?traffic_source=rss",
+      "published": "2026-06-26T08:16:33+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "928d4fd5a1bf1f1d41739d7f59baa6ac",
+      "title": "Nasdaq Dubai welcomes The Arab Energy Fund\u2019s (TAEF) $500 million Sukuk listing. The transaction reflects the longstanding engagement between TAEF and Nasdaq Dubai. The total Sukuk listed on Nasdaq Dubai exceed $98.6 billion, reinforcing its position among the world's leading venues for Islamic finance.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2070420832216813585",
+      "published": "2026-06-26T08:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3827715",
+      "title": "As settlers rampage, IDF soldiers accused of aiding violence, theft against Palestinians",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/as-settlers-rampage-idf-soldiers-accused-of-aiding-violence-theft-against-palestinians/",
+      "published": "2026-06-26T08:12:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3850377",
+      "title": "US considering moving Gulf bases hit by Iran westward, including to Israel \u2014 report",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/us-considering-moving-gulf-bases-hit-by-iran-westward-including-to-israel-report/",
+      "published": "2026-06-26T08:11:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -25,21 +157,351 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1782297296",
-      "title": "Forever wars: Israel\u2019s cycle of conflict shows no finish line",
+      "id": "2411ae0b809aea2c04ee9950bcb4fa9c",
+      "title": "#Kuwait's Ministry of Interior reports a sharp decline in drug smuggling & trafficking cases during the first half of 2026  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2070419051772342746",
+      "published": "2026-06-26T08:09:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782455384",
+      "title": "World aids rescue effort as Venezuela quake death toll hits 235",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss",
-      "published": "2026-06-26T03:16:13+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/6/26/neighbours-aid-rescue-effort-as-venezuela-quake-death-toll-hits-235?traffic_source=rss",
+      "published": "2026-06-26T08:02:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9dd9646d46d82f11defaf871261c775e",
+      "title": "RT by @DXBMediaOffice: RT by @DXBMediaOffice: I chaired a meeting of the Dubai Media Council, where we approved the launch of Dubai Business, a new media platform under Dubai Media Incorporated. The platform reflects Dubai\u2019s ambitions and global leadership, delivering a new approach to business media that tells the story of the city\u2019s economy through data, achievements, and opportunities. Dubai continues to shape the future, with its media serving as a key partner in this journey.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/AhmedMohammed/status/2070417114276786625",
+      "published": "2026-06-26T08:01:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/06/26/venezuela-deadly-twin-earthquakes/",
+      "title": "Venezuela earthquakes kill at least 235 as rescue teams continue search for survivors",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/06/26/venezuela-deadly-twin-earthquakes/",
+      "published": "2026-06-26T07:52:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "dbd4450e6b58c3940a547e414e0e5ba0",
+      "title": "Director General of the International Atomic Energy Agency calls for a \"very strong\" verification system in Iran to ensure the country does not develop nuclear weapons  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2070413216883015854",
+      "published": "2026-06-26T07:45:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/06/26/uae-medics-on-floating-hospital-perform-complex-surgeries-on-four-more-gazan-patients/",
+      "title": "UAE medics on floating hospital perform complex surgeries on four more Gazan patients",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/26/uae-medics-on-floating-hospital-perform-complex-surgeries-on-four-more-gazan-patients/",
+      "published": "2026-06-26T07:43:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8074c87e59ee68ac8203d1b3520a731a",
+      "title": "RT by @CivilDefenceAD: RT by @CivilDefenceAD: Abu Dhabi Police and Abu Dhabi Civil Defence Authority teams have dealt with a fire that broke out Friday morning at the Carpet Souk near Zayed Port in Abu Dhabi. The public is advised to obtain information from official sources only.",
+      "source": "Abu Dhabi Civil Defence (RSS.app)",
+      "source_url": "https://x.com/ADPoliceHQ/status/2070411898861109753",
+      "published": "2026-06-26T07:40:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/magazine/2026/06/26/saba-mubarak-portrait-of-an-artist/",
+      "title": "Saba Mubarak: Portrait of an artist",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/magazine/2026/06/26/saba-mubarak-portrait-of-an-artist/",
+      "published": "2026-06-26T07:14:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782451311",
+      "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
+      "published": "2026-06-26T07:07:47+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/comment/2026/06/26/us-iran-gulf-gcc-middle-east/",
+      "title": "Gulf states deserve a deal that delivers regional calm",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/06/26/us-iran-gulf-gcc-middle-east/",
+      "published": "2026-06-26T07:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjwg9np904qo#0",
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-26T06:49:22+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Egypt",
+        "city": null,
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/06/26/strait-of-hormuz-evacuations-halted-gulf-states-cautious-on-iran-and-abu-dhabi-unveils-performing-arts-centre/",
+      "title": "Strait of Hormuz evacuations halted, Gulf states cautious on Iran and Abu Dhabi unveils performing arts centre",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/06/26/strait-of-hormuz-evacuations-halted-gulf-states-cautious-on-iran-and-abu-dhabi-unveils-performing-arts-centre/",
+      "published": "2026-06-26T06:28:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/film/2026/jun/26/the-mission-review-a-surgeon-saves-lives-in-war-torn-gaza-in-a-visceral-portrait-of-human-endurance",
+      "title": "The Mission review \u2013 a surgeon saves lives in war-torn Gaza in a visceral portrait of human endurance",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/film/2026/jun/26/the-mission-review-a-surgeon-saves-lives-in-war-torn-gaza-in-a-visceral-portrait-of-human-endurance",
+      "published": "2026-06-26T06:00:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782450199",
+      "title": "US ends deportation protections (TPS) for Haitians and Syrians",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
+      "published": "2026-06-26T05:25:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/25/un-pauses-ship-evacuations-through-strait-of-hormuz-after-vessel-attack",
+      "title": "UN agency pauses ship evacuations through strait of Hormuz after vessel struck",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jun/25/un-pauses-ship-evacuations-through-strait-of-hormuz-after-vessel-attack",
+      "published": "2026-06-26T04:41:16+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "bf6fb924311d656ab98d703b918dc1da",
+      "title": "Kuwait's Permanent Representative to the United Nations, Ambassador Tareq Al-Bannai, has renewed his country's stalwart support for Judge Mahmoud Al-Hamoud's election to the International Court of Justice (ICJ), lauding his illustrious legal career and monumental contributions to international jurisprudence.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2070361989130391625",
+      "published": "2026-06-26T04:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -69,72 +531,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/06/26/charging-fees-for-passage-through-strait-of-hormuz-could-drive-global-inflation-surge/",
-      "title": "Charging fees for passage through Strait of Hormuz 'could drive global inflation surge'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/06/26/charging-fees-for-passage-through-strait-of-hormuz-could-drive-global-inflation-surge/",
-      "published": "2026-06-26T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/editorial/2026/06/26/us-iran-lebanon-israel-middle-east/",
-      "title": "Peace in Lebanon can't be imposed from outside",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/06/26/us-iran-lebanon-israel-middle-east/",
-      "published": "2026-06-26T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782432758",
-      "title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss",
-      "published": "2026-06-26T02:35:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3850312&preview=true&preview_id=3850312",
       "title": "Israel-Lebanon talks extended an extra day as deal on IDF withdrawal remains elusive",
       "source": "Times of Israel",
@@ -147,72 +543,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/06/26/almost-330-families-report-teenage-children-to-sharjah-police-over-drug-addiction/",
-      "title": "Hundreds of families report teenage children to Sharjah Police over drug addiction",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/26/almost-330-families-report-teenage-children-to-sharjah-police-over-drug-addiction/",
-      "published": "2026-06-26T02:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.3463,
-        "lng": 55.4209
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/26/operation-hormuz-how-italys-minehunters-would-neutralise-irans-sea-bombs/",
-      "title": "'Operation Hormuz': How Italy's minehunters would neutralise Iran's sea bombs",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/26/operation-hormuz-how-italys-minehunters-would-neutralise-irans-sea-bombs/",
-      "published": "2026-06-26T02:00:01+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/06/26/whats-driving-iraqs-anti-corruption-crackdown/",
-      "title": "What's driving Iraq\u2019s anti-corruption crackdown?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/06/26/whats-driving-iraqs-anti-corruption-crackdown/",
-      "published": "2026-06-26T02:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
       },
       "credibility": 85,
       "is_government": false,
@@ -246,85 +576,19 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3850304",
-      "title": "US considering relocating some Gulf bases damaged by Iran to Israel \u2014 WSJ",
+      "title": "IDF: 4 soldiers hurt in clash with Hezbollah operative in southern Lebanon",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/liveblog-june-26-2026/",
       "published": "2026-06-26T00:36:41+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": "Lebanon",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 33.8547,
+        "lng": 35.8623
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjwg9np904qo#0",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-26T00:28:02+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Egypt",
-        "city": null,
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3850297",
-      "title": "UN says Hormuz evacuation halted after ship struck in Iranian attack",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/un-says-hormuz-evacuation-halted-after-ship-struck-in-iranian-attack/",
-      "published": "2026-06-25T23:58:20+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jun/25/un-pauses-ship-evacuations-through-strait-of-hormuz-after-vessel-attack",
-      "title": "UN agency pauses ship evacuations through strait of Hormuz after vessel struck",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jun/25/un-pauses-ship-evacuations-through-strait-of-hormuz-after-vessel-attack",
-      "published": "2026-06-25T22:23:36+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -348,28 +612,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3850261",
-      "title": "IDF chief says military needs \u2018every male and female combat soldier\u2019",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/idf-chief-says-military-needs-every-male-and-female-combat-soldier/",
-      "published": "2026-06-25T21:56:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -443,28 +685,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3850198",
-      "title": "Teenage boy shot dead, second injured, in Jaffa shooting",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/teenage-boy-shot-dead-second-injured-in-jaffa-shooting/",
-      "published": "2026-06-25T20:43:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=88238",
       "title": "China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report",
       "source": "Breaking Defense",
@@ -509,28 +729,6 @@
       }
     },
     {
-      "id": "d32bbbf28a6175237f702fb3f2b62802",
-      "title": "GCC foreign ministers and US Secretary of State Marco Rubio reaffirm respect for #Kuwait\u2019s sovereignty and territorial integrity, consistent with international law and relevant UN Security Council resolutions, including resolution 833  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2070224153928516089",
-      "published": "2026-06-25T19:14:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=88193",
       "title": "In Japan, Canadian defense minister expresses interest in GCAP sixth-gen fighter project",
       "source": "Breaking Defense",
@@ -546,72 +744,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "226cefb6eb6b85c5e37f8c80082b6de2",
-      "title": "#US Secretary of State Marco Rubio said Thursday any attempt to take tolls on ships passing through international waterways was \"unacceptable\" & not applicable, affirming Washington would not support or allow such a move. Rubio, at a news conference at the end of his visit to #Bahrain for #GCC-US ministerial meeting, part of a tour that took him to #UAE & #Kuwait, said objective of his tour was to brief partners on US-Iran MoU & negotiations with Tehran.  #Kuna",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2070203516308561976",
-      "published": "2026-06-25T17:52:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0ce59eb440c28a22174ccfad7831cc77",
-      "title": "#France's President Emmanuel Macron said Thursday French Navy intercepted two days ago oil tanker, Deliver, as it was transiting off the coast of Sicily in violation of law of sea.  #Kuna",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2070202311884881979",
-      "published": "2026-06-25T17:47:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4b02a58487ca62021f8472ff9b384150",
-      "title": "#UAE President Sheikh Mohammad Al-Nahyan & #Syrian Foreign Minister Asaad Al-Shaibani discussed Thursday cooperation in economy & development, UAE news agency (#WAM) reported  #Kuna",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2070202001619661008",
-      "published": "2026-06-25T17:46:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1359,72 +1491,6 @@
         "lng": 34.4668
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4f9d419319908d831be9a8cb065100a6",
-      "title": "Iranian Foreign Ministry Spokesman Esmaeil Baghaei has said that there are no plans for the inspectors of the International Atomic Energy Agency (IAEA) to visit the damaged nuclear facilities.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2069341883445260591",
-      "published": "2026-06-23T08:48:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "25e44c2eb41c0f39dcfa521576119f08",
-      "title": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf met and held talks with Omani Foreign Minister Sayyid Badr bin Hamad al-Busaidi on Tuesday to discuss new arrangements to manage the strategic Strait of Hormuz.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2069316223691559137",
-      "published": "2026-06-23T07:06:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4998f1d649daab9820d766068ac9b89c",
-      "title": "Technical talks on implementing the Iran-US MoU concluded with agreement on four working groups, Iran's deputy foreign minister and chief technical negotiator said.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2069287463604888002",
-      "published": "2026-06-23T05:12:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
       "is_government": false,
       "casualties": {
         "total": 0,
