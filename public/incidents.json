@@ -1,14 +1,124 @@
 {
-  "generated_at": "2026-06-29T03:20:01.559303+00:00",
-  "total_incidents": 72,
+  "generated_at": "2026-06-29T05:43:34.429122+00:00",
+  "total_incidents": 70,
   "incidents": [
     {
+      "id": "c30ddaea7c7594c2b9dafa344f3204c3",
+      "title": "#China adds 20 Japanese entities to a list restricting exports of dual-use items to them & another 20 to a watchlist, in a move aimed at containing \"#Japan's military approach\".  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2071467406426349864",
+      "published": "2026-06-29T05:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3851776",
+      "title": "IDF says troops in southern Syria fired upon, retaliated with helicopter strike",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/idf-says-troops-in-southern-syria-fired-upon-retaliated-with-helicopter-strike/",
+      "published": "2026-06-29T05:07:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/06/29/venezuela-earthquake-death-toll-nears-1500-with-tens-of-thousands-still-missing/",
+      "title": "Venezuela earthquake death toll nears 1,500 with tens of thousands missing",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/06/29/venezuela-earthquake-death-toll-nears-1500-with-tens-of-thousands-still-missing/",
+      "published": "2026-06-29T04:24:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782699145",
+      "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
+      "published": "2026-06-29T03:55:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1782702307",
+      "title": "Venezuelans angry with government as time runs out to rescue survivors",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuelans-angry-government-as-time-runs-out-to-dig-out-survivors?traffic_source=rss",
+      "published": "2026-06-29T03:12:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/mena/2026/06/29/live-us-iran-doha-talks-hormuz/",
-      "title": "Iran war latest: US and Iran agree to stop strikes and resume talks, report says",
+      "title": "Iran war latest: US and Iran agree to stop strikes and allow Hormuz shipping",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/06/29/live-us-iran-doha-talks-hormuz/",
       "published": "2026-06-29T03:11:02+00:00",
-      "type": "incident",
+      "type": "naval",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
@@ -201,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1782687975",
-      "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss",
-      "published": "2026-06-29T00:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a892cae1cd0f99365345d9f114ee726d",
       "title": "Death toll rises further to 1,450 from twin earthquakes in #Venezuela.  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -289,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1782677073",
-      "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss",
-      "published": "2026-06-28T21:55:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3547940108af00e5a677b86ffe552015",
       "title": ". Qatar's Ministry of Interior said a Qatari citizen was martyred and an Arab resident wounded after the vessel they wer...",
       "source": "WAM News (RSS.app)",
@@ -333,56 +399,12 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3851548",
-      "title": "Arab city strikes as far-right MK Sukkot stages visit, pitches Israeli flag",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/arab-city-strikes-as-far-right-mk-sukkot-stages-visit-pitches-israeli-flag/",
-      "published": "2026-06-28T18:48:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "e61e71debad6987b07fdbdebb13ef632",
       "title": "Kuwaiti Foreign Minister receives a phone call from Bahraini counterpart, during which the two sides condemned the recent Iranian attacks targeting both Kuwait & Bahrain.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
       "source_url": "https://x.com/kuna_en/status/2071290721668153446",
       "published": "2026-06-28T17:52:00+00:00",
       "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8b5edf5ffb10f5dc6ef3e7844221c381",
-      "title": "#Bahrain condemns renewed Iranian missile and drone attacks targeting #Kuwait, while reaffirming full solidarity with Kuwait and its complete support for all measures taken by the country to safeguard its sovereignty  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2071283440763163045",
-      "published": "2026-06-28T17:23:00+00:00",
-      "type": "missile",
       "status": "confirmed",
       "location": {
         "country": "Kuwait",
@@ -531,28 +553,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/06/28/who-are-the-iraqi-politicians-arrested-in-latest-anti-corruption-sweep/",
-      "title": "Who are the Iraqi politicians arrested in latest anti-corruption sweep?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/06/28/who-are-the-iraqi-politicians-arrested-in-latest-anti-corruption-sweep/",
-      "published": "2026-06-28T14:15:15+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
       "title": "Escalating US-Iran strikes threaten interim peace agreement",
       "source": "The Guardian",
@@ -567,28 +567,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/06/28/relatives-and-friends-bid-farewell-to-12-indians-killed-in-qatar-gas-blast/",
-      "title": "Relatives and friends bid farewell to 12 Indians killed in Qatar gas blast",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/06/28/relatives-and-friends-bid-farewell-to-12-indians-killed-in-qatar-gas-blast/",
-      "published": "2026-06-28T13:22:14+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -634,28 +612,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/06/28/uae-convoys-carrying-817-tonnes-of-aid-enters-gaza/",
-      "title": "UAE convoys carrying 817 tonnes of aid enters Gaza",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/06/28/uae-convoys-carrying-817-tonnes-of-aid-enters-gaza/",
-      "published": "2026-06-28T12:44:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
