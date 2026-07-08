@@ -1,13 +1,233 @@
 {
-  "generated_at": "2026-07-08T20:33:00.569089+00:00",
-  "total_incidents": 71,
+  "generated_at": "2026-07-08T22:25:25.929046+00:00",
+  "total_incidents": 75,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/08/us-iran-strikes-trump-nato-summit-live-updates",
-      "title": "US military launches fresh strikes on Iran \u2013 Middle East crisis live",
+      "title": "US military launches fresh strikes on Iran as Donald Trump threatens \u2018much worse\u2019 to come \u2013 Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/08/us-iran-strikes-trump-nato-summit-live-updates",
-      "published": "2026-07-08T20:28:06+00:00",
+      "published": "2026-07-08T22:12:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783539197",
+      "title": "Family demands investigation after US man killed by ICE agent in Texas",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss",
+      "published": "2026-07-08T21:42:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783540306",
+      "title": "US moves to delist Syria as a \u2018state sponsor of terrorism\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
+      "published": "2026-07-08T21:36:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran",
+      "title": "US carries out another wave of strikes on Iran",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran",
+      "published": "2026-07-08T21:21:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783542734",
+      "title": "Deadly strikes in Gaza leave 5 dead, children wounded",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
+      "published": "2026-07-08T21:12:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 5,
+        "military": 0,
+        "civilian": 5
+      }
+    },
+    {
+      "id": "d49a3a1455ed1dfdb82d51e17a56744a",
+      "title": "US Central Command (CENTCOM) forces have commenced a new round of military strikes against targets in Iran, the command announced. It noted that the fresh military action aims to further degrade Iran's capabilities to threaten freedom of navigation in the strategic Strait of Hormuz.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2074962795364266044",
+      "published": "2026-07-08T21:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3857683",
+      "title": "US to delist Syria as state sponsor of terror, in new boost to Sharaa",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/us-to-delist-syria-as-state-sponsor-of-terror-in-new-boost-to-sharaa/",
+      "published": "2026-07-08T20:50:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3857595",
+      "title": "Lebanon demanding Israel fulfill pledge for pullout pilot or it will skip Rome talks",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/lebanon-demanding-israel-fulfill-pledge-for-pullout-pilot-or-it-will-skip-rome-talks/",
+      "published": "2026-07-08T20:48:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783543281",
+      "title": "Trump departs NATO summit on older Air Force One",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one?traffic_source=rss",
+      "published": "2026-07-08T20:46:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783526126",
+      "title": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid?traffic_source=rss",
+      "published": "2026-07-08T20:40:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783543122",
+      "title": "US says conducting new wave of strikes on Iran as ceasefire falters",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss",
+      "published": "2026-07-08T20:40:14+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -223,28 +443,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1783483705",
-      "title": "Argentina fans accused of violence, racism by Egypt, Cape Verde supporters",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/7/8/argentina-fans-accused-of-violence-racism-by-egypt-cape-verde-supporters?traffic_source=rss",
-      "published": "2026-07-08T18:58:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.8206,
-        "lng": 30.8025
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "4ad90a8250132302adc7fdb2eb72a2c3",
       "title": "The General Civil Aviation Authority and Skyports Infrastructure announce that VDX, the world's first purpose-built commercial vertiport, has received regulatory certification for electric vertical take-off and landing (eVTOL) aircraft operations, paving the way for the future commencement of commercial Air Taxi services in Dubai.",
       "source": "Dubai Media Office (RSS.app)",
@@ -260,28 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783533970",
-      "title": "War on Gaza draws large crowds to Khamenei\u2019s funeral in Iraq",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss",
-      "published": "2026-07-08T18:51:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -325,28 +501,6 @@
         "lng": 43.6793
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783527553",
-      "title": "Israeli air strikes in Gaza kill eight, including two children",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children?traffic_source=rss",
-      "published": "2026-07-08T18:35:11+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -575,28 +729,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3857347",
-      "title": "IDF says Oct. 7 terrorist eliminated; 5 said killed in Gaza strikes, including child",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/idf-says-oct-7-terrorist-eliminated-5-said-killed-in-gaza-strikes-including-child/",
-      "published": "2026-07-08T16:03:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/business/economy/2026/07/08/dubai-gdp-climbs-to-dh232bn-in-q1-as-non-oil-sectors-drive-expansion/",
       "title": "Dubai's GDP grew to Dh232bn in Q1 despite impact of Iran war",
       "source": "The National UAE",
@@ -773,28 +905,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3857398",
-      "title": "Trump: Iran MOU likely over, \u2018we\u2019ll hit them hard again tonight,\u2019 but talks with \u2018scum\u2019 Tehran can continue",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/trump-iran-mou-is-over-well-hit-them-hard-again-tonight-but-talks-can-continue/",
-      "published": "2026-07-08T14:34:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/07/08/ukraine-to-get-license-for-making-patriot-interceptors-trump-pledges/",
       "title": "Ukraine to get \u2018license\u2019 for making Patriot interceptors, Trump pledges",
       "source": "Defense News",
@@ -928,7 +1038,7 @@
     },
     {
       "id": "https://yalibnan.com/?p=182069",
-      "title": "Iran reappoints  an ultra radical chief justice who calls for avenging  Khamenei\u2019s",
+      "title": "Iran reappoints  an ultra radical chief justice who calls for avenging  Khamenei\u2019s assassination",
       "source": "Ya Libnan",
       "source_url": "https://yalibnan.com/2026/07/08/iran-reappoints-an-ultra-radical-chief-justice-who-calls-for-avenging-khameneis/?utm_source=rss&utm_medium=rss&utm_campaign=iran-reappoints-an-ultra-radical-chief-justice-who-calls-for-avenging-khameneis",
       "published": "2026-07-08T13:12:17+00:00",
@@ -954,28 +1064,6 @@
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
       "published": "2026-07-08T13:00:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/jul/08/first-thing-trump-iran-leaders-scum-ceasefire-over",
-      "title": "First Thing: Trump calls Iran\u2019s leaders \u2018scum\u2019 and declares fragile ceasefire over",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/08/first-thing-trump-iran-leaders-scum-ceasefire-over",
-      "published": "2026-07-08T12:49:46+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
