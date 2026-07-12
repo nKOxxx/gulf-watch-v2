@@ -1,20 +1,42 @@
 {
-  "generated_at": "2026-07-12T20:19:53.467060+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-07-12T22:20:41.538906+00:00",
+  "total_incidents": 63,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1783885951",
-      "title": "Iran says almost a dozen \u2018enemy projectiles\u2019 targeted Qeshm Island",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-says-almost-a-dozen-enemy-projectiles-targeted-qeshm-island?traffic_source=rss",
-      "published": "2026-07-12T19:56:26+00:00",
-      "type": "missile",
+      "id": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo#0",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-12T22:17:40+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783887771",
+      "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
+      "published": "2026-07-12T21:59:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -25,12 +47,188 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1783873664",
-      "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
+      "id": "15c0da0ce0ddd4cf5c5c74510ebb6bd8",
+      "title": "The #US Central Command (CENTCOM) says its forces have started launching a fresh wave of strikes against #Iran  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076424677811966123",
+      "published": "2026-07-12T21:53:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783892915",
+      "title": "Israel releases video of huge detonations in Lebanon",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
-      "published": "2026-07-12T19:53:03+00:00",
-      "type": "missile",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
+      "published": "2026-07-12T21:50:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=182219",
+      "title": "US military says Strait of Hormuz open, despite Iran\u2019s claims",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/07/13/us-military-says-strait-of-hormuz-open-despite-irans-claims/?utm_source=rss&utm_medium=rss&utm_campaign=us-military-says-strait-of-hormuz-open-despite-irans-claims",
+      "published": "2026-07-12T21:47:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3859920",
+      "title": "US military says it is carrying out a fresh wave of strikes across Iran",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog-july-13-2026/",
+      "published": "2026-07-12T21:34:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783890783",
+      "title": "Deadly Israeli strikes pound Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
+      "published": "2026-07-12T21:33:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9482e1cea906c19925c0ddc267752ffa",
+      "title": "The# US army launches more strikes against #Iran  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076419704470585447",
+      "published": "2026-07-12T21:33:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783874645",
+      "title": "Israel to hold national elections on October 27, parliament says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
+      "published": "2026-07-12T21:26:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783888878",
+      "title": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+      "published": "2026-07-12T21:12:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783886575",
+      "title": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
+      "published": "2026-07-12T20:48:37+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -47,21 +245,109 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1783869274",
-      "title": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss",
-      "published": "2026-07-12T19:48:00+00:00",
+      "id": "156792b51066ba32d57800fad55feafa",
+      "title": "#Bahrain strongly condemns and denounces the continued Iranian attacks on its territory, the #UAE, #Kuwait, #Qatar, #Oman and #Jordan  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076408015670919462",
+      "published": "2026-07-12T20:47:00+00:00",
       "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/jul/12/ro-khanna-israel-detention-reaction",
+      "title": "US congressman says \u2018IDF is lying\u2019 about his detention by settlers and soldiers",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/jul/12/ro-khanna-israel-detention-reaction",
+      "published": "2026-07-12T20:25:43+00:00",
+      "type": "raid",
       "status": "unconfirmed",
       "location": {
-        "country": "Iraq",
+        "country": null,
         "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3859886",
+      "title": "In memo before October 7, Sinwar predicted Israel might respond with nuclear strike",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/in-memo-before-october-7-sinwar-predicted-israel-might-respond-with-nuclear-strike/",
+      "published": "2026-07-12T20:24:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "73d908c2646ffa9bbb619c7fd5831915",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the hostile drone attack on the State of Kuwait, which t...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DatJJuuCOmK",
+      "published": "2026-07-12T19:56:44+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8134ce2299745b1dad9782494a745cf4",
+      "title": ". The UAE has expressed its solidarity with the Syrian Arab Republic after a ferry capsized in Deir ez-Zor Governorate, ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DatIFR9iE_4",
+      "published": "2026-07-12T19:47:23+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -84,50 +370,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783870215",
-      "title": "Why the Iran-US ceasefire is falling apart",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
-      "published": "2026-07-12T19:27:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783867123",
-      "title": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss",
-      "published": "2026-07-12T19:01:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -267,72 +509,6 @@
       }
     },
     {
-      "id": "34d2dd5e01776c436221a03a103b8d81",
-      "title": "#Pakistan reiterates its support for the sovereignty and territorial integrity of all brotherly countries in the region  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076351300585828586",
-      "published": "2026-07-12T17:01:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo#0",
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-12T16:46:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5049efaf03cd9940c9c24436fefc08ac",
-      "title": "#Oman's oil exports rise by 2.7 percent to around 129.5 million barrels during the period from the beginning of the year through the end of May, compared with the same period last year  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076338875627172182",
-      "published": "2026-07-12T16:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=182207",
       "title": "Live updates: U.S. conducts another round of strikes on Iran as Trump and Khamanei  exchange threats",
       "source": "Ya Libnan",
@@ -421,28 +597,6 @@
       }
     },
     {
-      "id": "7330893c65f9b4af7f00acaaf4b387ef",
-      "title": "The General Secretariat of the Organization of Islamic Cooperation (OIC) condemns Iran's attacks against #Kuwait, #Bahrain, the #UAE, #Qatar, #Oman & #Jordan, describing them as a flagrant & continued violation of the sovereignty of those countries  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076302991343170031",
-      "published": "2026-07-12T13:49:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "456d16708da3cd0dbe68a15854ecb210",
       "title": ". The United Arab Emirates has condemned in the strongest terms the renewed hostile missile and drone attacks by Iran ta...",
       "source": "WAM News (RSS.app)",
@@ -509,28 +663,6 @@
       }
     },
     {
-      "id": "70428b5b86192fa2cf4e639fb2363fdd",
-      "title": "Arab League Secretary-General condemns & denounces Iran's continued drone & missile attacks targeting Gulf Cooperation Council (GCC) states & Jordan, calling for a firm and unified Arab response  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076285134920155594",
-      "published": "2026-07-12T12:38:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/07/12/uae-convoys-carrying-792-tonnes-of-aid-enter-gaza/",
       "title": "UAE convoys carrying 792 tonnes of aid enter Gaza",
       "source": "The National UAE",
@@ -543,50 +675,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3859576",
-      "title": "IDF said to present probe into fatal 2024 Lebanon incident to slain soldier\u2019s family",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/idf-said-to-present-probe-into-fatal-2024-lebanon-incident-to-slain-soldiers-family/",
-      "published": "2026-07-12T12:19:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3859562",
-      "title": "Iran attacks Jordan, Kuwait, Oman, and Qatar with drones and missiles after US strikes",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/iran-attacks-jordan-kuwait-oman-and-qatar-with-drones-and-missiles-after-us-strikes/",
-      "published": "2026-07-12T12:13:44+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 85,
       "is_government": false,
@@ -697,28 +785,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e1bf56948446b9a958d3fe30a3339406",
-      "title": ". NCEMA reassures the public that the missile threats detected this morning were outside the UAE\u2019s borders and affirms t...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dar3bSSo25I",
-      "published": "2026-07-12T08:02:41+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
       },
       "credibility": 95,
       "is_government": true,
@@ -897,50 +963,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=182173",
-      "title": "U.S. launches new Iran strikes after  IRGC attacks  and damages a ship in  Strait of Hormuz",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/07/12/u-s-launches-new-iran-strikes-after-irgc-attacks-and-damages-a-ship-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-launches-new-iran-strikes-after-irgc-attacks-and-damages-a-ship-in-strait-of-hormuz",
-      "published": "2026-07-12T01:59:53+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "44876be9e85660a49fbae10b08ead92b",
-      "title": ". With the support of the Abu Dhabi Investment Office (ADIO), The Rock-It Company (Rock-It) has established its Middle E...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Daqa7TeCE9X",
-      "published": "2026-07-11T18:34:20+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -1357,50 +1379,6 @@
         "city": null,
         "lat": 36.2605,
         "lng": 59.6168
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump",
-      "title": "US and Iran trade escalating strikes as supreme leader is buried after days-long funeral",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump",
-      "published": "2026-07-09T22:04:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwylznzjk04o#0",
-      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-09T21:04:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 95,
       "is_government": false,
