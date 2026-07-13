@@ -1,14 +1,168 @@
 {
-  "generated_at": "2026-07-13T18:38:10.700143+00:00",
-  "total_incidents": 71,
+  "generated_at": "2026-07-13T20:30:41.541452+00:00",
+  "total_incidents": 66,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
       "title": "Iran rejects US claim over strait of Hormuz as foreign minister mocks Trump\u2019s vow to charge tolls - Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-      "published": "2026-07-13T18:28:36+00:00",
+      "published": "2026-07-13T20:18:51+00:00",
       "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o#0",
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-13T20:06:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Egypt",
+        "city": null,
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b3510dccd022a3af6a0b3d6d7bc40c20",
+      "title": "#Turkiye & #Egypt sign a letter of intent to establish a framework for closer cooperation in the defense industry, according to Turkish local reports  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076758592577732654",
+      "published": "2026-07-13T20:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a2a59e02c7404dca1b22d7bd371a345f",
+      "title": ". Speaking at the 3rd GCC-EU Regional Security Forum in the Belgian capital, Brussels, on Monday, Jasem Mohamed Albudaiw...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Davti3PiHAJ",
+      "published": "2026-07-13T19:53:13+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783961141",
+      "title": "UK arrests 12 over extreme right-wing \u2018terror\u2019 threat to Muslim event",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/13/uk-arrests-12-over-extreme-right-wing-terror-threat-to-muslim-event?traffic_source=rss",
+      "published": "2026-07-13T19:53:02+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6b738464d23e3074c0e915becd38ca38",
+      "title": "The #US Central Command (CENTCOM) says it will resume blockading Iranian ports as of Tuesday evening under the direction of US President Donald Trump  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076747594156453954",
+      "published": "2026-07-13T19:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fd1d7ab7644ada575d4e8701c3786b6b",
+      "title": "#UN Special Envoy for Yemen Hans Grundberg calls on all parties to have dialogue and negotiations under #UN auspices to restore calm in #Yemen  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076740996688155123",
+      "published": "2026-07-13T18:50:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-navy/2026/07/13/us-to-begin-enforcing-maritime-blockade-on-iran-on-tuesday/",
+      "title": "US to begin enforcing maritime blockade on Iran on Tuesday",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-navy/2026/07/13/us-to-begin-enforcing-maritime-blockade-on-iran-on-tuesday/",
+      "published": "2026-07-13T18:38:09+00:00",
+      "type": "naval",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
@@ -201,28 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1783954983",
-      "title": "Staff at DR Congo Ebola centre strike as virus continues spreading",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/13/staff-at-congo-ebola-centre-strike-as-virus-continues-spreading?traffic_source=rss",
-      "published": "2026-07-13T17:33:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/europe/2026/07/13/eu-launches-1-billion-initiative-for-team-gaza-palestinian-recovery-efforts/",
       "title": "EU launches $1 billion initiative for 'Team Gaza' Palestinian recovery efforts",
       "source": "The National UAE",
@@ -355,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1783954047",
-      "title": "EU unveils $1bn fund for Gaza war recovery",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
-      "published": "2026-07-13T16:28:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/07/13/lebanon-israel-negotiations-expected-to-resume-in-rome-on-tuesday/",
       "title": "Lebanon-Israel negotiations expected to resume in Rome on Tuesday",
       "source": "The National UAE",
@@ -391,28 +501,6 @@
         "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783954559",
-      "title": "Person killed in shooting involving ICE agents in US state of Maine",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/13/person-killed-in-shooting-involving-ice-agents-in-us-state-of-maine?traffic_source=rss",
-      "published": "2026-07-13T16:11:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -457,28 +545,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783957024",
-      "title": "Trump: US will \u2018take over\u2019 Strait of Hormuz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/trump-us-will-take-over-strait-of-hormuz?traffic_source=rss",
-      "published": "2026-07-13T15:41:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -634,138 +700,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860277",
-      "title": "Report: Ahmadinejad met Mossad chief under Israeli plan to install him as Iran leader",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/report-ahmadinejad-met-mossad-chief-under-israeli-plan-to-install-him-as-iran-leader/",
-      "published": "2026-07-13T14:23:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3860202",
-      "title": "Trump resumes blockade of Iran\u2019s ports, says US \u2018guardian\u2019 of Hormuz, will charge \u201820% on all cargo\u2019",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/iran-fires-warning-shots-at-2-ships-in-strait-of-hormuz-as-clashes-with-us-intensify/",
-      "published": "2026-07-13T14:21:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7ce9a1962e41bec4cacf48bfe87a25ce",
-      "title": "GCC Secretary-General discusses with the European Union's High Representative for Foreign Affairs & Security Policy ways to strengthen the strategic partnership between the #GCC & the #EU  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076669894569939024",
-      "published": "2026-07-13T14:07:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "739444dbfdf318a679d664cef3155850",
-      "title": "#Egypt condemns the repeated Iranian attacks targeting #Kuwait, #Bahrain, #Oman & #Jordan, as well as facilities belonging to the four countries  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076669027519279310",
-      "published": "2026-07-13T14:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3860266",
-      "title": "Israel\u2019s Guy Sasson wins Wimbledon wheelchair doubles for 2nd straight year",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/israels-guy-sasson-wins-wimbledon-wheelchair-doubles-for-2nd-straight-year/",
-      "published": "2026-07-13T13:46:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2a7f74488abcbed7daec334ce425ae08",
-      "title": "Lebanese President hopes Rome talks would produce tangible progress on the ground, paving the way for the withdrawal of Israeli occupation forces & the deployment of the Lebanese army in evacuated areas  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076660692367630559",
-      "published": "2026-07-13T13:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1074,28 +1008,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ff2e9e6347ed52b50b4aadb658d52e6f",
-      "title": ". Under the Supervision of the Smart and Autonomous Systems Council, the Integrated Transport Centre (Abu Dhabi Mobility...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dauc-idok-y",
-      "published": "2026-07-13T08:10:01+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1535,28 +1447,6 @@
         "lng": 58.4059
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=89541",
-      "title": "Air Force pushing contractors to purge Anthropic by Sept. 1: Memo",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/07/air-force-pushing-contractors-to-purge-anthropic-by-sept-1-memo/",
-      "published": "2026-07-10T19:15:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
