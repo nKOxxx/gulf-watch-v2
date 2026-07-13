@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-13T20:30:41.541452+00:00",
-  "total_incidents": 66,
+  "generated_at": "2026-07-13T22:22:36.191272+00:00",
+  "total_incidents": 73,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-      "title": "Iran rejects US claim over strait of Hormuz as foreign minister mocks Trump\u2019s vow to charge tolls - Middle East crisis live",
+      "title": "US launches new strikes on Iran following Trump\u2019s threat amid fresh clashes over strait of Hormuz \u2013 Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-      "published": "2026-07-13T20:18:51+00:00",
+      "published": "2026-07-13T22:17:07+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,11 +25,77 @@
       }
     },
     {
+      "id": "16c615ef34267d8c3dc2032d65ed87c1",
+      "title": "#Bahrain strongly condemns and denounces the heinous terrorist attacks carried out by the Houthi militia using ballistic missiles, targeting the southern region of the Kingdom of #Saudi Arabia  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076792196796211659",
+      "published": "2026-07-13T22:13:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3860633",
+      "title": "In major escalation, Yemen\u2019s Houthis target Saudi Arabia\u2019s Abha airport",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/in-major-escalation-yemens-houthis-target-saudi-arabias-abha-airport/",
+      "published": "2026-07-13T21:56:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/07/13/unilateral-action-in-yemen-deepens-divisions-un-warns/",
+      "title": "Unilateral action in Yemen deepens divisions, UN warns",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/07/13/unilateral-action-in-yemen-deepens-divisions-un-warns/",
+      "published": "2026-07-13T21:47:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o#0",
       "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-13T20:06:14+00:00",
+      "published": "2026-07-13T21:46:06+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -39,6 +105,292 @@
         "lng": 31.2357
       },
       "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2b5bad0dab46a3083d4dc3126058d5e3",
+      "title": "The #UAE strongly condemns and denounces the ongoing attacks targeting the Consulate General of the State of #Kuwait in the Iraqi city of Basra  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076783432735092953",
+      "published": "2026-07-13T21:38:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 30.5156,
+        "lng": 47.7804
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6bb5cc435a4a2849bc438000cc8ce9e2",
+      "title": "GCC Secretary-General Jasem Al-Budaiwi condemns and denounces in the strongest terms the \"terrorist\" ballistic missile attack launched by Houthi militia on the Southern Region in #Saudi Arabia  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076780131289354245",
+      "published": "2026-07-13T21:25:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "eff61f797feabea6573b2f407d8615f1",
+      "title": "The #US army launches the third consecutive right of strikes against #Iran  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076779748177404346",
+      "published": "2026-07-13T21:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783971041",
+      "title": "US, Iran exchange attacks around Strait of Hormuz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-07-13T21:19:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783970561",
+      "title": "Lindsey Graham\u2019s legacy: Israel advocate, Trump ally, Iran war supporter",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
+      "published": "2026-07-13T21:04:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783971497",
+      "title": "Andy Burnham in line to become British PM after securing party support",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/13/andy-burnham-in-line-to-become-british-pm-after-securing-party-support?traffic_source=rss",
+      "published": "2026-07-13T20:57:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783975579",
+      "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
+      "published": "2026-07-13T20:48:18+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ad1d0bd126b907c28835c3207ad1eda5",
+      "title": "Secretary-General of the Arab League Nabil Fahmy calls on #Slovenia to reverse its decision to withdraw recognition of the State of #Palestine and move its embassy from Tel Aviv to occupied Jerusalem  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076769913465676185",
+      "published": "2026-07-13T20:45:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783966831",
+      "title": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss",
+      "published": "2026-07-13T20:41:27+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783974830",
+      "title": "Iran military warns US against Strait of Hormuz \u2018interference\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-07-13T20:40:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/pentagon-congress/2026/07/13/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike/",
+      "title": "Lawmakers demand Pentagon release findings from probe of Iran school strike",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/07/13/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike/",
+      "published": "2026-07-13T20:35:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8b1329900f34b670b6b5661a71d9f06d",
+      "title": ". The United Arab Emirates has condemned and denounced in the strongest terms the ongoing attacks targeting the Consulat...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DavwhGeCGKy",
+      "published": "2026-07-13T20:19:12+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860557",
+      "title": "Deans of Israeli med schools warn against expanding gender segregation in higher ed",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/deans-of-israeli-med-schools-warn-against-expanding-gender-segregation-in-higher-ed/",
+      "published": "2026-07-13T20:15:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -84,28 +436,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783961141",
-      "title": "UK arrests 12 over extreme right-wing \u2018terror\u2019 threat to Muslim event",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/13/uk-arrests-12-over-extreme-right-wing-terror-threat-to-muslim-event?traffic_source=rss",
-      "published": "2026-07-13T19:53:02+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -223,28 +553,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1783961081",
-      "title": "UK to list Iran\u2019s IRGC as \u2018terror\u2019 threat",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/13/uk-to-list-irans-irgc-as-terror-threat?traffic_source=rss",
-      "published": "2026-07-13T18:08:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jul/13/israel-sets-october-date-first-elections-since-hamas-attacks-2023",
       "title": "Israel sets October date for first elections since Hamas attacks in 2023",
       "source": "The Guardian",
@@ -326,28 +634,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "77d213333e8b153fe55467d28a1b3977",
-      "title": "Urgent: Spokesperson for the Coalition to Restore Legitimacy in Yemen: Air defense systems intercepted & dealt with ballistic missiles launched by the terrorist Houthi militia toward the southern region. #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076722023846264962",
-      "published": "2026-07-13T17:34:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -443,28 +729,6 @@
       }
     },
     {
-      "id": "80617c1ef360fbda3e6a3bec1784cba3",
-      "title": "Chief of the General Staff of the Kuwaiti Army Lieutenant General Khaled Al-Shuraian discuss enhancing military cooperation with Turkish Ambassador to Kuwait Tuba Nur Sonmez  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076708169636556949",
-      "published": "2026-07-13T16:39:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=89597",
       "title": "NATO\u2019s plan to buy Triton drones: Three cheers, two concerns",
       "source": "Breaking Defense",
@@ -502,28 +766,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "637d6e6393f4770366d486213ff5d78b",
-      "title": "Arab League chief says it will not stand as \"neutral,\" in the event any of its member states is attacked, urging more reforms to bolster pan-Arab cooperation in the face of existential challenges  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076700626147242264",
-      "published": "2026-07-13T16:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -597,72 +839,6 @@
       }
     },
     {
-      "id": "d92e0c02196d323b195dbe8863f53138",
-      "title": "#Qatar condemns repeated attacks targeting #Kuwait's consulate in the southern Iraqi city of Basra, saying that such incidents \"violate the sanctity\" of diplomatic missions  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076684467628830839",
-      "published": "2026-07-13T15:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 30.5156,
-        "lng": 47.7804
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ae8f84cdaf332a129f73cfd228632236",
-      "title": "#US President announces the operation to protect the Strait of Hormuz will begin immediately, adding that the United States will receive compensation amounting to 20 percent on all cargo shipments transported through the waterway #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076683352443150593",
-      "published": "2026-07-13T15:01:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Egypt",
-        "city": null,
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0be103efde2b8dc56a77b17540033055",
-      "title": "Urgent: #US President says the Strait of Hormuz will remain open to international navigation, affirming that the United States will reimpose a naval #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076682719312871599",
-      "published": "2026-07-13T14:58:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5eb53c742445611ed1993453d2ded8b5",
       "title": "DIFC Courts Reports Record Results in the First Half of 2026.",
       "source": "Dubai Media Office (RSS.app)",
@@ -678,28 +854,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3860332",
-      "title": "UK says Iran-backed group was behind attacks on Jews, bans Revolutionary Guard",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/uk-says-iran-backed-group-was-behind-attacks-on-jews-bans-revolutionary-guard/",
-      "published": "2026-07-13T14:35:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
