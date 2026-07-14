@@ -1,17 +1,193 @@
 {
-  "generated_at": "2026-07-14T10:36:37.947438+00:00",
-  "total_incidents": 82,
+  "generated_at": "2026-07-14T12:34:20.863793+00:00",
+  "total_incidents": 83,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
-      "title": "Iranian cruise missiles hit two UAE oil tankers in Hormuz as US strikes Iran for third night \u2013 Middle East crisis live",
+      "title": "Explosions heard across Iran, state media reports, after UAE oil tankers hit in Hormuz strait \u2013 Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
-      "published": "2026-07-14T10:22:17+00:00",
-      "type": "missile",
+      "published": "2026-07-14T12:32:31+00:00",
+      "type": "explosion",
       "status": "unconfirmed",
       "location": {
-        "country": "UAE",
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/opinion/2026/07/14/europes-defense-build-up-is-delivering-for-nato-and-america/",
+      "title": "Europe\u2019s defense build-up is delivering for NATO \u2014 and America",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/opinion/2026/07/14/europes-defense-build-up-is-delivering-for-nato-and-america/",
+      "published": "2026-07-14T12:22:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d2b72916880d0f7022b64e3e16ee52cb",
+      "title": ". Philippine Senate President Sherwin T. Gatchalian has thanked the United Arab Emirates for its emergency humanitarian ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DaxeRWqoal1",
+      "published": "2026-07-14T12:18:27+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784023338",
+      "title": "Russia readies to reroute exports from Sea of Azov after Ukrainian attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/14/russia-readies-to-reroute-exports-from-sea-of-azov-after-ukrainian-attacks?traffic_source=rss",
+      "published": "2026-07-14T12:14:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/14/lebanon-presses-israel-on-pilot-zones-as-talks-resume-in-rome/",
+      "title": "Lebanon presses Israel on pilot zones as talks resume in Rome",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/14/lebanon-presses-israel-on-pilot-zones-as-talks-resume-in-rome/",
+      "published": "2026-07-14T12:06:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=89684",
+      "title": "German UAV firm Helsing picks West Virginia for first US manufacturing",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/07/german-uav-firm-helsing-picks-west-virginia-for-first-us-manufacturing/",
+      "published": "2026-07-14T12:06:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3860977",
+      "title": "Iran executes two men convicted of links to Islamic State, planning attacks",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/iran-executes-two-men-convicted-of-links-to-islamic-state-planning-attacks/",
+      "published": "2026-07-14T11:46:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ebbedba52489a010d982a19726c2fbe4",
+      "title": "Arab Parliament President condemns the Houthi militia's ballistic missile attack targeting southern #SaudiArabia, reaffirming the parliament's full solidarity with the Kingdom in protecting its security & stability.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076995256453677317",
+      "published": "2026-07-14T11:40:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
+      "title": "Iran targets Bahrain and Jordan in retaliation as US strikes continue",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
+      "published": "2026-07-14T11:38:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -25,11 +201,121 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784013008",
-      "title": "What is Iran\u2019s Pickaxe Mountain, the mystery site Trump warns he\u2019ll attack?",
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860949",
+      "title": "US military footage shows its first-ever suicide boat drone strike on Iran",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/us-military-footage-shows-its-first-ever-suicide-boat-drone-strike-on-iran/",
+      "published": "2026-07-14T11:35:11+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860915",
+      "title": "Sixth round of Israel-Lebanon talks begins in Rome, with focus on IDF pullout \u2018pilot\u2019",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/sixth-round-of-israel-lebanon-talks-begins-in-rome-with-focus-on-idf-pullout-pilot/",
+      "published": "2026-07-14T11:33:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784020708",
+      "title": "How new Yemen tensions could complicate the global energy crisis",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
-      "published": "2026-07-14T10:11:22+00:00",
+      "source_url": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss",
+      "published": "2026-07-14T11:22:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1deed54e3bbe4deb780622ed368d6062",
+      "title": "#Kuwait's Minister of Defense congratulates #France's Minister of Armed Forces Catherine Vautrin on her country's National Day.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076985958952489318",
+      "published": "2026-07-14T11:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784021259",
+      "title": "Lebanon, Israel hold talks in Rome on implementing framework deal",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss",
+      "published": "2026-07-14T11:00:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783948450",
+      "title": "Can Gulf countries defend themselves against renewed Iranian attacks?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks?traffic_source=rss",
+      "published": "2026-07-14T10:59:02+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -47,11 +333,33 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860873",
-      "title": "Grenade attacks target sushi chain in escalating feud between crime families",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/grenade-attacks-target-sushi-chain-in-escalating-feud-between-crime-families/",
-      "published": "2026-07-14T10:10:10+00:00",
+      "id": "32a5f9916adda38f0857d3cceb9c9fff",
+      "title": "Emirates reaches a landmark 100 aircraft refurbished under its retrofit programme, the largest known undertaken by any airline globally. Since work began in November 2022, 47 Airbus A380s and 53 Boeing 777s have been given a complete nose-to-tail refresh at the Emirates Engineering hangars in Dubai. By the end of December 2026, around 20 additional aircraft will be upgraded.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2076984015572353364",
+      "published": "2026-07-14T10:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784026340",
+      "title": "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/dozens-of-healthcare-workers-in-drc-strike-amid-ebola-outbreak?traffic_source=rss",
+      "published": "2026-07-14T10:53:40+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -59,6 +367,94 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7917779353279683b438a2fa45d4c14c",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the renewed hostile attacks by Iran targeting the Kingdo...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DaxT-zSI2jY",
+      "published": "2026-07-14T10:48:36+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b1783e586cb7a372b17e7ec828e3d458",
+      "title": "#Qatar condemns the targeting of two #Emirati oil tankers while transiting the Strait of Hormuz, describing the incident as a serious violation of international maritime safety, a direct threat to global energy supplies and a clear breach of international law  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076980904082153769",
+      "published": "2026-07-14T10:43:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ac7146f5fa081844bd70cc1776b85d73",
+      "title": "#Qatar condemns the Houthi group's ballistic missile attack on southern #Saudi Arabia, describing it as a flagrant violation of the kingdom's sovereignty and territorial integrity, a breach of international law, and a threat to regional security and stability  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076979912435540049",
+      "published": "2026-07-14T10:39:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860873",
+      "title": "Grenade attacks across Israel target sushi chain in escalating feud between crime families",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/grenade-attacks-target-sushi-chain-in-escalating-feud-between-crime-families/",
+      "published": "2026-07-14T10:10:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -135,50 +531,6 @@
       }
     },
     {
-      "id": "2607eff20b823a1cfe1a2cd97202b38d",
-      "title": "#Yemen condemns the \"terrorist attacks\" carried out by the Houthi militia against the territory of the Kingdom of #Saudi Arabia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076967269746278701",
-      "published": "2026-07-14T09:49:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a510975c41ca0885a03efb00b0bfdb37",
-      "title": "#Kuwait oil price up USD 2.81 to USD 77.46 pb",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076966941474922895",
-      "published": "2026-07-14T09:48:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jul/14/iran-flight-sanaa-yemen-houthis-saudi",
       "title": "Iranian flights to Yemen are violation of sovereignty, says Yemeni official",
       "source": "The Guardian",
@@ -191,28 +543,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784013818",
-      "title": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
-      "published": "2026-07-14T09:34:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -245,50 +575,6 @@
       }
     },
     {
-      "id": "bbe92abd62ea8d04ceb2656c93048a9c",
-      "title": "#Russia's Federal Security Service thwarts a major drone attack targeting a defense logistics facility in Moscow, accusing #Ukraine's Security Service of planning the operation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076960199957500222",
-      "published": "2026-07-14T09:21:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6798fe6cd69caf1fbd944b4af5a4c697",
-      "title": "A field study found that 93.2 percent of Sudanese support peace negotiations to end the conflict that has continued since April 15, 2023, while 74.3 percent backed an immediate ceasefire, reflecting broad public support for ending the war  #KUNA #Sudan",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076959846843163104",
-      "published": "2026-07-14T09:19:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860827",
       "title": "Katz seeks pardon for soldier who killed subdued Palestinian stabber; IDF opposed",
       "source": "Times of Israel",
@@ -311,30 +597,8 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784008688",
-      "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What\u2019s the latest?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
-      "published": "2026-07-14T08:52:22+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/business/energy/2026/07/14/trumps-strait-of-hormuz-toll-could-add-32m-to-every-supertanker-voyage/",
-      "title": "Trump\u2019s Strait of Hormuz toll could add $32m to every supertanker voyage",
+      "title": "Trump\u2019s Strait of Hormuz toll could add $34m to every supertanker voyage",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/business/energy/2026/07/14/trumps-strait-of-hormuz-toll-could-add-32m-to-every-supertanker-voyage/",
       "published": "2026-07-14T08:45:24+00:00",
@@ -347,50 +611,6 @@
         "lng": 56.5
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f6b384b3fbcace2ce0aadf7f01861d6e",
-      "title": "Desertification and drought represent an increasing environmental and developmental challenge at the global level, in light of the accelerating pace of climate change and the continued pressures resulting from human activities, and the resulting degradation of land and natural resources, which threatens food security and biodiversity and undermines efforts to achieve sustainable development (Report by QNA)  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076950700123128006",
-      "published": "2026-07-14T08:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784017313",
-      "title": "US military releases video of its latest strikes on Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
-      "published": "2026-07-14T08:23:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -465,28 +685,6 @@
       }
     },
     {
-      "id": "fe9245e2f9b3d612fb39f2d0c2462d25",
-      "title": "Secretary General of the Gulf Cooperation Council condemns and denounces the aggressive Iranian attack that targeted the #UAE oil tankers, killing a crew member and injuring others  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076940494580383837",
-      "published": "2026-07-14T08:02:00+00:00",
-      "type": "ground",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "edee5097aa1e07913c7c000d9f49f8d0",
       "title": "\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u062a\u062d\u0630\u0631 \u0645\u0646 \u062d\u0633\u0627\u0628\u0627\u062a \u0648\u0647\u0645\u064a\u0629 \u062a\u0646\u062a\u062d\u0644 \u0635\u0641\u0629 \u0634\u0631\u0643\u0627\u062a \u062a\u0623\u0645\u064a\u0646 \u0627\u0644\u0645\u0631\u0643\u0628\u0627\u062a \u0648\u062a\u0642\u062f\u0645 \u0639\u0631\u0648\u0636\u0627\u064b \u0645\u063a\u0631\u064a\u0629 \u0628\u0647\u062f\u0641 \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u0644 Warning.. Fake accounts impersonating vehicle insurance companies are offering attractive but fraudulent deals with the aim of committing fraud \u0648\u0627\u0631\u0646\u0646\u06af.. \u0633\u0648\u0634\u0644 \u0645\u06cc\u0688\u06cc\u0627 \u067e\u0631 \u062c\u0639\u0644\u06cc \u0627\u06a9\u0627\u0624\u0646\u0679\u0633 \u0633\u06d2 \u06c1\u0648\u0634\u06cc\u0627\u0631 \u0631\u06c1\u06cc\u06ba \u062c\u0648 \u06af\u0627\u0691\u06cc\u0648\u06ba \u06a9\u06cc \u0627\u0646\u0634\u0648\u0631\u0646\u0633 \u06a9\u0645\u067e\u0646\u06cc\u0648\u06ba \u0627\u0648\u0631 \u062f\u0641\u0627\u062a\u0631 \u06a9\u0627 \u0631\u0648\u067e \u062f\u06be\u0627\u0631 \u06a9\u0631 \u063a\u06cc\u0631 \u062d\u0642\u06cc\u0642\u06cc \u0627\u0648\u0631 \u067e\u0631\u06a9\u0634\u0634 \u0627\u0646\u0634\u0648\u0631\u0646\u0633 \u0622\u0641\u0631\u0632 \u067e\u06cc\u0634 \u06a9\u0631\u062a\u06d2 \u06c1\u06cc\u06ba\u060c \u062a\u0627\u06a9\u06c1 \u0645\u062a\u0627\u062b\u0631\u06cc\u0646 \u06a9\u0648 \u062f\u06be\u0648\u06a9\u06c1 \u062f\u06d2 \u06a9\u0631 \u0645\u0627\u0644\u06cc \u0646\u0642\u0635\u0627\u0646 \u067e\u06c1\u0646\u0686\u0627\u06cc\u0627 \u062c\u0627 \u0633\u06a9\u06d2\u06d4 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea #\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a_\u0623\u0645\u0646_\u0648\u0623\u0645\u0627\u0646 #MOIUAE",
       "source": "UAE MOI (RSS.app)",
@@ -553,28 +751,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3860758",
-      "title": "Bnei Brak set to implement gender segregation on two main streets \u2014 report",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/bnei-brak-set-to-implement-gender-segregation-on-two-main-streets-report/",
-      "published": "2026-07-14T07:01:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/travel/2026/07/14/iran-war-middle-east-flight-status/",
       "title": "Middle East flight updates: Air Astana halts UAE flights, Jazeera Airways issues travel advisory",
       "source": "The National UAE",
@@ -587,28 +763,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860753",
-      "title": "Sara Netanyahu said pushing to guarantee security detail for family for next 5 years",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/sara-netanyahu-said-pushing-to-guarantee-security-detail-for-family-for-next-5-years/",
-      "published": "2026-07-14T06:34:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -641,28 +795,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/07/14/oil-prices-hit-highest-level-in-month-after-attacks-resume-in-strait-of-hormuz/",
-      "title": "Oil prices hit highest level in a month after attacks resume in Strait of Hormuz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/07/14/oil-prices-hit-highest-level-in-month-after-attacks-resume-in-strait-of-hormuz/",
-      "published": "2026-07-14T05:58:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o#0",
       "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
       "source": "BBC Middle East",
@@ -685,28 +817,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3860742",
-      "title": "Candidate vying to replace Platner claims Israel \u2018committing genocide in Gaza right now\u2019",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/candidate-vying-to-replace-platner-claims-israel-committing-genocide-in-gaza-right-now/",
-      "published": "2026-07-14T03:53:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
       "title": "Trump says US reinstating blockade on Iranian ports \u2013 as it happened",
       "source": "The Guardian",
@@ -721,28 +831,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3860734",
-      "title": "So who actually controls the Strait of Hormuz?",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/so-who-actually-controls-the-strait-of-hormuz/",
-      "published": "2026-07-14T03:22:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1147,28 +1235,6 @@
       }
     },
     {
-      "id": "5eb53c742445611ed1993453d2ded8b5",
-      "title": "DIFC Courts Reports Record Results in the First Half of 2026.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2076679889374281817",
-      "published": "2026-07-13T14:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=89613",
       "title": "Auterion, Ukrainian drone-maker Skyfall to supply 50,000 FPVs",
       "source": "Breaking Defense",
@@ -1206,28 +1272,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "eebb29eb9e5b4b301b5aed389af25f42",
-      "title": ". The United Arab Emirates has condemned in the strongest terms the renewed hostile missile and drone attacks by Iran ta...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dau8kpJCFcc",
-      "published": "2026-07-13T12:45:18+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1448,28 +1492,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/jul/13/israel-prison-torture-death-hussam-abu-safiya-palestine",
-      "title": "In Israel\u2019s prisons, torture and death have become a norm that it barely tries to hide | Nesrine Malik",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/jul/13/israel-prison-torture-death-hussam-abu-safiya-palestine",
-      "published": "2026-07-13T05:00:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
