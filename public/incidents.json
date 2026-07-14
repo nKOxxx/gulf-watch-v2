@@ -1,23 +1,155 @@
 {
-  "generated_at": "2026-07-14T05:04:53.930059+00:00",
-  "total_incidents": 78,
+  "generated_at": "2026-07-14T06:51:49.923951+00:00",
+  "total_incidents": 76,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
-      "title": "Middle East crisis live: US strikes Iran for third consecutive night; UAE says Tehran has hit tankers in strait of Hormuz",
+      "title": "US strikes Iran for third consecutive night as Trump plans Hormuz transit fee \u2013 Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
-      "published": "2026-07-14T04:52:33+00:00",
-      "type": "ground",
+      "published": "2026-07-14T06:40:37+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860753",
+      "title": "Sara Netanyahu said pushing to guarantee security detail for family for next 5 years",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/sara-netanyahu-said-pushing-to-guarantee-security-detail-for-family-for-next-5-years/",
+      "published": "2026-07-14T06:34:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/07/14/what-is-pickaxe-mountain-the-suspected-iranian-nuclear-site-trump-says-is-in-us-crosshairs/",
+      "title": "What is Pickaxe Mountain? The suspected Iranian nuclear site Trump says is in US crosshairs",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/07/14/what-is-pickaxe-mountain-the-suspected-iranian-nuclear-site-trump-says-is-in-us-crosshairs/",
+      "published": "2026-07-14T06:14:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/07/14/oil-prices-hit-highest-level-in-month-after-attacks-resume-in-strait-of-hormuz/",
+      "title": "Oil prices hit highest level in a month after attacks resume in Strait of Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/07/14/oil-prices-hit-highest-level-in-month-after-attacks-resume-in-strait-of-hormuz/",
+      "published": "2026-07-14T05:58:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9557348b451ce718e95bc3aef016bab9",
+      "title": "#Bahrain condemns & denounces the heinous terrorist attacks carried out by the Houthi militia using ballistic missiles, targeting the southern region of the Kingdom of #Saudi Arabia  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076904012612260155",
+      "published": "2026-07-14T05:37:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784005790",
+      "title": "Trump threatens to attack \u2018Pickaxe Mountain\u2019 a nuclear facility inside Ira",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss",
+      "published": "2026-07-14T05:15:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "43bd5501d742ea51961e7d9ecb298fdb",
+      "title": "#Jordan air defenses down 4 Iranian missiles  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076892501173023013",
+      "published": "2026-07-14T04:52:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -267,50 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/14/just-chill-tyre-beachgoers-bronze-against-backdrop-of-smoke-and-israeli-occupation/",
-      "title": "'Just chill': Tyre beachgoers bronze against backdrop of smoke and Israeli occupation",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/14/just-chill-tyre-beachgoers-bronze-against-backdrop-of-smoke-and-israeli-occupation/",
-      "published": "2026-07-14T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.27,
-        "lng": 35.2033
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/07/14/trump-to-host-iraqs-new-prime-minister-as-baghdad-seeks-closer-us-ties/",
-      "title": "Trump to host Iraqi Prime Minister as Baghdad seeks closer US ties",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/07/14/trump-to-host-iraqs-new-prime-minister-as-baghdad-seeks-closer-us-ties/",
-      "published": "2026-07-14T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.3152,
-        "lng": 44.3661
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "008e62eeb5c73a83ff179baa527f22a3",
       "title": "#Yemen reiterates call for continued support to its armed forces  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -400,63 +488,19 @@
     },
     {
       "id": "https://www.timesofisrael.com/?p=3860721",
-      "title": "Bill extending mandatory military service to 32 months finalized before last plenum votes",
+      "title": "Central Israel sees wave of grenade attacks amid escalating feud between crime families",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/liveblog-july-14-2026/",
       "published": "2026-07-14T01:56:29+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Israel",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783992941",
-      "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
-      "published": "2026-07-14T01:37:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783985511",
-      "title": "Record El Ni\u00f1o threatens to unleash floods across East Africa and Asia",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
-      "published": "2026-07-14T01:27:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -619,28 +663,6 @@
       }
     },
     {
-      "id": "3f507d3200e5a0ec8b45207c68b8b2e8",
-      "title": "#US President Donald Trump notifies Congress that the #US army has resumed military action in Iran, according to US media reports  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076799768924139992",
-      "published": "2026-07-13T22:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "46388b3a9654ddd9ebb3f471e6aba8d4",
       "title": ". The Ministry of Defence announced that the two national tankers, Mombasa and Al Bahiyah, were targeted by two Iranian ...",
       "source": "WAM News (RSS.app)",
@@ -653,28 +675,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "16c615ef34267d8c3dc2032d65ed87c1",
-      "title": "#Bahrain strongly condemns and denounces the heinous terrorist attacks carried out by the Houthi militia using ballistic missiles, targeting the southern region of the Kingdom of #Saudi Arabia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076792196796211659",
-      "published": "2026-07-13T22:13:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
       },
       "credibility": 95,
       "is_government": true,
@@ -700,28 +700,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2b5bad0dab46a3083d4dc3126058d5e3",
-      "title": "The #UAE strongly condemns and denounces the ongoing attacks targeting the Consulate General of the State of #Kuwait in the Iraqi city of Basra  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076783432735092953",
-      "published": "2026-07-13T21:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 30.5156,
-        "lng": 47.7804
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -788,28 +766,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860557",
-      "title": "Deans of all Israeli med schools warn against bill expanding gender segregation in higher ed",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/deans-of-israeli-med-schools-warn-against-expanding-gender-segregation-in-higher-ed/",
-      "published": "2026-07-13T20:15:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1675,7 +1631,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no#0",
+      "id": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no#1",
       "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
