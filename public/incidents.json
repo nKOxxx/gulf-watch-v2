@@ -1,13 +1,189 @@
 {
-  "generated_at": "2026-07-13T22:22:36.191272+00:00",
-  "total_incidents": 73,
+  "generated_at": "2026-07-14T00:41:21.643037+00:00",
+  "total_incidents": 72,
   "incidents": [
     {
+      "id": "93e7d1a20d27a7d8c574658479c1088f",
+      "title": "#Bahrain Interior Ministry: Warning sirens go off across Kingdom  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076826885321900198",
+      "published": "2026-07-14T00:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-      "title": "US launches new strikes on Iran following Trump\u2019s threat amid fresh clashes over strait of Hormuz \u2013 Middle East crisis live",
+      "title": "Middle East crisis live: US launches new wave of strikes; UAE says two tankers in strait of Hormuz hit by Iranian missiles",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-      "published": "2026-07-13T22:17:07+00:00",
+      "published": "2026-07-14T00:26:32+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783984428",
+      "title": "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss",
+      "published": "2026-07-14T00:00:00+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 1,
+        "military": 0,
+        "civilian": 1
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o#0",
+      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-13T23:42:24+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1199800007f524c317f9a54c9003eb1b",
+      "title": "Warning sirens heard across Bahrain  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076814622552691183",
+      "published": "2026-07-13T23:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1783981987",
+      "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
+      "published": "2026-07-13T23:41:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 15,
+        "military": 0,
+        "civilian": 15
+      }
+    },
+    {
+      "id": "b80c9bd2943d80437e34716b8daf007c",
+      "title": ". The United Arab Emirates has condemned and denounced in the strongest terms the Iranian hostile attacks that targeted ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DawEzOhiGDQ",
+      "published": "2026-07-13T23:16:26+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cf1fbf90c221eb5488a681136c3ef89a",
+      "title": "The Ministry of Defence announces that the national tankers Mombasa and Al Bahiyah were targeted by two Iranian cruise missiles while transiting the southern shipping lane of the Strait of Hormuz, within Omani territorial waters. The attack resulted in the death of one Indian crew member aboard the Mombasa tanker and the injury of eight others, including four who sustained serious injuries. The injured comprise six Indian nationals and two Ukrainian nationals. The attack also caused material damage to both tankers as a result of the fires that broke out on board, which have since been brought under control. The Ministry of Defence condemned this blatant attack, which is considered a serious",
+      "source": "UAE MOD (RSS.app)",
+      "source_url": "https://x.com/modgovae/status/2076804834754453830",
+      "published": "2026-07-13T23:03:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade",
+      "title": "US launches third night of strikes on Iran as Trump announces Hormuz blockade",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade",
+      "published": "2026-07-13T22:43:12+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +194,50 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3f507d3200e5a0ec8b45207c68b8b2e8",
+      "title": "#US President Donald Trump notifies Congress that the #US army has resumed military action in Iran, according to US media reports  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2076799768924139992",
+      "published": "2026-07-13T22:43:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "46388b3a9654ddd9ebb3f471e6aba8d4",
+      "title": ". The Ministry of Defence announced that the two national tankers, Mombasa and Al Bahiyah, were targeted by two Iranian ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DawAkxCCBH6",
+      "published": "2026-07-13T22:39:31+00:00",
+      "type": "ground",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -69,42 +289,20 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/07/13/unilateral-action-in-yemen-deepens-divisions-un-warns/",
-      "title": "Unilateral action in Yemen deepens divisions, UN warns",
+      "id": "https://www.thenationalnews.com/news/us/2026/07/14/un-warns-yemen-risks-full-scale-conflict-after-sanaa-airport-attacks/",
+      "title": "UN warns Yemen risks full-scale conflict after Sanaa airport attacks",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/07/13/unilateral-action-in-yemen-deepens-divisions-un-warns/",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/07/14/un-warns-yemen-risks-full-scale-conflict-after-sanaa-airport-attacks/",
       "published": "2026-07-13T21:47:28+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Yemen",
         "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
+        "lat": 15.3694,
+        "lng": 44.191
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o#0",
-      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-13T21:46:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Egypt",
-        "city": null,
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -128,6 +326,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3860540",
+      "title": "Israel passes quasi-constitutional law declaring Torah study a foundational value",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/knesset-passes-contentious-basic-law-declaring-torah-study-a-constitutional-value/",
+      "published": "2026-07-13T21:31:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -223,50 +443,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1783971497",
-      "title": "Andy Burnham in line to become British PM after securing party support",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/13/andy-burnham-in-line-to-become-british-pm-after-securing-party-support?traffic_source=rss",
-      "published": "2026-07-13T20:57:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783975579",
-      "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
-      "published": "2026-07-13T20:48:18+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ad1d0bd126b907c28835c3207ad1eda5",
       "title": "Secretary-General of the Arab League Nabil Fahmy calls on #Slovenia to reverse its decision to withdraw recognition of the State of #Palestine and move its embassy from Tel Aviv to occupied Jerusalem  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -282,50 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783966831",
-      "title": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss",
-      "published": "2026-07-13T20:41:27+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783974830",
-      "title": "Iran military warns US against Strait of Hormuz \u2018interference\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss",
-      "published": "2026-07-13T20:40:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -378,7 +510,7 @@
     },
     {
       "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3860557",
-      "title": "Deans of Israeli med schools warn against expanding gender segregation in higher ed",
+      "title": "Deans of all Israeli med schools warn against bill expanding gender segregation in higher ed",
       "source": "Times of Israel",
       "source_url": "https://www.timesofisrael.com/deans-of-israeli-med-schools-warn-against-expanding-gender-segregation-in-higher-ed/",
       "published": "2026-07-13T20:15:54+00:00",
@@ -433,50 +565,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6b738464d23e3074c0e915becd38ca38",
-      "title": "The #US Central Command (CENTCOM) says it will resume blockading Iranian ports as of Tuesday evening under the direction of US President Donald Trump  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076747594156453954",
-      "published": "2026-07-13T19:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fd1d7ab7644ada575d4e8701c3786b6b",
-      "title": "#UN Special Envoy for Yemen Hans Grundberg calls on all parties to have dialogue and negotiations under #UN auspices to restore calm in #Yemen  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076740996688155123",
-      "published": "2026-07-13T18:50:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
       },
       "credibility": 95,
       "is_government": true,
@@ -575,28 +663,6 @@
       }
     },
     {
-      "id": "70030e72cfa02a9aa57f191a5c402e3a",
-      "title": "Kuwait takes part in third GCC-EU regional security forum  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2076727307939487746",
-      "published": "2026-07-13T17:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.timesofisrael.com/?p=3860463",
       "title": "EU launches $1 billion aid initiative for Gaza, urges disarmament of Hamas",
       "source": "Times of Israel",
@@ -677,28 +743,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3860339",
-      "title": "Israeli-founded data tech unicorn set to slash 25% of its Tel Aviv workforce",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/israeli-founded-data-tech-unicorn-set-to-slash-25-of-its-tel-aviv-workforce/",
-      "published": "2026-07-13T16:56:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.0853,
-        "lng": 34.7818
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -917,50 +961,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d2d5290798ec0fc6a32b6d8e28e7b2e4",
-      "title": ". Abu Dhabi Future Energy Company PJSC \u2013 Masdar, a global clean energy leader, today announced financial close for the w...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dau2eVjCJQh",
-      "published": "2026-07-13T11:52:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b828e2472fef4573306e1e54b5c000d5",
-      "title": ". Firefighting teams of the Armed Forces responded to an accidental fire at a warehouse in Zayed Military City that resu...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dau2LMXiMqS",
-      "published": "2026-07-13T11:49:24+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": true,
@@ -1357,28 +1357,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
-      "title": "Trump rejects Iran\u2019s strait of Hormuz closure claim as fight for control goes on",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
-      "published": "2026-07-12T18:49:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
