@@ -1,13 +1,57 @@
 {
-  "generated_at": "2026-07-17T10:36:46.013610+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-07-17T12:32:54.519646+00:00",
+  "total_incidents": 69,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1784290555",
+      "title": "US marines board commercial tanker in Gulf of Oman",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-marines-board-commercial-tanker-in-gulf-of-oman?traffic_source=rss",
+      "published": "2026-07-17T12:17:08+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "796c8104d76fd4c7e6a5a468eeff8578",
+      "title": "Chief of General Staff of the #Kuwait Army & Deputy Chief of General Staff visit injured personnel of the Kuwait Army's ground force.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2078090527598076016",
+      "published": "2026-07-17T12:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates",
       "title": "Iranian airport and bridges hit as US forces board ship amid ports blockade \u2013 Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates",
-      "published": "2026-07-17T10:34:50+00:00",
+      "published": "2026-07-17T12:11:49+00:00",
       "type": "naval",
       "status": "unconfirmed",
       "location": {
@@ -25,20 +69,306 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784204982",
-      "title": "Knesset dissolves: How will Israel vote in October\u2019s general election?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
-      "published": "2026-07-17T10:10:25+00:00",
+      "id": "85adfb37aba6983dfcf937b2b8d1b711",
+      "title": "The #UAE condemns the Iranian attacks targeting #Kuwait, #Bahrain, #Qatar & #Jordan.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2078089370138013799",
+      "published": "2026-07-17T12:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/17/lebanons-parliament-postpones-death-penalty-abolition-bill-amid-political-dispute/",
+      "title": "Lebanon's parliament postpones death penalty abolition bill amid political dispute",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/17/lebanons-parliament-postpones-death-penalty-abolition-bill-amid-political-dispute/",
+      "published": "2026-07-17T12:05:06+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": "Lebanon",
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "15765950ee9ba9517b9882c9949d14b0",
+      "title": ". The General Command of the Bahrain Defence Force (BDF) said that its air defence systems successfully intercepted and ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Da5JfePIvzx",
+      "published": "2026-07-17T11:50:51+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ee29f50fb04d83b2f3652b8846f0ea3d",
+      "title": "#Kuwait condemns the Iranian attacks targeting #Bahrain, #Qatar & #Jordan, describing them as a flagrant violation of their sovereignty & territorial integrity & a direct threat to safety of their people.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2078084093548409002",
+      "published": "2026-07-17T11:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0a01af188dccf7e4ed9b5a1e3302b238",
+      "title": ". Qatar's Ministry of Interior said that one child was injured due to falling shrapnel resulting from interception opera...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Da5I50Oo5i7",
+      "published": "2026-07-17T11:45:42+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784279587",
+      "title": "The Church of England has taken a long-overdue step on Palestine",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/7/17/the-church-of-england-has-taken-a-long-overdue-step-on-palestine?traffic_source=rss",
+      "published": "2026-07-17T11:34:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784279656",
+      "title": "Why is the US attacking southern Iran\u2019s civilian infrastructure?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss",
+      "published": "2026-07-17T11:26:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/17/iran-claims-first-attack-on-us-troops-in-syria/",
+      "title": "Iran claims first attack on US troops in Syria",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/17/iran-claims-first-attack-on-us-troops-in-syria/",
+      "published": "2026-07-17T11:19:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ccd006a3408446532397034b132cd45e",
+      "title": "#Kuwait strongly condemns the Iranian aggression involving missiles & drones that targeted the country's territory, describing it as a flagrant violation of its sovereignty, security & territorial integrity.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2078075927590801610",
+      "published": "2026-07-17T11:14:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/07/17/uae-sends-another-100-tonnes-of-aid-to-gaza-to-ease-humanitarian-crisis/",
+      "title": "UAE sends another 100 tonnes of aid to Gaza to ease humanitarian crisis",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/07/17/uae-sends-another-100-tonnes-of-aid-to-gaza-to-ease-humanitarian-crisis/",
+      "published": "2026-07-17T11:02:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "18718aaffa11cd4ba44774a6a9095825",
+      "title": "#Bahrain's Ministry of Foreign Affairs condemns the repeated Iranian missile & drone attacks targeting civilian & critical infrastructure in Bahrain, #Kuwait, #Qatar & #Jordan.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2078069999990669547",
+      "published": "2026-07-17T10:51:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "55a2c14b010aa14254e503ec7a2cb1a6",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the renewed hostile attacks by Iran targeting the Kingdo...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Da5CmMvogAY",
+      "published": "2026-07-17T10:50:36+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3f89c9289557cd2e1306288a225fe587",
+      "title": ". A humanitarian aid flight carrying 100 tonnes of relief supplies departed Ras Al Khaimah International Airport on Frid...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Da5CR_5oNvQ",
+      "published": "2026-07-17T10:48:33+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/2026/07/17/war-risk-shipping-premium-surges-again-as-tensions-escalate-at-strait-of-hormuz/",
+      "title": "Shipping insurance surges again as  attacks intensify over Strait of Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/2026/07/17/war-risk-shipping-premium-surges-again-as-tensions-escalate-at-strait-of-hormuz/",
+      "published": "2026-07-17T10:44:35+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -113,50 +443,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784273736",
-      "title": "Israel headed for October election as parliament dissolved",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss",
-      "published": "2026-07-17T09:42:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784271396",
-      "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
-      "published": "2026-07-17T09:24:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "7569b4945faceea4f7f2ae3386afcfa3",
       "title": "#Kuwait's Ministry of Electricity: one power generation and water distillation plants was attacked, causing damage to the facility, a fire & damage to a large number of electricity generation units, prompting the activation of emergency plans. #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -201,138 +487,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784278600",
-      "title": "US strikes destroy key bridges, tower in southern Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss",
-      "published": "2026-07-17T08:57:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c33f05f4735ed9c950bd5ca94b372a3f",
-      "title": "#Qatar: A child was injured after debris from interception operations fell in the country & is receiving the necessary medical care.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2078033571881660724",
-      "published": "2026-07-17T08:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9acfef5a167cf52d2de5776a518d571a",
-      "title": "KPC: #Kuwait oil price down USD 3.64 to reach USD 81.33 pb @kpcofficialkw  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2078033159514464274",
-      "published": "2026-07-17T08:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784268837",
-      "title": "Gulf states come under Iranian fire as US strikes intensify",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss",
-      "published": "2026-07-17T08:18:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/07/17/oil-set-for-steep-weekly-rise-as-us-and-iran-intensify-attacks/",
-      "title": "Oil set for steep weekly rise as US and Iran intensify attacks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/07/17/oil-set-for-steep-weekly-rise-as-us-and-iran-intensify-attacks/",
-      "published": "2026-07-17T07:28:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/17/more-gulf-strikes-iraq-power-threat-and-india-bars-sailors-from-strait/",
-      "title": "More Gulf strikes, Iraq power threat and India bars sailors from strait",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/17/more-gulf-strikes-iraq-power-threat-and-india-bars-sailors-from-strait/",
-      "published": "2026-07-17T07:26:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "330b5b41aeab0df58cb8f5a1df7ec768",
       "title": "IMOD Director General, Maj. Gen. (Res.) Amir Baram toured the facilities of Uvision, one of Israel's fastest-growing defense companies and a leading developer of loitering munitions. Read More:",
       "source": "Israel MOD (RSS.app)",
@@ -348,28 +502,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/07/17/president-sheikh-mohamed-and-sultan-of-oman-hold-call-to-discuss-iran-conflict/",
-      "title": "President Sheikh Mohamed and Sultan of Oman hold call to discuss Iran conflict",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/07/17/president-sheikh-mohamed-and-sultan-of-oman-hold-call-to-discuss-iran-conflict/",
-      "published": "2026-07-17T06:01:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -414,28 +546,6 @@
       },
       "credibility": 80,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4ad4e1555f58b3aae8e4dc037392ac4b",
-      "title": "US completes sixth consecutive night of major strikes against Iran  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2077945704346001746",
-      "published": "2026-07-17T02:37:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1203,28 +1313,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/flashpoints/2026/07/15/us-launches-new-round-of-strikes-against-iran/",
-      "title": "US launches new round of strikes against Iran",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/flashpoints/2026/07/15/us-launches-new-round-of-strikes-against-iran/",
-      "published": "2026-07-15T14:20:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
