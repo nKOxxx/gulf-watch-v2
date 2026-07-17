@@ -1,13 +1,211 @@
 {
-  "generated_at": "2026-07-17T08:49:43.566493+00:00",
-  "total_incidents": 67,
+  "generated_at": "2026-07-17T10:36:46.013610+00:00",
+  "total_incidents": 65,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates",
-      "title": "US strikes on Iran reportedly hit airport and bridges \u2013 Middle East crisis live",
+      "title": "Iranian airport and bridges hit as US forces board ship amid ports blockade \u2013 Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates",
-      "published": "2026-07-17T08:39:40+00:00",
+      "published": "2026-07-17T10:34:50+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784204982",
+      "title": "Knesset dissolves: How will Israel vote in October\u2019s general election?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
+      "published": "2026-07-17T10:10:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "32bbda4169332a1d65c14ee18c830af4",
+      "title": "The IRGC says its missiles struck a US command center in Syria's Al-Tanf district, killing many US soldiers in retaliation for the earlier US attacks on the barracks of Iranian army's soldiers in southeast city of Iranshahr.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2078054942103761096",
+      "published": "2026-07-17T09:51:00+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "59515a321a33d5dce8de8ddcb1d1f1a4",
+      "title": "Iran's Ambassador and Permanent Representative to the United Nations has condemned the US systematic targeting of civilian infrastructure constitute as amounting to war crimes.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2078054797874180606",
+      "published": "2026-07-17T09:50:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2ac745c8ad91a0b7a03438adfad0a2ab",
+      "title": "#Kuwait's Ministry of Electricity, Water & Renewable Energy: A power generation & water distillation plants was attacked as a result of the criminal Iranian aggression against Kuwait.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2078053896803467387",
+      "published": "2026-07-17T09:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784273736",
+      "title": "Israel headed for October election as parliament dissolved",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss",
+      "published": "2026-07-17T09:42:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784271396",
+      "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
+      "published": "2026-07-17T09:24:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7569b4945faceea4f7f2ae3386afcfa3",
+      "title": "#Kuwait's Ministry of Electricity: one power generation and water distillation plants was attacked, causing damage to the facility, a fire & damage to a large number of electricity generation units, prompting the activation of emergency plans. #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2078046829376119054",
+      "published": "2026-07-17T09:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c285f0121bcb32a9edf714cbe2684b1f",
+      "title": "#Bahrain air defenses intercept & destroy Iranian aerial attacks  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2078042517946151351",
+      "published": "2026-07-17T09:01:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784278600",
+      "title": "US strikes destroy key bridges, tower in southern Iran",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss",
+      "published": "2026-07-17T08:57:56+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -81,28 +279,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784268079",
-      "title": "US attacks southern Iran, as Tehran hits Gulf countries: What\u2019s the latest?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
-      "published": "2026-07-17T07:56:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
       },
       "credibility": 90,
       "is_government": false,
@@ -201,116 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/17/air-quality-alert-for-world-cup-final-in-new-york/",
-      "title": "Air quality alert issued in New York ahead of World Cup final",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/17/air-quality-alert-for-world-cup-final-in-new-york/",
-      "published": "2026-07-17T05:58:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/07/17/french-air-force-joins-battle-against-forest-fire/",
-      "title": "French Air Force joins battle against forest fire",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/07/17/french-air-force-joins-battle-against-forest-fire/",
-      "published": "2026-07-17T05:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784252559",
-      "title": "Key takeaways from Donald Trump\u2019s controversial speech on election security",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
-      "published": "2026-07-17T04:58:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784264108",
-      "title": "US bombards Iran in sixth-straight night of attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss",
-      "published": "2026-07-17T04:57:08+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784262198",
-      "title": "Israeli settlers attack Sinjil town in occupied West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss",
-      "published": "2026-07-17T04:39:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran",
       "title": "Marines board tanker amid blockade of Iranian ports as US expands strikes with attacks on bridges",
       "source": "The Guardian",
@@ -399,28 +465,6 @@
       }
     },
     {
-      "id": "4abe5f3a9916e745c465234d19081bef",
-      "title": "Qatari air defenses intercept hostile missiles  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2077941347667812756",
-      "published": "2026-07-17T02:19:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=182329",
       "title": "Syria seizes advanced weapons that were bound for Hezbollah in Lebanon",
       "source": "Ya Libnan",
@@ -443,28 +487,6 @@
       }
     },
     {
-      "id": "1c2f5b40cce2790c61fd8b6667653ac3",
-      "title": "#Kuwait Envoy to #US takes part in joint Gulf-Jordanian congressional meeting  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2077926776198566193",
-      "published": "2026-07-17T01:22:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=182322",
       "title": "Hezbollah was never promised protection\u2014Lebanon was promised sovereignty by President Aoun",
       "source": "Ya Libnan",
@@ -480,28 +502,6 @@
       },
       "credibility": 80,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f424ab5ff249b47e82766128f4cd6546",
-      "title": "#US announces a new visa restriction policy targeting foreign nationals accused of supporting, financing, inciting, or facilitating activities linked to groups #Washington describes as \"Far-Left Terrorist and other aligned groups.\"  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2077914800563114391",
-      "published": "2026-07-17T00:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1425,50 +1425,6 @@
         "lng": 34.4668
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo#1",
-      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-14T10:02:43+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 15.3694,
-        "lng": 44.191
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "def040d753fe98e3c470efccbfd86205",
-      "title": "Explosions reported in Iran's Bandar Abbas, Bushehr",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2076967814028521840",
-      "published": "2026-07-14T09:51:00+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 27.1833,
-        "lng": 56.2667
-      },
-      "credibility": 70,
       "is_government": false,
       "casualties": {
         "total": 0,
