@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-07-19T03:10:07.278341+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-07-19T05:08:39.854430+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
+      "title": "Two US troops killed and one missing in Jordan after Iranian attacks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
+      "published": "2026-07-19T04:41:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784435725",
+      "title": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
+      "published": "2026-07-19T04:36:47+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784434555",
+      "title": "At least one killed as Russian ballistic missiles hit Kyiv",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+      "published": "2026-07-19T04:32:28+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/19/live-iran-war-us-jordan-troops/",
+      "title": "Iran war latest: US ends eighth night of strikes after two troops killed in Jordan",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/19/live-iran-war-us-jordan-troops/",
+      "published": "2026-07-19T04:31:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784416102",
+      "title": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "published": "2026-07-19T04:16:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "800a2555492e1c855f8804ee50d65714",
+      "title": "The #US Central Command (CENTCOM) says it has completed another round of strikes against Iran at the Commander-in-Chief's direction in response to Iranian missile attacks on US forces in #Jordan  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2078693132384838019",
+      "published": "2026-07-19T04:07:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/19/thomas-tuchel-proud-of-england-after-6-4-win-over-france-caps-best-world-cup-on-foreign-soil/",
+      "title": "Thomas Tuchel proud of England after 6-4 win over France caps 'best World Cup on foreign soil'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/19/thomas-tuchel-proud-of-england-after-6-4-win-over-france-caps-best-world-cup-on-foreign-soil/",
+      "published": "2026-07-19T04:01:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/2026/07/19/anybody-who-bet-against-the-gulf-in-last-50-years-has-lost-money-says-investcorps-alardhi/",
+      "title": "Anybody who bet against the Gulf in last 50 years has lost money, says Investcorp's Alardhi",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/2026/07/19/anybody-who-bet-against-the-gulf-in-last-50-years-has-lost-money-says-investcorps-alardhi/",
+      "published": "2026-07-19T03:17:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/07/20/donald-trump-aoun-lebanon-israel/",
       "title": "Lebanon's Aoun heads to White House seeking Trump's backing on Israeli withdrawal",
@@ -17,6 +193,28 @@
         "lng": 34.8516
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784429467",
+      "title": "Palestinian teenage footballer dies after Israeli settler attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/palestinian-teenage-footballer-dies-after-israeli-settler-attack?traffic_source=rss",
+      "published": "2026-07-19T02:57:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -91,50 +289,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784421461",
-      "title": "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/a-giant-cake-for-venezuelan-quake-child-survivors-as-death-toll-passes-5000?traffic_source=rss",
-      "published": "2026-07-19T00:39:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784421001",
-      "title": "Netanyahu declares support for Argentina ahead of World Cup final",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss",
-      "published": "2026-07-19T00:33:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o#0",
       "title": "Two US troops killed and one missing after Iranian attack in Jordan",
       "source": "BBC Middle East",
@@ -149,28 +303,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784415928",
-      "title": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
-      "published": "2026-07-19T00:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -311,28 +443,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
-      "title": "Two US troops killed and one missing in Jordan after Iranian attacks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
-      "published": "2026-07-18T19:57:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "d90514062ab35220f2e4fbf8dc9ce16c",
       "title": "Kuwait Fire Force chief visits firefighters wounded in the aftermath of Iranian aggression  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -377,30 +487,8 @@
       }
     },
     {
-      "id": "aaff779f567351c65e5707698372fde6",
-      "title": "#Saudi_Arabia strongly condemns Iran's continued aggression against #Kuwait, #Bahrain, and #Jordan.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2078555337922150667",
-      "published": "2026-07-18T18:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/us/2026/07/18/two-us-troops-killed-and-one-missing-following-iranian-attack-in-jordan/",
-      "title": "Two US troops killed and one missing following Iranian attack in Jordan",
+      "title": "Two US troops killed and one missing following Iranian attack on Jordan",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/us/2026/07/18/two-us-troops-killed-and-one-missing-following-iranian-attack-in-jordan/",
       "published": "2026-07-18T18:11:10+00:00",
@@ -487,50 +575,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/18/live-iran-war-us-strikes-gulf-countries/",
-      "title": "Iran war latest: Two US troops killed and one missing following Iranian attack in Jordan",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/18/live-iran-war-us-strikes-gulf-countries/",
-      "published": "2026-07-18T14:35:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/07/18/iran-hits-second-power-and-water-plant-in-kuwait-after-another-night-of-us-strikes/",
-      "title": "Iran 'suspends commitments' on agreement with US after seventh night of strikes",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/07/18/iran-hits-second-power-and-water-plant-in-kuwait-after-another-night-of-us-strikes/",
-      "published": "2026-07-18T14:28:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=182351",
       "title": "Americans should not travel to Lebanon, should  reconsider travel to the Middle East: US embassy",
       "source": "Ya Libnan",
@@ -553,6 +597,28 @@
       }
     },
     {
+      "id": "7bb571c642d89575a87e25b0a2c869d2",
+      "title": ". #Kuwait strongly condemned the Iranian aggression targeting its territory and another power generation and water desal...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Da72dNZIJui",
+      "published": "2026-07-18T13:02:21+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://yalibnan.com/?p=182348",
       "title": "Venezuela quake death toll tops 5,000 as IMF releases  funds for reconstruction",
       "source": "Ya Libnan",
@@ -567,72 +633,6 @@
         "lng": 48.0
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/07/18/uae-widens-investigation-into-false-reporting-of-explosions-in-dubai/",
-      "title": "UAE widens investigation into false reports of explosions in Dubai",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/07/18/uae-widens-investigation-into-false-reporting-of-explosions-in-dubai/",
-      "published": "2026-07-18T12:46:17+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/07/18/uae-condemns-further-iranian-attacks-on-bahrain-kuwait-and-jordan/",
-      "title": "UAE condemns further Iranian attacks on Bahrain, Kuwait and Jordan",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/07/18/uae-condemns-further-iranian-attacks-on-bahrain-kuwait-and-jordan/",
-      "published": "2026-07-18T12:35:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/07/18/dubai-police-issue-warning-over-scam-adverts-offering-visas-and-jobs-for-cash/",
-      "title": "Dubai Police issue warning over scam adverts offering visas and jobs for cash",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/07/18/dubai-police-issue-warning-over-scam-adverts-offering-visas-and-jobs-for-cash/",
-      "published": "2026-07-18T11:27:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1059,28 +1059,6 @@
       }
     },
     {
-      "id": "eff287266ae7a228539f1391be98aef7",
-      "title": ". The United Arab Emirates has condemned in the strongest terms the hostile Iranian attack targeting the Kurdistan Regio...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Da5rwa8iJiA",
-      "published": "2026-07-17T16:50:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=89984",
       "title": "A naval failure in the Strait of Hormuz",
       "source": "Breaking Defense",
@@ -1206,50 +1184,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "15765950ee9ba9517b9882c9949d14b0",
-      "title": ". The General Command of the Bahrain Defence Force (BDF) said that its air defence systems successfully intercepted and ...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Da5JfePIvzx",
-      "published": "2026-07-17T11:50:51+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0a01af188dccf7e4ed9b5a1e3302b238",
-      "title": ". Qatar's Ministry of Interior said that one child was injured due to falling shrapnel resulting from interception opera...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Da5I50Oo5i7",
-      "published": "2026-07-17T11:45:42+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1469,28 +1403,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo#0",
-      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-16T04:06:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
