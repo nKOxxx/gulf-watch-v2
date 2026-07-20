@@ -1,13 +1,409 @@
 {
-  "generated_at": "2026-07-20T12:49:53.368458+00:00",
-  "total_incidents": 66,
+  "generated_at": "2026-07-20T14:48:37.910712+00:00",
+  "total_incidents": 70,
   "incidents": [
     {
+      "id": "https://www.defensenews.com/news/your-military/2026/07/20/lockheed-martin-announces-cheaper-patriot-interceptor-missile/",
+      "title": "Lockheed Martin announces cheaper Patriot interceptor missile",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/07/20/lockheed-martin-announces-cheaper-patriot-interceptor-missile/",
+      "published": "2026-07-20T14:44:54+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "title": "US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes \u2013 Middle East crisis live",
+      "title": "Yemen\u2019s Houthis declare naval blockade against Saudi Arabia as Kuwait says it is under fire from Iran \u2013 Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "published": "2026-07-20T12:48:50+00:00",
+      "published": "2026-07-20T14:41:15+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o#0",
+      "title": "Hamas names Khalil al-Hayya as new overall leader",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-20T14:02:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/07/20/thunderstruck-anduril-unveils-autonomous-attack-rotorcraft/",
+      "title": "Thunderstruck: Anduril unveils autonomous attack rotorcraft",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/20/thunderstruck-anduril-unveils-autonomous-attack-rotorcraft/",
+      "published": "2026-07-20T14:01:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a3d454783a12db2f2b9dbcc1dc1a63a2",
+      "title": "#Bahrain condemns the repeated Iranian missile and drone attacks targeting civilian and vital facilities across the country, calling them a flagrant violation of its sovereignty, security and stability  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079198566568870108",
+      "published": "2026-07-20T13:35:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=182449",
+      "title": "Yemen\u2019s Houthis declare naval blockade on Saudi Arabia, widening threat to global oil supplies",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/07/20/yemens-houthis-declare-naval-blockade-on-saudi-arabia-widening-threat-to-global-oil-supplies/?utm_source=rss&utm_medium=rss&utm_campaign=yemens-houthis-declare-naval-blockade-on-saudi-arabia-widening-threat-to-global-oil-supplies",
+      "published": "2026-07-20T13:34:18+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a863c352ace865351a8e4693cc3e7f7d",
+      "title": "Kuwait's General Staff says air defense systems are currently intercepting hostile missile & drone attacks following the ongoing Iranian aggression. #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079198018973077788",
+      "published": "2026-07-20T13:33:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/07/20/new-uae-anti-drug-helpline-offers-247-support-for-people-battling-addiction/",
+      "title": "New UAE anti-drug helpline offers 24/7 support for people battling addiction",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/07/20/new-uae-anti-drug-helpline-offers-247-support-for-people-battling-addiction/",
+      "published": "2026-07-20T13:32:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784553095",
+      "title": "Israeli ministers and settlers call for return to Gaza settlements",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
+      "published": "2026-07-20T13:29:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/2026/07/20/israels-iai-unveils-hypnosis-system-for-confusing-enemy-drone-swarms/",
+      "title": "Israel\u2019s IAI unveils \u2018Hypnosis\u2019 system for confusing enemy drone swarms",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/2026/07/20/israels-iai-unveils-hypnosis-system-for-confusing-enemy-drone-swarms/",
+      "published": "2026-07-20T13:26:51+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/20/saudi-crown-prince-offers-assistance-in-all-areas-during-call-to-lebanons-aoun/",
+      "title": "Saudi Crown Prince offers 'assistance in all areas' during call to Lebanon's Aoun",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/20/saudi-crown-prince-offers-assistance-in-all-areas-during-call-to-lebanons-aoun/",
+      "published": "2026-07-20T13:25:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8f940b6b7e07e31e72a21b8d34c82407",
+      "title": "Dubai Health announces that a new cohort of seven Emirati doctors has secured residency training positions in North America for the 2026\u20132027 academic year, as part of its ongoing efforts to develop highly skilled national medical talent across a range of specialties, supporting the future of healthcare and strengthening the sector\u2019s readiness. Dubai Health aims to support around 100 Emirati scholars in pursuing advanced training over the 10-year programme, helping to meet the evolving needs of Dubai\u2019s healthcare sector.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2079195971133808927",
+      "published": "2026-07-20T13:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784553522",
+      "title": "Why Palestinians in Gaza are celebrating Spain\u2019s World Cup win",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss",
+      "published": "2026-07-20T13:21:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=182445",
+      "title": "Inside House Democrats\u2019 fear-driven turn against Israel",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/07/20/inside-house-democrats-fear-driven-turn-against-israel/?utm_source=rss&utm_medium=rss&utm_campaign=inside-house-democrats-fear-driven-turn-against-israel",
+      "published": "2026-07-20T13:20:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784546495",
+      "title": "Who is Khalil al-Hayya, Hamas\u2019s newly elected political chief?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/20/who-is-khalil-al-hayya-hamas-newly-elected-political-chief?traffic_source=rss",
+      "published": "2026-07-20T13:18:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1e0e18d329634ef5dea831a9882d88b4",
+      "title": "The World Sports Summit, organised and staged by the Dubai Sports Council, hosted a special dinner in New York City on the sidelines of the ongoing 2026 FIFA World Cup. The event brought together a select group of international sports figures, decision-makers and leaders from sports, media and investment institutions. The dinner is part of a series of initiatives organised by the World Sports Summit to solidify its position as a leading international platform that brings together various stakeholders in the sports ecosystem.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2079193886677983420",
+      "published": "2026-07-20T13:17:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "22ceaf23df588c7afc50775074ca0b5f",
+      "title": "\u0627\u0644\u0642\u0645\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u0629 (World Sports Summit) \u0627\u0644\u062a\u064a \u064a\u0646\u0638\u0645\u0647\u0627 \u0645\u062c\u0644\u0633 \u062f\u0628\u064a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u060c \u062a\u0646\u0638\u0645 \u062d\u0641\u0644 \u0639\u0634\u0627\u0621 \u062e\u0627\u0635 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0646\u064a\u0648\u064a\u0648\u0631\u0643\u060c \u0639\u0644\u0649 \u0647\u0627\u0645\u0634 \u0646\u0647\u0627\u0626\u064a\u0627\u062a \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 FIFA 2026\u060c \u0628\u062d\u0636\u0648\u0631 \u0646\u062e\u0628\u0629 \u0645\u0646 \u0627\u0644\u0634\u062e\u0635\u064a\u0627\u062a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629\u060c \u0648\u0635\u0646\u0627\u0639 \u0627\u0644\u0642\u0631\u0627\u0631\u060c \u0648\u0642\u0627\u062f\u0629 \u0627\u0644\u0645\u0624\u0633\u0633\u0627\u062a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0648\u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a\u0629 \u0648\u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u064a\u0629. \u0648\u064a\u0623\u062a\u064a \u062a\u0646\u0638\u064a\u0645 \u0647\u0630\u0627 \u0627\u0644\u0639\u0634\u0627\u0621 \u0636\u0645\u0646 \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0645\u0628\u0627\u062f\u0631\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0646\u0638\u0645\u0647\u0627 \u0627\u0644\u0642\u0645\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u0629 \u0644\u062a\u0631\u0633\u064a\u062e \u0645\u0643\u0627\u0646\u062a\u0647\u0627 \u0645\u0646\u0635\u0629\u064b \u062f\u0648\u0644\u064a\u0629 \u0631\u0627\u0626\u062f\u0629 \u062a\u062c\u0645\u0639 \u0645\u062e\u062a\u0644\u0641 \u0623\u0637\u0631\u0627\u0641 \u0627\u0644\u0645\u0646\u0638\u0648\u0645\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629\u060c \u0648\u062a\u0648\u0641\u0631 \u0645\u0633\u0627\u062d\u0629 \u0644\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0631\u0624\u0649 \u0648\u0627\u0644\u062e\u0628\u0631\u0627\u062a.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2079193703168852189",
+      "published": "2026-07-20T13:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/pop-culture/2026/07/20/make-a-wish-children-take-to-esports-world-cup-stage-in-paris/",
+      "title": "\u2018Joy, cheers and happiness\u2019: Make-A-Wish children take to Esports World Cup stage",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/arts-culture/pop-culture/2026/07/20/make-a-wish-children-take-to-esports-world-cup-stage-in-paris/",
+      "published": "2026-07-20T13:14:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784542920",
+      "title": "Since Islamabad MoU: What\u2019s changed for the US, Iran and the Gulf?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss",
+      "published": "2026-07-20T13:06:32+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +411,72 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "37e9025e0ec5c61f49076bd15bc79b1e",
+      "title": "The World Sports Summit, organised and staged by the Dubai Sports Council, hosted a special dinner in New York City on the sidelines of the ongoing 2026 FIFA World Cup. The event brought together a select group of international sports figures, decision-makers and leaders from sports, media and investment institutions. The dinner is part of a series of initiatives organised by the World Sports Summit to solidify its position as a leading international platform that brings together various stakeholders in the sports ecosystem.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2079191200398209448",
+      "published": "2026-07-20T13:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c7713ea26eeb1707fc5c1e19d03d0640",
+      "title": "\u0627\u0644\u0642\u0645\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u0629 (World Sports Summit) \u0627\u0644\u062a\u064a \u064a\u0646\u0638\u0645\u0647\u0627 \u0645\u062c\u0644\u0633 \u062f\u0628\u064a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u060c \u062a\u0646\u0638\u0645 \u062d\u0641\u0644 \u0639\u0634\u0627\u0621 \u062e\u0627\u0635 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0646\u064a\u0648\u064a\u0648\u0631\u0643\u060c \u0639\u0644\u0649 \u0647\u0627\u0645\u0634 \u0646\u0647\u0627\u0626\u064a\u0627\u062a \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 FIFA 2026\u060c \u0628\u062d\u0636\u0648\u0631 \u0646\u062e\u0628\u0629 \u0645\u0646 \u0627\u0644\u0634\u062e\u0635\u064a\u0627\u062a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629\u060c \u0648\u0635\u0646\u0627\u0639 \u0627\u0644\u0642\u0631\u0627\u0631\u060c \u0648\u0642\u0627\u062f\u0629 \u0627\u0644\u0645\u0624\u0633\u0633\u0627\u062a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0648\u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a\u0629 \u0648\u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u064a\u0629. \u0648\u064a\u0623\u062a\u064a \u062a\u0646\u0638\u064a\u0645 \u0647\u0630\u0627 \u0627\u0644\u0639\u0634\u0627\u0621 \u0636\u0645\u0646 \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0645\u0628\u0627\u062f\u0631\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0646\u0638\u0645\u0647\u0627 \u0627\u0644\u0642\u0645\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0644\u0644\u0631\u064a\u0627\u0636\u0629 \u0644\u062a\u0631\u0633\u064a\u062e \u0645\u0643\u0627\u0646\u062a\u0647\u0627 \u0645\u0646\u0635\u0629\u064b \u062f\u0648\u0644\u064a\u0629 \u0631\u0627\u0626\u062f\u0629 \u062a\u062c\u0645\u0639 \u0645\u062e\u062a\u0644\u0641 \u0623\u0637\u0631\u0627\u0641 \u0627\u0644\u0645\u0646\u0638\u0648\u0645\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629\u060c \u0648\u062a\u0648\u0641\u0631 \u0645\u0633\u0627\u062d\u0629 \u0644\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0631\u0624\u0649 \u0648\u0627\u0644\u062e\u0628\u0631\u0627\u062a.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2079190810638311483",
+      "published": "2026-07-20T13:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784536092",
+      "title": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
+      "published": "2026-07-20T12:50:04+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -70,7 +532,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/2026/07/20/houthis-announce-maritime-ban-on-saudi-arabia-citing-blockade-of-yemen/",
-      "title": "Houthis announce \u2018maritime ban\u2019 on Saudi Arabia in retaliation for Yemen blockade",
+      "title": "Houthis say they will impose \u2018maritime embargo\u2019 against Saudi Arabia in retaliation for Yemen blockade",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/2026/07/20/houthis-announce-maritime-ban-on-saudi-arabia-citing-blockade-of-yemen/",
       "published": "2026-07-20T12:10:51+00:00",
@@ -157,94 +619,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784544837",
-      "title": "Iran says Spain World Cup win brings joy to critics of US, Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/7/20/iran-says-spain-world-cup-win-brought-joy-to-critics-of-us-israel?traffic_source=rss",
-      "published": "2026-07-20T11:50:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/20/hamas-elects-khalil-al-hayya-as-new-political-leader/",
-      "title": "Hamas elects Khalil Al Hayya as new political leader",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/20/hamas-elects-khalil-al-hayya-as-new-political-leader/",
-      "published": "2026-07-20T11:40:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784445648",
-      "title": "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss",
-      "published": "2026-07-20T11:35:02+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784535630",
-      "title": "Photos: Police fire tear gas at India\u2019s Cockroach movement supporters",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/gallery/2026/7/20/photos-police-fire-tear-gas-at-indias-cockroach-movement-supporters?traffic_source=rss",
-      "published": "2026-07-20T11:34:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=90094",
       "title": "Anduril reveals Thunder, a \u2018loyal wingman\u2019 drone for helicopters",
       "source": "Breaking Defense",
@@ -289,28 +663,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784546140",
-      "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
-      "published": "2026-07-20T11:27:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo#0",
       "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
       "source": "BBC Middle East",
@@ -325,72 +677,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "43c3957c418e52258f447d41cec4a1d5",
-      "title": "Dubai Future District Fund (DFDF) today announced eight new investment commitments during 2025, expanding its portfolio to 30 investments comprising 11 venture capital funds and 19 high-growth startups. The Fund also broadened its investments across priority sectors of the future economy, particularly PropTech and artificial intelligence, according to its 2025 Annual Report.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2079158873076928809",
-      "published": "2026-07-20T10:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/20/trumps-board-of-peace-approves-pilot-project-to-house-gazans/",
-      "title": "Trump's Board of Peace waters down Gaza reconstruction with small housing plan",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/20/trumps-board-of-peace-approves-pilot-project-to-house-gazans/",
-      "published": "2026-07-20T10:44:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/20/the-escalatory-trap-us-iran-war-in-dangerous-new-phase/",
-      "title": "The escalatory trap: US-Iran war in dangerous new phase",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/20/the-escalatory-trap-us-iran-war-in-dangerous-new-phase/",
-      "published": "2026-07-20T10:37:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -433,28 +719,6 @@
         "city": null,
         "lat": 29.3117,
         "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "649806d6ab3fbfb6422c79769f927219",
-      "title": "#Kuwait Ministry of Oil's Director of Public Relations & Media Sheikha Tamader Al-Sabah: The conversion of local fuel stations to the global Q8 brand aims to enhance service quality, improve customer experience & introduce modern technologies & digital solutions.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079152184139120872",
-      "published": "2026-07-20T10:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
       },
       "credibility": 95,
       "is_government": true,
@@ -509,50 +773,6 @@
       }
     },
     {
-      "id": "69ae2759293c23ad0df0ee321312e391",
-      "title": "Arab Parliament Speaker strongly condemns the Iranian attack targeting a power & water desalination station in #Kuwait, describing it as a grave violation of international law.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079142368192659765",
-      "published": "2026-07-20T09:52:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b0a75c9649ac2250298fb526a3fe0674",
-      "title": "#Kuwait marks the 65th anniversary of its accession to the Arab League. Ambassador Al-Ojairi: Kuwait has played a leading role in supporting joint Arab action through its balanced diplomacy & efforts to promote regional stability & development.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079139143926325569",
-      "published": "2026-07-20T09:39:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
       "title": "US expands Iran offensive as diplomats claim talks ongoing",
       "source": "The Guardian",
@@ -568,50 +788,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4f46fade9b61ea8062a2afc2087efef5",
-      "title": "#Bahrain Defence Forces intercept & destroy Iranian aerial attacks  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079136974271565906",
-      "published": "2026-07-20T09:30:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4f4b039c007ab6a3df19e3d8faf79046",
-      "title": "UK-based Gulf Keystone Petroleum temporary suspends oil production at the Shaikan oilfield in Iraq's Kurdistan Region, describing the move as a precautionary measure.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079121840597787055",
-      "published": "2026-07-20T08:30:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -796,7 +972,7 @@
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
-      "title": "US says another troop killed as Israel warns Tehran\u2019s attacks coming close",
+      "title": "New US military death as Israel warns Tehran\u2019s attacks coming close",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
       "published": "2026-07-19T20:16:44+00:00",
@@ -993,28 +1169,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=182394",
-      "title": "Lebanon\u2019s Aoun to meet Trump at White House on Tuesday",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/07/19/lebanons-aoun-to-meet-trump-at-white-house-on-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=lebanons-aoun-to-meet-trump-at-white-house-on-tuesday",
-      "published": "2026-07-19T15:53:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jul/19/israels-brutality-cannot-continue-in-plain-sight",
       "title": "Israel\u2019s brutality cannot continue in plain sight | Letters",
       "source": "The Guardian",
@@ -1030,50 +1184,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c743f792acea0bb5a010de1018948967",
-      "title": ". Jordanian Air defence systems intercepted and shot down three of four Iranian missiles targeting the Kingdom, a senior...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Da-iIRgiILy",
-      "published": "2026-07-19T14:02:05+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "25f9a8e1885ba302818ba277c1f6e9eb",
-      "title": ". The United Arab Emirates has condemned in the strongest terms the renewed hostile attacks by Iran targeting the Kingdo...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Da-hvPKCOEx",
-      "published": "2026-07-19T13:58:40+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1395,28 +1505,6 @@
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/17/saronic-picks-brownsville-texas-for-3-billion-port-alpha-shipyard/",
       "published": "2026-07-17T18:49:07+00:00",
       "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/the-americas/2026/07/17/canada-to-spend-14-billion-on-armored-combat-support-vehicles-built-locally/",
-      "title": "Canada to spend $1.4 billion on armored combat support vehicles built locally",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/the-americas/2026/07/17/canada-to-spend-14-billion-on-armored-combat-support-vehicles-built-locally/",
-      "published": "2026-07-17T17:35:36+00:00",
-      "type": "ground",
       "status": "unconfirmed",
       "location": {
         "country": null,
