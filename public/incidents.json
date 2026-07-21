@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-07-21T08:59:37.542249+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-07-21T10:45:56.060846+00:00",
+  "total_incidents": 58,
   "incidents": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o#0",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-21T10:43:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
       "title": "Iran claims attacks on strait of Hormuz ships amid fresh US strikes \u2013 Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-      "published": "2026-07-21T08:53:37+00:00",
+      "published": "2026-07-21T10:40:59+00:00",
       "type": "naval",
       "status": "unconfirmed",
       "location": {
@@ -25,11 +47,143 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784623008",
-      "title": "Israeli forces open fire on children in Syrian village",
+      "id": "https://www.aljazeera.com/?t=1784572871",
+      "title": "Lebanon\u2019s Joseph Aoun to meet Trump: What to expect",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss",
-      "published": "2026-07-21T08:39:16+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss",
+      "published": "2026-07-21T10:27:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a69257e47f3d39292923b428362784ff",
+      "title": "#Jordan's air defense systems intercepted and destroyed three missiles launched from Iranian territory targeting Jordan's territories, but no casualties or material damage were reported  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079513000650707029",
+      "published": "2026-07-21T10:25:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "607a706d48f725ce7e0b016422867aaf",
+      "title": "#Bahrain's air defense systems intercepted and destroyed a number of Iranian aerial attacks targeting the country  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079510882787168401",
+      "published": "2026-07-21T10:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1d6b0b7eec0ab69c6a63da3c866bbd84",
+      "title": "Dubai hosts the 11th edition of the Middle East and North Africa Business Aviation (MEBAA) Show, taking place from 8 to 10 December 2026 at Dubai World Central. The event attracts an audience of more than 10,000 visitors, including high-value industry professionals from over 100 countries.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2079505018156462180",
+      "published": "2026-07-21T09:53:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784625814",
+      "title": "Huge fire at Ukraine shopping centre after Russian drone strike",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
+      "published": "2026-07-21T09:52:56+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx25wg2x26do#0",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-21T09:48:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=182481",
+      "title": "Trump hosts Aoun as Israel begins first withdrawal from Lebanon",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/07/21/trump-hosts-aoun-as-israel-begins-first-withdrawal-from-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=trump-hosts-aoun-as-israel-begins-first-withdrawal-from-lebanon",
+      "published": "2026-07-21T09:36:50+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -37,6 +191,138 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/aviation/2026/07/21/iran-war-halves-number-of-airlines-operating-at-dubai-airports/",
+      "title": "Iran war halves number of airlines operating at Dubai airports",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/aviation/2026/07/21/iran-war-halves-number-of-airlines-operating-at-dubai-airports/",
+      "published": "2026-07-21T09:34:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fd1be18d7d98194646e9060199a3d581",
+      "title": ". The General Command of the Bahrain Defence Force (BDF) said that its air defence systems successfully intercepted and ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DbDM6GlCKvC",
+      "published": "2026-07-21T09:32:51+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/21/mediators-seek-to-salvage-us-iran-ceasefire-with-10-day-truce-proposal/",
+      "title": "Mediators seek to salvage US-Iran ceasefire with 10-day truce proposal",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/21/mediators-seek-to-salvage-us-iran-ceasefire-with-10-day-truce-proposal/",
+      "published": "2026-07-21T09:26:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f73d3245b9c78b2948e5508a4f0d9840",
+      "title": "#ASEAN foreign ministers call for an immediate cessation of hostilities in the Middle East, warning that renewed hostilities between the #US and Iran threatens regional stability and undermines prospects for a peaceful resolution through dialogue and diplomacy  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079497216293519785",
+      "published": "2026-07-21T09:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/21/lebanese-army-enters-zawtar-al-gharbieh-after-israeli-withdrawal-under-pilot-scheme/",
+      "title": "Lebanese army enters Zawtar Al Gharbieh after Israeli withdrawal under pilot scheme",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/21/lebanese-army-enters-zawtar-al-gharbieh-after-israeli-withdrawal-under-pilot-scheme/",
+      "published": "2026-07-21T09:18:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784611201",
+      "title": "Hormuz tankers on fire, as US, Iran continue attacks: What\u2019s the latest?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss",
+      "published": "2026-07-21T09:04:50+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -157,50 +443,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784620275",
-      "title": "Five Palestinians die in fire after Israeli attack in Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
-      "published": "2026-07-21T07:55:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jul/20/israeli-settlers-partnership-army-palestinians-bury-dead-west-bank",
-      "title": "\u2018A partnership between settlers and the army\u2019: two shot dead in latest West Bank raid",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jul/20/israeli-settlers-partnership-army-palestinians-bury-dead-west-bank",
-      "published": "2026-07-21T07:12:49+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9466,
-        "lng": 35.3027
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "1941eea048f738352308b47d25da8bec",
       "title": "#Bahrain, #Saudi Foreign Ministers, Abdullatif Al-Zayani and Prince Faisal bin Farhan respectively, discussed Tuesday latest regional developments & shared views on how to maintain regional stability & security. During a phone call, both ministers focused on repetition of brutal Iranian attacks on Bahrain & targeting of its civilian & vital facilities as well as repercussions of these attacks on the country's stability, security, safety of public, Bahrain's Foreign Ministry said\u0632  #Kuna",
       "source": "KUNA Kuwait (RSS.app)",
@@ -216,138 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784022619",
-      "title": "\u2018Active in BDS\u2019: Document reveals how Israel scrutinised global NGOs",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss",
-      "published": "2026-07-21T06:26:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784571433",
-      "title": "\u2018We just want to live\u2019: Palestinians in Gaza react to Hamas election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
-      "published": "2026-07-21T06:18:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/21/houthis-threaten-maritime-embargo-10th-night-of-us-iran-war-and-pilot-zone-framework-begins-in-lebanon/",
-      "title": "Houthis threaten maritime embargo, 10th night of US-Iran war, and pilot zone framework begins in Lebanon",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/21/houthis-threaten-maritime-embargo-10th-night-of-us-iran-war-and-pilot-zone-framework-begins-in-lebanon/",
-      "published": "2026-07-21T06:18:02+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx25wg2x26do#0",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-21T06:16:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/07/21/uae-flights-cancellations-iran-us/",
-      "title": "Airlines suspend Middle East flights to Dubai, Riyadh and Beirut amid renewed US-Iran conflict",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/07/21/uae-flights-cancellations-iran-us/",
-      "published": "2026-07-21T06:09:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/21/qa-replay-what-does-the-latest-us-iran-escalation-mean-for-the-gulf/",
-      "title": "Q&A replay: What does the latest US-Iran escalation mean for the Gulf?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/21/qa-replay-what-does-the-latest-us-iran-escalation-mean-for-the-gulf/",
-      "published": "2026-07-21T06:07:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -377,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/07/21/adnoc-unveils-62-billion-investment-in-umm-shaif-gas-cap-as-it-accelerates-gas-export-strategy/",
-      "title": "Adnoc unveils $6.2 billion investment in Umm Shaif gas cap as it accelerates gas export strategy",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/07/21/adnoc-unveils-62-billion-investment-in-umm-shaif-gas-cap-as-it-accelerates-gas-export-strategy/",
-      "published": "2026-07-21T05:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.794,
-        "lng": 34.9896
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
       "title": "Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies",
       "source": "The Guardian",
@@ -414,72 +502,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784601501",
-      "title": "China and Philippines trade accusations after sailor injured at sea",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/21/china-and-philippines-trade-accusations-after-sailor-injured-at-sea?traffic_source=rss",
-      "published": "2026-07-21T03:49:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6c67f494e0ca7098274c52df133368a7",
-      "title": "US announces another round of strikes against Iran achieved  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079389178467430882",
-      "published": "2026-07-21T02:13:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "cb9c431009003c96e6658c6727bd17c3",
-      "title": "Yemen welcomes Saudi Arabia's statement, appreciates supportive stances to Yemenis  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079373594199490844",
-      "published": "2026-07-21T01:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -839,28 +861,6 @@
       }
     },
     {
-      "id": "689be51fd50a5b519b5ae9228b0c1b7e",
-      "title": "The Endowment and Minors\u2019 Trust Foundation in Dubai (Awqaf Dubai) delivers exceptional investment performance during the first half of 2026, while continuing to enhance the efficiency of its securities investment portfolio. The portfolio\u2019s market value increased to AED1.475 billion, representing growth of 5.5%. As part of its investment expansion strategy, new investments during the first half of 2026 totalled approximately AED285.11 million, representing growth of 150.65%, reflecting the Foundation\u2019s continued implementation of its investment plans and diversification of its financial portfolios.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2079223633839624696",
-      "published": "2026-07-20T15:15:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/07/20/lockheed-martins-morfius-x-rotor-built-to-fry-50-enemy-drones-in-one-flight/",
       "title": "Lockheed Martin\u2019s Morfius X-Rotor built to fry 50 enemy drones in one flight",
       "source": "Defense News",
@@ -920,28 +920,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fcdfd1025f900757c6d6b2dc88e4135a",
-      "title": ". The United Arab Emirates has condemned in the strongest terms the renewed hostile attacks by Iran targeting the Kingdo...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DbBHt3MiOr6",
-      "published": "2026-07-20T14:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1169,28 +1147,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=182438",
-      "title": "US concludes its  ninth day of strikes to \u2018punish\u2019 Iran after troops killed",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/07/20/us-concludes-its-ninth-day-of-strikes-to-punish-iran-after-troops-killed/?utm_source=rss&utm_medium=rss&utm_campaign=us-concludes-its-ninth-day-of-strikes-to-punish-iran-after-troops-killed",
-      "published": "2026-07-20T02:30:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
       "title": "Middle East crisis: US military says service member killed during \u2018controlled detonation\u2019 of downed Iranian drone \u2013 as it happened",
       "source": "The Guardian",
@@ -1313,50 +1269,6 @@
         "city": null,
         "lat": 33.2232,
         "lng": 43.6793
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e7b2452ec4530a3fa62b8b668ddc3537",
-      "title": "Iran warned the United Nations that continued U.S. air strikes on its territory constitute an \"imminent threat to international peace and security.\"",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2078405407198818520",
-      "published": "2026-07-18T09:03:00+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a434b190243f453d6e2c4ae7c89e5790",
-      "title": "The IRGC warned countries hosting U.S. military bases to prepare for retaliation, saying they bear responsibility for making their territory as launch pads for attacks on Iran.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2078405239921655899",
-      "published": "2026-07-18T09:03:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 70,
       "is_government": false,
