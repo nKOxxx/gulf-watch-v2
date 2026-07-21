@@ -1,13 +1,79 @@
 {
-  "generated_at": "2026-07-20T22:24:17.224135+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-07-21T00:44:45.980169+00:00",
+  "total_incidents": 67,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "title": "US military launches further strikes on Iran after Trump says Tehran \u2018will pay\u2019 for killing soldiers \u2013 Middle East crisis live",
+      "title": "US launches further strikes on Iran; Houthis threaten Saudi shipping blockade \u2013 Middle East crisis live",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "published": "2026-07-20T22:19:55+00:00",
+      "published": "2026-07-21T00:20:19+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx25wg2x26do#0",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-21T00:14:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784586921",
+      "title": "US attacks Iran for tenth consecutive night",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "published": "2026-07-21T00:06:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784589109",
+      "title": "Iran war live: US launches 10th night of strikes; Tehran attacks Kuwait",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
+      "published": "2026-07-21T00:00:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +84,138 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=182470",
+      "title": "Iran War Updates: U.S. launches 10th night of strikes after 3 U.S. troops killed, nearly 100 injured in recent weeks",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/07/21/iran-war-updates-u-s-launches-10th-night-of-strikes-after-3-u-s-troops-killed-nearly-100-injured-in-recent-weeks/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-updates-u-s-launches-10th-night-of-strikes-after-3-u-s-troops-killed-nearly-100-injured-in-recent-weeks",
+      "published": "2026-07-20T23:55:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 100,
+        "military": 100,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784577582",
+      "title": "MSF demands Israel release detained Palestinian healthcare workers",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers?traffic_source=rss",
+      "published": "2026-07-20T23:41:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784584299",
+      "title": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss",
+      "published": "2026-07-20T23:21:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d0fabdd58639027149b28fc687bc94b9",
+      "title": "Nearly 100 #US soldiers have been injured since military operations were resumed against Iran a couple of weeks ago, according to the #US Department of War (Pentagon)  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079343341305508279",
+      "published": "2026-07-20T23:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784584061",
+      "title": "War on Iran: War resumes 30 days after MoU",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
+      "published": "2026-07-20T22:26:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a0bddf0e85411a4ff15f27ec3d65fc02",
+      "title": ". Kuwait's air defence systems are currently intercepting hostile missile and drone attacks amid the ongoing Iranian agg...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DbCAQGMCFex",
+      "published": "2026-07-20T22:23:01+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -40,6 +238,50 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4e29d4aa4692a13652e6ae8a00540493",
+      "title": "The Spokesman for the Coalition to Restore Legitimacy in Yemen: The Joint Forces Command undertakes all firm and resolute operational measures in line with Customary International Humanitarian Law and the 1982 UN Convention on the Law of the Sea (UNCLOS) to protect commercial vessels transiting through Bab Al-Mandab Strait  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079327281365828083",
+      "published": "2026-07-20T22:07:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a57b714def59e956bc7cd185e3bfe3e6",
+      "title": "The General Staff of the Kuwaiti Army announces #Kuwait's air defense systems are currently intercepting hostile missile and drone attacks amid the ongoing Iranian aggression @KuwaitArmyGHQ  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079318227960705334",
+      "published": "2026-07-20T21:31:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -91,50 +333,6 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx25wg2x26do#0",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-20T21:09:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784575002",
-      "title": "Trump rejects Mamdani threat to arrest Israel\u2019s Netanyahu for war crimes",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
-      "published": "2026-07-20T21:06:42+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "e6b01eded7a88e7341b62378e10b857b",
       "title": "#US President Donald #Trump signs an Executive Order to secure America's defense supply chains for the cutting-edge equipment that allows the US to dominate the current war  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -150,28 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784579268",
-      "title": "Gaza residents weigh in on election of new Hamas leader",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
-      "published": "2026-07-20T20:53:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -311,28 +487,6 @@
       }
     },
     {
-      "id": "21bbcb6891cb38c45d6516be84af0a72",
-      "title": "The #Kuwaiti Foreign Ministry expresses emphatic condemnation of the continued heinous Iranian aggression on #Bahrain @MOFAKuwait  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079293112694755334",
-      "published": "2026-07-20T19:51:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/business/energy/2026/07/20/saudi-oil-loadings-drop-by-36-as-houthi-threats-disrupt-bab-al-mandeb-passage/",
       "title": "Saudi oil loadings drop by 36% as Houthi threats disrupt Bab Al Mandeb passage",
       "source": "The National UAE",
@@ -348,28 +502,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c98088c4089a997e9fcb845e4de6ec42",
-      "title": "The #US Central Command (CENTCOM) says that seven commercial vessels have been redirected since the US resumed its blockade on Iran last week amid growing military tensions between both sides  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079292363009135072",
-      "published": "2026-07-20T19:48:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -421,28 +553,6 @@
       }
     },
     {
-      "id": "12b79094c352166f321b5fadaff25834",
-      "title": "Ministry of Foreign Affairs expresses #Kuwait's strong condemnation and denunciation of the continued heinous Iranian aggression against the country, the last of which took place earlier in the day  @MOFAKuwait #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079282161710952844",
-      "published": "2026-07-20T19:07:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=182459",
       "title": "Israel to begin withdrawal  from first Lebanon pilot-zone on Tuesday",
       "source": "Ya Libnan",
@@ -487,28 +597,6 @@
       }
     },
     {
-      "id": "fa9a9f3960348b78b0121b59c393274b",
-      "title": "The United Arab Emirates strongly condemns the renewed Iranian missile & drone attacks targeting Kuwait & Bahrain.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079258991553638516",
-      "published": "2026-07-20T17:35:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "6106d61fae602a1f77385aa8f4c35991",
       "title": "\u0625\u0635\u062f\u0627\u0631 \u062a\u0642\u0631\u064a\u0631 \u062d\u0627\u062f\u062b \u0636\u062f \u0645\u062c\u0647\u0648\u0644 Issue an Accident Report Against an Unkown Person #\u062e\u062f\u0645\u0627\u062a\u064a_\u0631\u0642\u0645\u064a\u0629 #MOI_go_digital #\u062e\u062f\u0645\u0627\u062a_\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #MOI_Services @uaedgov #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea \u0644\u0644\u062f\u062e\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u062e\u062f\u0645\u0629 \u0628\u0634\u0643\u0644 \u0645\u0628\u0627\u0634\u0631 \u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \u0627\u0644\u0631\u0627\u0628\u0637 \u0627\u0644\u062a\u0627\u0644\u064a To access the service directly, please click on the following link",
       "source": "UAE MOI (RSS.app)",
@@ -524,6 +612,28 @@
       },
       "credibility": 100,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/07/20/air-force-begins-piloted-flights-autonomy-tests-for-modified-f-16s/",
+      "title": "US Air Force begins piloted flights, autonomy tests for modified F-16s",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/20/air-force-begins-piloted-flights-autonomy-tests-for-modified-f-16s/",
+      "published": "2026-07-20T17:08:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -620,7 +730,7 @@
     },
     {
       "id": "https://www.defensenews.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
-      "title": "Pentagon identifies American soliders killed in Iranian attack in Jordan",
+      "title": "Pentagon identifies American soldiers killed in Iranian attack in Jordan",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
       "published": "2026-07-20T15:47:49+00:00",
@@ -993,28 +1103,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/your-military/2026/07/20/as-fighter-pilots-prepare-to-command-drone-wingmen-bae-bets-on-new-helmet-tech/",
-      "title": "As fighter pilots prepare to command drone wingmen, BAE bets on new helmet tech",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/07/20/as-fighter-pilots-prepare-to-command-drone-wingmen-bae-bets-on-new-helmet-tech/",
-      "published": "2026-07-20T11:59:54+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=90094",
       "title": "Anduril reveals Thunder, a \u2018loyal wingman\u2019 drone for helicopters",
       "source": "Breaking Defense",
@@ -1372,28 +1460,6 @@
       "source": "UAE NCEMA (RSS.app)",
       "source_url": "https://x.com/NCEMAUAE/status/2078359960225001968",
       "published": "2026-07-18T06:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5f5d5ebfac37ea5924e0175e6f8df21e",
-      "title": "Alert: The danger has passed in Al-Kharj Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2078253603387490612",
-      "published": "2026-07-17T23:00:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
