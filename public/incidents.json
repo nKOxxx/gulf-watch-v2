@@ -1,23 +1,331 @@
 {
-  "generated_at": "2026-07-21T22:21:38.967920+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-07-22T00:43:28.880908+00:00",
+  "total_incidents": 74,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-      "title": "Trump pledges to \u2018take care of\u2019 Houthis if group blocks Saudi ships and says US airlines can resume direct flights to Lebanon \u2013 live",
+      "title": "Middle East crisis live: tankers carrying Saudi oil turned back after Houthi threats; US launches more strikes on Iran",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-      "published": "2026-07-21T22:20:53+00:00",
-      "type": "naval",
+      "published": "2026-07-22T00:41:10+00:00",
+      "type": "ground",
       "status": "unconfirmed",
       "location": {
         "country": "Saudi Arabia",
         "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b8235de303d55adca8e3f07d0f9a3bf0",
+      "title": "#Kuwait urges action on transitional justice and missing persons in #Syria.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079721819121025364",
+      "published": "2026-07-22T00:14:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9adb921cab1c76121de5f395e28f317f",
+      "title": "Trump threatens to bomb any site Iran uses to rebuild its nuclear program.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079719956925550872",
+      "published": "2026-07-22T00:07:00+00:00",
+      "type": "explosion",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784675789",
+      "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
+      "published": "2026-07-22T00:00:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c0aed0df37e101c5d0ca8e8569a8da7d",
+      "title": "#UK strongly condemns #Houthi militia threats against #Saudi_Arabia.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2079718282974695680",
+      "published": "2026-07-22T00:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=182512",
+      "title": "Zelensky fires Ukraine army chief Syrsky after protests and\u00a0 names Drapaty in his place",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/07/22/zelensky-fires-ukraine-army-chief-syrsky-after-protests-and-names-drapaty-in-his-place/?utm_source=rss&utm_medium=rss&utm_campaign=zelensky-fires-ukraine-army-chief-syrsky-after-protests-and-names-drapaty-in-his-place",
+      "published": "2026-07-21T23:58:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784677199",
+      "title": "US strikes Iran for \u201911th consecutive night\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
+      "published": "2026-07-21T23:46:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=182509",
+      "title": "Lebanese army enters southern town after Israeli withdrawal, as per the framework deal",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/07/22/lebanese-army-enters-southern-town-after-israeli-withdrawal-as-per-the-framework-deal/?utm_source=rss&utm_medium=rss&utm_campaign=lebanese-army-enters-southern-town-after-israeli-withdrawal-as-per-the-framework-deal",
+      "published": "2026-07-21T23:33:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/jul/21/hegseth-pentagon-supplemental-funding-request-senate",
+      "title": "Hegseth tells Senate war on Iran has so far cost $37.5bn at hearing to request more funds",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/jul/21/hegseth-pentagon-supplemental-funding-request-senate",
+      "published": "2026-07-21T23:15:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/",
+      "title": "Cost of Iran war rises to $37.5 billion, Pentagon requests $67.1 billion more",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/",
+      "published": "2026-07-21T23:13:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784674394",
+      "title": "Lebanese army deploys in \u2018pilot zones\u2019 under US-backed plan",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
+      "published": "2026-07-21T22:56:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784668937",
+      "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss",
+      "published": "2026-07-21T22:55:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "034ea1c3b04318ac92342cc220740473",
+      "title": ". Kuwait's armed forces are currently intercepting hostile drones amid the heinous Iranian aggression, the General Staff...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DbEoEIWIqSS",
+      "published": "2026-07-21T22:49:39+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=90519",
+      "title": "Hegseth offers $37.5B price tag for \u2018certain aspects\u2019 of Iran war",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/07/hegseth-offers-37-5b-price-tag-for-certain-aspects-of-iran-war/",
+      "published": "2026-07-21T22:34:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4156ef79e984ec8773ddc21ea2bc0ffd",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the statements made by the Houthi group against the King...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DbElR9Yogxk",
+      "published": "2026-07-21T22:25:15+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -207,72 +515,6 @@
       "source_url": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
       "published": "2026-07-21T21:03:58+00:00",
       "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784664776",
-      "title": "Guyana reports ferry disaster death toll rises to 41",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss",
-      "published": "2026-07-21T20:54:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784666693",
-      "title": "Daytime Russian strike kills three in Zaporizhzhia",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
-      "published": "2026-07-21T20:48:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784654889",
-      "title": "US funding cuts deal blow to global HIV treatment: Report",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss",
-      "published": "2026-07-21T20:44:06+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -795,28 +1037,6 @@
       }
     },
     {
-      "id": "70f0b9f8934ff973cee8fee8074fa55d",
-      "title": "#GCC Secretary-General strongly condemns the false accusations against #SaudiArabia made by the Houthi group's military spokesperson  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079582714471039201",
-      "published": "2026-07-21T15:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/science/2026/jul/21/zendaya-faces-backlash-for-wearing-ancient-iranian-jewellery-at-odyssey-event",
       "title": "Zendaya faces backlash for wearing ancient Iranian jewellery at Odyssey event",
       "source": "The Guardian",
@@ -832,28 +1052,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3223acf349f6128d263e7aa160d22472",
-      "title": "Kuwait's Deputy Foreign Minister summons Iranian Ambassador to the country, protesting over Iran's attack on the Kuwaiti tanker Keifan while transiting the Strait of Hormuz.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2079579578306077093",
-      "published": "2026-07-21T14:49:00+00:00",
-      "type": "ground",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1125,50 +1323,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/07/21/x-bow-out-to-tackle-cost-quandary-with-sub-100000-drone-interceptor/",
-      "title": "X-Bow out to tackle cost quandary with sub-$100,000 drone interceptor",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/21/x-bow-out-to-tackle-cost-quandary-with-sub-100000-drone-interceptor/",
-      "published": "2026-07-21T10:56:33+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=90379",
-      "title": "Embraer, Anduril pursuing Barracuda missiles on C-390",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/07/embraer-anduril-pursuing-barracuda-missiles-on-c-390/",
-      "published": "2026-07-21T10:47:08+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=182481",
       "title": "Trump hosts Aoun as Israel begins first withdrawal from Lebanon",
       "source": "Ya Libnan",
@@ -1231,28 +1385,6 @@
       "casualties": {
         "total": 0,
         "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=182470",
-      "title": "Iran War Updates: U.S. launches 10th night of strikes after 3 U.S. troops killed, nearly 100 injured in recent weeks",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/07/21/iran-war-updates-u-s-launches-10th-night-of-strikes-after-3-u-s-troops-killed-nearly-100-injured-in-recent-weeks/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-updates-u-s-launches-10th-night-of-strikes-after-3-u-s-troops-killed-nearly-100-injured-in-recent-weeks",
-      "published": "2026-07-20T23:55:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 100,
-        "military": 100,
         "civilian": 0
       }
     },
