@@ -1,10 +1,274 @@
 {
-  "generated_at": "2026-07-24T10:44:42.967057+00:00",
+  "generated_at": "2026-07-24T12:37:28.624773+00:00",
   "total_incidents": 66,
   "incidents": [
     {
+      "id": "https://www.aljazeera.com/?t=1784895147",
+      "title": "Spain declares national emergency over wildfires",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/spain-declares-national-emergency-over-wildfires?traffic_source=rss",
+      "published": "2026-07-24T12:15:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o#0",
+      "title": "Four Palestinians and one Israeli killed in West Bank shooting",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-24T12:06:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/24/israel-cancels-soldiers-leave-as-west-bank-tensions-flare-over-deadly-shooting/",
+      "title": "Israel cancels soldiers' leave as West Bank tensions flare over deadly shooting",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/24/israel-cancels-soldiers-leave-as-west-bank-tensions-flare-over-deadly-shooting/",
+      "published": "2026-07-24T11:58:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1784888380",
+      "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+      "published": "2026-07-24T11:45:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 11,
+        "military": 0,
+        "civilian": 11
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=182566",
+      "title": "Ukrainian drone unit hunts Russian ships as war escalates",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/07/24/ukrainian-drone-unit-hunts-russian-ships-as-war-escalates/?utm_source=rss&utm_medium=rss&utm_campaign=ukrainian-drone-unit-hunts-russian-ships-as-war-escalates",
+      "published": "2026-07-24T11:25:53+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/24/gaza-children-paying-highest-price-in-hunger-crisis/",
+      "title": "Gaza children paying 'highest price' in hunger crisis",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/24/gaza-children-paying-highest-price-in-hunger-crisis/",
+      "published": "2026-07-24T11:09:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=182563",
+      "title": "Iran flew IRGC commanders, missile gear to Yemen\u2019s Houthis: Report",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/07/24/iran-flew-irgc-commanders-missile-gear-to-yemens-houthis-report/?utm_source=rss&utm_medium=rss&utm_campaign=iran-flew-irgc-commanders-missile-gear-to-yemens-houthis-report",
+      "published": "2026-07-24T11:03:19+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0e4cd4240bdd74bbdaf689f9058fac0d",
+      "title": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf says that closer cooperation between Iran and Iraq can help resolve many of the region\u2019s challenges.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2080609023573811558",
+      "published": "2026-07-24T11:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d660ead835df111a50b522f99c37b5cd",
+      "title": "Addressing Shanghai Cooperation Organization Council of Foreign Ministers Meeting in Kyrgyzstan on Friday, Iran's Foreign Minister Abbas Araghchi has said his country reserves rights to retaliate against any act of aggression.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2080608864873979966",
+      "published": "2026-07-24T10:59:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
+      "title": "Four Palestinians and one Israeli killed during West Bank settler attack",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
+      "published": "2026-07-24T10:45:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "03ac4c36fe70b9c6a4a91a8a30d08bb2",
+      "title": "Chief of the General Staff of the #Kuwaiti Army discusses military cooperation with #Italy's Chief of Defense during an official visit to #Rome.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2080601727124787308",
+      "published": "2026-07-24T10:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "85e1c80d412b19227bdba33507169bbe",
+      "title": "#China bans exports of dual-use goods to 14 European Union entities, saying the measure aims to safeguard national security & interests.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2080600844706136253",
+      "published": "2026-07-24T10:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/business/energy/2026/07/24/oil-above-100-per-barrel-could-reignite-inflation-fears/",
-      "title": "Oil above $100 per barrel could reignite inflation fears",
+      "title": "Oil above $100 per barrel reignites inflation fears",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/business/energy/2026/07/24/oil-above-100-per-barrel-could-reignite-inflation-fears/",
       "published": "2026-07-24T10:09:07+00:00",
@@ -135,72 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1784882441",
-      "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
-      "published": "2026-07-24T08:42:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1784881955",
-      "title": "US attacks Iran for 13th consecutive night",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
-      "published": "2026-07-24T08:39:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/markets/2026/07/24/manus-on-markets-escalating-regional-tensions-push-oil-above-100/",
-      "title": "Manus on Markets: Escalating regional tensions push oil above $100",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/markets/2026/07/24/manus-on-markets-escalating-regional-tensions-push-oil-above-100/",
-      "published": "2026-07-24T07:42:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "58ec623df89e0e65f333082bab5d5904",
       "title": "The #Palestinian Ministry of Health: Four Palestinians were killed by Israeli occupation forces in the town of Tel, south of Nablus, in the occupied West Bank.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -260,50 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/24/syrian-authorities-foil-plots-to-smuggle-700000-captagon-pills-from-lebanon/",
-      "title": "Syrian authorities foil plots to smuggle 700,000 Captagon pills from Lebanon",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/24/syrian-authorities-foil-plots-to-smuggle-700000-captagon-pills-from-lebanon/",
-      "published": "2026-07-24T07:33:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/24/landmine-deaths-in-syria-increase-as-more-people-return/",
-      "title": "Children bear heavy toll of Syria's landmine legacy",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/24/landmine-deaths-in-syria-increase-as-more-people-return/",
-      "published": "2026-07-24T07:08:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -509,50 +663,6 @@
       }
     },
     {
-      "id": "1e2ab94c0d2f2f248075eb49cf143a76",
-      "title": "The #US army starts another night of strikes against Iranian targets  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2080433827403428164",
-      "published": "2026-07-23T23:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a5d0e2215840f37a707130ed6efc259c",
-      "title": "The Arab League categorically rejects the blatant Iranian attacks targeting Gulf states and #Jordan, along with the Houthi militia's attack on a #Saudi oil tanker in the Red Sea  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2080429381835513941",
-      "published": "2026-07-23T23:06:00+00:00",
-      "type": "ground",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/jul/23/uk-ready-to-defend-itself-iran-threat-us-bases",
       "title": "UK \u2018ready to defend itself\u2019 after Iranian threat over US bases",
       "source": "The Guardian",
@@ -568,28 +678,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2c3e6400f2a38016537a80137ea8b76d",
-      "title": "#Kuwait condemns and denunciates the storming of Al-Aqsa Mosque by Jewish settlers right under the nose of Israeli occupation police forces and with the participation of Israeli occupation government ministers  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2080409741608529978",
-      "published": "2026-07-23T21:48:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1081,28 +1169,6 @@
       }
     },
     {
-      "id": "0d0883415095c80499c1aacd13216eef",
-      "title": "\u2068 Weekly security report #\u0645\u0645\u0644\u0643\u0629_\u0627\u0644\u0628\u062d\u0631\u064a\u0646 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #\u0627\u0644\u0627\u0645\u0646 #moi\u2069",
-      "source": "Bahrain MOI (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DbIcEYEuNCl",
-      "published": "2026-07-23T10:26:29+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "b925e8d1202ecb3d3ae5a496cf8c62b6",
       "title": "The IRGC said a tanker caught fire after trying to transit the mined southern Strait of Hormuz on Thursday, while two others quickly retreated, and warned that the waterway remains fully blocked and under Iranian control.",
       "source": "Mehr News (RSS.app)",
@@ -1191,7 +1257,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo#1",
       "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
@@ -1337,72 +1403,6 @@
         "lng": 35.8623
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=182512",
-      "title": "Zelensky fires Ukraine army chief Syrsky after protests and\u00a0 names Drapaty in his place",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/07/22/zelensky-fires-ukraine-army-chief-syrsky-after-protests-and-names-drapaty-in-his-place/?utm_source=rss&utm_medium=rss&utm_campaign=zelensky-fires-ukraine-army-chief-syrsky-after-protests-and-names-drapaty-in-his-place",
-      "published": "2026-07-21T23:58:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=182509",
-      "title": "Lebanese army enters southern town after Israeli withdrawal, as per the framework deal",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/07/22/lebanese-army-enters-southern-town-after-israeli-withdrawal-as-per-the-framework-deal/?utm_source=rss&utm_medium=rss&utm_campaign=lebanese-army-enters-southern-town-after-israeli-withdrawal-as-per-the-framework-deal",
-      "published": "2026-07-21T23:33:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo#1",
-      "title": "Why Iran is risking so much over the Strait of Hormuz",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-21T14:36:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
