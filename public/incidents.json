@@ -1,23 +1,89 @@
 {
-  "generated_at": "2026-07-28T09:00:44.670699+00:00",
-  "total_incidents": 73,
+  "generated_at": "2026-07-28T10:53:05.016138+00:00",
+  "total_incidents": 64,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/asia/2026/07/28/tsunami-warning-after-powerful-earthquake-hits-southern-japan/",
-      "title": "Tsunami warning after powerful earthquake hits southern Japan",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/asia/2026/07/28/tsunami-warning-after-powerful-earthquake-hits-southern-japan/",
-      "published": "2026-07-28T08:55:20+00:00",
+      "id": "https://www.theguardian.com/world/2026/jul/28/prisoners-iran-largest-jail-sew-lips-shut-hunger-strike-executions-soar",
+      "title": "Prisoners at Iran\u2019s largest jail sew lips shut in hunger strike as executions soar",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jul/28/prisoners-iran-largest-jail-sew-lips-shut-hunger-strike-executions-soar",
+      "published": "2026-07-28T10:26:38+00:00",
       "type": "incident",
       "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/28/israeli-drones-hit-south-lebanons-nabatieh-as-military-demolishes-homes/",
+      "title": "Israeli drones hit south Lebanon's Nabatieh as military demolishes homes",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/28/israeli-drones-hit-south-lebanons-nabatieh-as-military-demolishes-homes/",
+      "published": "2026-07-28T10:14:48+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/28/iraqi-pm-heads-to-turkey-for-talks-on-energy-water-and-security/",
+      "title": "Iraqi PM heads to Turkey for talks on energy, water and security",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/28/iraqi-pm-heads-to-turkey-for-talks-on-energy-water-and-security/",
+      "published": "2026-07-28T10:14:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3b710092dc13d7bf3b24abaf2e0d7781",
+      "title": "#Japan's Kyushu hit by 7.1-magnitude quake, triggering a tsunami warning  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2082045024758304917",
+      "published": "2026-07-28T10:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
       "location": {
         "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
       },
-      "credibility": 85,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -25,18 +91,40 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/28/iraq-launches-probe-after-saudi-arabia-alleges-drone-attack-originated-from-its-territory/",
-      "title": "Baghdad to investigate Saudi Arabia's claims drone attack launched from Iraq",
+      "id": "d58a0f1c98d172ca3652fbd81859badd",
+      "title": "#Kuwait's Ambassador to the Democratic Socialist Republic of #SriLanka meets with Sri Lankan Minister of Trade, Commerce, Food Security and Cooperative Development at the Ministry's headquarters  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2082044433663480278",
+      "published": "2026-07-28T10:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/07/28/bahrain-hosts-joint-gcc-military-exercises-as-regional-tensions-persist/",
+      "title": "Bahrain hosts joint GCC military exercises as regional tensions persist",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/28/iraq-launches-probe-after-saudi-arabia-alleges-drone-attack-originated-from-its-territory/",
-      "published": "2026-07-28T08:42:01+00:00",
-      "type": "drone",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/07/28/bahrain-hosts-joint-gcc-military-exercises-as-regional-tensions-persist/",
+      "published": "2026-07-28T09:21:57+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iraq",
+        "country": "Bahrain",
         "city": null,
-        "lat": 33.3152,
-        "lng": 44.3661
+        "lat": 26.0667,
+        "lng": 50.5577
       },
       "credibility": 85,
       "is_government": false,
@@ -47,11 +135,11 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/07/28/masdar-deepens-europe-expansion-with-montenegro-renewable-energy-push/",
-      "title": "Masdar deepens Europe expansion with Montenegro renewable energy push",
+      "id": "https://www.thenationalnews.com/news/asia/2026/07/28/tsunami-warning-after-powerful-earthquake-hits-southern-japan/",
+      "title": "Tsunami warning after powerful earthquake hits southern Japan",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/07/28/masdar-deepens-europe-expansion-with-montenegro-renewable-energy-push/",
-      "published": "2026-07-28T08:27:29+00:00",
+      "source_url": "https://www.thenationalnews.com/news/asia/2026/07/28/tsunami-warning-after-powerful-earthquake-hits-southern-japan/",
+      "published": "2026-07-28T08:55:20+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -201,28 +289,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/07/28/lebanon-hezbollah-israel-trump-middle-east/",
-      "title": "Why Lebanon cannot disarm Hezbollah without Nabih Berri",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/07/28/lebanon-hezbollah-israel-trump-middle-east/",
-      "published": "2026-07-28T08:01:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "7a4d784400841d9e9f88e28ce1c47280",
       "title": "#Kuwait oil price down USD 6.45 to USD 87.56",
       "source": "KUNA Kuwait (RSS.app)",
@@ -267,72 +333,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/28/houthis-mimicking-iranian-behaviour-in-red-sea-says-yemeni-foreign-minister/",
-      "title": "Houthis mimick Iranian behaviour in Red Sea, says Yemeni Foreign Minister",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/28/houthis-mimicking-iranian-behaviour-in-red-sea-says-yemeni-foreign-minister/",
-      "published": "2026-07-28T07:55:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/arts-culture/2026/07/28/cristiano-ronaldo-reported-to-star-in-football-drama-series-with-thierry-henry-and-damian-lewis/",
-      "title": "Cristiano Ronaldo reported to star in football drama series with Thierry Henry and Damian Lewis",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/arts-culture/2026/07/28/cristiano-ronaldo-reported-to-star-in-football-drama-series-with-thierry-henry-and-damian-lewis/",
-      "published": "2026-07-28T07:55:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1782912207",
-      "title": "Ukraine\u2019s \u2018volunteer army\u2019 helps rebuild what Russia destroys",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/28/ukraines-volunteer-army-helps-rebuild-what-russia-destroys?traffic_source=rss",
-      "published": "2026-07-28T07:34:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "0af761d927e654428e23e9abba93deaa",
       "title": "Maktoum bin Mohammed: Dubai International Financial Centre continues to deliver strong results and reinforce its role in advancing Dubai towards the vision set by His Highness Sheikh Mohammed bin Rashid Al Maktoum under the Dubai Economic Agenda D33, to position our city among the world\u2019s top four financial centres. In the first half of 2026, DIFC surpassed 10,000 active registered companies for the first time in its history, with annual growth of 30%. AI, FinTech and innovation firms increased to 1,933, up 39% year-on-year, alongside continued growth in family business-related entities and firms. In Dubai, leadership is not measured only by what we achieve, but by the opportunities we creat",
       "source": "Dubai Media Office (RSS.app)",
@@ -369,116 +369,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/28/iran-hangs-two-arrested-in-anti-government-protests-after-crowds-try-to-stop-executions/",
-      "title": "Iran hangs two arrested in anti-government protests after crowds try to halt executions",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/28/iran-hangs-two-arrested-in-anti-government-protests-after-crowds-try-to-stop-executions/",
-      "published": "2026-07-28T07:07:06+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/07/28/syria-has-moved-21m-tonnes-of-iraqi-fuel-to-europe-by-road-since-april/",
-      "title": "Syria moves 2.1m tonnes of Iraqi fuel to Europe by road since April",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/07/28/syria-has-moved-21m-tonnes-of-iraqi-fuel-to-europe-by-road-since-april/",
-      "published": "2026-07-28T06:59:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/28/trump-hosts-netanyahu-saudi-arabia-intercepts-drones-and-lebanon-explores-new-oil-route/",
-      "title": "Trump hosts Netanyahu, Saudi Arabia intercepts drones and Lebanon explores new oil route",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/28/trump-hosts-netanyahu-saudi-arabia-intercepts-drones-and-lebanon-explores-new-oil-route/",
-      "published": "2026-07-28T06:40:02+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7349894fedf9183db66e129361ed405f",
-      "title": "In an interview with the Government of Dubai Media Office, Anthony Nakache, Managing Director for Google in the Middle East and North Africa, highlights Google's journey in the UAE since opening its first office in Dubai Internet City 18 years ago. He also discusses the rapid momentum behind the adoption of AI solutions, noting that the Gemini app has reached 900 million monthly users. Nakache further highlights Google's contribution to the UAE's economy, with the company's tools generating an estimated AED 21.8 billion in economic activity across the country, while reaffirming Google's commitment to supporting the objectives of the Dubai Economic Agenda D33, which aims to double the size of",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2081983068345393159",
-      "published": "2026-07-28T06:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785183149",
-      "title": "Palestine weekly: West Bank in flames after Tal killings",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss",
-      "published": "2026-07-28T05:58:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -795,28 +685,6 @@
       }
     },
     {
-      "id": "7e6787809eacfd75db30bfd3a2da415f",
-      "title": "Bahrain emphatically condemns and denounces the attacks against the Kingdom of Saudi Arabia carried out by drones launched by Iran-backed militias in Iraq  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2081828919943057658",
-      "published": "2026-07-27T19:47:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=91017",
       "title": "Army picks GM Defense, Ford and BC Customs to build nine ISV-Heavy prototypes",
       "source": "Breaking Defense",
@@ -832,50 +700,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ffa9a8c57532bfc6c7fa545d73f51fa2",
-      "title": "Arab Parliament Speaker Mohammad Al-Yamahi strongly condemns drone attacks targeting Saudi Arabia, terming these hostile acts as a blatant violation of the Kingdom's security and stability and pose a threat to regional security  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2081821940369510739",
-      "published": "2026-07-27T19:20:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ee0d0ed5f9bdb5b44d1ba2b4a89e7299",
-      "title": "The Muslim World League (MWL) strongly condemns the attacks against the Kingdom of Saudi Arabia carried out by drones launched by Iran-backed militias in Iraq  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2081820696972341510",
-      "published": "2026-07-27T19:15:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1579,28 +1403,6 @@
         "lng": 51.389
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war",
-      "published": "2026-07-25T12:28:31+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
