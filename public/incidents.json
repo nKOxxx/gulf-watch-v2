@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-29T03:07:46.031753+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-07-29T05:09:08.610705+00:00",
+  "total_incidents": 67,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/artanddesign/2026/jul/29/gaza-beekeeper-refusing-to-let-war-end-lifes-work",
+      "title": "From 400 hives to 35: the Gaza beekeeper refusing to let war end his life\u2019s work",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/artanddesign/2026/jul/29/gaza-beekeeper-refusing-to-let-war-end-lifes-work",
+      "published": "2026-07-29T04:00:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
+      "title": "US thwarts \u2018surprise\u2019 Iran missile attack, and joins forces with Saudis to hit targets in Iraq",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
+      "published": "2026-07-29T03:36:14+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4971ca1388d8dc1f636cde7a2329f291",
+      "title": "Saudi Arabia says its strikes on Iran-aligned militia targets in Iraq were acts of self-defence under Article 51 of the UN Charter after drone attacks on the Kingdom. Riyadh says it seeks no escalation but will defend its sovereignty.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2082306276449452240",
+      "published": "2026-07-29T03:24:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/2026/07/29/abu-dhabis-cultural-ambition-undiminished-by-regional-turmoil/",
+      "title": "Abu Dhabi\u2019s cultural ambition undiminished by regional turmoil",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/arts-culture/2026/07/29/abu-dhabis-cultural-ambition-undiminished-by-regional-turmoil/",
+      "published": "2026-07-29T03:17:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/opinion/editorial/2026/07/29/middle-east-war-iran-hormuz-red-sea-iraq-saudi-arabia-ukraine/",
       "title": "Why the Iran war is spreading",
@@ -25,12 +113,56 @@
       }
     },
     {
+      "id": "https://www.aljazeera.com/?t=1785293312",
+      "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
+      "published": "2026-07-29T02:54:45+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785283962",
+      "title": "Israel kills Palestinian, destroys mosque in Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
+      "published": "2026-07-29T02:45:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/mena/2026/07/29/live-us-saudi-arabia-iraq-iran-attack/",
-      "title": "Iran war latest: US and Saudi Arabia strike Iran-aligned groups in Iraq over drone attacks",
+      "title": "Iran war latest: Several killed after US-Saudi strikes on Iran-aligned groups in Iraq",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/07/29/live-us-saudi-arabia-iraq-iran-attack/",
       "published": "2026-07-29T02:15:03+00:00",
-      "type": "drone",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Saudi Arabia",
@@ -84,28 +216,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/29/the-battle-for-donald-trumps-ear-lebanons-big-gamble-on-israel-talks/",
-      "title": "The battle for Donald Trump's ear: Lebanon\u2019s big gamble on Israel talks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/29/the-battle-for-donald-trumps-ear-lebanons-big-gamble-on-israel-talks/",
-      "published": "2026-07-29T02:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -245,50 +355,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-      "title": "US says it intercepted \u2018surprise\u2019 Iran missile attack on its forces in Middle East after lull in fighting",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-      "published": "2026-07-29T00:12:56+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785280246",
-      "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
-      "published": "2026-07-29T00:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "c62ccfb9ffa5e03aeb0e2c20f83570e4",
       "title": "US intercepts Iranian missiles targeting its forces in Middle East  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -311,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1785273310",
-      "title": "Yemen\u2019s Houthis claim missile attack on Saudi Arabia oil tanker",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
-      "published": "2026-07-28T23:16:44+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "0adc2c91a611841fb423f811a34070d0",
       "title": "#UN Deputy Special Coordinator for the Middle East Peace Process Ramiz Alakbarov warns the Security Council that the deteriorating situation in the West Bank threatens broader regional escalation without immediate intervention  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -345,28 +389,6 @@
         "city": null,
         "lat": 31.9466,
         "lng": 35.3027
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "794326685256df94a78ad6445304caf1",
-      "title": "Saudi Ministry of Foreign Affairs: Saudi Arabia strongly condemns the persistent drone attacks launched by Iranian-backed militias operating from Iraq towards oil facilities in the Kingdom's Eastern Province  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2082213235332182066",
-      "published": "2026-07-28T21:14:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": true,
@@ -435,50 +457,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/07/28/excellent-and-productive-trump-hosts-netanyahu-as-us-considers-next-steps-on-iran/",
-      "title": "'Excellent and productive': Trump hosts Netanyahu as US considers next steps on Iran",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/07/28/excellent-and-productive-trump-hosts-netanyahu-as-us-considers-next-steps-on-iran/",
-      "published": "2026-07-28T19:45:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/07/28/uaes-diverse-energy-mix-and-us-partnerships-will-bolster-ai-goals-official-says/",
-      "title": "UAE's diverse energy mix and US partnerships will bolster AI goals, official says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/07/28/uaes-diverse-energy-mix-and-us-partnerships-will-bolster-ai-goals-official-says/",
-      "published": "2026-07-28T19:34:47+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
