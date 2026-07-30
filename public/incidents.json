@@ -1,14 +1,234 @@
 {
-  "generated_at": "2026-07-30T07:01:01.495426+00:00",
-  "total_incidents": 66,
+  "generated_at": "2026-07-30T09:00:14.117459+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo#0",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-30T08:42:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
       "title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches \u2018heavy\u2019 strikes on Iran after pause",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-      "published": "2026-07-30T06:51:55+00:00",
+      "published": "2026-07-30T08:30:14+00:00",
       "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "27caa622156222a964ce906491cbc17c",
+      "title": ". Kuwait's Ministry of Defence said an Iranian attack targeted a building belonging to a Chinese company in the north of...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DbaPMNSCBr4",
+      "published": "2026-07-30T08:15:20+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3f95a0f48e36b631d1da0463fdea1a21",
+      "title": "#Egypt's Cabinet: Fire aboard two vessels at Damietta Port caused by drone  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2082734576716128283",
+      "published": "2026-07-30T07:46:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "266075c20e80fdeb7f46f16d60a8b487",
+      "title": "#Kuwait Defense Ministry: Iranian attack targets Chinese company building killing one worker & causing extensive material damage to facility  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2082732688218140918",
+      "published": "2026-07-30T07:39:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785396021",
+      "title": "US strikes cause extensive damage on Iran\u2019s Qeshm Island",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss",
+      "published": "2026-07-30T07:24:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/07/30/egypt-says-damietta-port-ship-fire-caused-by-drone/",
+      "title": "Egypt says drone caused fire on two vessels at Damietta Port",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/07/30/egypt-says-damietta-port-ship-fire-caused-by-drone/",
+      "published": "2026-07-30T07:20:41+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785395465",
+      "title": "Is Israel repeating the Crusaders\u2019 fatal mistake?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/deja-vu-2/2026/7/30/is-israel-repeating-the-crusaders-fatal-mistake?traffic_source=rss",
+      "published": "2026-07-30T07:13:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785321814",
+      "title": "India\u2019s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+      "published": "2026-07-30T07:13:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ff0d74d38cfe65efd52f1a0ed58a824d",
+      "title": "KPC: #Kuwait oil price up USD 1.93 to USD 85 pb  #KUNA @kpcofficialkw",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2082723670888169778",
+      "published": "2026-07-30T07:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785314985",
+      "title": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss",
+      "published": "2026-07-30T07:02:42+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
@@ -179,72 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/07/30/qatar-sends-first-lng-shipment-through-strait-of-hormuz-since-tanker-attack/",
-      "title": "Qatar sends first LNG shipment through Strait of Hormuz since tanker attack",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/07/30/qatar-sends-first-lng-shipment-through-strait-of-hormuz-since-tanker-attack/",
-      "published": "2026-07-30T05:37:14+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo#0",
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-30T05:36:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783701322",
-      "title": "War and shortages push Gaza hospitals to breaking point",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
-      "published": "2026-07-30T05:21:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o#0",
       "title": "Israel building new land barriers in Gaza and displacing families",
       "source": "BBC Middle East",
@@ -259,116 +413,6 @@
         "lng": 34.4668
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785386129",
-      "title": "US launches \u2018powerful\u2019 strikes on Iran after Jordan attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
-      "published": "2026-07-30T04:55:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785385192",
-      "title": "Rescue operation in Argentina to free more than 100 snow-trapped tourists",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/rescue-operation-in-argentina-to-free-more-than-100-snow-trapped-tourists?traffic_source=rss",
-      "published": "2026-07-30T04:22:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785378952",
-      "title": "US launches another round of attacks on Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
-      "published": "2026-07-30T03:56:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785383205",
-      "title": "Israeli strikes leave buildings burning in Gaza City",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss",
-      "published": "2026-07-30T03:49:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785381359",
-      "title": "Dramatic sea rescue as firefighters die on the Greek island of Crete",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/aje-onl-nf_dramatic-sea-rescue-as-firefighters-die-in-greece-290726?traffic_source=rss",
-      "published": "2026-07-30T03:33:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -619,50 +663,6 @@
       }
     },
     {
-      "id": "bb02a45a75f6b1a61523528ff4b7bbcc",
-      "title": "Kuwaiti Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah and Jordanian Deputy Prime Minister and Minister of Foreign Affairs and Expatriates Ayman Al-Safadi reiterated condemnation of the recent Iranian attacks targeting their countries during a high-level telephone consultation on Wednesday.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2082559360077603213",
-      "published": "2026-07-29T20:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 31.9454,
-        "lng": 35.9284
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a2138394410c04f9e4769d74caa9b390",
-      "title": "Kuwaiti Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah discussed in Islamabad with Pakistan's Chief of Army Staff and Commander of the Defence Forces Field Marshal Asim Munir bilateral defense synergies and the evolving regional security situation.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2082547770838131046",
-      "published": "2026-07-29T19:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/07/29/pentagon-puts-out-call-for-robot-boats-that-launch-attack-drones/",
       "title": "Pentagon puts out call for robot boats that launch attack drones",
       "source": "Defense News",
@@ -839,28 +839,6 @@
       }
     },
     {
-      "id": "ea4bb486c09798a836f866e3a698ce66",
-      "title": "The United Arab Emirates has condemned in the strongest terms the renewed Iranian hostile attack targeting the brotherly...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DbYUnrPCCRz",
-      "published": "2026-07-29T14:24:17+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=91212",
       "title": "Building a predictive defense industrial base begins with artificial intelligence",
       "source": "Breaking Defense",
@@ -942,28 +920,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0f1c321cdf18e0836deea735ba0acc50",
-      "title": "Dubai Aerospace Enterprise completes US$9 billion acquisition of Macquarie AirFinance. DAE now has a fleet of approximately 1,000 owned, managed and committed aircraft, becoming the world's third-largest aircraft lessor.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2082458880223904242",
-      "published": "2026-07-29T13:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
