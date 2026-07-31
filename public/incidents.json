@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-07-31T09:06:36.044667+00:00",
+  "generated_at": "2026-07-31T10:57:43.175459+00:00",
   "total_incidents": 70,
   "incidents": [
+    {
+      "id": "c9e1ef5f71ba2dd02b5ffb4de61ccd1d",
+      "title": "The Ministry of Defense says the Armed Forces successfully intercepted & destroyed hostile drones targeted military sites, reporting no human casualties.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2083143419271000104",
+      "published": "2026-07-31T10:51:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
+      "title": "Middle East crisis live: Hamas will hand over weapons to new Gaza administration, says official, but deal depends on Israeli withdrawal",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
+      "published": "2026-07-31T10:48:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6c20a0a9a2c192d2d9c397654b269e3f",
+      "title": "KPC: Kuwait oil price up USD 1.69 to reach USD 86.69 per barrel.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2083138013899460715",
+      "published": "2026-07-31T10:29:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "19e6f8f6e2ea05f9021752a2e4a8e556",
+      "title": "Lebanon's Ministry of Culture confirms the historic Beaufort Castle in southern Lebanon was not harmed by massive explosions carried out by Israeli occupation forces in an area opposite the site.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2083137585279336677",
+      "published": "2026-07-31T10:27:00+00:00",
+      "type": "explosion",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/07/30/uae-riyadh-flights-cancellations-update/",
+      "title": "Airlines suspend Middle East flights amid renewed US-Iran conflict",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/07/30/uae-riyadh-flights-cancellations-update/",
+      "published": "2026-07-31T10:24:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jul/31/trump-hamas-disarmament-agreement-gaza-board-of-peace",
+      "title": "Trump says \u2018complete disarmament\u2019 of Hamas agreed in Gaza but Israel yet to accept",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/jul/31/trump-hamas-disarmament-agreement-gaza-board-of-peace",
+      "published": "2026-07-31T10:19:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/07/31/egypt-secures-18bn-imf-funding-as-economy-weathers-iran-war-fallout/",
+      "title": "Egypt secures $1.8bn IMF funding as economy weathers Iran war fallout",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/07/31/egypt-secures-18bn-imf-funding-as-economy-weathers-iran-war-fallout/",
+      "published": "2026-07-31T09:42:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785484360",
+      "title": "Eleven Palestinians, including children, injured in Israel\u2019s Nablus raids",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss",
+      "published": "2026-07-31T09:33:37+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785410697",
+      "title": "Her mother said no to a phone. Then came the Gaza genocide",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss",
+      "published": "2026-07-31T09:23:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/31/spain-sends-troops-to-secure-ceuta-enclave-after-nearly-50000-migrants-swim-from-morocco/",
+      "title": "Spain sends troops to Ceuta enclave after nearly 50,000 migrants arrive from Morocco",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/31/spain-sends-troops-to-secure-ceuta-enclave-after-nearly-50000-migrants-swim-from-morocco/",
+      "published": "2026-07-31T09:20:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/07/31/turkey-keen-to-join-new-lebanon-security-initiative-after-unifil-mandate-ends/",
+      "title": "Turkey keen to join Lebanon security initiative after Unifil mandate ends",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/31/turkey-keen-to-join-new-lebanon-security-initiative-after-unifil-mandate-ends/",
+      "published": "2026-07-31T09:12:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785475878",
+      "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss",
+      "published": "2026-07-31T09:09:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "86a02072fa4762c76808657b105c8d23",
+      "title": "The King of Bahrain receives Hamdan bin Mohammed in the presence of Nasser bin Hamad and Khalid bin Hamad. The meeting took place at the start of Hamdan bin Mohammed\u2019s visit, during which he witnessed the \u2018Bahrain Shield\u2019 joint military exercise, hosted by the Bahrain Defence Force with the participation of the Mohamed bin Zayed Squadron, forces from GCC countries, the Peninsula Shield Force and Saudi Arabia.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2083115744385278236",
+      "published": "2026-07-31T09:01:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "77cbb967c3ef1ea66d8624cb28c8bc4d",
       "title": ". UAE President His Highness Sheikh Mohamed bin Zayed Al Nahyan and Syrian President His Excellency Ahmad Al-Sharaa disc...",
@@ -39,50 +325,6 @@
         "lng": 34.4668
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
-      "title": "Middle East crisis live: Hamas will hand over weapons to new Gaza administration, says official, but deal depends on Israeli withdrawal",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
-      "published": "2026-07-31T08:39:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/arts-culture/music-stage/2026/07/31/boy-george-pulls-out-of-west-end-musical-after-backlash-over-pro-israel-song/",
-      "title": "Boy George pulls out of West End musical after backlash over pro-Israel song",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/arts-culture/music-stage/2026/07/31/boy-george-pulls-out-of-west-end-musical-after-backlash-over-pro-israel-song/",
-      "published": "2026-07-31T08:12:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -157,116 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1785403995",
-      "title": "Pakistan\u2019s attacks on Afghanistan are about more than the TTP",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/7/31/pakistans-attacks-on-afghanistan-are-about-more-than-the-ttp?traffic_source=rss",
-      "published": "2026-07-31T06:50:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785477251",
-      "title": "Iran war live: IRGC claims \u2018retaliatory attack\u2019 on Kuwait",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss",
-      "published": "2026-07-31T06:49:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/31/us-announces-hamas-disarmament-deal-saudi-arabia-aims-to-protect-red-sea-shipping-and-fifa-faces-boycott/",
-      "title": "US announces Hamas disarmament deal, Saudi Arabia aims to protect Red Sea shipping and Fifa faces boycott",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/31/us-announces-hamas-disarmament-deal-saudi-arabia-aims-to-protect-red-sea-shipping-and-fifa-faces-boycott/",
-      "published": "2026-07-31T06:23:30+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/07/31/uae-petrol-prices-to-rise-in-august-amid-wild-oil-market-swings/",
-      "title": "UAE petrol prices to rise in August amid wild oil market swings",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/07/31/uae-petrol-prices-to-rise-in-august-amid-wild-oil-market-swings/",
-      "published": "2026-07-31T06:02:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/31/historic-gaza-disarmament-agreement-what-we-know-so-far/",
-      "title": "'Historic' Gaza disarmament agreement: What we know so far",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/07/31/historic-gaza-disarmament-agreement-what-we-know-so-far/",
-      "published": "2026-07-31T06:02:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
       "title": "Iraq says it had \u2018no prior knowledge\u2019 of US-Saudi attacks \u2013 as it happened",
       "source": "The Guardian",
@@ -281,28 +413,6 @@
         "lng": 43.6793
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/07/31/palestine-actions-many-nans-put-themselves-on-the-line-to-inflate-uk-terror-arrests/",
-      "title": "Palestine Action's many 'nans' put themselves on the line to inflate UK terror arrests",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/07/31/palestine-actions-many-nans-put-themselves-on-the-line-to-inflate-uk-terror-arrests/",
-      "published": "2026-07-31T05:00:01+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -348,28 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jul/31/trump-hamas-disarmament-agreement-gaza-board-of-peace",
-      "title": "Trump claims agreement for \u2018complete disarmament\u2019 of Hamas in Gaza but support uncertain",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/jul/31/trump-hamas-disarmament-agreement-gaza-board-of-peace",
-      "published": "2026-07-31T02:11:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -521,72 +609,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6f6e31e635a064e9d946edb8c20b0b7a",
-      "title": "Multinational maritime defense alliance has been established to enhance maritime security, safeguarde freedom of navigation, secure international trade routes and energy supply lines and protect shared maritime interests in the region.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2082938272032965031",
-      "published": "2026-07-30T21:15:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b92a642727d3dbdc6011379f0bdc1f3f",
-      "title": "Riyadh condemns drone attack on Egypt's Damietta Port  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2082937497437237344",
-      "published": "2026-07-30T21:12:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1f90cdd9b343991dfe0432ac0ba50985",
-      "title": "Saudi Arabia strongly deplores Iran's attacks on Jordan, Kuwait  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2082937176006820061",
-      "published": "2026-07-30T21:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": true,
@@ -1469,28 +1491,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/29/aipac-j-street-zionism",
-      "title": "Aipac\u2019s brand has become toxic. Can this \u2018pro-Israel, pro-peace\u2019 rival move in?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/29/aipac-j-street-zionism",
-      "published": "2026-07-29T11:00:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
