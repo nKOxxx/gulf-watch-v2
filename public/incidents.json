@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-01T06:57:03.402851+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-08-01T08:51:42.101591+00:00",
+  "total_incidents": 53,
   "incidents": [
     {
-      "id": "f4a2e96979efa4700af48d45e9285133",
-      "title": "Kuwait's General Staff says air defense systems are currently intercepting hostile drones as part of continued Iranian attacks targeting the country. #KUNA",
+      "id": "fad876b89b753c28e9797295ab86fa0e",
+      "title": "Ministry of Defense spokesperson Colonel Al-Atwan: #Kuwait's armed forces detected & intercepted hostile Iranian drones that entered the country's airspace. The attacks caused material damage as a result of falling debris, but no human casualties were recorded.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2083439801588388237",
-      "published": "2026-08-01T06:28:00+00:00",
+      "source_url": "https://x.com/kuna_en/status/2083466489579843810",
+      "published": "2026-08-01T08:14:00+00:00",
       "type": "drone",
       "status": "confirmed",
       "location": {
@@ -25,18 +25,62 @@
       }
     },
     {
-      "id": "97c5db768ec5d7e57f3473e5689fdaec",
-      "title": "KPC: Kuwait oil price down USD 1.41 to USD 85.28 per barrel.  #KUNA",
+      "id": "https://www.thenationalnews.com/news/mena/2026/08/01/lebanons-president-aoun-calls-army-only-guarantor-of-countrys-stability/",
+      "title": "Lebanon's President Aoun calls army 'only guarantor' of country's stability",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/01/lebanons-president-aoun-calls-army-only-guarantor-of-countrys-stability/",
+      "published": "2026-08-01T08:05:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/08/01/uae-welcomes-trump-agreement-to-disarm-hamas-in-gaza/",
+      "title": "UAE welcomes agreement to disarm Hamas in Gaza",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/08/01/uae-welcomes-trump-agreement-to-disarm-hamas-in-gaza/",
+      "published": "2026-08-01T07:46:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "83af68541088a68bb0727ca5fa053841",
+      "title": "President Joseph Aoun affirms no weapons outside the authority of the state are legitimate, stressing that #Lebanon can only be protected by its national army, the country's sole legitimate military force.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2083436777985966197",
-      "published": "2026-08-01T06:16:00+00:00",
+      "source_url": "https://x.com/kuna_en/status/2083453572033728589",
+      "published": "2026-08-01T07:23:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
-        "country": "Kuwait",
+        "country": "Lebanon",
         "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
+        "lat": 33.8547,
+        "lng": 35.8623
       },
       "credibility": 95,
       "is_government": true,
@@ -47,15 +91,59 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/08/01/live-us-iran-war-israel-lebanon/",
-      "title": "Iran war latest: Explosions in south Lebanon as Israel continues to demolish villages",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/01/live-us-iran-war-israel-lebanon/",
-      "published": "2026-08-01T04:52:51+00:00",
-      "type": "explosion",
+      "id": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
+      "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
+      "published": "2026-08-01T07:00:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o#0",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-01T05:01:56+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/08/01/live-us-iran-war-israel-lebanon/",
+      "title": "Iran war latest: Air defence systems activated in Kuwait amid drone attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/01/live-us-iran-war-israel-lebanon/",
+      "published": "2026-08-01T04:52:51+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -223,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1785544535",
-      "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
-      "published": "2026-08-01T00:48:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=182767",
       "title": "U.S., Israel preparing to bombard energy-related targets in Iran",
       "source": "Ya Libnan",
@@ -267,28 +333,6 @@
       }
     },
     {
-      "id": "c97c310fa538c1b76a2e63429cf3e09c",
-      "title": "#US President : The #Gaza disarmament and Israeli withdrawal agreement is a major breakthrough.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2083311769892667480",
-      "published": "2026-07-31T22:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
       "title": "Middle East crisis: Trump says \u2018Israel is very happy\u2019 with Gaza peace plan but doesn\u2019t say if withdrawal or Hamas disarmament comes first \u2013 as it happened",
       "source": "The Guardian",
@@ -303,116 +347,6 @@
         "lng": 34.4668
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3619c3b3925baf2f2ef84c0f3e89d4cb",
-      "title": "#UK Foreign Secretary Ed Miliband & his Bahraini counterpart Dr. Abdullatif Al-Zayani meet in London, discussing a variety of issues, including efforts to promote regional stability and freedom of navigation in the Strait of Hormuz  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2083291292415472098",
-      "published": "2026-07-31T20:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e843c99c01fa0f562406ccc658543b64",
-      "title": "#Kuwait Foreign Ministry welcoms #US President Donald Trump's announced agreement to implement the comprehensive peace plan for the Gaza Strip  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2083282154432135196",
-      "published": "2026-07-31T20:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e532fd6c1c51aafec61ae8389993ec90",
-      "title": "#UK Foreign Secretary Ed Miliband welcomes the announcement that Hamas will disarm, calling for implementation of the 20-point plan, which includes the Israeli occupation's withdrawal from Gaza, and respecting the ceasefire  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2083281007420100767",
-      "published": "2026-07-31T19:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3fd2f642138e52a2d89f9c607c11e2cf",
-      "title": "Speaking at a cabinet meeting at the Camp David presidential retreat, #US President Donald Trump says the #US will hit Iran very hard, accusing Iranian of having been \"hishonest\"  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2083268844701790419",
-      "published": "2026-07-31T19:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/07/31/iran-cyber-attack-trump-minnesota/",
-      "title": "Trump blames 'incompetence', not Iran, for Minnesota water system hack",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/07/31/iran-cyber-attack-trump-minnesota/",
-      "published": "2026-07-31T18:02:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1081,7 +1015,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c39ez3klwmro#0",
+      "id": "https://www.bbc.co.uk/news/articles/c39ez3klwmro#1",
       "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
