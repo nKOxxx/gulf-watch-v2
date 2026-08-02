@@ -1,14 +1,124 @@
 {
-  "generated_at": "2026-08-02T18:25:25.725878+00:00",
-  "total_incidents": 48,
+  "generated_at": "2026-08-02T20:23:33.683518+00:00",
+  "total_incidents": 44,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/europe/2026/08/02/death-toll-from-migrant-rush-into-ceuta-rises-to-72/",
-      "title": "Death toll from migrant rush into Ceuta rises to 72",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/08/02/death-toll-from-migrant-rush-into-ceuta-rises-to-72/",
-      "published": "2026-08-02T18:05:21+00:00",
+      "id": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
+      "title": "Trump backs down on Iran strikes in expectation of \u2018rapidly\u2019 reaching a deal",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
+      "published": "2026-08-02T20:16:50+00:00",
       "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "21a3865eb3f7850be3f43c53f8be7451",
+      "title": "Saudi Foreign Minister Prince Faisal bin Farhan discusses the current regional situation and diplomatic efforts aimed de-escalation with his Iranian counterpart Abbas Araghchi  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2084001286651859346",
+      "published": "2026-08-02T19:40:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785699289",
+      "title": "Israelis attack Armenian monastery in Jerusalem\u2019s Old City",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
+      "published": "2026-08-02T19:39:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785693394",
+      "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
+      "published": "2026-08-02T19:08:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785670079",
+      "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
+      "published": "2026-08-02T18:37:23+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/08/02/suspected-suicide-bombing-kills-at-least-14-in-pakistan/",
+      "title": "Suspected suicide bombing kills at least 14 in Pakistan",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/08/02/suspected-suicide-bombing-kills-at-least-14-in-pakistan/",
+      "published": "2026-08-02T18:33:16+00:00",
+      "type": "airstrike",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -25,20 +135,42 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1785693125",
-      "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+      "id": "https://www.aljazeera.com/?t=1785674097",
+      "title": "\u2018Iron fist\u2019 doesn\u2019t work with Iran: Former US hostage in Tehran",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
-      "published": "2026-08-02T17:57:01+00:00",
+      "source_url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
+      "published": "2026-08-02T18:28:13+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Palestine",
+        "country": "Iran",
         "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
+        "lat": 35.6892,
+        "lng": 51.389
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/08/02/death-toll-from-migrant-rush-into-ceuta-rises-to-72/",
+      "title": "Death toll from migrant rush into Ceuta rises to 72",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/08/02/death-toll-from-migrant-rush-into-ceuta-rises-to-72/",
+      "published": "2026-08-02T18:05:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -91,50 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1785689096",
-      "title": "\u2018Iran war participation trophy\u2019 mocking Trump appears in New York",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
-      "published": "2026-08-02T17:06:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785686269",
-      "title": "Suicide bomber kills 14 outside police station in Pakistan\u2019s Swat",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss",
-      "published": "2026-08-02T16:40:44+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c9v471x89m3o#0",
       "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
       "source": "BBC Middle East",
@@ -172,50 +260,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785680058",
-      "title": "Saudi Crown Prince MBS urges Trump to \u2018prioritise dialogue\u2019 in US-Iran war",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
-      "published": "2026-08-02T16:10:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
-      "title": "Trump backs down on Iran strikes in expectation of \u2018rapidly\u2019 reaching a deal",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
-      "published": "2026-08-02T16:06:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -267,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1785684499",
-      "title": "Israeli settlers shoot Palestinian child during farm raid",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
-      "published": "2026-08-02T15:36:28+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=182786",
       "title": "Why flights are so expensive and will likely stay that way",
       "source": "Ya Libnan",
@@ -303,28 +325,6 @@
         "lng": 48.0
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785683555",
-      "title": "Ukrainian farmers use temporary storage to revive grain exports",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
-      "published": "2026-08-02T15:14:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -391,28 +391,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/08/02/michigan-democratic-primary-showdown-to-test-waters-over-israel-gaza-and-partys-future/",
-      "title": "Michigan Democratic primary showdown to test waters over Israel, Gaza and party's future",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/08/02/michigan-democratic-primary-showdown-to-test-waters-over-israel-gaza-and-partys-future/",
-      "published": "2026-08-02T13:03:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -499,28 +477,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9441df74e286edd44ca6a625507bf06e",
-      "title": "Chairperson of the #Kuwait Anti-Corruption Authority (Nazaha): the anniversary of the Iraqi invasion renews pride in the resilience of the Kuwaiti people & their unity behind the country's legitimate leadership until Kuwait was liberated  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2083882375113564529",
-      "published": "2026-08-02T11:47:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
       },
       "credibility": 95,
       "is_government": true,
@@ -1007,50 +963,6 @@
         "lng": 34.4668
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
-      "title": "F-47 program producing test aircraft, on schedule for 2028 flight",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
-      "published": "2026-07-30T20:17:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/07/30/navy-awards-766-billion-for-virginia-columbia-class-submarines/",
-      "title": "Navy awards $76.6 billion for Virginia, Columbia-class submarines",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/30/navy-awards-766-billion-for-virginia-columbia-class-submarines/",
-      "published": "2026-07-30T19:19:29+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
