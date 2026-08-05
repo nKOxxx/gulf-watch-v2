@@ -1,14 +1,36 @@
 {
-  "generated_at": "2026-08-05T10:53:42.757484+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-08-05T12:42:17.469650+00:00",
+  "total_incidents": 61,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/08/05/netanyahu-rejects-us-backed-hamas-disarmament-deal/",
-      "title": "Netanyahu rejects US-backed Hamas disarmament deal",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/05/netanyahu-rejects-us-backed-hamas-disarmament-deal/",
-      "published": "2026-08-05T10:49:01+00:00",
+      "id": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
+      "title": "Middle East crisis live: US and Iran signal hope for Hormuz deal but terms unclear",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
+      "published": "2026-08-05T12:35:52+00:00",
       "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=91856",
+      "title": "The reasons why Group 2 drones are right-sized for the fight",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/08/the-reasons-why-group-2-drones-are-right-sized-for-the-fight/",
+      "published": "2026-08-05T12:30:00+00:00",
+      "type": "drone",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -25,18 +47,106 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uk/2026/08/05/iran-orchestrated-attacks-on-jews-led-to-anti-semitism-surge-in-uk/",
-      "title": "Iran-orchestrated attacks on Jews lead to surge of anti-Semitism in UK",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/08/05/iran-orchestrated-attacks-on-jews-led-to-anti-semitism-surge-in-uk/",
-      "published": "2026-08-05T10:47:53+00:00",
+      "id": "34beb20e896c0f8cf3416d70a7f6ddcf",
+      "title": "#Kuwait's Minister of State for Development & Sustainability Dr. Reem Al-Fulaij meets with #Japanese Ambassador Kenichiro Mukai to discuss environmental cooperation, sustainability & food security.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2084976876485800250",
+      "published": "2026-08-05T12:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d6370a1919ef33585494c41747421d2f",
+      "title": "Arab League Chief Nabil Fahmy calls for urgent Arab action to confront Israeli occupation policies aimed at altering the historical & legal status quo in occupied Jerusalem.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2084976148778201359",
+      "published": "2026-08-05T12:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785924015",
+      "title": "Iran, Oman, US \u2018close\u2019 to Hormuz deal: What do they all want?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss",
+      "published": "2026-08-05T12:07:56+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "Oman",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785930349",
+      "title": "Turkish cargo ship catches fire after Black Sea drone attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+      "published": "2026-08-05T11:49:25+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Egypt",
+        "city": null,
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/08/05/we-are-in-sorrow-tributes-paid-to-car-showroom-worker-killed-in-dubai-gas-cylinder-blast/",
+      "title": "'We are in sorrow': Tributes paid to car showroom worker killed in Dubai gas cylinder blast",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/08/05/we-are-in-sorrow-tributes-paid-to-car-showroom-worker-killed-in-dubai-gas-cylinder-blast/",
+      "published": "2026-08-05T11:48:59+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
       },
       "credibility": 85,
       "is_government": false,
@@ -47,11 +157,55 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/08/05/jordan-al-aqsa-israel/",
-      "title": "Arab and Muslim foreign ministers in Jordan to discuss Israeli action at Al Aqsa",
+      "id": "https://www.aljazeera.com/?t=1785923515",
+      "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-08-05T11:31:32+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/08/05/spacex-rocket-part-the-size-of-a-school-bus-believed-to-have-crashed-into-the-moon/",
+      "title": "SpaceX rocket part 'size of school bus' believed to have crashed into Moon",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/05/jordan-al-aqsa-israel/",
-      "published": "2026-08-05T10:43:20+00:00",
+      "source_url": "https://www.thenationalnews.com/news/2026/08/05/spacex-rocket-part-the-size-of-a-school-bus-believed-to-have-crashed-into-the-moon/",
+      "published": "2026-08-05T11:18:28+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1785919986",
+      "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+      "published": "2026-08-05T11:01:32+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -60,8 +214,30 @@
         "lat": 31.0461,
         "lng": 34.8516
       },
-      "credibility": 85,
+      "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "334210685d237f0bd49c5d6fb3e9f8f3",
+      "title": "His Highness the Prime Minister chairs a meeting to discuss the latest developments in plans to survey & classify state-owned lands, aiming to enhance government asset management efficiency, support food security & align with national development goals.  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2084955271869124962",
+      "published": "2026-08-05T10:50:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -84,50 +260,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785921829",
-      "title": "How Israeli restrictions on Palestinians\u2019 movement break up the West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss",
-      "published": "2026-08-05T10:09:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785854899",
-      "title": "Reform UK plan to return asylum seekers using navy \u2018dangerous in practice\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/5/reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practice?traffic_source=rss",
-      "published": "2026-08-05T10:07:20+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -201,50 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1785910707",
-      "title": "Russian attacks kill 17, exploiting Ukraine\u2019s lack of missile interceptors",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
-      "published": "2026-08-05T09:16:39+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1785920398",
-      "title": "Trump hails progress but warned Iran of \u2018hard hit\u2019 if no deal reached",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
-      "published": "2026-08-05T09:05:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "589039de9c6a0df610f94154441404bb",
       "title": "#Oman's southern governorate of Dhofar has long been renowned as the homeland of frankincense, known as \"white gold,\" with the prized resin remaining one of the region's most important historical, cultural and economic symbols for thousands of years (Photo Feature)  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -279,72 +367,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/08/05/us-iran-talks-continue-strait-of-hormuz-proposal-and-uae-economy-picks-up/",
-      "title": "US-Iran talks continue, Strait of Hormuz proposal and UAE economy picks up",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/08/05/us-iran-talks-continue-strait-of-hormuz-proposal-and-uae-economy-picks-up/",
-      "published": "2026-08-05T07:06:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/08/05/new-preliminary-agreement-being-drafted-as-us-and-iran-seek-hormuz-breakthrough-pakistani-source-says/",
-      "title": "US and Iran revising June deal with focus on Hormuz, Pakistani source says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/05/new-preliminary-agreement-being-drafted-as-us-and-iran-seek-hormuz-breakthrough-pakistani-source-says/",
-      "published": "2026-08-05T07:05:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0e21ec5ea70679f5bafc13870c7d0b0b",
-      "title": "Dubai Duty Free officially launches  Pay\u2122, becoming the first airport retailer in the Middle East to introduce the regulated digital payment solution. Eligible customers can now use  Pay\u2122 when shopping at Dubai Duty Free both in Dubai International Airport (DXB) and Al Maktoum International Airport (AMIA), as well as online at . @DubaiDutyFree | @cryptocom",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2084888309529280813",
-      "published": "2026-08-05T06:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -458,28 +480,6 @@
       },
       "credibility": 80,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "344ee73a5408722f0b6147d98ee039f4",
-      "title": "Turkiye: three Arab countries may join pipeline network to supply Gas to Europe  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2084811545616285899",
-      "published": "2026-08-05T01:19:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -861,28 +861,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/aug/04/jordan-convenes-emergency-meeting-israel-religious-conflict-jerusalem",
-      "title": "Jerusalem\u2019s most important Muslim religious site facing \u2018imminent\u2019 threat of Israeli takeover, says Jordan",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/aug/04/jordan-convenes-emergency-meeting-israel-religious-conflict-jerusalem",
-      "published": "2026-08-04T13:15:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/08/04/us-used-virtually-all-long-range-precision-missiles-during-iran-war-sources-say/",
       "title": "US used \u2018virtually all\u2019 long-range precision missiles during Iran war, sources say",
       "source": "Defense News",
@@ -1147,28 +1125,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=182813",
-      "title": "Lebanon hopes justice is finally within reach 6 years after Beirut port blast",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/03/lebanon-hopes-justice-is-finally-within-reach-6-years-after-beirut-port-blast/?utm_source=rss&utm_medium=rss&utm_campaign=lebanon-hopes-justice-is-finally-within-reach-6-years-after-beirut-port-blast",
-      "published": "2026-08-03T19:05:49+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
       "title": "US Air Force jet engine manufacturing plagued by \u2018significant challenges\u2019",
       "source": "Defense News",
@@ -1183,28 +1139,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=91574",
-      "title": "With Hormuz in the spotlight, the Navy can do better",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/08/with-hormuz-in-the-spotlight-the-navy-can-do-better/",
-      "published": "2026-08-03T18:10:00+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1403,28 +1337,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o#1",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-02T11:12:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
