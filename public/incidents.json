@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-07T14:25:16.738668+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-08-07T16:20:52.302450+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "67297982b078fe6d12099f2b5e33f82e",
+      "title": "Kuwait strongly condemns bombing a minibus in the town of Jaramana in Syria, resulting in casualties.",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2085756111089447391",
+      "published": "2026-08-07T15:53:00+00:00",
+      "type": "airstrike",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=92048",
+      "title": "Updating Navy warships at the speed of software",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/08/updating-navy-warships-at-the-speed-of-software/",
+      "published": "2026-08-07T15:40:02+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1786109173",
+      "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
+      "published": "2026-08-07T15:10:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 26,
+        "military": 0,
+        "civilian": 26
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1786104589",
+      "title": "Two civilians killed in Houthi strike on Marib, says Yemen\u2019s government",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
+      "published": "2026-08-07T14:22:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/08/07/cat-adoption-rescue-uae/",
       "title": "Where to adopt a cat in the UAE, from rescue groups to government shelters",
@@ -282,28 +370,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/08/07/england-and-spl-striker-ivan-toney-charged-with-assault/",
-      "title": "England and SPL striker Ivan \u200bToney charged with assault",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/08/07/england-and-spl-striker-ivan-toney-charged-with-assault/",
-      "published": "2026-08-07T10:39:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -795,28 +861,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=92058",
-      "title": "How Ukraine tries to intercept Russian drones more effectively \u2014 and affordably",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/08/how-ukraine-tries-to-intercept-russian-drones-more-effectively-and-affordably/",
-      "published": "2026-08-06T12:37:45+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/aug/06/trump-gaza-board-of-peace-first-building-contract-military-base",
       "title": "Trump\u2019s Gaza Board of Peace issues first building contract \u2013 for a military base",
       "source": "The Guardian",
@@ -1191,7 +1235,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o#1",
       "title": "UN rights chief alarmed by rise in Iran executions since March",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
@@ -1269,28 +1313,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cn0n99npjejo#1",
-      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-04T15:07:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 95,
       "is_government": false,
