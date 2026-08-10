@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-08-10T14:29:19.145302+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-08-10T16:20:21.995495+00:00",
+  "total_incidents": 47,
   "incidents": [
+    {
+      "id": "05cb194a407a8e4d6e1fe9153f9a63aa",
+      "title": "A 7.4-magnitude earthquake strikes western #Colombia, affecting the South American country & neighboring #Ecuador & prompting residents to evacuate homes & buildings  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2086846222405337554",
+      "published": "2026-08-10T16:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1786265864",
+      "title": "Sudan\u2019s army chief holds unannounced talks on national dialogue",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss",
+      "published": "2026-08-10T16:03:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1786339826",
+      "title": "\u2018They need each other\u2019: What\u2019s behind the new Syria-Russia accord?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss",
+      "published": "2026-08-10T16:01:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "91b6bcab70c885be0e3f067748526808",
+      "title": "Arab League condemns Israeli occupation's rejection of the roadmap for completing implementation of the comprehensive peace plan in the Gaza Strip  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2086844799462596880",
+      "published": "2026-08-10T15:59:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/08/10/oil-spill-nears-omans-coast-after-explosion-on-russia-linked-tanker/",
+      "title": "Oil spill nears Oman's coast after explosion on Russia-linked tanker",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/10/oil-spill-nears-omans-coast-after-explosion-on-russia-linked-tanker/",
+      "published": "2026-08-10T15:57:59+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/08/10/violence-mars-return-of-displaced-syrian-kurds-to-border-town-after-nearly-seven-years/",
+      "title": "Violence mars return of displaced Syrian Kurds to border town after nearly seven years",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/10/violence-mars-return-of-displaced-syrian-kurds-to-border-town-after-nearly-seven-years/",
+      "published": "2026-08-10T15:51:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1786376683",
+      "title": "Anas al-Sharif: One year on from Israel\u2019s killing of Al Jazeera reporter",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss",
+      "published": "2026-08-10T15:51:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1786372247",
+      "title": "Oil prices, stocks surge as Hormuz closure drags on",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss",
+      "published": "2026-08-10T15:45:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/08/10/lebanon-and-world-bank-sign-150m-loan-deal-to-support-digital-transformation/",
+      "title": "Lebanon and World Bank sign $150m loan deal to support digital transformation",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/10/lebanon-and-world-bank-sign-150m-loan-deal-to-support-digital-transformation/",
+      "published": "2026-08-10T15:20:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-navy-tests-ai-powered-submarine-hunter/",
+      "title": "US Navy tests AI-powered submarine hunter",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-navy-tests-ai-powered-submarine-hunter/",
+      "published": "2026-08-10T15:01:39+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=92259",
+      "title": "Air Force seeks AI tool to help manage Minuteman III ICBM sustainment",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/08/air-force-seeks-ai-tool-to-help-manage-minuteman-iii-icbm-sustainment/",
+      "published": "2026-08-10T14:53:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1786371246",
+      "title": "Indian police attack protesters seeking action over \u2018exam irregularities\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss",
+      "published": "2026-08-10T14:52:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o#0",
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-10T14:43:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/08/10/houthis-seek-hezbollah-like-role-with-plan-to-escalate-yemen-conflict-in-support-of-iran/",
       "title": "Houthis seek Hezbollah-like role with plan to escalate Yemen conflict in support of Iran",
@@ -17,28 +303,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=182980",
-      "title": "Storms from Dolphin soak China\u2019s east, ground nearly 950 Shanghai flights",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/10/storms-from-dolphin-soak-chinas-east-ground-nearly-950-shanghai-flights/?utm_source=rss&utm_medium=rss&utm_campaign=storms-from-dolphin-soak-chinas-east-ground-nearly-950-shanghai-flights",
-      "published": "2026-08-10T14:09:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -69,30 +333,8 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1786363980",
-      "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
-      "published": "2026-08-10T14:00:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/opinion/comment/2026/08/10/cybersecurity-technology/",
-      "title": "Why countries shouldn't outsource their cybersecurity",
+      "title": "Why countries shouldn't outsource their cyber security",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/opinion/comment/2026/08/10/cybersecurity-technology/",
       "published": "2026-08-10T14:00:00+00:00",
@@ -113,30 +355,8 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1786355901",
-      "title": "Why Netanyahu\u2019s \u2018coup\u2019 against Gaza plan risks endless war",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
-      "published": "2026-08-10T13:59:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/europe/2026/08/10/daniel-kinahan-sent-to-maximum-security-prison-designed-for-ira-suspects/",
-      "title": "Daniel Kinahan sent to maximum security prison designed for IRA suspects",
+      "title": "Daniel Kinahan held at maximum security prison designed for IRA suspects",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/europe/2026/08/10/daniel-kinahan-sent-to-maximum-security-prison-designed-for-ira-suspects/",
       "published": "2026-08-10T13:49:20+00:00",
@@ -202,7 +422,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/business/energy/2026/08/10/oil-surges-back-to-85-per-barrel-as-hormuz-deal-remains-elusive/",
-      "title": "Oil surges back to $85 per barrel as Hormuz deal remains elusive",
+      "title": "Oil surges above $85 per barrel as Hormuz deal remains elusive",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/business/energy/2026/08/10/oil-surges-back-to-85-per-barrel-as-hormuz-deal-remains-elusive/",
       "published": "2026-08-10T13:38:33+00:00",
@@ -215,72 +435,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1786368073",
-      "title": "Gaza honours Al Jazeera\u2019s Anas al-Sharif and Mohammed Qraiqea",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss",
-      "published": "2026-08-10T13:32:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=182972",
-      "title": "Aoun and Karam discuss the next stage of negotiations with Israel and US",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/10/aoun-and-karam-discuss-the-next-stage-of-negotiations-with-israel-and-us/?utm_source=rss&utm_medium=rss&utm_campaign=aoun-and-karam-discuss-the-next-stage-of-negotiations-with-israel-and-us",
-      "published": "2026-08-10T13:26:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1786368122",
-      "title": "Nigel Farage vows to deport foreign criminals from UK prisons",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss",
-      "published": "2026-08-10T13:24:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -325,72 +479,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/08/10/where-will-i-go-afghan-refugees-in-germany-fear-talibans-diplomatic-return/",
-      "title": "'Where will I go?': Afghan refugees in Germany fear Taliban's diplomatic return",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/08/10/where-will-i-go-afghan-refugees-in-germany-fear-talibans-diplomatic-return/",
-      "published": "2026-08-10T12:39:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/08/10/is-free-movement-in-europe-threatened-by-ceuta-crisis/",
-      "title": "Is free movement in Europe threatened by Ceuta crisis?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/08/10/is-free-movement-in-europe-threatened-by-ceuta-crisis/",
-      "published": "2026-08-10T12:27:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/08/10/trump-is-counting-on-economic-pressure-to-force-iran-to-capitulate-but-will-it-work/",
-      "title": "Trump is counting on economic pressure to force Iran to capitulate, but will it work?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/08/10/trump-is-counting-on-economic-pressure-to-force-iran-to-capitulate-but-will-it-work/",
-      "published": "2026-08-10T12:00:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -795,50 +883,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=182970",
-      "title": "Turkey says Egypt could eventually join, the Mecca defense pact",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/09/turkey-says-egypt-could-eventually-join-the-mecca-defense-pact/?utm_source=rss&utm_medium=rss&utm_campaign=turkey-says-egypt-could-eventually-join-the-mecca-defense-pact",
-      "published": "2026-08-09T02:45:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 21.3891,
-        "lng": 39.8579
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=182967",
-      "title": "Why Saudi Arabia, Pakistan, and Turkey just signed a defense pact",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/09/why-saudi-arabia-pakistan-and-turkey-just-signed-a-defense-pact/?utm_source=rss&utm_medium=rss&utm_campaign=why-saudi-arabia-pakistan-and-turkey-just-signed-a-defense-pact",
-      "published": "2026-08-09T00:18:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c20d8qre98do#0",
       "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
       "source": "BBC Middle East",
@@ -861,72 +905,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=182963",
-      "title": "The Muslim World must unite against Iran\u2019s attempt to hijack Islam",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/09/the-muslim-world-must-unite-against-irans-attempt-to-hijack-islam/?utm_source=rss&utm_medium=rss&utm_campaign=the-muslim-world-must-unite-against-irans-attempt-to-hijack-islam",
-      "published": "2026-08-08T23:27:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=182954",
-      "title": "Iran War Updates: Iran targets UAE ship despite talks with Oman, says Hormuz won\u2019t open until  U.S. \u201ccorrects\u201d behavior",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/09/iran-war-updates-iran-targets-uae-ship-despite-talks-with-oman-says-hormuz-wont-open-until-u-s-corrects-behavior/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-updates-iran-targets-uae-ship-despite-talks-with-oman-says-hormuz-wont-open-until-u-s-corrects-behavior",
-      "published": "2026-08-08T22:07:13+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=182956",
-      "title": "Time to End Iran\u2019s Weaponization of the Strait of Hormuz",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/09/time-to-end-irans-weaponization-of-the-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=time-to-end-irans-weaponization-of-the-strait-of-hormuz",
-      "published": "2026-08-08T22:03:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
       "title": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach",
       "source": "The Guardian",
@@ -941,28 +919,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=182950",
-      "title": "Lebanon\u2019s Shiites have an alternative: Meet the leaders challenging Hezbollah and Amal",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/08/lebanons-shiites-have-an-alternative-meet-the-leaders-challenging-hezbollah-and-amal/?utm_source=rss&utm_medium=rss&utm_campaign=lebanons-shiites-have-an-alternative-meet-the-leaders-challenging-hezbollah-and-amal",
-      "published": "2026-08-08T16:22:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1065,28 +1021,6 @@
       "source_url": "https://breakingdefense.com/2026/08/army-opens-ranges-in-us-morocco-to-speed-interceptor-testing-development/",
       "published": "2026-08-07T19:10:00+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=92048",
-      "title": "Updating Navy warships at the speed of software",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/08/updating-navy-warships-at-the-speed-of-software/",
-      "published": "2026-08-07T15:40:02+00:00",
-      "type": "naval",
       "status": "unconfirmed",
       "location": {
         "country": null,
