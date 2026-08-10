@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-09T22:09:49.468734+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-08-10T00:27:46.526902+00:00",
+  "total_incidents": 48,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1786316639",
+      "title": "F-16s intercept two aircraft near Trump\u2019s New Jersey golf club",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss",
+      "published": "2026-08-09T23:28:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1786312723",
+      "title": "Union reports 108 attacks on Palestinian journalists in July",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+      "published": "2026-08-09T23:01:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8e0c0a0cb3aeeb010adda0ffea3329f1",
+      "title": "#Spain strongly condemns Houthi militia's attacks on #Saudi Arabia, targeting Saudi commercial ships, while calling for regional de-escalation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2086585155745992736",
+      "published": "2026-08-09T22:47:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "21d74ac9620b79cc314d972f03190861",
+      "title": "#Yemen's Presidential Leadership Council (PLC) Chairman Rashad Al-Alimi and Charg\u00e9 d' Affaires of the U.S. Embassy in Yemen Neil Hob addresse the reflections of Houthi militia attacks and targeting of Al-Mokha port on the western coast of Taiz governorate  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2086583673759871171",
+      "published": "2026-08-09T22:41:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#0",
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -223,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1786266781",
-      "title": "Former Iraqi provincial governor arrested as graft crackdown continues",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss",
-      "published": "2026-08-09T16:53:45+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/us/2026/08/09/lockerbie-bombing-trial-suspect-pan-am/",
       "title": "Lockerbie trial jury instructions set to include warning about prediction markets",
       "source": "The National UAE",
@@ -259,28 +325,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1786291818",
-      "title": "How Israel\u2019s occupation fuels resistance",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
-      "published": "2026-08-09T16:19:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -399,50 +443,6 @@
       }
     },
     {
-      "id": "4157594509356053220aa52caf39e6de",
-      "title": "The #Egyptian Red Crescent announces that it had sent more than 4,226 tons of humanitarian aid to the #Gaza Strip as part of the \"Zad Al-Ezza..From Egypt to Gaza\" convoy, in line with its role as the national mechanism for coordinating aid to the Strip  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2086442972057370638",
-      "published": "2026-08-09T13:22:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9aad0df3e52f884981d264812818df84",
-      "title": "The Arab Interior Ministers Council strongly condemns Iran's targeting of an #Emirati oil tanker while it was transiting the Strait of Hormuz, describing the incident as a threat to maritime security and the freedom of international trade  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2086442693580722448",
-      "published": "2026-08-09T13:21:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/business/aviation/2026/08/09/qatar-airways-aircraft-in-near-miss-with-jetstar-at-sydney-airport/",
       "title": "Qatar Airways aircraft in near-miss with Jetstar at Sydney Airport",
       "source": "The National UAE",
@@ -455,28 +455,6 @@
         "city": null,
         "lat": 25.3548,
         "lng": 51.1839
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/08/09/syria-and-russia-agree-to-transform-military-bases-into-joint-training-centres/",
-      "title": "Syria and Russia agree to transform military bases into joint training centres",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/09/syria-and-russia-agree-to-transform-military-bases-into-joint-training-centres/",
-      "published": "2026-08-09T12:30:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
       },
       "credibility": 85,
       "is_government": false,
@@ -1073,28 +1051,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo#0",
-      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-06T22:41:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
