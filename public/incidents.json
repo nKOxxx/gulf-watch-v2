@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-19T00:18:30.794130+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-08-19T02:29:23.852785+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1787089731",
+      "title": "US refineries taking in half of Venezuela\u2019s oil output, official says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
+      "published": "2026-08-19T02:00:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787100408",
+      "title": "US ambassador to Israel calls settler violence \u2018terror\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
+      "published": "2026-08-19T00:49:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9141b571682ec5a10ab3198884c65047",
+      "title": "#France expels two Iranian diplomats following attack on embassy personnel  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2089871756232216577",
+      "published": "2026-08-19T00:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a6eaebc560391412e23be2ff10d1ecbd",
+      "title": "#WHO: #Ebola Outbreak in #DRC remains a public health emergency of international concern  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2089871245730881794",
+      "published": "2026-08-19T00:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1787091023",
       "title": "Iran war live: Trump denies Iran talks, Tehran claims US \u2018begging\u2019",
@@ -91,50 +179,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1787085579",
-      "title": "Syria opens Assad-era nuclear programme to UN probe",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
-      "published": "2026-08-18T21:25:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787082852",
-      "title": "DR Congo\u2019s Ebola outbreak \u2018global emergency\u2019 as infections pass 5,000: WHO",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
-      "published": "2026-08-18T21:24:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "243de9630465953c90dc7e7f3c6d357e",
       "title": "#UAE Ministry of Defence: Two ballistic missiles detected earlier originated from #Iran, targeting international maritime navigation before falling into the sea  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -172,28 +216,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787079699",
-      "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
-      "published": "2026-08-18T21:03:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -377,28 +399,6 @@
       }
     },
     {
-      "id": "0f9183a5ba9c4f08f6c231533f836455",
-      "title": "The Ministry of Interior carried out a security campaign in Ahmadi Governorate targeting wanted persons & violators of labor, residency & other regulations.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2089766418489213121",
-      "published": "2026-08-18T17:28:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/08/18/from-war-zones-to-disaster-sites-uae-delivers-billions-of-dirhams-of-humanitarian-aid/",
       "title": "From war zones to disaster sites, UAE delivers billions of dirhams of humanitarian aid",
       "source": "The National UAE",
@@ -443,28 +443,6 @@
       }
     },
     {
-      "id": "259664249b371ccf9ac0c62c772bde05",
-      "title": "The #UAE Ministry of Defense says its air defenses detected two ballistic missiles launched from Iran, with one falling outside the country's territorial waters & the other landing within its territorial waters.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2089762189305356557",
-      "published": "2026-08-18T17:11:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "cd0e686735df97355283a2a94d5bf496",
       "title": "Air Forces Detected Two Missiles Headed Toward the Country; Both Fell Into the Sea The UAE Ministry of Defence announced that the UAE's air defence systems detected two ballistic missiles launched from Iran towards the country. The first fell outside the country's territorial waters, while the second fell within its territorial waters. The Ministry of Defence affirms that it remains on high alert and fully prepared to address any threats, and to respond firmly to any attempt aiming to undermine the security of the UAE, in a manner that safeguards its sovereignty, security and stability, and protects its interests and national capabilities. The Ministry also urges the public to obtain all inf",
       "source": "UAE MOD (RSS.app)",
@@ -480,28 +458,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/08/18/uae-air-defence-systems-respond-to-missile-threat/",
-      "title": "UAE air defence systems respond to missile threat",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/08/18/uae-air-defence-systems-respond-to-missile-threat/",
-      "published": "2026-08-18T17:04:49+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
