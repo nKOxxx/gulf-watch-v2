@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-21T22:07:24.991301+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-08-22T00:18:55.460453+00:00",
+  "total_incidents": 65,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1787347274",
-      "title": "One killed, three wounded in sword attack at Swedish high school",
+      "id": "https://www.aljazeera.com/?t=1787355370",
+      "title": "Several killed in Russia\u2019s \u2018double-tap\u2019 drone strike on Ukraine mall",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
-      "published": "2026-08-21T21:23:35+00:00",
-      "type": "incident",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+      "published": "2026-08-22T00:06:48+00:00",
+      "type": "drone",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -25,12 +25,34 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1787338882",
-      "title": "Can a humanitarian disaster be averted in Somalia?",
+      "id": "https://www.aljazeera.com/?t=1787353828",
+      "title": "Iran war live: Trump says he views Strait of Hormuz as \u2018American territory\u2019",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
-      "published": "2026-08-21T20:27:14+00:00",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+      "published": "2026-08-22T00:00:00+00:00",
       "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787351292",
+      "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
+      "published": "2026-08-21T23:52:28+00:00",
+      "type": "airstrike",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -47,40 +69,18 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1787341720",
-      "title": "Pope Leo urges the world to \u2018help begin reconstruction\u2019 of Gaza",
+      "id": "https://www.aljazeera.com/?t=1787346981",
+      "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
-      "published": "2026-08-21T20:16:59+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
+      "published": "2026-08-21T23:51:40+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Palestine",
+        "country": null,
         "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787329688",
-      "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
-      "published": "2026-08-21T20:03:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -169,6 +169,28 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/08/21/hyrox-community-damascus-syria/",
+      "title": "One rep at a time: How Syria\u2019s first Hyrox community is taking shape in Damascus",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/21/hyrox-community-damascus-syria/",
+      "published": "2026-08-21T18:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 33.5138,
+        "lng": 36.2765
       },
       "credibility": 85,
       "is_government": false,
