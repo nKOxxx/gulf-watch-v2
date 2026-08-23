@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-08-23T12:09:14.459673+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-08-23T14:07:39.716448+00:00",
+  "total_incidents": 50,
   "incidents": [
     {
-      "id": "026cc2832bb5162178d3d03451124719",
-      "title": "His Highness the Crown Prince receives His Highness the Prime Minister, First Deputy Prime Minister & Minister of Interior, as well as Minister of Defense  #KUNA #Kuwait",
+      "id": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "title": "Iran\u2019s foreign minister calls threat of new US economic sanctions \u2018desperate\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "published": "2026-08-23T13:56:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a3886bdbf341ea8a86d321aea220021d",
+      "title": "Undersecretary of the #Kuwait National Guard (KNA) affirms that the \"Nation's Banner 2\" exercise enhances integration between military & security agencies as well as unifies the training concepts & plans  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2091494173610233877",
-      "published": "2026-08-23T11:54:00+00:00",
+      "source_url": "https://x.com/kuna_en/status/2091524166172184654",
+      "published": "2026-08-23T13:53:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -25,18 +47,40 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-      "title": "Iran\u2019s president says country faces \u2018many problems\u2019 as US ramps up sanctions",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-      "published": "2026-08-23T11:50:36+00:00",
+      "id": "75ecb1d063914f4b4b36f641e4f6073b",
+      "title": "GCC chief underlines the significance of continued coordination with stakeholders in member states to translate GCC leaders' decisions into tangible results to advance joint Gulf action & fulfill the Gulf people's aspirations  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2091516191558824203",
+      "published": "2026-08-23T13:21:00+00:00",
       "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787490527",
+      "title": "Heavy Israeli air strike hits warehouse in central Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+      "published": "2026-08-23T13:20:57+00:00",
+      "type": "airstrike",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "Palestine",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 31.5017,
+        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
@@ -47,11 +91,55 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1787468452",
-      "title": "Can Iran retaliate against countries that join US \u2018economic war\u2019?",
+      "id": "https://www.aljazeera.com/?t=1787483321",
+      "title": "Dozens of attacks in southern Thailand wound three people",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
-      "published": "2026-08-23T11:50:22+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
+      "published": "2026-08-23T13:08:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=183326",
+      "title": "Macron hosts Saudi crown prince for two-day visit to include issues from energy to Mideast",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/08/23/macron-hosts-saudi-crown-prince-for-two-day-visit-to-include-issues-from-energy-to-mideast/?utm_source=rss&utm_medium=rss&utm_campaign=macron-hosts-saudi-crown-prince-for-two-day-visit-to-include-issues-from-energy-to-mideast",
+      "published": "2026-08-23T13:06:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=183323",
+      "title": "Middle East war live: Iran\u2019s president admits country facing \u2018many problems\u2019 as US sanctions loom",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/08/23/middle-east-war-live-irans-president-admits-country-facing-many-problems-as-us-sanctions-loom/?utm_source=rss&utm_medium=rss&utm_campaign=middle-east-war-live-irans-president-admits-country-facing-many-problems-as-us-sanctions-loom",
+      "published": "2026-08-23T12:52:52+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -60,8 +148,30 @@
         "lat": 32.4279,
         "lng": 53.688
       },
-      "credibility": 90,
+      "credibility": 80,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "026cc2832bb5162178d3d03451124719",
+      "title": "His Highness the Crown Prince receives His Highness the Prime Minister, First Deputy Prime Minister & Minister of Interior, as well as Minister of Defense  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2091494173610233877",
+      "published": "2026-08-23T11:54:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -113,74 +223,8 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1787482918",
-      "title": "Explosion injures 13 in Taiwan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
-      "published": "2026-08-23T11:06:38+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787465821",
-      "title": "Israel\u2019s war on Gaza forces Palestinians to rely on \u2018Stone Age\u2019 toilets",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
-      "published": "2026-08-23T11:00:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787472809",
-      "title": "Syria\u2019s foreign minister says door open for diplomacy with Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss",
-      "published": "2026-08-23T10:48:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/europe/2026/08/23/frances-macron-and-saudi-crown-prince-to-discuss-oil-pipelines-to-by-pass-strait-of-hormuz/",
-      "title": "France's Macron and Saudi Crown Prince to discuss oil pipelines to by-pass Strait of Hormuz",
+      "title": "France's Macron and Saudi Crown Prince to discuss oil pipelines to bypass Strait of Hormuz",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/europe/2026/08/23/frances-macron-and-saudi-crown-prince-to-discuss-oil-pipelines-to-by-pass-strait-of-hormuz/",
       "published": "2026-08-23T10:42:28+00:00",
@@ -246,7 +290,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/08/23/syria-israel-damascus/",
-      "title": "Attack on Syrian security forces leaves casualties",
+      "title": "Casualties after attack on Syrian security forces",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/08/23/syria-israel-damascus/",
       "published": "2026-08-23T10:32:46+00:00",
@@ -282,28 +326,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787474427",
-      "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
-      "published": "2026-08-23T09:43:47+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -355,72 +377,6 @@
       }
     },
     {
-      "id": "2d4082c1aeb5d2d41dc2aaf99d111e46",
-      "title": "#Kuwait's Ministry of Interior conducts a comprehensive security campaign in Farwaniya & Khaitan areas, as part of ongoing efforts to apprehend wanted individuals & violators, enhancing security & public safety.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2091441914939666777",
-      "published": "2026-08-23T08:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1ae467d61af9ebd936eeb531ac63dadc",
-      "title": "#Kuwait condemns the attack on a bus belonging to #Syria's Internal Security Forces in #Damascus countryside, which injured several security personnel, reaffirming its rejection of violence & terrorism.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2091441333214793791",
-      "published": "2026-08-23T08:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 33.5138,
-        "lng": 36.2765
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4d27889e6aa56b0ab65449e3c23eadd0",
-      "title": "#Kuwait's Interior Ministry: A security campaign involving 168 personnel & 50 patrols in Al-Riggae resulted in the arrest of 36 violators & wanted persons.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2091440909799833812",
-      "published": "2026-08-23T08:22:00+00:00",
-      "type": "raid",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "87f01939599a0e4b799a84b85f3817aa",
       "title": "Protect your data from online fraud: Simple steps for your digital security #\u0645\u0645\u0644\u0643\u0629_\u0627\u0644\u0628\u062d\u0631\u064a\u0646 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #\u0627\u0644\u0627\u0645\u0646 #moi\u2069",
       "source": "Bahrain MOI (RSS.app)",
@@ -435,28 +391,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9e3585cebdecb3e27fa095f195809e76",
-      "title": "#Kuwait condemns an attack targeting a civilian vehicle in western rural #Damascus with a drone belonging to the Israeli occupation forces, which injured several civilians.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2091407490764214603",
-      "published": "2026-08-23T06:09:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 33.5138,
-        "lng": 36.2765
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -795,28 +729,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=183261",
-      "title": "Trump threatens to isolate Iran. Who are its trading partners?",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/21/trump-threatens-to-isolate-iran-who-are-its-trading-partners/?utm_source=rss&utm_medium=rss&utm_campaign=trump-threatens-to-isolate-iran-who-are-its-trading-partners",
-      "published": "2026-08-21T12:53:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=93444",
       "title": "How the Army balances Patriot priorities and approaches Golden Dome",
       "source": "Breaking Defense",
@@ -831,28 +743,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=183258",
-      "title": "Iran vows \u2018devastating\u2019 response as US threatens toughest ever economic penalties",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/21/iran-vows-devastating-response-as-us-threatens-toughest-ever-economic-penalties/?utm_source=rss&utm_medium=rss&utm_campaign=iran-vows-devastating-response-as-us-threatens-toughest-ever-economic-penalties",
-      "published": "2026-08-21T11:03:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1205,50 +1095,6 @@
         "lng": 51.1839
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o#0",
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-20T12:38:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/08/20/switzerland-seeks-additional-12-billion-for-air-defense-in-2026-budget/",
-      "title": "Switzerland seeks additional $1.2 billion for air defense in 2026 budget",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/08/20/switzerland-seeks-additional-12-billion-for-air-defense-in-2026-budget/",
-      "published": "2026-08-20T12:20:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
