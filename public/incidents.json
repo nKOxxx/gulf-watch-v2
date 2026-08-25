@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-08-25T06:14:10.886701+00:00",
-  "total_incidents": 44,
+  "generated_at": "2026-08-25T08:18:09.093513+00:00",
+  "total_incidents": 46,
   "incidents": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25T08:08:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/08/25/gazas-children-grew-up-flying-kites-now-israel-says-they-will-be-treated-as-drones/",
+      "title": "Gaza\u2019s children grew up flying kites. Now Israel says they will be treated as drones",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/25/gazas-children-grew-up-flying-kites-now-israel-says-they-will-be-treated-as-drones/",
+      "published": "2026-08-25T07:36:54+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/08/25/uae-riyadh-middle-east-flights-cancellations-update/",
+      "title": "Middle East flights: Which airlines are flying and which remain suspended?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/08/25/uae-riyadh-middle-east-flights-cancellations-update/",
+      "published": "2026-08-25T07:32:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/08/25/us-expects-more-countries-to-cut-iran-trade-syria-clears-major-economic-hurdle-and-parkin-expands-regionally/",
+      "title": "US expects more countries to cut Iran trade, Syria clears major economic hurdle and Parkin expands regionally",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/08/25/us-expects-more-countries-to-cut-iran-trade-syria-clears-major-economic-hurdle-and-parkin-expands-regionally/",
+      "published": "2026-08-25T07:27:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c64812fc5a96cb21777f142b0946257c",
+      "title": "Dubai Chambers signs an MoU with the Federation of Karnataka Chambers of Commerce and Industry (FKCCI) to strengthen trade and investment ties with Karnataka, supporting the expansion of Karnataka-based companies into Dubai and their establishment of branches and headquarters in the emirate.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2092149982426182114",
+      "published": "2026-08-25T07:20:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787637537",
+      "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
+      "published": "2026-08-25T06:37:32+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "adb0f0d8fe7cf5579400f89a1fc0ca23",
       "title": "#Kuwait_oil price goes down by USD 1.06 to USD 92.65 pb  #KUNA #KUWAIT",
@@ -113,50 +245,6 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
-      "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-25T03:50:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787614213",
-      "title": "Israel\u2019s Netanyahu claims Iran tried to kill one of his sons",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
-      "published": "2026-08-25T02:54:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=183358",
       "title": "Exxon turns to automated drilling in the Permian in push for higher oil output",
       "source": "Ya Libnan",
@@ -223,20 +311,20 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1787622450",
-      "title": "Man killed in world\u2019s largest annual bullfighting event in Mexico",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss",
-      "published": "2026-08-25T01:51:16+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25T00:17:25+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Syria",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 34.8021,
+        "lng": 38.9968
       },
-      "credibility": 90,
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -282,6 +370,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o#0",
+      "title": "Syria court sentences Assad-era grand mufti to life in prison",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24T20:10:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -487,28 +597,6 @@
       }
     },
     {
-      "id": "fe70ca326e181fa7205bbd7ce4a31544",
-      "title": "Dubai Weddings under the Sheikha Hind bint Maktoum Family Programme Has contributed to: 1,411 new Emirati families 418 newborns 2,898 weddings Beneficiary satisfaction rate 99.3% Direct and convenient access to services through the DubaiNow app A key initiative supporting the objectives of the Dubai Social Agenda 33 @CDA_Dubai",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2091919428812435603",
-      "published": "2026-08-24T16:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/08/24/patria-to-join-with-ukraines-general-cherry-to-make-drones-in-finland/",
       "title": "Patria to join with Ukraine\u2019s General Cherry to make drones in Finland",
       "source": "Defense News",
@@ -524,28 +612,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f3193c28a1b41bcdc0f85e6b0d5e7ea8",
-      "title": "Under the directives of Her Highness Sheikha Hind bint Maktoum bin Juma Al Maktoum, the \u2018Dubai Weddings\u2019 initiative continues to expand its role as an integrated support system for families. Offering a range of services to promote family stability, the initiative has contributed to the formation of 1,411 new families and benefited more than 3,500 families through family guidance and awareness programmes.  @CDA_Dubai",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2091888241813401916",
-      "published": "2026-08-24T13:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -634,28 +700,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "914a7aa47501ceee92c06864aff9bc2d",
-      "title": ". The Dubai Electronic Security Centre (DESC) has launched the second edition of the School of Cyber Defence Competition...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DcbDuSbCIu5",
-      "published": "2026-08-24T12:25:46+00:00",
-      "type": "cyber",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
