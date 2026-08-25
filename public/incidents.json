@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-08-25T04:17:00.455385+00:00",
-  "total_incidents": 48,
+  "generated_at": "2026-08-25T06:14:10.886701+00:00",
+  "total_incidents": 44,
   "incidents": [
+    {
+      "id": "adb0f0d8fe7cf5579400f89a1fc0ca23",
+      "title": "#Kuwait_oil price goes down by USD 1.06 to USD 92.65 pb  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2092122683538325580",
+      "published": "2026-08-25T05:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787635025",
+      "title": "Two US carrier groups in Middle East strain navy resources",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
+      "published": "2026-08-25T05:19:24+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787631821",
+      "title": "Syrian president thanks nation for getting off US state terror list",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+      "published": "2026-08-25T04:38:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/aug/25/gulf-between-hezbollah-and-lebanese-state-grows-wider-as-israeli-occupation-continues",
       "title": "Gulf between Hezbollah and Lebanese state grows wider as Israeli occupation continues",
@@ -17,28 +83,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/08/25/gulf-us-europe-cop-climate-decarbonisation-energy-transition/",
-      "title": "Why the Gulf has a strategic advantage in a fragmented decarbonisation world",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/08/25/gulf-us-europe-cop-climate-decarbonisation-energy-transition/",
-      "published": "2026-08-25T04:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -91,28 +135,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/opinion/editorial/2026/08/25/talks-syria-israel-turkey-us-iran-hezbollah-assad-middle-east/",
-      "title": "Syria-Israel talks are a step in the right direction",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/08/25/talks-syria-israel-turkey-us-iran-hezbollah-assad-middle-east/",
-      "published": "2026-08-25T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1787614213",
       "title": "Israel\u2019s Netanyahu claims Iran tried to kill one of his sons",
       "source": "Al Jazeera",
@@ -149,28 +171,6 @@
         "lng": 48.0
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/08/25/live-us-sanctions-on-iran/",
-      "title": "Iran war latest: Oil tanker attacked in Strait of Hormuz off Oman",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/25/live-us-sanctions-on-iran/",
-      "published": "2026-08-25T02:34:22+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -235,50 +235,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787622112",
-      "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
-      "published": "2026-08-25T01:46:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 30,
-        "military": 0,
-        "civilian": 30
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787610310",
-      "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
-      "published": "2026-08-25T00:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
       },
       "credibility": 90,
       "is_government": false,
@@ -480,50 +436,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "51705290ab21f418a5cb59576f1f2073",
-      "title": "International Maritime Organization (IMO) calls for the immediate release of 90 seafarers who were abducted amid the increasing piracy activity in the Gulf of Aden  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2091950420474073500",
-      "published": "2026-08-24T18:07:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "027014b079d8ec8ca0bde203bf3e2693",
-      "title": "The UN launches a mechanism to reduce immediate risks, support more orderly and predictable transit in the Strait of Hormuz and help rebuild the confidence necessary for diplomacy and de-escalation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2091942068960596130",
-      "published": "2026-08-24T17:33:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
