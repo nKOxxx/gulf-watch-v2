@@ -1,14 +1,80 @@
 {
-  "generated_at": "2026-08-25T12:12:53.608041+00:00",
-  "total_incidents": 44,
+  "generated_at": "2026-08-25T14:18:59.349992+00:00",
+  "total_incidents": 59,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1787648744",
-      "title": "Russia mobilisation fears grow amid reports of intimidating tactics",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss",
-      "published": "2026-08-25T11:53:03+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo#0",
+      "title": "Israeli attacks kill five in Gaza, including two children, medics say",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25T14:07:50+00:00",
       "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/comment/2026/08/25/lebanon-israel-hezbollah-turkey-levant-aoun-erdogan/",
+      "title": "Lebanon must get ready as Israel and Turkey battle for influence in the Levant",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/08/25/lebanon-israel-hezbollah-turkey-levant-aoun-erdogan/",
+      "published": "2026-08-25T14:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8f4917ff5e84de35078b2b63a6c057e1",
+      "title": ". The United Arab Emirates has welcomed the decision by the United States to remove the Syrian Arab Republic from the li...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DcdxHeliJ_W",
+      "published": "2026-08-25T13:40:54+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/08/25/ukraines-newest-ballistic-missiles-are-weeks-away-from-combat/",
+      "title": "Ukraine\u2019s newest ballistic missiles are weeks away from combat",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/08/25/ukraines-newest-ballistic-missiles-are-weeks-away-from-combat/",
+      "published": "2026-08-25T13:40:27+00:00",
+      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -25,11 +91,99 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1787595648",
-      "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+      "id": "https://yalibnan.com/?p=183372",
+      "title": "Live Updates: Iran getting ready for U.S.  \u201ceconomic D-Day\u201d sanctions",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/08/25/live-updates-iran-getting-ready-for-u-s-economic-d-day-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=live-updates-iran-getting-ready-for-u-s-economic-d-day-sanctions",
+      "published": "2026-08-25T13:34:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a76d0d59e7a8ef9238f8df30cd1b4a27",
+      "title": ". The UAE Board on Books for Young People (UAEBBY) has announced the closure of registration for the 18th edition of the...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DcdwD00iAgB",
+      "published": "2026-08-25T13:31:39+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=93739",
+      "title": "Hypersonics, rocket startup Ursa Major to go public in $2.3B deal",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/08/hypersonics-rocket-startup-ursa-major-to-go-public-in-2-3b-deal/",
+      "published": "2026-08-25T13:29:29+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787483037",
+      "title": "How Israel\u2019s Netanyahu weaponises religion in his war rhetoric",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
-      "published": "2026-08-25T11:52:40+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
+      "published": "2026-08-25T13:26:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787580642",
+      "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
+      "published": "2026-08-25T13:25:21+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -40,6 +194,358 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787664131",
+      "title": "Gaza child breaks down in tears after an Israeli threat over kites",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-child-breaks-down-in-tears-after-an-israeli-threat-over-kites?traffic_source=rss",
+      "published": "2026-08-25T13:23:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=93733",
+      "title": "UK provides Ukraine classified long-range SCALP missile blueprints",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/08/uk-provides-ukraine-classified-long-range-scalp-missile-blueprints/",
+      "published": "2026-08-25T13:20:41+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/08/25/oil-slides-over-3-to-hit-one-week-low-as-us-unveils-tough-sanctions-on-iran/",
+      "title": "Oil slides over 3% to hit one-week low as US unveils tough sanctions on Iran",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/08/25/oil-slides-over-3-to-hit-one-week-low-as-us-unveils-tough-sanctions-on-iran/",
+      "published": "2026-08-25T13:19:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "619a801f90f4130e6bca32118ccd33b9",
+      "title": "#Kuwait welcomes #US removal of #Syria from the list of state sponsors of terrorism, commending the decision as a significant step towards the recovery, reconstruction & development of Syria.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2092239074484424845",
+      "published": "2026-08-25T13:14:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787652975",
+      "title": "Two killed, refinery on fire in Russia\u2019s Krasnodar after drone attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss",
+      "published": "2026-08-25T13:10:24+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fda9aa8ba07dcf747eb4209b3d82c563",
+      "title": "#Kuwait Army Chief of Staff discusses with several military attaches issues of mutual interest, military cooperation & ways to enhance & develop it in support of military relations between Kuwait & other countries.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2092238113661767945",
+      "published": "2026-08-25T13:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/08/25/syria-israel-golan/",
+      "title": "Syria's secret talks with Israel revealed as US drops terror designation",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/25/syria-israel-golan/",
+      "published": "2026-08-25T13:05:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/08/25/petrol-queues-deepen-across-iran-as-fuel-shortages-hit-tehran/",
+      "title": "Petrol queues deepen across Iran as fuel shortages hit Tehran",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/25/petrol-queues-deepen-across-iran-as-fuel-shortages-hit-tehran/",
+      "published": "2026-08-25T13:04:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787656489",
+      "title": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss",
+      "published": "2026-08-25T12:59:32+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo#0",
+      "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25T12:37:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787660794",
+      "title": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
+      "published": "2026-08-25T12:30:45+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5f2929b12b238136ddf8abffcd92cce6",
+      "title": "Dubai\u2019s Roads and Transport Authority (RTA) completes numerous traffic improvements at 6 school-zone locations during summer season, benefiting more than 10 schools across Dubai.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2092226790500757690",
+      "published": "2026-08-25T12:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "65ad7ba9f646ac9a980a791d95345426",
+      "title": "Secretary General of the Gulf Cooperation Council (#GCC) welcomes the #US' decision to rescind the designation of Syria from the list of State Sponsors of Terrorism  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2092226861128454237",
+      "published": "2026-08-25T12:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "89001c0942394b2e58ba0b2b0e069fd2",
+      "title": "#SaudiArabia welcomes the #US' decision to remove #Syria from the list of state sponsors of terrorism, expressing its congratulations to the government and people of Syria on this step, wishing them continued security, stability, and prosperity  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2092226519049408625",
+      "published": "2026-08-25T12:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e4568cdc24022f7cd0ed29bbb8f9e8a0",
+      "title": "Arab League launches an analytical study on current threats to family foundations in the Arab region and ways to address them nationally and regionally, with participation from #Kuwait  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2092219259820605578",
+      "published": "2026-08-25T11:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "276a58ddc792c5fcc72e673a7ce394df",
+      "title": "His Highness the Prime Minister of #Kuwait, accompanied by Kuwaiti ministers, inspects the new Kuwait International Airport Terminal 2 (T2) project  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2092218680180400460",
+      "published": "2026-08-25T11:52:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -91,94 +597,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1787657227",
-      "title": "How the US sanctions on Iran impact China",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
-      "published": "2026-08-25T11:30:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/08/25/pakistan-and-oman-step-up-diplomacy-with-tehran-amid-mounting-us-iran-tension/",
-      "title": "Pakistan and Oman step up diplomacy with Tehran amid mounting US-Iran tension",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/08/25/pakistan-and-oman-step-up-diplomacy-with-tehran-amid-mounting-us-iran-tension/",
-      "published": "2026-08-25T10:46:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787636383",
-      "title": "Can Pakistan\u2019s Asim Munir convince Iran military chiefs to return to talks?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
-      "published": "2026-08-25T10:22:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/08/25/uaes-gargash-says-iran-attacks-on-gulf-states-deepened-its-predicament/",
-      "title": "UAE's Gargash says attacks on Gulf states \u2018deepened\u2019 Iran's predicament",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/08/25/uaes-gargash-says-iran-attacks-on-gulf-states-deepened-its-predicament/",
-      "published": "2026-08-25T09:55:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "70ae71372c5f4eb3a85dd49b7984eca6",
       "title": "#Kuwait's Minister of Foreign Affairs meets with #SouthKorea's National Security Advisor, reviewing the latest regional developments and efforts aimed at reducing tensions in the region  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -201,28 +619,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/08/25/irans-ambassador-to-lebanon-granted-six-month-visa-despite-being-declared-persona-non-grata/",
-      "title": "Iran's ambassador to Lebanon granted six-month visa despite being declared persona non grata",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/25/irans-ambassador-to-lebanon-granted-six-month-visa-despite-being-declared-persona-non-grata/",
-      "published": "2026-08-25T09:38:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/08/25/dutch-navy-to-equip-fleet-with-destinus-c-uas-interceptor-drones/",
       "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
       "source": "Defense News",
@@ -237,28 +633,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/markets/2026/08/25/manus-on-markets-us-sanctions-could-they-shake-the-global-financial-system/",
-      "title": "Manus on Markets: Could US sanctions against Iran shake the global financial system?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/markets/2026/08/25/manus-on-markets-us-sanctions-could-they-shake-the-global-financial-system/",
-      "published": "2026-08-25T08:48:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -301,28 +675,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "adb0f0d8fe7cf5579400f89a1fc0ca23",
-      "title": "#Kuwait_oil price goes down by USD 1.06 to USD 92.65 pb  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2092122683538325580",
-      "published": "2026-08-25T05:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -895,28 +1247,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=183323",
-      "title": "Middle East war live: Iran\u2019s president admits country facing \u2018many problems\u2019 as US sanctions loom",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/08/23/middle-east-war-live-irans-president-admits-country-facing-many-problems-as-us-sanctions-loom/?utm_source=rss&utm_medium=rss&utm_campaign=middle-east-war-live-irans-president-admits-country-facing-many-problems-as-us-sanctions-loom",
-      "published": "2026-08-23T12:52:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 80,
       "is_government": false,
