@@ -1,17 +1,83 @@
 {
-  "generated_at": "2026-08-28T06:39:37.525387+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-08-28T11:58:32.023605+00:00",
+  "total_incidents": 55,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/08/28/rifts-widen-in-iran-houthis-expand-smuggling-network-to-africa-and-the-uae-pledges-nepal-flood-aid/",
-      "title": "Rifts widen in Iran, Houthis expand smuggling network to Africa and the UAE pledges Nepal flood aid",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/08/28/rifts-widen-in-iran-houthis-expand-smuggling-network-to-africa-and-the-uae-pledges-nepal-flood-aid/",
-      "published": "2026-08-28T06:13:27+00:00",
+      "id": "https://www.defensenews.com/global/europe/2026/08/28/russia-is-running-out-of-cash-due-to-its-war-in-ukraine-report/",
+      "title": "Russia is running out of cash due to its war in Ukraine: report",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/08/28/russia-is-running-out-of-cash-due-to-its-war-in-ukraine-report/",
+      "published": "2026-08-28T11:44:36+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "UAE",
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787910857",
+      "title": "PA activists face \u2018terror\u2019 charges over Trump golf resort protest: Report",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/28/pa-activists-face-terror-charges-over-trump-golf-resort-protest-report?traffic_source=rss",
+      "published": "2026-08-28T11:25:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/08/28/iraq-arrests-four-over-killing-of-policemen-in-baghdad-clashes/",
+      "title": "Iraq arrests four over killing of policemen in Baghdad clashes",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/28/iraq-arrests-four-over-killing-of-policemen-in-baghdad-clashes/",
+      "published": "2026-08-28T11:21:09+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.3152,
+        "lng": 44.3661
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/08/28/return-to-diplomacy-not-impossible-says-araghchi-as-iran-war-hits-six-month-mark/",
+      "title": "Return to diplomacy 'not impossible', says Araghchi as Iran war hits six-month mark",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/08/28/return-to-diplomacy-not-impossible-says-araghchi-as-iran-war-hits-six-month-mark/",
+      "published": "2026-08-28T11:16:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -25,11 +91,55 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1787890364",
-      "title": "Death toll from Nepal-Tibet flood passes 470 as barrier lake threatens",
+      "id": "40d6baeb51e1d65d2c7631de056dfbc3",
+      "title": "World Health Organization Chief: The organization supported the medical evacuation of 106 patients from #Gaza including 19 children along with 132 companions through the Rafah & Kerem Shalom crossings.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2093280765324771684",
+      "published": "2026-08-28T10:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/mideast-africa/2026/08/28/in-southern-lebanon-fighting-hezbollah-in-the-hills-becomes-a-strategic-conundrum/",
+      "title": "In southern Lebanon, fighting Hezbollah in the hills becomes a strategic conundrum",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/08/28/in-southern-lebanon-fighting-hezbollah-in-the-hills-becomes-a-strategic-conundrum/",
+      "published": "2026-08-28T09:50:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787904578",
+      "title": "Nepal and China halt rescue efforts as border barrier lake overflows",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/28/death-toll-from-nepal-tibet-flood-passes-470-as-barrier-lake-threatens?traffic_source=rss",
-      "published": "2026-08-28T06:08:12+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/8/28/nepal-and-china-halt-rescue-efforts-as-border-barrier-lake-overflows?traffic_source=rss",
+      "published": "2026-08-28T09:30:45+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -40,6 +150,116 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787907017",
+      "title": "Children take cover behind shopping cart during Israeli drone fire",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/children-take-cover-behind-shopping-cart-during-israeli-drone-fire?traffic_source=rss",
+      "published": "2026-08-28T09:01:51+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "881aec08b66e0d79322204ddc64c1bb0",
+      "title": "#Qatari Women .. Journey of Empowerment, Driving Transformation in Education, Research & Leadership (Report)  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2093249712119742695",
+      "published": "2026-08-28T08:09:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1787894948",
+      "title": "Nearly 470 killed in Nepal floods: What we know about rescue efforts",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/28/nearly-470-killed-in-nepal-floods-what-we-know-about-rescue-efforts?traffic_source=rss",
+      "published": "2026-08-28T07:51:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 470,
+        "military": 0,
+        "civilian": 470
+      }
+    },
+    {
+      "id": "81b06901e22ebc307c547f3cb9a57efd",
+      "title": "Statement by HE the chairman of the National Emergency, Crisis and Disaster Management Authority #NCEMA on the Emirati Women\u2019s Day.",
+      "source": "UAE NCEMA (RSS.app)",
+      "source_url": "https://x.com/NCEMAUAE/status/2093234258668347830",
+      "published": "2026-08-28T07:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "31bbec1fcdca0cd781088f86a652d97f",
+      "title": "KPC: #Kuwait oil price up by USD 2.80 to reach USD 84.56 pb @kpcofficialkw  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2093233133902500132",
+      "published": "2026-08-28T07:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -59,116 +279,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787833447",
-      "title": "Six months of war between Iran, US leave Arab states facing tough questions",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss",
-      "published": "2026-08-28T05:37:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/08/28/syrian-president-ahmad-al-shara-appoints-former-sdf-commander-mazloum-abdi-as-adviser/",
-      "title": "Syrian President Ahmad Al Shara appoints former SDF commander Mazloum Abdi as adviser",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/08/28/syrian-president-ahmad-al-shara-appoints-former-sdf-commander-mazloum-abdi-as-adviser/",
-      "published": "2026-08-28T04:41:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.3463,
-        "lng": 55.4209
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787889789",
-      "title": "Nepal\u2019s mudslide wiped out areas of eastern China, army helps search",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss",
-      "published": "2026-08-28T04:20:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/08/28/how-gulf-remittances-help-cushion-the-impact-of-sudden-income-losses/",
-      "title": "How Gulf remittances help cushion the impact of sudden income losses",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/08/28/how-gulf-remittances-help-cushion-the-impact-of-sudden-income-losses/",
-      "published": "2026-08-28T04:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1787876826",
-      "title": "US nears deal to secure stake in Venezuelan oil fields, insiders say",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/8/28/us-nears-deal-to-secure-stake-in-venezuelan-oil-fields-insiders-say?traffic_source=rss",
-      "published": "2026-08-28T02:32:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -311,28 +421,6 @@
       }
     },
     {
-      "id": "d3a81d6d2ba13e446e20e7454ee2f42d",
-      "title": "#US_Treasury_Secretary accuses Iranian regime of corruption  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2093072779524346282",
-      "published": "2026-08-27T20:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=93990",
       "title": "How the Army benefits from diverse interceptors, plus a window into modernization",
       "source": "Breaking Defense",
@@ -355,28 +443,6 @@
       }
     },
     {
-      "id": "516d1b11ae0a621ab0fefed6db3897d2",
-      "title": "#Kuwait's Minister of Defense discusses with #Pakistan's Chief of Army Staff and Chief of Defense Staff the relations between both countries, as well as seeking ways to develop cooperation to support cooperation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2093032979811471566",
-      "published": "2026-08-27T17:48:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "75bcb53778d3951d546eb29180e1cf9d",
       "title": "The UAE-Lebanon Business Forum, held at the Seaside Arena in Beirut, has brought together government officials and priva...",
       "source": "WAM News (RSS.app)",
@@ -389,72 +455,6 @@
         "city": null,
         "lat": 33.8938,
         "lng": 35.5018
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "59c6d3a1657a045afd7df17ce27c3ea9",
-      "title": ". Dr. Thani bin Ahmed Al Zeyoudi, Minister of Foreign Trade, has concluded a visit to the Republic of Lebanon, where he ...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DcjRoOpiKjq",
-      "published": "2026-08-27T17:01:11+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c99a279f19abde73262352cdd327882b",
-      "title": "Emirati Women\u2019s Forum 2026 celebrates inspiring stories of Emirati women entrepreneurs, highlighting promising national projects led by female members of the \u2018Proudly from Dubai\u2019 network supported by Brand Dubai, the creative arm of the Government of Dubai Media Office. The move reflects the growing presence of Emirati women in entrepreneurship and their active role as partners in advancing sustainable economic development.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2093019250856456525",
-      "published": "2026-08-27T16:54:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "691bac425ead29b06b2bb10bc00db085",
-      "title": "Sheikha Lubna bint Khalid Al Qasimi participates in a plenary session at the second edition of the Emirati Women\u2019s Forum, organised by Dubai Women Establishment today at Madinat Jumeirah in Dubai to mark Emirati Women\u2019s Day. During the session, she highlights key milestones from her government and diplomatic career.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2093017653439000624",
-      "published": "2026-08-27T16:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -883,28 +883,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/your-army/2026/08/26/us-army-seeks-8000-new-short-range-missiles-per-year/",
-      "title": "US Army seeks 8,000 new short-range missiles per year",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-army/2026/08/26/us-army-seeks-8000-new-short-range-missiles-per-year/",
-      "published": "2026-08-26T18:51:30+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=93848",
       "title": "Air Force awards $766 million for B-52 radar modernization",
       "source": "Breaking Defense",
@@ -919,28 +897,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/08/26/italy-to-request-eu-defense-loan-after-all-but-scales-back-amount/",
-      "title": "Italy to request EU defense loan after all, but scales back amount",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/08/26/italy-to-request-eu-defense-loan-after-all-but-scales-back-amount/",
-      "published": "2026-08-26T16:59:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1240,28 +1196,6 @@
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-25T12:37:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyl8965j5go#1",
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-25T11:53:36+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
