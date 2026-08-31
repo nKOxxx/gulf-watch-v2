@@ -978,6 +978,23 @@
         }
         
         // Format time ago
+        // Escape untrusted feed text before inserting into innerHTML.
+        function escapeHtml(value) {
+            if (value === null || value === undefined) return '';
+            return String(value)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;');
+        }
+
+        // Only allow http(s) links from feed data; drop javascript:, data:, etc.
+        function safeUrl(value) {
+            const url = String(value || '').trim();
+            return /^https?:\/\//i.test(url) ? escapeHtml(url) : '#';
+        }
+
         function timeAgo(dateString) {
             // Handle various timestamp formats
             let utcString = dateString;
@@ -1174,10 +1191,10 @@
             }
             
             intelContainer.innerHTML = intelIncidents.map(inc => {
-                const alertType = inc.type.replace('_', ' ').toUpperCase();
-                const location = inc.location.country;
+                const alertType = escapeHtml(inc.type.replace('_', ' ').toUpperCase());
+                const location = escapeHtml(inc.location.country);
                 return `
-                    <a href="${inc.source_url}" target="_blank" class="military-item" style="text-decoration: none; color: inherit; display: block;">
+                    <a href="${safeUrl(inc.source_url)}" target="_blank" rel="noopener noreferrer" class="military-item" style="text-decoration: none; color: inherit; display: block;">
                         <div class="time">${timeAgo(inc.published)}</div>
                         <div class="alert">${alertType}: ${location}</div>
                     </a>
@@ -1331,15 +1348,15 @@ Reason for report:
 This report was submitted via Gulf Watch v2`);
                     card.innerHTML = `
                         <div class="incident-header">
-                            <span class="incident-type type-${incident.type}">${incident.type.replace('_', ' ')}</span>
-                            <span class="incident-status status-${incident.status}">${incident.status}</span>
+                            <span class="incident-type type-${escapeHtml(incident.type)}">${escapeHtml(incident.type.replace('_', ' '))}</span>
+                            <span class="incident-status status-${escapeHtml(incident.status)}">${escapeHtml(incident.status)}</span>
                             ${govBadge}
                         </div>
-                        <a href="${incident.source_url}" target="_blank" class="incident-title" onclick="event.stopPropagation();">${incident.title}</a>
+                        <a href="${safeUrl(incident.source_url)}" target="_blank" rel="noopener noreferrer" class="incident-title" onclick="event.stopPropagation();">${escapeHtml(incident.title)}</a>
                         <div class="incident-meta">
-                            <span>📍 ${incident.location.name}, ${incident.location.country}</span>
+                            <span>📍 ${escapeHtml(incident.location.name)}, ${escapeHtml(incident.location.country)}</span>
                             <span>•</span>
-                            <span>${incident.source}</span>
+                            <span>${escapeHtml(incident.source)}</span>
                             <span>•</span>
                             <span>${timeAgo(incident.published)}</span>
                         </div>
