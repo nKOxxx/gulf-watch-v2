@@ -1,14 +1,36 @@
 {
-  "generated_at": "2026-09-01T20:15:54.413842+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-09-01T22:13:41.464551+00:00",
+  "total_incidents": 72,
   "incidents": [
     {
+      "id": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
+      "title": "US launches new airstrikes on Iranian targets as hostilities flare",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
+      "published": "2026-09-01T21:49:45+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#0",
-      "title": "US launches more strikes on Iran as state media reports explosions",
+      "title": "US strikes Iran as state media reports four killed at wedding party",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-01T19:50:05+00:00",
-      "type": "explosion",
+      "published": "2026-09-01T21:48:28+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Saudi Arabia",
@@ -17,6 +39,292 @@
         "lng": 39.5692
       },
       "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8d5690f2da95a8ab9627ee3c47881185",
+      "title": "Jordanian air defenses intercept 13 Iranian ballistic missiles.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2094904955912048915",
+      "published": "2026-09-01T21:47:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/09/01/us-and-iran-trade-strikes-as-war-heats-up/",
+      "title": "US and Iran trade strikes as war heats up",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/09/01/us-and-iran-trade-strikes-as-war-heats-up/",
+      "published": "2026-09-01T21:28:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788294412",
+      "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
+      "published": "2026-09-01T21:28:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788296196",
+      "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
+      "published": "2026-09-01T21:03:45+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788296311",
+      "title": "Deadly car bomb attack at Colombia police station",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
+      "published": "2026-09-01T21:01:10+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788296285",
+      "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+      "published": "2026-09-01T20:59:43+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=94392",
+      "title": "How the new stopgap funding bill affects the Defense Department",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/09/how-the-new-stopgap-funding-bill-affects-the-defense-department/",
+      "published": "2026-09-01T20:58:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788288715",
+      "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
+      "published": "2026-09-01T20:40:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788294891",
+      "title": "Iranian state media announces numerous US strikes on the country",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
+      "published": "2026-09-01T20:38:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "806b7d16c0210ab18e0f8bbd253e924c",
+      "title": "#Trump warns Iran against retaliation, dismisses future accords as \"worthless\"  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2094887711530205274",
+      "published": "2026-09-01T20:38:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788291164",
+      "title": "What\u2019s driven the defence deal between Israel and Greece?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
+      "published": "2026-09-01T20:35:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#0",
+      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01T20:24:28+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=183587",
+      "title": "US launches new barrage of strikes on Iran around Strait of Hormuz",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/09/01/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz",
+      "published": "2026-09-01T19:50:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -39,28 +347,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788271382",
-      "title": "Israel\u2019s multiple wars see finance, defence ministries clash over spending",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss",
-      "published": "2026-09-01T19:33:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -245,28 +531,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1788285806",
-      "title": "Belgian mayor blocks club from hosting Israeli opponent in Europa League",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/9/1/belgian-mayor-blocks-club-from-hosting-israeli-opponent-in-europa-league?traffic_source=rss",
-      "published": "2026-09-01T18:35:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "671cb1adf8ae2774d16c85f1f21af475",
       "title": "#CENTCOM: US army begins striking IRGC targets in Iran.  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -282,50 +546,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788271670",
-      "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
-      "published": "2026-09-01T18:22:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788286510",
-      "title": "Nepal rescuers race to reach 900 missing hydropower workers",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-rescuers-race-to-reach-900-missing-hydropower-workers?traffic_source=rss",
-      "published": "2026-09-01T18:18:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -361,28 +581,6 @@
       "source_url": "https://www.defensenews.com/news/your-military/2026/09/01/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz/",
       "published": "2026-09-01T18:13:45+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
-      "title": "US launches new airstrikes on Iranian targets as hostilities flare",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
-      "published": "2026-09-01T18:03:05+00:00",
-      "type": "airstrike",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
@@ -619,28 +817,6 @@
       }
     },
     {
-      "id": "f15d97a5a6c6c2c9d7cb8af2f6a71127",
-      "title": "#Turkiye's President: The Makkah Joint Defense Agreement between Turkiye, #SaudiArabia & #Pakistan will make a vital contribution to peace & stability in the region & worldwide.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2094804293513580777",
-      "published": "2026-09-01T15:07:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/09/01/us-tech-found-in-russian-ballistic-missiles/",
       "title": "US tech found in Russian ballistic missiles",
       "source": "Defense News",
@@ -655,6 +831,28 @@
         "lng": 48.0
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=183583",
+      "title": "The secret history of Trump\u2019s Venezuelan oil baron",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/09/01/the-secret-history-of-trumps-venezuelan-oil-baron/?utm_source=rss&utm_medium=rss&utm_campaign=the-secret-history-of-trumps-venezuelan-oil-baron",
+      "published": "2026-09-01T13:43:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -699,50 +897,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#0",
-      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-01T12:58:44+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=94197",
-      "title": "Lessons learned that bring factory speed, adaptability and scalability to air-and-missile defense",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/09/lessons-learned-that-bring-factory-speed-adaptability-and-scalability-to-air-and-missile-defense/",
-      "published": "2026-09-01T12:27:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -875,6 +1029,72 @@
         "lng": 48.0
       },
       "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=183575",
+      "title": "The Iran war isn\u2019t ending soon . US deployments expected to last into 2027, report",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/09/01/the-iran-war-isnt-ending-soon-us-deployments-expected-to-last-into-2027-report/?utm_source=rss&utm_medium=rss&utm_campaign=the-iran-war-isnt-ending-soon-us-deployments-expected-to-last-into-2027-report",
+      "published": "2026-09-01T01:48:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=183571",
+      "title": "Live Updates: Trump vows to hit Iran hard after U.S., Tehran exchange strikes for the first time in weeks",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/09/01/live-updates-trump-vows-to-hit-iran-hard-after-u-s-tehran-exchange-strikes-for-the-first-time-in-weeks/?utm_source=rss&utm_medium=rss&utm_campaign=live-updates-trump-vows-to-hit-iran-hard-after-u-s-tehran-exchange-strikes-for-the-first-time-in-weeks",
+      "published": "2026-09-01T01:32:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=183565",
+      "title": "North Carolina girl, 17, charged in role in California mosque attack",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/09/01/north-carolina-girl-17-charged-in-role-in-california-mosque-attack/?utm_source=rss&utm_medium=rss&utm_campaign=north-carolina-girl-17-charged-in-role-in-california-mosque-attack",
+      "published": "2026-08-31T23:17:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1294,6 +1514,50 @@
       },
       "credibility": 100,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=183556",
+      "title": "US forces strike 2 Iranian launchers on Larak island as they were preparing to launch rockets with sea mines",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/08/31/us-forces-strike-2-iranian-launchers-on-larak-island-as-they-were-preparing-to-launch-rockets-with-sea-mines/?utm_source=rss&utm_medium=rss&utm_campaign=us-forces-strike-2-iranian-launchers-on-larak-island-as-they-were-preparing-to-launch-rockets-with-sea-mines",
+      "published": "2026-08-31T01:29:01+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=183552",
+      "title": "Palestinian woman and 3 NBC journalists attacked by Israeli settlers in occupied West Bank",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/08/31/palestinian-woman-and-nbc-news-team-attacked-by-masked-israeli-settlers-in-west-bank/?utm_source=rss&utm_medium=rss&utm_campaign=palestinian-woman-and-nbc-news-team-attacked-by-masked-israeli-settlers-in-west-bank",
+      "published": "2026-08-31T01:08:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 80,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
