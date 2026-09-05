@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-09-05T12:20:50.726216+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-09-05T14:13:14.076262+00:00",
+  "total_incidents": 59,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
+      "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
+      "published": "2026-09-05T13:47:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 60,
+        "military": 0,
+        "civilian": 60
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788613576",
+      "title": "\u2018Stop the boats\u2019 masked protesters block England\u2019s Port of Dover",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss",
+      "published": "2026-09-05T13:09:24+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788608778",
+      "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
+      "published": "2026-09-05T13:07:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788608824",
+      "title": "At least four civilians killed in Houthi missile strike near Yemen\u2019s Taiz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
+      "published": "2026-09-05T12:54:15+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788604660",
+      "title": "Yemen government launches own air attacks on Houthis: What that means",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/5/yemen-government-launches-own-air-attacks-on-houthis-what-that-means?traffic_source=rss",
+      "published": "2026-09-05T12:43:38+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/05/israel-widens-lebanon-strikes-after-announcing-control-of-strategic-ali-al-taher-ridge/",
+      "title": "Israel widens Lebanon strikes after announcing control of strategic Ali Al Taher ridge",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/05/israel-widens-lebanon-strikes-after-announcing-control-of-strategic-ali-al-taher-ridge/",
+      "published": "2026-09-05T12:35:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/05/new-evidence-points-to-chemical-weapons-use-by-sudans-army/",
+      "title": "Bomb tests and dead scorpions: New evidence exposes Al Burhan forces\u2019 chemical programme in Sudan",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/05/new-evidence-points-to-chemical-weapons-use-by-sudans-army/",
+      "published": "2026-09-05T12:19:16+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/09/05/explosions-near-irans-kharg-island-raise-fears-of-escalation-in-us-war-on-iran/",
       "title": "Explosions near Iran's Kharg Island raise fears of escalation in US war on Iran",
@@ -17,6 +171,50 @@
         "lng": 53.688
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788610055",
+      "title": "Costa Rica\u2019s president says US ground forces would boost national security",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/costa-ricas-president-says-us-ground-forces-would-boost-national-security?traffic_source=rss",
+      "published": "2026-09-05T12:09:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788606531",
+      "title": "Israel must protect West Bank\u2019s Palestinians amid settler pogroms: US envoy",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
+      "published": "2026-09-05T12:04:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -69,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1788601358",
-      "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
-      "published": "2026-09-05T10:27:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 5,
-        "military": 0,
-        "civilian": 5
-      }
-    },
-    {
       "id": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
       "title": "Gaza refugee says sister-in-law \u2018would be alive\u2019 if Home Office had let her come to UK",
       "source": "The Guardian",
@@ -103,50 +279,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788594727",
-      "title": "Why is Trump threatening to strike Iran\u2019s Pickaxe Mountain again, now?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
-      "published": "2026-09-05T09:56:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788601673",
-      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
-      "published": "2026-09-05T09:52:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -172,50 +304,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788595355",
-      "title": "Oil and politics: What Trump\u2019s \u2018historic\u2019 deal means for Venezuela",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
-      "published": "2026-09-05T09:11:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788597721",
-      "title": "Orangutan mother and infant rescued from wildfire-hit forest in Indonesia",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/orangutan-mother-and-infant-rescued-from-wildfire-hit-forest-in-indonesia?traffic_source=rss",
-      "published": "2026-09-05T08:44:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -289,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/economy/2026/09/05/fitch-maintains-qatars-credit-rating-and-expects-lng-exports-to-reach-pre-war-levels-next-year/",
-      "title": "Fitch maintains Qatar\u2019s credit rating and expects LNG exports to reach pre-war levels next year",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/09/05/fitch-maintains-qatars-credit-rating-and-expects-lng-exports-to-reach-pre-war-levels-next-year/",
-      "published": "2026-09-05T07:34:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "64ab7e1f29b6016123fb1645652e5623",
       "title": "#Kuwait reaffirms its humanitarian message, shaped by decades of standing alongside people in times of hardship and crisis, on the International Day of Charity. (report)  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -326,28 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/09/05/uae-response-team-begins-search-and-rescue-efforts-in-flood-stricken-nepal-as-aid-drive-continues/",
-      "title": "UAE response team begins search and rescue efforts in flood-stricken Nepal as aid drive continues",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/09/05/uae-response-team-begins-search-and-rescue-efforts-in-flood-stricken-nepal-as-aid-drive-continues/",
-      "published": "2026-09-05T05:30:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1137,28 +1181,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-      "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to \u2018desperate steps\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-      "published": "2026-09-03T14:16:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
       },
       "credibility": 90,
       "is_government": false,
