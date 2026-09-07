@@ -1,23 +1,265 @@
 {
-  "generated_at": "2026-09-07T08:25:13.916880+00:00",
+  "generated_at": "2026-09-07T10:17:25.422100+00:00",
   "total_incidents": 48,
   "incidents": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo#0",
-      "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
+      "title": "Israeli strikes in southern Lebanese village kill nine",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-07T07:25:06+00:00",
+      "published": "2026-09-07T10:16:56+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Saudi Arabia",
+        "country": "Israel",
         "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 95,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7b58b63e068ca5dced2d5e8a5e41bf83",
+      "title": "#UN High Commissioner for Human Rights calls on Iran & #US to immediately return to the negotiating table, warning of the geopolitical & economic repercussions of the ongoing war across the Gulf region.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2096903150548496702",
+      "published": "2026-09-07T10:07:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/09/07/dubai-airport-click-travel-service-passport-immigartion/",
+      "title": "Dubai unveils 'click and travel' service to fast-track airport passport checks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/09/07/dubai-airport-click-travel-service-passport-immigartion/",
+      "published": "2026-09-07T09:57:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "15e7d458bcb247449d46c1cc8ab09dd0",
+      "title": "Speaking at the 15th AIM Congress 2026 in #Dubai, #GCC Chief affirms that GCC states have become an integrated economic & investment bloc supported by strong financial foundations, stable economies & clear development visions.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2096899952303616130",
+      "published": "2026-09-07T09:54:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/09/07/somali-al-shabab-fighters-found-dead-among-houthi-casualties-yemeni-forces-say/",
+      "title": "Somali Al Shabab fighters found dead among Houthi casualties, Yemeni forces say",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/09/07/somali-al-shabab-fighters-found-dead-among-houthi-casualties-yemeni-forces-say/",
+      "published": "2026-09-07T09:53:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/09/07/iran-threatens-to-impose-restricted-zone-outside-strait-of-hormuz/",
+      "title": "Iran says it will act against vessels beyond Strait of Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/09/07/iran-threatens-to-impose-restricted-zone-outside-strait-of-hormuz/",
+      "published": "2026-09-07T09:45:14+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788774148",
+      "title": "Video: Israeli air strikes kill at least 10 in southern Lebanon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss",
+      "published": "2026-09-07T09:44:27+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788688841",
+      "title": "Iran war: How US consumers spent an additional $100bn on fuel",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/7/iran-war-how-us-consumers-spent-an-additional-100bn-on-fuel?traffic_source=rss",
+      "published": "2026-09-07T09:30:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f657c40f3714ee509ad886504b344154",
+      "title": "#Bahrain continues efforts to strengthen its position as a leading regional & global destination for advanced & innovative healthcare. (FANA report)  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2096892820225200271",
+      "published": "2026-09-07T09:26:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788766994",
+      "title": "Nepal holds day of mourning for more than 1,300 killed in floods",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/7/nepal-holds-day-of-mourning-for-more-than-1300-killed-in-floods?traffic_source=rss",
+      "published": "2026-09-07T09:14:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 300,
+        "military": 0,
+        "civilian": 300
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788769007",
+      "title": "Israeli forces kill Palestinian suspect after settler stabbed in West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/7/israeli-wounded-in-stabbing-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-09-07T08:31:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fb3a553487f049fe3ddfd2fdca6ef3bd",
+      "title": "MDA EMTs and paramedics, along with an IDF medical team, treated a male in his 20s with moderate to serious stab wounds, following a terror attack at Maoz Yehuda Farm in the Yarkon Region. Evacuated to Beilinson Hospital.",
+      "source": "Magen David Adom (RSS.app)",
+      "source_url": "https://x.com/Mdais/status/2096878460643819525",
+      "published": "2026-09-07T08:29:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -70,7 +312,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1788762033",
-      "title": "Israeli air attack kills at least 10 people in southern Lebanon",
+      "title": "Israeli air attacks kill at least 11 people in southern Lebanon",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
       "published": "2026-09-07T06:58:28+00:00",
@@ -83,94 +325,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/09/07/petrol-prices-to-double-under-irans-war-economy/",
-      "title": "Petrol prices to double under Iran's war economy",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/09/07/petrol-prices-to-double-under-irans-war-economy/",
-      "published": "2026-09-07T06:39:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/09/07/israel-gaza-and-the-board-of-peace-the-national-live-with-nickolay-mladenov/",
-      "title": "Israel, Gaza and the Board of Peace - The National live with Nickolay Mladenov",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/09/07/israel-gaza-and-the-board-of-peace-the-national-live-with-nickolay-mladenov/",
-      "published": "2026-09-07T06:29:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/09/07/beyond-50-years-ai-and-energy-investment-at-heart-of-uae-germany-economic-ties/",
-      "title": "Beyond 50 years: AI and energy investment at heart of UAE-Germany economic ties",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/09/07/beyond-50-years-ai-and-energy-investment-at-heart-of-uae-germany-economic-ties/",
-      "published": "2026-09-07T06:06:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/07/iran-plans-new-hormuz-zone-deadly-israeli-strikes-on-lebanon-and-sudan-chemical-weapons-dossier/",
-      "title": "Iran plans new Hormuz zone, deadly Israeli strikes on Lebanon, and Sudan chemical weapons dossier",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/07/iran-plans-new-hormuz-zone-deadly-israeli-strikes-on-lebanon-and-sudan-chemical-weapons-dossier/",
-      "published": "2026-09-07T06:00:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -245,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1788744193",
-      "title": "Armed assailant attacks Ohio Democratic candidate during campaign stop",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/7/armed-assailant-attacks-ohio-democratic-candidate-during-campaign-stop?traffic_source=rss",
-      "published": "2026-09-07T04:53:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/sep/07/un-francesca-albanese-miliband-israel-palestine-settlements-trade",
       "title": "UN expert Francesca Albanese calls for \u2018true paradigm shift\u2019 as Miliband resets policy on Israel",
       "source": "The Guardian",
@@ -279,50 +411,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788748270",
-      "title": "Iran to announce restricted zone outside Strait of Hormuz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-      "published": "2026-09-07T02:41:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788747194",
-      "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
-      "published": "2026-09-07T02:17:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
@@ -348,50 +436,6 @@
       },
       "credibility": 80,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e7e1d34c21dd0d8a883908bcc019ff7e",
-      "title": "Israeli occupation kills two Palestinians & wounds several others in Gaza  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2096744815241097624",
-      "published": "2026-09-06T23:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "701022835043d406e61caf7f3156e2c3",
-      "title": "Saudi official says 'Security & History Dialogue' forms main pillar for Kingdom's stability  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2096718964462112951",
-      "published": "2026-09-06T21:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -598,14 +642,14 @@
     },
     {
       "id": "24192382ff179a5f6318dd749daa46b7",
-      "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (35) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi MOI (RSS.app)",
+      "title": "RT by @SaudiDCD: RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (35) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
+      "source": "Saudi Civil Defense (RSS.app)",
       "source_url": "https://x.com/MOISaudiArabia/status/2096538900479058246",
       "published": "2026-09-06T10:00:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
-        "country": null,
+        "country": "Saudi Arabia",
         "city": null,
         "lat": 29.0,
         "lng": 48.0
@@ -620,14 +664,14 @@
     },
     {
       "id": "24192382ff179a5f6318dd749daa46b7",
-      "title": "RT by @SaudiDCD: RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (35) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi Civil Defense (RSS.app)",
+      "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (35) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
+      "source": "Saudi MOI (RSS.app)",
       "source_url": "https://x.com/MOISaudiArabia/status/2096538900479058246",
       "published": "2026-09-06T10:00:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
-        "country": "Saudi Arabia",
+        "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
@@ -1008,50 +1052,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "538fc56994276b3be47fa0b8d34a92a0",
-      "title": "\u0627\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0644\u0648\u0627\u0621 \u0627\u0644\u0631\u0643\u0646 \u0631\u0627\u0634\u062f \u0645\u062d\u0645\u062f \u0627\u0644\u0634\u0627\u0645\u0633\u064a\u060c \u0642\u0627\u0626\u062f \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0648\u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a\u060c \u0627\u0644\u0641\u0631\u064a\u0642 \u0623\u0648\u0644 \u0623\u0645\u0627\u0631 \u0628\u0631\u064a\u062a \u0633\u064a\u0646\u063a\u060c \u0631\u0626\u064a\u0633 \u0623\u0631\u0643\u0627\u0646 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0647\u0646\u062f\u064a\u0629\u060c \u0648\u0627\u0644\u0648\u0641\u062f \u0627\u0644\u0645\u0631\u0627\u0641\u0642 \u0644\u0647. \u062c\u0631\u0649 \u062e\u0644\u0627\u0644 \u0627\u0644\u0644\u0642\u0627\u0621 \u0628\u062d\u062b \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0645\u0646\u0627\u0642\u0634\u0629 \u0633\u0628\u0644 \u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0628\u064a\u0646 \u0627\u0644\u0628\u0644\u062f\u064a\u0646\u060c \u062e\u0635\u0648\u0635\u0627\u064b \u0641\u064a \u0627\u0644\u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0648\u0627\u0644\u062f\u0641\u0627\u0639\u064a\u0629\u060c \u0628\u0645\u0627 \u064a\u0633\u0647\u0645 \u0641\u064a \u062f\u0639\u0645 \u0627\u0644\u062c\u0647\u0648\u062f \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629 \u0648\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0623\u0645\u0646 \u0648\u0627\u0644\u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u0641\u064a \u0627\u0644\u0645\u0646\u0637\u0642\u0629. Major General Staff Rashid Mohammed Al Shamsi, Commander of the UAE Air Force and Air Defence, received Air Chief Marshal Amar Preet Singh, Chief of the Air Staff of the Indian Air Force, and his accompanying delegation. During the meeting, the two sides discussed a range of issues of mutual interest and explored avenues for further",
-      "source": "UAE MOD (RSS.app)",
-      "source_url": "https://x.com/modgovae/status/2095814035895947737",
-      "published": "2026-09-04T09:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ce40b115cbfd72522477173688855ccb",
-      "title": "\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u062a\u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u0645\u0631\u064a\u0646 \u00ab\u062f\u0631\u0639 \u0627\u0644\u0635\u0642\u0631\u00bb 2026 \u0641\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u064a\u0646 \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0634\u0627\u0631\u0643\u062a \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0641\u064a \u0641\u0639\u0627\u0644\u064a\u0627\u062a \u062a\u0645\u0631\u064a\u0646 \u00ab\u062f\u0631\u0639 \u0627\u0644\u0635\u0642\u0631\u00bb 2026 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0645\u0639 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0644\u062d\u0629 \u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u064a\u0646 \u0627\u0644\u0634\u0639\u0628\u064a\u0629\u060c \u0628\u0647\u062f\u0641 \u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0648\u0631\u0641\u0639 \u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u062c\u0627\u0647\u0632\u064a\u0629 \u0648\u0627\u0644\u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a\u064a\u0629 \u0628\u064a\u0646 \u0627\u0644\u062c\u0627\u0646\u0628\u064a\u0646. UAE Air Force Participates in \u201cFalcon Shield 2026\u201d Training in China The UAE Air Force has participated in the \u201cFalcon Shield 2026\u201d joint training with the Armed Forces of the People\u2019s Republic of China, as part of efforts to strengthen military cooperation, facilitate the exchange of expertise, and enhance the readiness and operational effectiveness of both sides. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631",
-      "source": "UAE MOD (RSS.app)",
-      "source_url": "https://x.com/modgovae/status/2095790534728282418",
-      "published": "2026-09-04T08:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
