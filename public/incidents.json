@@ -1,10 +1,142 @@
 {
-  "generated_at": "2026-09-08T04:18:49.802839+00:00",
-  "total_incidents": 43,
+  "generated_at": "2026-09-08T06:27:28.029992+00:00",
+  "total_incidents": 44,
   "incidents": [
     {
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/08/live-iran-war-us-hormuz-shipping/",
+      "title": "Iran war latest: Hormuz shipping traffic slows after Tehran warns of retaliation",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/08/live-iran-war-us-hormuz-shipping/",
+      "published": "2026-09-08T05:37:24+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788791950",
+      "title": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss",
+      "published": "2026-09-08T05:34:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/08/uk-sanctions-push-on-illegal-israeli-settlers-stirs-growing-diplomatic-rift/",
+      "title": "UK sanctions push on illegal Israeli settlements widens growing diplomatic rift",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/08/uk-sanctions-push-on-illegal-israeli-settlers-stirs-growing-diplomatic-rift/",
+      "published": "2026-09-08T05:00:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4e4a407fff1a81eb929f0d4debbad9aa",
+      "title": "#Arab_Coalition denounces Houthi aggression on #Saudi_Arabia.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2097187912651538436",
+      "published": "2026-09-08T04:58:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788843139",
+      "title": "Forest fires force evacuations near resorts in Antalya",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss",
+      "published": "2026-09-08T04:55:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788839548",
+      "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
+      "published": "2026-09-08T04:26:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 73,
+        "military": 0,
+        "civilian": 73
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/2026/09/08/saudi-led-coalition-in-yemen-says-73-people-wounded-in-houthi-attacks-on-saudi-arabia/",
-      "title": "At least 73 people wounded in latest Houthi attacks on Saudi Arabia",
+      "title": "Houthi attacks on Saudi Arabia wound dozens and halt operations at energy sites",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/2026/09/08/saudi-led-coalition-in-yemen-says-73-people-wounded-in-houthi-attacks-on-saudi-arabia/",
       "published": "2026-09-08T03:47:04+00:00",
@@ -37,28 +169,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788829002",
-      "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
-      "published": "2026-09-08T03:01:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 15.3694,
-        "lng": 44.191
       },
       "credibility": 90,
       "is_government": false,
@@ -113,72 +223,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/09/08/us-air-defence-exit-from-iraq-risks-creating-wider-regional-security-gap/",
-      "title": "US air-defence exit from Iraq risks creating wider regional security gap",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/08/us-air-defence-exit-from-iraq-risks-creating-wider-regional-security-gap/",
-      "published": "2026-09-08T02:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788826949",
-      "title": "EU pledges more than $200m to Greenland amid Trump annexation threats",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss",
-      "published": "2026-09-08T01:52:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788826723",
-      "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
-      "published": "2026-09-08T01:50:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "24f6969c80c6564d5e36a17fe09e8e2d",
       "title": "Israeli occupation kills individual, wounds ten others S. Lebanon  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -216,6 +260,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o#0",
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-07T21:12:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -325,28 +391,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/09/07/syrian-minister-asks-for-more-trust-in-uk-parliament-hearing/",
-      "title": "Syrian minister asks for more 'trust' in UK parliament hearing",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/09/07/syrian-minister-asks-for-more-trust-in-uk-parliament-hearing/",
-      "published": "2026-09-07T18:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -919,28 +963,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
-      "title": "Ukraine asks EU to fund first Patriot missiles buy",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
-      "published": "2026-09-05T04:34:28+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
