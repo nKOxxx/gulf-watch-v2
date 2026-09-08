@@ -1,20 +1,174 @@
 {
-  "generated_at": "2026-09-08T06:27:28.029992+00:00",
-  "total_incidents": 44,
+  "generated_at": "2026-09-08T08:22:16.416732+00:00",
+  "total_incidents": 46,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/09/08/live-iran-war-us-hormuz-shipping/",
-      "title": "Iran war latest: Hormuz shipping traffic slows after Tehran warns of retaliation",
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/08/yemen-houthis-dangerous-saudi-arabia-attacks/",
+      "title": "Houthis becoming more dangerous than Hezbollah, ex-US Yemen envoy warns",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/08/live-iran-war-us-hormuz-shipping/",
-      "published": "2026-09-08T05:37:24+00:00",
-      "type": "naval",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/08/yemen-houthis-dangerous-saudi-arabia-attacks/",
+      "published": "2026-09-08T08:04:15+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
         "city": null,
         "lat": 35.6892,
         "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
+      "title": "UK to adopt tougher stance on Israel with illegal settlements trade ban",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
+      "published": "2026-09-08T07:55:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3c6131be7d8e1516f91dac7b58ed1486",
+      "title": "#Kuwait condemns Houthi militia attacks targeting #Saudi Arabia  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2097229583007322227",
+      "published": "2026-09-08T07:44:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c2414b480261027bfa97af6e077f85d2",
+      "title": "#Saudi Energy Ministry reported that several energy-sector facilities & sites in Saudi's southern region were targeted, injuring a number of citizens & residents, causing fires at several locations & temporarily disrupting some operations  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2097229234859032632",
+      "published": "2026-09-08T07:43:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788851669",
+      "title": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
+      "published": "2026-09-08T07:40:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/markets/2026/09/08/limad-clears-way-for-full-ownership-of-ad-ports/",
+      "title": "L\u2019imad clears way for full ownership of AD Ports",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/markets/2026/09/08/limad-clears-way-for-full-ownership-of-ad-ports/",
+      "published": "2026-09-08T07:04:11+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/09/08/uae-travel-advisory-flights-delayed-and-cancelled-from-abu-dhabi-and-dubai-airports/",
+      "title": "UAE travel advisory: Flights delayed and cancelled from Abu Dhabi and Dubai airports",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/09/08/uae-travel-advisory-flights-delayed-and-cancelled-from-abu-dhabi-and-dubai-airports/",
+      "published": "2026-09-08T06:57:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/08/live-iran-war-houthi-attacks-saudi-arabia/",
+      "title": "Iran war latest: GCC chief condemns 'malicious' Houthi attacks on Saudi Arabia",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/08/live-iran-war-houthi-attacks-saudi-arabia/",
+      "published": "2026-09-08T05:37:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 85,
       "is_government": false,
@@ -147,50 +301,6 @@
         "city": null,
         "lat": 23.8859,
         "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788832166",
-      "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
-      "published": "2026-09-08T03:08:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/editorial/2026/09/08/gulf-uae-us-iran-strategic-autonomy-trust-strait-of-hormuz/",
-      "title": "The Gulf\u2019s new regional architecture will require a rebuilding of trust",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/09/08/gulf-uae-us-iran-strategic-autonomy-trust-strait-of-hormuz/",
-      "published": "2026-09-08T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -347,50 +457,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "292ad4a7f4bbfd4308ca6eaa47c62e7e",
-      "title": "Arab Foreign Ministers urge international protection for Palestinians from Israeli occupation crimes  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2097039241792348329",
-      "published": "2026-09-07T19:08:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
-      "title": "UK to adopt tougher stance on Israel with illegal settlements trade ban",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
-      "published": "2026-09-07T18:34:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -568,28 +634,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e936ee7422d7e8e1fc19d33834b175bc",
-      "title": ". The UAE Search and Rescue Team has continued its field operations in Rasuwa area of the Federal Democratic Republic of...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dc-4sm7I4v5",
-      "published": "2026-09-07T10:23:15+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
