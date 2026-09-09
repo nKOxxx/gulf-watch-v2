@@ -1,23 +1,287 @@
 {
-  "generated_at": "2026-09-09T18:20:17.864210+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-09-09T20:15:47.174018+00:00",
+  "total_incidents": 67,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1788882566",
-      "title": "Back to work, not school: Yemen\u2019s crisis forces children to drop out",
+      "id": "https://www.thenationalnews.com/news/us/2026/09/09/trump-says-iran-war-will-end-immediately-after-midterm-elections/",
+      "title": "Trump says Iran war will end \u2018immediately\u2019 after midterm elections",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/09/09/trump-says-iran-war-will-end-immediately-after-midterm-elections/",
+      "published": "2026-09-09T19:44:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788982326",
+      "title": "Israeli strike targets home in Gaza\u2019s al-Shati refugee camp",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss",
-      "published": "2026-09-09T17:57:37+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
+      "published": "2026-09-09T19:37:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788981906",
+      "title": "Two rescued after plane makes emergency landing in Black Sea",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss",
+      "published": "2026-09-09T19:27:18+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=95043",
+      "title": "Army \u2018not walking away\u2019 from UAVs despite reverting drone unit back to infantry",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/09/army-not-walking-away-from-uavs-despite-reverting-drone-unit-back-to-infantry/",
+      "published": "2026-09-09T19:25:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "103cd5fdf7fe40a5c6694f2d62062a23",
+      "title": "Spokesman for the Coalition to Support Legitimacy in #Yemen Major General Turki Al-Maliki says that the terrorist Houthi militia continues its sinful attacks on #Saudi Arabia's national assets and infrastructure  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2097766882627453121",
+      "published": "2026-09-09T19:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788981357",
+      "title": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss",
+      "published": "2026-09-09T19:18:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=95024",
+      "title": "Poland\u2019s WB Group unveils Warmate 30, latest in drone recon/strike system",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/09/polands-wb-group-unveils-warmate-30-latest-in-drone-recon-strike-system/",
+      "published": "2026-09-09T18:43:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788542864",
+      "title": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
+      "published": "2026-09-09T18:40:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788977258",
+      "title": "Zelenskyy\u2019s plane \u2018almost hit\u2019 by drone on way to Oslo, Norwegian PM says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/9/zelenskyys-plane-almost-hit-by-drone-on-way-to-oslo-norwegian-pm-says?traffic_source=rss",
+      "published": "2026-09-09T18:36:50+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1788977574",
+      "title": "Explosion at depot storing weapons left from Syria war kills 14",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/explosion-at-depot-storing-weapons-left-from-syria-war-kills-14?traffic_source=rss",
+      "published": "2026-09-09T18:32:19+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7fecf551c256b3368d0ba14ed2880295",
+      "title": "United Nations Secretary-General Antonio Guterres discusses with #Omani Foreign Minister Badr Al-Busaidi international efforts aimed at de-escalating regional tensions and creating conducive conditions to resume diplomatic dialogue  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2097754878735012302",
+      "published": "2026-09-09T18:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8be6400081b2df76086d44c9579cbbb1",
+      "title": "The #Lebanese Army affirms that it has taken field measures to establish operational control in several southern areas as part of its commitments, noting that Israeli occupation forces have committed around 7,700 violations since the signing of the framework agreement on June 26  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2097754649574957227",
+      "published": "2026-09-09T18:30:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b94b384c14592cbf9748529a65aefbe8",
+      "title": "A number of Arab and Islamic countries welcome the #UK Government's decision to ban imports of goods from illegal Israeli settlements in the occupied Palestinian territories and impose restrictions on services linked to those settlements  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2097754116684439642",
+      "published": "2026-09-09T18:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -69,55 +333,11 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1788969237",
-      "title": "Bombardier looks to hire 500 new workers in US, despite Trump threat",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/9/9/bombardier-looks-to-hire-500-new-workers-in-us-despite-trump-threat?traffic_source=rss",
-      "published": "2026-09-09T17:37:50+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank",
       "title": "\u2018It\u2019s a good start\u2019: prominent Israelis welcome UK sanctions on illegal settlements",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank",
       "published": "2026-09-09T17:36:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788942406",
-      "title": "Inside Israel\u2019s prisons, where Ben-Gvir\u2019s cruelty is policy",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss",
-      "published": "2026-09-09T17:04:24+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -171,28 +391,6 @@
         "lng": 48.0
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788971855",
-      "title": "78 people including newborn rescued in Mediterranean",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/78-people-including-newborn-rescued-in-mediterranean?traffic_source=rss",
-      "published": "2026-09-09T16:40:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -279,28 +477,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1788960148",
-      "title": "Attackers kill police officer, kidnap teachers in Cameroon\u2019s northwest",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss",
-      "published": "2026-09-09T16:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -399,28 +575,6 @@
       }
     },
     {
-      "id": "ba4f81df55bd1591ba3ec852cafe1cee",
-      "title": "Assistant Chief of Staff for Administration & Manpower heads #Kuwait's delegation participating in the 18th meeting of the Committee for Administration & Manpower in the Armed Forces of the #GCC states, held in #Qatar.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2097709631590052252",
-      "published": "2026-09-09T15:32:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/09/09/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/",
       "title": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
       "source": "Defense News",
@@ -465,21 +619,21 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/09/09/former-watchdog-officials-further-reveal-sudan-armed-forces-use-of-chemical-weapons/",
-      "title": "Former watchdog officials further reveal Sudan Armed Forces' use of chemical weapons",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/09/former-watchdog-officials-further-reveal-sudan-armed-forces-use-of-chemical-weapons/",
-      "published": "2026-09-09T14:55:07+00:00",
+      "id": "9794e436784ecbe37493450b45e24c19",
+      "title": "Alert: The danger has passed in Abha City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2097695099866038753",
+      "published": "2026-09-09T14:34:00+00:00",
       "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
         "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
       },
-      "credibility": 85,
-      "is_government": false,
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -501,28 +655,6 @@
         "lng": 53.8478
       },
       "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9794e436784ecbe37493450b45e24c19",
-      "title": "Alert: The danger has passed in Abha City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2097695099866038753",
-      "published": "2026-09-09T14:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -589,28 +721,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0e63eab3610797f626a28bb04e19ea6c",
-      "title": "Arab League Chief condemns the Iranian ballistic missile attack on #Jordan, warning of the consequences of the region sliding into an open war.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2097692695284031644",
-      "published": "2026-09-09T14:24:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -722,28 +832,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4040ced905b0406f4d05134290493e71",
-      "title": "#Kuwait Foundation for the Advancement of Sciences (KFAS), in collaboration with the Kuwait Banking Association (KBA), organize a seminar to review the findings of a study on the role of Kuwait's banking sector in supporting the National Development Plan  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2097673397144584289",
-      "published": "2026-09-09T13:08:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1109,50 +1197,6 @@
       "source_url": "https://breakingdefense.com/2026/09/army-sets-new-biodefense-plan-to-counter-pandemic-adversary-threats/",
       "published": "2026-09-08T21:20:36+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=94894",
-      "title": "Defense a key focus for new UK $10.6B, 4-year space spending plan",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/09/defense-a-key-focus-for-new-uk-10-6b-4-year-space-spending-plan/",
-      "published": "2026-09-08T19:59:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=94883",
-      "title": "European missile-maker MBDA opens first industrial facility in Poland",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/09/european-missile-maker-mbda-opens-first-industrial-facility-in-poland/",
-      "published": "2026-09-08T17:05:00+00:00",
-      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": null,
