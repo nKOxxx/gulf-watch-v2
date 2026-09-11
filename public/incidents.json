@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-09-11T20:15:36.758282+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-09-11T22:14:06.631336+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://yalibnan.com/?p=183859",
+      "title": "Iran is fighting two wars\u2014But the regime\u2019s greatest enemy may be itself",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/09/12/iran-is-fighting-two-wars-but-the-regimes-greatest-enemy-may-be-itself/?utm_source=rss&utm_medium=rss&utm_campaign=iran-is-fighting-two-wars-but-the-regimes-greatest-enemy-may-be-itself",
+      "published": "2026-09-11T22:10:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo#0",
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-11T20:11:47+00:00",
+      "published": "2026-09-11T21:54:56+00:00",
       "type": "naval",
       "status": "unconfirmed",
       "location": {
@@ -25,18 +47,128 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1789133757",
-      "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+      "id": "https://www.aljazeera.com/?t=1789003990",
+      "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss",
-      "published": "2026-09-11T19:59:41+00:00",
+      "source_url": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
+      "published": "2026-09-11T21:53:34+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": "Syria",
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "093df1e04678c808588065461eaed156",
+      "title": "Alert: The danger has passed in Khamis Mushait Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2098525197032698274",
+      "published": "2026-09-11T21:32:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1789158852",
+      "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+      "published": "2026-09-11T21:30:47+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1789160173",
+      "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
+      "published": "2026-09-11T21:23:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8d0a9708d2c76a7b9efda73bf5a7cf3f",
+      "title": "A warning has been issued by the National Early Warning Platform in the Khamis Mushait Governorate to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2098522392477790512",
+      "published": "2026-09-11T21:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1789054247",
+      "title": "US legislators push AI safety laws amid human extinction warnings",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
+      "published": "2026-09-11T20:59:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -113,28 +245,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1789146079",
-      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
-      "published": "2026-09-11T19:21:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/us/2026/09/11/syria-condemns-netanyahu-visit-to-israeli-troops-as-breach-of-sovereignty/",
       "title": "Syria condemns Netanyahu visit to Israeli troops as breach of sovereignty",
       "source": "The National UAE",
@@ -172,28 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1789138894",
-      "title": "Houthi advance in Yemen is about more than just the Red Sea",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss",
-      "published": "2026-09-11T19:01:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -259,50 +347,6 @@
         "lng": 45.0792
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1789146236",
-      "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
-      "published": "2026-09-11T18:33:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1789145173",
-      "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
-      "published": "2026-09-11T18:14:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -751,28 +795,6 @@
       }
     },
     {
-      "id": "b0fc6554e2a3a4961188814796d94f57",
-      "title": "#Kuwait's Ministry of Interior conducts an extensive security campaign in Saad Al-Abdullah area to apprehend violators & enhance security presence.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2098384044429898135",
-      "published": "2026-09-11T12:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/asia-pacific/2026/09/11/india-puts-domestic-industry-at-heart-of-new-military-equipment-orders/",
       "title": "India puts domestic industry at heart of new military equipment orders",
       "source": "Defense News",
@@ -993,50 +1015,6 @@
       }
     },
     {
-      "id": "c7d2f5b01ac6898417e289fdb7b6e572",
-      "title": "Alert: The danger has passed in Abha City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2098130160880918723",
-      "published": "2026-09-10T19:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f25179b421a2e0b3d964e8c48aba9b1b",
-      "title": "Alert: The danger has passed in Khamis Mushait Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2098129801403830324",
-      "published": "2026-09-10T19:21:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o#0",
       "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
       "source": "BBC Middle East",
@@ -1240,28 +1218,6 @@
       "source": "Ya Libnan",
       "source_url": "https://yalibnan.com/2026/09/10/washington-should-continue-its-dialogue-with-lebanons-shiite-religious-leaders/?utm_source=rss&utm_medium=rss&utm_campaign=washington-should-continue-its-dialogue-with-lebanons-shiite-religious-leaders",
       "published": "2026-09-10T03:09:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=183817",
-      "title": "Mastercard and Lebanon collaborate to expand digital payment acceptance for  small and medium business",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/09/10/mastercard-and-lebanon-central-bank-collaborate-to-expand-digital-payment-acceptance-for-small-and-medium-business-in-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=mastercard-and-lebanon-central-bank-collaborate-to-expand-digital-payment-acceptance-for-small-and-medium-business-in-lebanon",
-      "published": "2026-09-10T01:48:30+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
