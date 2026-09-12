@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-12T20:15:10.412358+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-09-12T22:12:51.628846+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1789249006",
+      "title": "First naval battle between drones takes place in the Black Sea",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
+      "published": "2026-09-12T21:38:24+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1789242833",
+      "title": "Israel bombs southern Lebanon as talks postponed",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
+      "published": "2026-09-12T19:56:09+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1789242393",
       "title": "Gaza genocide documentary \u2018NAZA\u2019 wins Special Jury Prize at Venice",
@@ -125,50 +169,6 @@
         "city": null,
         "lat": 21.4735,
         "lng": 55.9754
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1789228927",
-      "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
-      "published": "2026-09-12T18:53:31+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1789237713",
-      "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
-      "published": "2026-09-12T18:36:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -458,72 +458,6 @@
       },
       "credibility": 80,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a54586d81507091b3e3e7bc24fbb2ac6",
-      "title": "Iraqi President strongly condemns the attacks targeting Saudi Arabia, stressing Iraq's rejection of the use of its territory or airspace as a launch point for attacks against neighboring countries  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2098776201481384283",
-      "published": "2026-09-12T14:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "14f874f9f83b7191819ca506a979f7ac",
-      "title": "Iraqi Parliament Speaker condemns the attacks on Saudi's pipeline  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2098775776258629739",
-      "published": "2026-09-12T14:08:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e60e19c28112e6a3b48daabd91f5ea3f",
-      "title": "#Kuwait Red Crescent Society launches an event marking World First Aid Day aimed at raising awareness of the importance of first aid  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2098774746234008040",
-      "published": "2026-09-12T14:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1379,28 +1313,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno#1",
-      "title": "Iran referred to UN Security Council for nuclear non-compliance",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-09T20:22:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": false,
