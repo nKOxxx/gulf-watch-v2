@@ -1,23 +1,89 @@
 {
-  "generated_at": "2026-09-13T22:13:34.543684+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-09-14T00:48:45.044055+00:00",
+  "total_incidents": 52,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1789331222",
-      "title": "Poland, Ukraine accuse Russia of \u2018escalation\u2019 after strikes near border",
+      "id": "1180aa877277fa5f2676a8927a5ac421",
+      "title": "The #Saudi_Civil_Defense sound the alarm in Abha and Khamis Mushait  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2099296702339359122",
+      "published": "2026-09-14T00:38:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1789342800",
+      "title": "Yemen\u2019s Houthis advance on government strongholds of Marib, Taiz",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
-      "published": "2026-09-13T21:10:07+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
+      "published": "2026-09-14T00:14:09+00:00",
       "type": "incident",
       "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1789338044",
+      "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+      "published": "2026-09-14T00:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cac2e2481bfd5a5a6ffae1b5458e2d68",
+      "title": "A warning has been issued by the National Early Warning Platform in Abha City to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2099284944757440573",
+      "published": "2026-09-13T23:51:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
       "location": {
         "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -25,63 +91,107 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1789333136",
-      "title": "Pro-Palestine protest demands Australia increases pressure on Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss",
-      "published": "2026-09-13T21:02:14+00:00",
+      "id": "167aa15e1e90050a4605b2930cd4c7cd",
+      "title": "A warning has been issued by the National Early Warning Platform in the Khamis Mushait Governorate to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2099284772631581018",
+      "published": "2026-09-13T23:51:00+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1789331295",
-      "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
-      "published": "2026-09-13T20:46:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1789330755",
-      "title": "Can a warming Arctic become an important commercial highway?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway?traffic_source=rss",
-      "published": "2026-09-13T20:44:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
         "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
       },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2d3e30b0e0fe8f50d7c0e27ddfc7eb9e",
+      "title": "Alert: The danger has passed in Najran Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2099284611838750743",
+      "published": "2026-09-13T23:50:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a7633d603cbc29b6bc967f92b8c2c1f8",
+      "title": "Alert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2099284435791200319",
+      "published": "2026-09-13T23:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "afe8f54e222c1d10397628909503cc3b",
+      "title": "Alert: The danger has passed in Abha City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2099283937193267680",
+      "published": "2026-09-13T23:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1789341509",
+      "title": "Israeli quadcopter terrorises homes in Gaza City",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
+      "published": "2026-09-13T23:33:23+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
       "credibility": 90,
       "is_government": false,
       "casualties": {
@@ -91,21 +201,21 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1789331397",
-      "title": "US Envoy Jared Kushner says Doha attack left Israel \u2018globally isolated\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
-      "published": "2026-09-13T20:33:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
+      "id": "f1916089eebcaa0e124a145bcf9c3d0b",
+      "title": "CENTCOM: Forces redirect 101 commercial vessels since siege imposed on Iran's ports  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2099262371256525029",
+      "published": "2026-09-13T22:22:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
       "location": {
-        "country": "Qatar",
+        "country": "Kuwait",
         "city": null,
-        "lat": 25.2854,
-        "lng": 51.531
+        "lat": 32.4279,
+        "lng": 53.688
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -289,94 +399,6 @@
       }
     },
     {
-      "id": "d3caaf1f795fb00e6f334cc2505de34c",
-      "title": "Alert: The danger has passed in Abha City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2099155748169077189",
-      "published": "2026-09-13T15:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7c2217cebf07d8a5708cf1aa26ebd778",
-      "title": "Alert: The danger has passed in Khamis Mushait Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2099155484267651581",
-      "published": "2026-09-13T15:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fb48b05a9f0769ee8207bd6b2cbab18a",
-      "title": "A warning has been issued by the National Early Warning Platform in Abha City to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2099153873160044864",
-      "published": "2026-09-13T15:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c7be72ee15a6a0eefd86a7fe3dabc7a5",
-      "title": "A warning has been issued by the National Early Warning Platform in the Khamis Mushait Governorate to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2099153633853980728",
-      "published": "2026-09-13T15:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3201c4155f64371f913df744f795e647",
       "title": "\u0645\u0639\u0627\u0644\u064a \u062f. \u0623\u0646\u0648\u0631 \u0642\u0631\u0642\u0627\u0634\u060c \u0627\u0644\u0645\u0633\u062a\u0634\u0627\u0631 \u0627\u0644\u062f\u0628\u0644\u0648\u0645\u0627\u0633\u064a \u0644\u0631\u0626\u064a\u0633 \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0645\u062a\u062d\u062f\u062b\u0627\u064b \u0631\u0626\u064a\u0633\u064a\u0627\u064b \u0641\u064a \u0645\u0646\u062a\u062f\u0649 \u0627\u0644\u0625\u0639\u0644\u0627\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u0636\u0645\u0646 \u0641\u0639\u0627\u0644\u064a\u0627\u062a \u0642\u0645\u0629 \u0627\u0644\u0625\u0639\u0644\u0627\u0645 \u0627\u0644\u0639\u0631\u0628\u064a 2026. 15 - 17 \u0633\u0628\u062a\u0645\u0628\u0631 #\u0642\u0645\u0629_\u0627\u0644\u0625\u0639\u0644\u0627\u0645_\u0627\u0644\u0639\u0631\u0628\u064a H.E. Dr. Anwar Gargash, Diplomatic Advisor to the President of the United Arab Emirates, as a keynote speaker at the Arab Media Forum, part of the Arab Media Summit 2026. 15 - 17 September #ArabMediaSummit",
       "source": "Dubai Media Office (RSS.app)",
@@ -392,28 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/09/13/more-than-170-flights-delayed-in-dubai-and-abu-dhabi-on-sunday/",
-      "title": "More than 170 flights delayed in Dubai and Abu Dhabi on Sunday",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/09/13/more-than-170-flights-delayed-in-dubai-and-abu-dhabi-on-sunday/",
-      "published": "2026-09-13T11:52:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -655,28 +655,6 @@
         "lng": 43.6793
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=183878",
-      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/09/12/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping",
-      "published": "2026-09-12T15:31:38+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 20.0,
-        "lng": 38.0
-      },
-      "credibility": 80,
       "is_government": false,
       "casualties": {
         "total": 0,
