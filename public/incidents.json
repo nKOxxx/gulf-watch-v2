@@ -1,20 +1,42 @@
 {
-  "generated_at": "2026-09-18T04:18:25.878336+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-09-18T06:27:41.878944+00:00",
+  "total_incidents": 63,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1789687353",
-      "title": "Drone attacks by Colombian armed groups more than double in early 2026",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
-      "published": "2026-09-18T02:51:08+00:00",
-      "type": "drone",
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/18/trump-administration-clears-way-for-sale-of-f-35-fighter-jets-to-saudi-arabia/",
+      "title": "Trump administration clears way for sale of F-35 fighter jets to Saudi Arabia",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/18/trump-administration-clears-way-for-sale-of-f-35-fighter-jets-to-saudi-arabia/",
+      "published": "2026-09-18T06:19:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
+      "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
+      "published": "2026-09-18T05:54:29+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Iran",
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -25,20 +47,174 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1789698991",
-      "title": "US Veteran told he is \u2018embarrassing\u2019 uniform over Israeli bonds stance",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_council-removes-us-veteran-over-israel-bond-170926?traffic_source=rss",
-      "published": "2026-09-18T02:44:10+00:00",
+      "id": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/assala-returns-to-syrian-stage-for-first-time-in-more-than-15-years/",
+      "title": "Assala returns to Syrian stage for first time in more than 15 years",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/assala-returns-to-syrian-stage-for-first-time-in-more-than-15-years/",
+      "published": "2026-09-18T05:44:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": "Iran",
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1789705605",
+      "title": "UN mission alleges crimes against humanity in Iranian protest crackdown",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss",
+      "published": "2026-09-18T05:26:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1789699232",
+      "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
+      "published": "2026-09-18T05:23:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1789707673",
+      "title": "Fire engulfs Zaporizhzhia shopping centre after Russian strike",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/fire-engulfs-zaporizhzhia-shopping-centre-after-russian-strike?traffic_source=rss",
+      "published": "2026-09-18T05:03:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/sep/18/run-get-away-witnesses-recount-israeli-double-tap-strike-that-killed-child-and-medic-in-gaza",
+      "title": "\u2018Run! Get away!\u2019: witnesses recount Israeli \u2018double tap\u2019 strike that killed child and medic in Gaza",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/sep/18/run-get-away-witnesses-recount-israeli-double-tap-strike-that-killed-child-and-medic-in-gaza",
+      "published": "2026-09-18T05:00:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/18/europes-capacity-for-war-tested-as-saudi-seeks-support-to-counter-houthis/",
+      "title": "Europe's capacity for war tested as Saudi Arabia seeks support to counter Houthis",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/18/europes-capacity-for-war-tested-as-saudi-seeks-support-to-counter-houthis/",
+      "published": "2026-09-18T05:00:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/ms-rachel-matches-macklemores-1-million-palestine-donation-after-ed-sheeran-tour-row/",
+      "title": "Ms Rachel matches Macklemore's $1 million Palestine donation after Ed Sheeran tour row",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/ms-rachel-matches-macklemores-1-million-palestine-donation-after-ed-sheeran-tour-row/",
+      "published": "2026-09-18T04:58:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/18/live-iran-war-latest-trump/",
+      "title": "Iran war latest: US offers $15m for information on IRGC financial network",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/18/live-iran-war-latest-trump/",
+      "published": "2026-09-18T04:25:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -61,72 +237,6 @@
         "lng": 39.8579
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/09/18/how-did-the-houthis-become-so-emboldened/",
-      "title": "How did the Houthis become so emboldened?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/09/18/how-did-the-houthis-become-so-emboldened/",
-      "published": "2026-09-18T02:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1789685689",
-      "title": "Syria warns Israel poses \u2018the greatest threat\u2019 to Middle East stability",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
-      "published": "2026-09-18T01:58:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1789678470",
-      "title": "UN findings show US strikes on Minab could be war crimes",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss",
-      "published": "2026-09-18T01:58:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1007,28 +1117,6 @@
         "lng": 35.8623
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/sep/16/us-arms-sale-israel-gregory-meeks",
-      "title": "Key House Democrat refuses to clear Trump\u2019s $2.8bn arms sale to Israel",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/sep/16/us-arms-sale-israel-gregory-meeks",
-      "published": "2026-09-16T20:20:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
