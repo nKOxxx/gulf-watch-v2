@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-26T22:13:49.731565+00:00",
+  "generated_at": "2026-09-27T00:51:06.691383+00:00",
   "total_incidents": 48,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1790449168",
-      "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+      "id": "https://www.aljazeera.com/?t=1790464367",
+      "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
-      "published": "2026-09-26T20:57:54+00:00",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
+      "published": "2026-09-27T00:00:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Iran",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 35.6892,
+        "lng": 51.389
       },
       "credibility": 90,
       "is_government": false,
@@ -25,37 +25,15 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1790450556",
-      "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+      "id": "https://www.aljazeera.com/?t=1790466275",
+      "title": "Pezeshkian says Iran \u2018no longer trusts talks with Washington\u2019",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
-      "published": "2026-09-26T20:33:05+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
+      "published": "2026-09-26T23:49:30+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790451391",
-      "title": "Saudi FM accuses Iran of \u2018flagrant attacks\u2019 and condemns Houthis at UNGA",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
-      "published": "2026-09-26T19:43:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
+        "country": "Iran",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -69,18 +47,62 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1790450983",
-      "title": "Ireland decide to play Israel in Nations League after squad vote",
+      "id": "https://www.aljazeera.com/?t=1790457508",
+      "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
-      "published": "2026-09-26T19:42:57+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
+      "published": "2026-09-26T23:26:31+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 6,
+        "military": 0,
+        "civilian": 6
+      }
+    },
+    {
+      "id": "c01f9f5cee33453e410662ff4cfe6142",
+      "title": "Yemen army: Houthi militia uses weapons threatening international civil aviation safety  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2103973164111798540",
+      "published": "2026-09-26T22:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790449168",
+      "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
+      "published": "2026-09-26T20:57:54+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": null,
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -414,28 +436,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "947f13438ed85e60b9e52efc1a2b664e",
-      "title": "#Kuwait's humanitarian initiatives lead the international relief scene as one of the most efficient approaches of delivering humanitarian & relief aid. (Report)  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2103789891293196616",
-      "published": "2026-09-26T10:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
