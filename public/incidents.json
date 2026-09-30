@@ -1,22 +1,66 @@
 {
-  "generated_at": "2026-09-30T08:23:51.116074+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-09-30T10:17:49.586324+00:00",
+  "total_incidents": 53,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1790753135",
-      "title": "FlyDubai flight to Israel diverted to Saudi Arabia after emergency alert",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
-      "published": "2026-09-30T08:00:10+00:00",
+      "id": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+      "title": "Israel-bound passenger plane makes emergency landing in Saudi Arabia after reported fight between pilots",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+      "published": "2026-09-30T10:08:29+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "UAE",
+        "country": "Saudi Arabia",
         "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "26c3cf4cd0a623b31052935852ba3ef8",
+      "title": ". Aldar and Arada on Wednesday announced a landmark strategic partnership comprising major development opportunities on ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Dd6EkO6iCyH",
+      "published": "2026-09-30T10:00:59+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/30/syria-arrests-hezbollah-linked-cell-and-seizes-rocket-launchers/",
+      "title": "Syria arrests Hezbollah-linked cell and seizes rocket launchers",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/30/syria-arrests-hezbollah-linked-cell-and-seizes-rocket-launchers/",
+      "published": "2026-09-30T09:55:18+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -29,7 +73,7 @@
       "title": "Israel-bound flight diverted after fight between pilots",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T07:51:26+00:00",
+      "published": "2026-09-30T09:54:19+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -47,20 +91,218 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/09/30/india-seizes-more-than-300m-worth-of-drugs-from-iranian-dhow/",
-      "title": "India seizes more than $300m worth of drugs from Iranian dhow",
+      "id": "e6a2a5b6568c3d91185abcb88cf8c7cd",
+      "title": "Iraqi Prime Minister: the international coalition's mission against the so-called Islamic State (IS) in Iraq ended in victory  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105228991464395106",
+      "published": "2026-09-30T09:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f45af9accd93f65e3076d65a84171fd3",
+      "title": "The #US Department of War (Pentagon) announces the conclusion of Operation Inherent Resolve against the so-called Islamic State (IS) in Iraq, affirming continued training & intelligence support for Iraqi authorities  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105228366076936452",
+      "published": "2026-09-30T09:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/09/30/ega-and-gulftainer-sign-agreement-to-boost-aluminium-exports-from-uae-east-coast/",
+      "title": "EGA and Gulftainer sign agreement to boost aluminium exports from UAE East Coast",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/30/india-seizes-more-than-300m-worth-of-drugs-from-iranian-dhow/",
-      "published": "2026-09-30T07:40:17+00:00",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/09/30/ega-and-gulftainer-sign-agreement-to-boost-aluminium-exports-from-uae-east-coast/",
+      "published": "2026-09-30T09:20:38+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "UAE",
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 23.4241,
+        "lng": 53.8478
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "66050f81726f40ee36db367d2ca1248f",
+      "title": "His Highness the Prime Minister sends a cable of condolences to President of #Kazakhstan over the deaths & injuries among Kazakh armed forces personnel  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105224597914161331",
+      "published": "2026-09-30T09:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "35f382e94acb3e196438f81e5ae07bd8",
+      "title": "His Highness the Crown Prince sends a cable of condolences to President of #Kazakhstan over the deaths & injuries among Kazakh armed forces personnel  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105224103275675798",
+      "published": "2026-09-30T09:11:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e72f10cbaf20502252cfde3443a42093",
+      "title": "His Highness the Amir sends a cable of condolences to President of #Kazakhstan over the deaths & injuries among Kazakh armed forces personnel  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105223763415498908",
+      "published": "2026-09-30T09:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/09/30/iraq-hails-us-led-coalition-withdrawal-as-milestone-while-militias-claim-victory/",
+      "title": "Iraq hails 'important milestone' and militias claim victory as US withdraws",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/09/30/iraq-hails-us-led-coalition-withdrawal-as-milestone-while-militias-claim-victory/",
+      "published": "2026-09-30T08:59:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/comment/2026/09/30/iraq-us-iran-isis-militias-security-ali-al-zaidi/",
+      "title": "Iraq is reclaiming its sovereignty, but the real power struggle will start after the Americans leave",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/09/30/iraq-us-iran-isis-militias-security-ali-al-zaidi/",
+      "published": "2026-09-30T08:30:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/unmanned/2026/09/30/ukraines-former-defense-minister-launches-manhattan-project-for-killer-robots/",
+      "title": "Ukraine\u2019s former defense minister launches \u2018Manhattan Project\u2019 for killer robots",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/unmanned/2026/09/30/ukraines-former-defense-minister-launches-manhattan-project-for-killer-robots/",
+      "published": "2026-09-30T08:29:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790753135",
+      "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
+      "published": "2026-09-30T08:00:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -113,28 +355,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/2026/09/30/flight-to-tel-aviv-diverted-after-emergency-signal-activated/",
-      "title": "Flydubai flight to Tel Aviv diverts to Saudi Arabia's Tabuk after incident",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/09/30/flight-to-tel-aviv-diverted-after-emergency-signal-activated/",
-      "published": "2026-09-30T07:10:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.0853,
-        "lng": 34.7818
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo#0",
       "title": "Girl has multiple surgeries to control infections after strike in Gaza",
       "source": "BBC Middle East",
@@ -150,28 +370,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "723800a54d8507af840a6d55e8e2d820",
-      "title": "Malaysia vehemently deplores Israeli settlers, officials' incursion into #Al-Aqsa Mosque compound  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2105141346516279393",
-      "published": "2026-09-30T03:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -311,28 +509,6 @@
       }
     },
     {
-      "id": "d75f06a78c7664747ea38e252625920f",
-      "title": "Swiss President Guy Parmelin praises the close and long-standing relationship between #Switzerland and #Kuwait and expresses #Switzerland\u2019s solidarity with Kuwait which has repeatedly been the target of Iranian attacks this year  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2105003124368855130",
-      "published": "2026-09-29T18:33:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=96832",
       "title": "Army awards up to $7B in sprawling counter-drone IDIQ",
       "source": "Breaking Defense",
@@ -421,50 +597,6 @@
       }
     },
     {
-      "id": "4f9e9b5ec242d26c4dbb48f7d0e98862",
-      "title": "#Kuwait's Interior Ministry Undersecretary holds talks with #Turkiye's Deputy Justice Minister, aiming to bolster security cooperation between Kuwait & Ankara.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2104971356781600789",
-      "published": "2026-09-29T16:27:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9d8104285e260d833d806e42e6d4a6ba",
-      "title": "His Highness the Crown Prince leave Zurich International Airport following his official visit to #Switzerland.  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2104969458594791562",
-      "published": "2026-09-29T16:20:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2bfcce442e780898f5bee02233c833b4",
       "title": "Maktoum bin Mohammed: I visited the exhibition held alongside the 15th United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi, where I reviewed national initiatives showcasing advanced solutions and technologies that harness AI and innovation to enhance the efficiency of justice and security systems and protect communities. The UAE\u2019s hosting of this global event, with the participation of more than 118 countries, reflects its steadfast commitment to supporting international cooperation, strengthening collective efforts to combat crime, and upholding the rule of law. In the UAE, we will continue to harness technology and innovation to build more efficient, proactive and",
       "source": "Dubai Media Office (RSS.app)",
@@ -521,28 +653,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4170904f17bda2725af2075f1b635244",
-      "title": "RT by @DXBMediaOffice: RT by @DXBMediaOffice: I visited the exhibition held alongside the 15th United Nations Congress on Crime Prevention and Criminal Justice in Abu Dhabi, where I reviewed national initiatives showcasing advanced solutions and technologies that harness AI and innovation to enhance the efficiency of justice and security systems and protect communities. The UAE\u2019s hosting of this global event, with the participation of more than 118 countries, reflects its steadfast commitment to supporting international cooperation, strengthening collective efforts to combat crime, and upholding the rule of law. In the UAE, we will continue to harness technology and innovation to build more",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/MaktoumMohammed/status/2104952928884883551",
-      "published": "2026-09-29T15:14:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
       },
       "credibility": 95,
       "is_government": true,
@@ -773,28 +883,6 @@
       }
     },
     {
-      "id": "2e41799383a4ec1d2254dc4d06a76250",
-      "title": "\u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0635\u062d\u064a\u062d \u064a\u062e\u062a\u0635\u0631 \u0632\u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u062c\u0627\u0628\u0629 The correct number reduces response time \u0635\u062d\u06cc\u062d \u0646\u0645\u0628\u0631 \u062c\u0648\u0627\u0628\u06cc \u0648\u0642\u062a \u06a9\u0648 \u06a9\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2 \u0d36\u0d30\u0d3f\u0d2f\u0d3e\u0d2f \u0d28\u0d2e\u0d4d\u0d2a\u0d7c \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d15\u0d30\u0d23 \u0d38\u0d2e\u0d2f\u0d02 \u0d15\u0d41\u0d31\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 #\u064a\u0648\u0645_\u0631\u0642\u0645_\u0627\u0644\u0637\u0648\u0627\u0631\u0626_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a #\u0643\u0644_\u062b\u0627\u0646\u064a\u0629_\u062a\u0635\u0646\u0639_\u0641\u0631\u0642\u0627\u064b #UAE_Emergency_Number_Day #EverySecondMakesADifference @dubaipolicehq @adpolicehq @shjpolice @rakpoliceghq @ajmanpoliceghq @uaqpoliceghq @fujpoliceghq",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2104831057904464120",
-      "published": "2026-09-29T07:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=184416",
       "title": "Trump willing to offer Iran economic relief for concrete nuclear concessions",
       "source": "Ya Libnan",
@@ -949,28 +1037,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/global/europe/2026/09/28/eu-nails-down-five-defense-priority-areas-to-channel-common-spending/",
-      "title": "EU nails down five defense priority areas to channel common spending",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/09/28/eu-nails-down-five-defense-priority-areas-to-channel-common-spending/",
-      "published": "2026-09-28T14:59:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/commentisfree/2026/sep/28/netanyahu-re-election-mamdani",
       "title": "Netanyahu is using Mamdani as a foil in his re-election campaign | Mohamad Bazzi",
       "source": "The Guardian",
@@ -1095,28 +1161,6 @@
         "lng": 48.5164
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
-      "title": "UN ambassador Waltz says Iran was not negotiating \u2018in good faith\u2019 to end war",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
-      "published": "2026-09-27T16:28:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
