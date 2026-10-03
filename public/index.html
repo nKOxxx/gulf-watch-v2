@@ -946,12 +946,24 @@
             keyboard: !isMobile
         });
         
-        // Add dark tile layer
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-            attribution: '&copy; CARTO',
-            subdomains: 'abcd',
-            maxZoom: 19
-        }).addTo(map);
+        // Add keyless dark world map (embedded Natural Earth geometry — no tile server, no API key)
+        map.createPane('worldmap');
+        map.getPane('worldmap').style.zIndex = 200;
+        map.getPane('worldmap').style.pointerEvents = 'none';
+        fetch('world.json').then(r => r.json()).then(world => {
+            L.geoJSON(world, {
+                pane: 'worldmap',
+                style: {
+                    color: '#1e3a5f',        // country border
+                    weight: 0.6,
+                    opacity: 0.9,
+                    fillColor: '#0d1b2e',    // land fill — dark navy, darker than ocean
+                    fillOpacity: 1
+                },
+                smoothFactor: 1.2
+            }).addTo(map);
+        });
+        map.getPane('tilePane').style.backgroundColor = '#0a1220'; // ocean — deep navy
         
         // Store markers and incidents
         const markers = {};
