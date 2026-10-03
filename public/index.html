@@ -949,7 +949,80 @@
         // Add keyless dark world map (embedded Natural Earth geometry — no tile server, no API key)
         map.createPane('worldmap');
         map.getPane('worldmap').style.zIndex = 200;
-        map.getPane('worldmap').style.pointerEvents = 'none';
+        const COUNTRY_INFO = {
+            'Saudi Arabia': 'Occupies most of the Arabian Peninsula — the largest state on the Gulf.',
+            'Iran': 'Holds the Gulf\u2019s northern shore and controls the Strait of Hormuz.',
+            'Iraq': 'Links the Levant to the Gulf; only outlet is the Shatt al-Arab at Basra.',
+            'Yemen': 'Southern tip of Arabia; overlooks Bab el-Mandeb and the Gulf of Aden.',
+            'Oman': 'Southeast Arabia; flanks the Strait of Hormuz and the Gulf of Oman.',
+            'United Arab Emirates': 'Federation of seven emirates on the southern Gulf coast.',
+            'Qatar': 'Peninsula jutting into the central Persian Gulf.',
+            'Kuwait': 'Sits at the northwestern head of the Persian Gulf.',
+            'Bahrain': 'Island group in the Persian Gulf, joined to Saudi Arabia by causeway.',
+            'Jordan': 'Landlocked kingdom west of Iraq and south of Syria.',
+            'Israel': 'Eastern Mediterranean coast between Lebanon and Egypt.',
+            'Lebanon': 'Narrow Mediterranean coast north of Israel.',
+            'Syria': 'Levant state between Turkey, Iraq and Jordan.',
+            'Turkey': 'Anatolia — bridge between the Black Sea and the eastern Mediterranean.',
+            'Egypt': 'Northeast Africa; the Suez Canal links the Mediterranean and Red Sea.',
+            'Sudan': 'Red Sea coast south of Egypt.',
+            'Eritrea': 'Red Sea coast facing the Dahlak Archipelago.',
+            'Ethiopia': 'Highland state near the Horn of Africa.',
+            'Somalia': 'Horn of Africa; guards the Gulf of Aden\u2019s southern shore.',
+            'Djibouti': 'Strategic pocket at the Bab el-Mandeb strait.',
+            'Pakistan': 'Arabian Sea coast east of Iran.',
+            'Afghanistan': 'Landlocked state between Iran and Pakistan.',
+            'Cyprus': 'Island in the eastern Mediterranean.',
+            'Libya': 'Mediterranean coast west of Egypt.',
+            'Turkmenistan': 'Caspian shore north of Iran.'
+        };
+        function mapLabel(text, lat, lng, kind, minZoom) {
+            const conf = {
+                country: 'font:600 10px/1 -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;letter-spacing:2.5px;color:rgba(173,196,224,0.72);text-shadow:0 0 6px rgba(2,6,14,0.95),0 0 2px rgba(2,6,14,0.9);',
+                countrySmall: 'font:600 8.5px/1 -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;letter-spacing:1.6px;color:rgba(150,178,208,0.78);text-shadow:0 0 6px rgba(2,6,14,0.95),0 0 2px rgba(2,6,14,0.9);',
+                sea: 'font:italic 500 11px/1 Georgia,serif;letter-spacing:3.5px;color:rgba(64,140,180,0.85);text-shadow:0 0 8px rgba(2,6,14,0.9);',
+                seaSmall: 'font:italic 500 8px/1 Georgia,serif;letter-spacing:2px;color:rgba(64,140,180,0.8);text-shadow:0 0 6px rgba(2,6,14,0.9);'
+            }[kind] || '';
+            const m = L.marker([lat, lng], {
+                pane: 'labelpane', interactive: false, keyboard: false,
+                icon: L.divIcon({ className: '', iconSize: [0, 0],
+                    html: '<div style="position:absolute;transform:translate(-50%,-50%);white-space:nowrap;pointer-events:none;' + conf + '">' + text + '</div>' })
+            });
+            if (minZoom) m._minZ = minZoom;
+            return m;
+        }
+        const labels = [
+            [mapLabel('SAUDI ARABIA', 23.6, 44.3, 'country'), 0],
+            [mapLabel('IRAN', 32.4, 53.7, 'country'), 0],
+            [mapLabel('IRAQ', 32.3, 43.2, 'country'), 0],
+            [mapLabel('YEMEN', 15.4, 47.6, 'country'), 0],
+            [mapLabel('OMAN', 20.4, 56.6, 'country'), 0],
+            [mapLabel('UNITED ARAB EMIRATES', 23.6, 54.6, 'countrySmall'), 0],
+            [mapLabel('QATAR', 25.1, 50.9, 'countrySmall'), 0],
+            [mapLabel('KUWAIT', 29.6, 47.4, 'countrySmall'), 0],
+            [mapLabel('BAHRAIN', 26.28, 50.75, 'countrySmall'), 0],
+            [mapLabel('JORDAN', 31.0, 36.9, 'countrySmall'), 0],
+            [mapLabel('ISRAEL', 31.15, 34.85, 'countrySmall'), 0],
+            [mapLabel('LEBANON', 34.15, 36.0, 'countrySmall'), 0],
+            [mapLabel('SYRIA', 34.9, 38.5, 'country'), 0],
+            [mapLabel('TURKEY', 39.0, 35.0, 'country'), 0],
+            [mapLabel('EGYPT', 26.3, 30.1, 'country'), 0],
+            [mapLabel('SUDAN', 15.6, 30.0, 'country'), 0],
+            [mapLabel('ERITREA', 15.4, 38.9, 'countrySmall'), 0],
+            [mapLabel('ETHIOPIA', 8.6, 39.2, 'country'), 0],
+            [mapLabel('SOMALIA', 6.2, 46.4, 'country'), 0],
+            [mapLabel('DJIBOUTI', 11.9, 42.9, 'countrySmall'), 0],
+            [mapLabel('PAKISTAN', 29.0, 63.6, 'country'), 0],
+            [mapLabel('AFGHANISTAN', 33.6, 66.2, 'country'), 0],
+            [mapLabel('CYPRUS', 35.15, 33.4, 'countrySmall'), 0],
+            [mapLabel('LIBYA', 27.0, 17.5, 'country'), 0],
+            [mapLabel('Persian Gulf', 27.1, 51.6, 'sea'), 0],
+            [mapLabel('Gulf of Oman', 24.6, 58.9, 'sea'), 0],
+            [mapLabel('Arabian Sea', 18.2, 60.5, 'sea'), 0],
+            [mapLabel('RED SEA', 21.0, 38.4, 'sea'), 0],
+            [mapLabel('Gulf of Aden', 12.6, 48.2, 'sea'), 0],
+            [mapLabel('Strait of Hormuz', 26.9, 56.6, 'seaSmall'), 0]
+        ];
         fetch('world.json').then(r => r.json()).then(world => {
             L.geoJSON(world, {
                 pane: 'worldmap',
@@ -960,10 +1033,24 @@
                     fillColor: '#0d1b2e',    // land fill — dark navy, darker than ocean
                     fillOpacity: 1
                 },
-                smoothFactor: 1.2
+                smoothFactor: 1.2,
+                onEachFeature: (f, layer) => {
+                    const name = f.properties.name || '';
+                    layer.on('mouseover', () => layer.setStyle({ fillColor: '#16324f', color: '#3f6f9f', weight: 1.4 }));
+                    layer.on('mouseout', () => layer.setStyle({ fillColor: '#0d1b2e', color: '#1e3a5f', weight: 0.6 }));
+                    layer.bindPopup('<b style="letter-spacing:1px">' + name.toUpperCase() + '</b>' +
+                        (COUNTRY_INFO[name] ? '<br><span style="color:#41576f;font-size:12px">' + COUNTRY_INFO[name] + '</span>' : ''));
+                }
             }).addTo(map);
+            const lp = map.createPane('labelpane');
+            lp.style.zIndex = 350;
+            lp.style.pointerEvents = 'none';
+            labels.forEach(([m, mz]) => { m.addTo(map); m._minZ = mz; });
+            function syncLabels() { labels.forEach(([m, mz]) => { const el = m.getElement(); if (el) el.style.display = map.getZoom() >= m._minZ ? '' : 'none'; }); }
+            map.on('zoomend', syncLabels); syncLabels();
         });
         map.getPane('tilePane').style.backgroundColor = '#0a1220'; // ocean — deep navy
+        map.attributionControl.addAttribution('&middot; Natural Earth (public domain) &middot; Gulf Watch');
         
         // Store markers and incidents
         const markers = {};
