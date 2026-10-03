@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-02T22:15:36.396017+00:00",
+  "generated_at": "2026-10-03T00:44:10.970290+00:00",
   "total_incidents": 58,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1790979177",
+      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+      "published": "2026-10-03T00:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790982117",
+      "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+      "published": "2026-10-02T23:55:24+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c335f9b5c1eb91004a2b778dfde062d2",
+      "title": "One person injured due to debris of missile in #Saudi_Arabia 's Ahad Rafidah  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2106162449204281843",
+      "published": "2026-10-02T23:20:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.2968,
+        "lng": 34.2453
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f36b11566b66d0d09cd3516c1728ea92",
+      "title": "#Yemeni_army neutralize 1,530 Houthi militants  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2106162168492105746",
+      "published": "2026-10-02T23:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3213cae2ac9ddf9c122a0b88242a0021",
+      "title": "#Europe to release a massive amount of diesel oil -- #President_Trump  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2106161769206952343",
+      "published": "2026-10-02T23:17:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1790973744",
       "title": "Israel could\u2019ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
@@ -69,28 +179,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1790975460",
-      "title": "Israeli general: Gaza captives could have been freed a year earlier",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
-      "published": "2026-10-02T21:15:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "264df5c3f56e8f1078249e0eb1983ee4",
       "title": "Palestinian teen killed by Jewish settler gunfire in W. Bank  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -135,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1790974383",
-      "title": "FlyDubai pilot hailed as \u2018national hero\u2019 as he describes attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
-      "published": "2026-10-02T20:54:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=184535",
       "title": "Live Updates: Trump vows Iran war will end \u201cright after the election\u201d or sooner, says   \u201cIran is ready to fold up\u201d",
       "source": "Ya Libnan",
@@ -171,28 +237,6 @@
         "lng": 53.688
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790968915",
-      "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
-      "published": "2026-10-02T20:32:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -590,50 +634,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "358991ab7d4f9c508d7d240df520c306",
-      "title": "#Turkiye strongly condemns an attack by Yemen's Houthi group on civilian infrastructure serving the Prophet's Mosque in #SaudiArabia.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2105963762121355733",
-      "published": "2026-10-02T10:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8bf8bd44a5ead23dd949ec1efa52a844",
-      "title": "#EU urges #Pakistan & #Afghanistan to exercise restraint & engage in dialogue  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2105962864913555615",
-      "published": "2026-10-02T10:07:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
