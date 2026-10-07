@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-07T00:49:10.053604+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-10-07T02:31:09.848884+00:00",
+  "total_incidents": 63,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791338117",
+      "title": "Two Houthi missiles target Yemen\u2019s Aden International Airport",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
+      "published": "2026-10-07T01:59:15+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/07/firing-squad-execution-nidal-hasan/",
+      "title": "Trump orders firing squad execution for gunman who killed 13 people at Fort Hood",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/07/firing-squad-execution-nidal-hasan/",
+      "published": "2026-10-07T01:31:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791335838",
+      "title": "Syrian embassy returns seized passport after 43 years",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
+      "published": "2026-10-07T01:20:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791327511",
+      "title": "Politicians slam Trump\u2019s suggestion that Iran \u2018take\u2019 San Diego, Los Angeles",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+      "published": "2026-10-07T01:07:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791334265",
+      "title": "What\u2019s behind Israel\u2019s growing shift to the right?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss",
+      "published": "2026-10-07T00:58:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791322819",
       "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
@@ -61,28 +171,6 @@
         "lng": 45.0792
       },
       "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791322823",
-      "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
-      "published": "2026-10-06T21:57:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -333,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/06/trump-los-angeles-newsom-san-diego/",
-      "title": "California Governor Newsom says Trump's remarks on Iran striking Los Angeles and San Diego were 'disgusting'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/06/trump-los-angeles-newsom-san-diego/",
-      "published": "2026-10-06T19:17:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/commentisfree/2026/oct/06/the-guardian-view-on-the-green-party-and-palestine-rejecting-two-states-is-no-shortcut-to-peace",
       "title": "The Guardian view on the Green party and Palestine: rejecting two states is no shortcut to peace | Editorial",
       "source": "The Guardian",
@@ -414,28 +480,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/06/hackers-saudi-arabia-cyberattack-world-cup/",
-      "title": "Hackers steal 1.5 million files from Saudi construction firm, cybersecurity group says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/06/hackers-saudi-arabia-cyberattack-world-cup/",
-      "published": "2026-10-06T17:58:55+00:00",
-      "type": "cyber",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -568,28 +612,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/06/sheikh-mansour-bin-zayed-calls-for-innovation-and-resilience-to-boost-worlds-food-security/",
-      "title": "Sheikh Mansour bin Zayed calls for innovation and resilience to boost world's food security",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/06/sheikh-mansour-bin-zayed-calls-for-innovation-and-resilience-to-boost-worlds-food-security/",
-      "published": "2026-10-06T16:48:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
