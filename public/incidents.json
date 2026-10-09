@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-09T00:50:15.990607+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-10-09T02:31:04.772520+00:00",
+  "total_incidents": 63,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+      "title": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+      "published": "2026-10-09T02:28:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791507157",
+      "title": "USS Abraham Lincoln returns after record-breaking deployment",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
+      "published": "2026-10-09T00:57:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791496932",
       "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
@@ -91,28 +135,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791495083",
-      "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
-      "published": "2026-10-08T22:54:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "24f03a9cb0c7b2bf65ecd17c0f0de429",
       "title": "Eight Palestinians martyred in Israeli occupation attacks in #Gaza_Strip  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -128,50 +150,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791494091",
-      "title": "Putin pledges Russia\u2019s support to end US-led war on Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
-      "published": "2026-10-08T22:30:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/07/firing-squad-execution-nidal-hasan/",
-      "title": "Execution for gunman who killed 13 people at US Fort Hood to be broadcast live",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/07/firing-squad-execution-nidal-hasan/",
-      "published": "2026-10-08T22:17:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1227,28 +1205,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport",
-      "title": "Houthi forces appear to make slow advance in south-west Yemen",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport",
-      "published": "2026-10-07T19:45:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
