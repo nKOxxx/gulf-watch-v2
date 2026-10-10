@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-09T22:16:26.334640+00:00",
+  "generated_at": "2026-10-10T00:48:17.102539+00:00",
   "total_incidents": 63,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791585728",
+      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+      "published": "2026-10-10T00:22:52+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791583879",
+      "title": "Iran war live: Kremlin says Trump welcomed Russia\u2019s effort in Iran deal",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+      "published": "2026-10-10T00:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2cdeb33886f282239a039c38113c9c72",
+      "title": "#Yemeni army neutralize 1,400+ Houthi militants.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108702430950998140",
+      "published": "2026-10-09T23:33:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4a4d1d1f18c89111b1aa19c726460c47",
+      "title": "Massive earthquake strikes #Panama, triggers tsunami warnings.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108702188721610875",
+      "published": "2026-10-09T23:32:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791574180",
       "title": "UN envoy warns Yemen has returned to \u2018full-scale war\u2019, urges dialogue",
@@ -125,28 +213,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791570005",
-      "title": "Flydubai co-pilot plotted \u2018suicide\u2019 attack on Israel, UAE says",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
-      "published": "2026-10-09T20:13:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 90,
       "is_government": false,
@@ -333,28 +399,6 @@
       }
     },
     {
-      "id": "b186580a7ca3d6edb4cb89aaebef6a1f",
-      "title": "His Highness the Amir of #Kuwait Sheikh Meshal Al-Ahmad Al-Jaber Al-Sabah sent a cable to his brother King Salman bin Abdulaziz Al Saud, of Saudi Arabia, expressing his sincere condolences and heartfelt sympathy over the martyrdom of three Saudi citizens and the injury of others in the two attacks that targeted King Khaled International Airport  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108633860665659828",
-      "published": "2026-10-09T19:01:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=97969",
       "title": "Ideal Aerosmith debuts \u2018Troublemaker\u2019 for one-way attack",
       "source": "Breaking Defense",
@@ -457,28 +501,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3269ad360f897f2fdc7d31393a4f5cb8",
-      "title": "#Kuwait's Ambassador to #Cyprus Abdullah Al-Turki discuss with Cyprus's Minister of Energy, Commerce, and Industry Michael Damianos ways to boost cooperation in economy, trade, investment, and energy  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108606375194439743",
-      "published": "2026-10-09T17:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -700,28 +722,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fc0a6c8c9ef85ce19a2cc595692b001d",
-      "title": "Secretary General of the Gulf Cooperation Council (GCC) Jasem Al-Budaiwi denounces and condemns the terrorist attack launched by the Houthi militia on King Khalid International Airport in Riyadh, which resulted in a number of deaths  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108542090271494409",
-      "published": "2026-10-09T12:56:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
