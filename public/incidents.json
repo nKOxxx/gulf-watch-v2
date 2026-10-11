@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T16:18:00.749444+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-11T18:20:19.472189+00:00",
+  "total_incidents": 59,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "title": "Middle East crisis live: Riyadh airport reportedly hit again, day after deadly attack that killed 12",
+      "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 \u2013 as it happened",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "published": "2026-10-11T16:16:08+00:00",
+      "published": "2026-10-11T18:03:22+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -17,6 +17,182 @@
         "lng": 46.6753
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791739460",
+      "title": "Is the Yemen war entering a new phase?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
+      "published": "2026-10-11T17:30:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8f84a3e2597c24104ebba702b9986467",
+      "title": "#Bahrain Information Minister Dr. Ramzan Al-Noaimi praises #Kuwait's leading media and cultural role and its contributions to enriching the Gulf media and cultural landscape  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109332339411087826",
+      "published": "2026-10-11T17:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791738769",
+      "title": "Israel pushes its \u2018Yellow Line\u2019 deeper into Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
+      "published": "2026-10-11T17:14:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f36d9ab08b4b2ef2d111708a6dbfde8d",
+      "title": "#Yemen cabinet approves a draft law designating the Houthi militia as a \"terrorist organization\" and criminalizing its activities and financing, and instructed officials to complete relevant constitutional and legal procedures  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109331524147454128",
+      "published": "2026-10-11T17:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/11/riyadh-airport-attacked-again-after-houthi-missile-strike-that-killed-12-and-injured-hundreds/",
+      "title": "Riyadh airport attacked again after Houthi missile strike that killed 13 and injured hundreds",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/11/riyadh-airport-attacked-again-after-houthi-missile-strike-that-killed-12-and-injured-hundreds/",
+      "published": "2026-10-11T17:08:26+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/11/trump-revokes-decades-old-restrictions-on-us-lebanon-flights/",
+      "title": "Trump revokes decades-old restrictions on US-Lebanon flights",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/11/trump-revokes-decades-old-restrictions-on-us-lebanon-flights/",
+      "published": "2026-10-11T17:00:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+      "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+      "published": "2026-10-11T16:49:05+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o#0",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T16:41:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -47,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-      "title": "Riyadh airport hit for second time after deadly Houthi missile attack, Saudi-led coalition says",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-      "published": "2026-10-11T16:11:14+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "74e45000e1d49fcc2fc1d5fb6881e34c",
       "title": "#GCC Secretary General says member states adopt an integrated approach that places environmental protection as a driver of green investment and quality job creation, bolsters their economic competitiveness, and supports transition towards a low-carbon economy  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -84,6 +238,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o#0",
+      "title": "Airport attacks another dangerous moment in already tense conflict",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T15:32:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -113,30 +289,8 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791727126",
-      "title": "Trump says Ukraine and Russia agree to \u2018energy ceasefire\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
-      "published": "2026-10-11T15:10:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/11/live-houthis-riyadh-airport-saudi-houthis/",
-      "title": "Middle East latest: Riyadh airport hit in new strike as countries condemn Houthi attacks",
+      "title": "Middle East latest: Countries condemn Riyadh airport attacks as death toll rises to 13",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/11/live-houthis-riyadh-airport-saudi-houthis/",
       "published": "2026-10-11T14:25:37+00:00",
@@ -149,28 +303,6 @@
         "lng": 46.6753
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791706274",
-      "title": "Why are Houthi missiles breaking through Saudi Arabia\u2019s air defences?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
-      "published": "2026-10-11T14:25:03+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -235,72 +367,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "14a49a33bf392f462b05e7fe34fb1091",
-      "title": "Minister of Foreign Affairs receives a phone call from #Yemen's Minister of Foreign Affairs and Expatriates  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109279820831961379",
-      "published": "2026-10-11T13:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "af7dc765df76856a77ff4c5901b264e6",
-      "title": "#Oman hosts the 8th Safety Enhancement Implementation Group meeting of the International Civil Aviation Organization, as well as the meetings of the National Continuous Monitoring Coordinators  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109279034739712358",
-      "published": "2026-10-11T13:44:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f7a7090b1a26eb61046bdc1673717d4e",
-      "title": "The United Arab Emirates strongly condemns Houthi attacks on King Khalid International Airport in #Saudi Arabia, which killed 12 people of Saudi, Egyptian, Jordanian, Syrian, Palestinian, Sudanese, American and Bangladeshi nationalities and injured hundreds of civilians  #KUNA #UAE",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109278467942473747",
-      "published": "2026-10-11T13:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
       },
       "credibility": 95,
       "is_government": true,
@@ -414,28 +480,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/editorial/2026/10/11/riyadh-airport-saudi-arabia-houthis-iran-middle-east/",
-      "title": "Riyadh attack: Iran cannot distance itself from outsourced Houthi violence",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/10/11/riyadh-airport-saudi-arabia-houthis-iran-middle-east/",
-      "published": "2026-10-11T11:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
