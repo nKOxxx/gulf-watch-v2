@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-12T00:54:38.087092+00:00",
+  "generated_at": "2026-10-12T02:39:57.171189+00:00",
   "total_incidents": 68,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791761104",
+      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+      "published": "2026-10-12T02:11:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 12,
+        "military": 0,
+        "civilian": 12
+      }
+    },
+    {
+      "id": "cd8066e8b6161542142b773db66fa028",
+      "title": "#Coalition forces down missile near #Saudi_Arabia 's Khamis Mushait  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109456385599578491",
+      "published": "2026-10-12T01:29:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=184763",
+      "title": "Russia strikes power plant in Ukraine hours after Trump announces energy ceasefire",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/10/12/russia-strikes-power-plant-in-ukraine-hours-after-trump-announces-energy-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=russia-strikes-power-plant-in-ukraine-hours-after-trump-announces-energy-ceasefire",
+      "published": "2026-10-12T01:24:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791754307",
+      "title": "Iran\u2019s FM urges diplomacy in call with Saudi counterpart",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+      "published": "2026-10-12T00:39:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791756494",
       "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
@@ -245,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791757327",
-      "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
-      "published": "2026-10-11T22:24:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "b2ba9b45c5b8dde2025c69dce6c9e96f",
       "title": "Arab League chief backs Saudi Arabia against Houthi attacks  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -326,28 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791744691",
-      "title": "Two killed near Israeli-occupied area in south Lebanon",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
-      "published": "2026-10-11T20:46:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -502,28 +546,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9434c80e14bc465a7b4540e3c37f411d",
-      "title": "#Bahrain's Oil and Environment Minister and Special Envoy for Climate Affairs, Dr. Mohammad bin Daina, stresses the importance of strengthening Gulf environmental cooperation, protecting natural resources and biodiversity, and advancing sustainable development policies  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109344197530530295",
-      "published": "2026-10-11T18:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -722,28 +744,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=184733",
-      "title": "Abbas postpones Palestinian elections to September 2027, blames Israel and the security situation for the delay",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/10/11/abbas-postpones-palestinian-elections-to-september-2027-blames-israel-and-the-security-situation-for-the-delay/?utm_source=rss&utm_medium=rss&utm_campaign=abbas-postpones-palestinian-elections-to-september-2027-blames-israel-and-the-security-situation-for-the-delay",
-      "published": "2026-10-11T12:19:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 80,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
