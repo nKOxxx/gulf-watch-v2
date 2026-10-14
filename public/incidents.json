@@ -1,22 +1,176 @@
 {
-  "generated_at": "2026-10-14T02:21:45.381492+00:00",
-  "total_incidents": 70,
+  "generated_at": "2026-10-14T04:19:41.064275+00:00",
+  "total_incidents": 72,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/14/there-are-no-dreams-left-families-of-two-sailors-missing-after-drone-attack-off-oman-speak-of-their-grief/",
-      "title": "'There are no dreams left': Families of two sailors missing after drone attack off Oman speak of their grief",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/14/there-are-no-dreams-left-families-of-two-sailors-missing-after-drone-attack-off-oman-speak-of-their-grief/",
-      "published": "2026-10-14T02:00:01+00:00",
-      "type": "drone",
+      "id": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+      "title": "Iranian woman handed death sentence for \u2018blasphemy\u2019 in social media post",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+      "published": "2026-10-14T04:00:44+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Oman",
+        "country": "Saudi Arabia",
         "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/14/aramco-building-on-fire-after-saudi-led-coalition-hits-houthi-site/",
+      "title": "Aramco building attacked after Saudi-led coalition hits Houthi site",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/14/aramco-building-on-fire-after-saudi-led-coalition-hits-houthi-site/",
+      "published": "2026-10-14T03:53:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/14/chinese-companies-seek-gulf-partnerships-as-physical-ai-takes-shape/",
+      "title": "Chinese companies seek Gulf partnerships as physical AI takes shape",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/14/chinese-companies-seek-gulf-partnerships-as-physical-ai-takes-shape/",
+      "published": "2026-10-14T03:44:57+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791941062",
+      "title": "Israel returns 22 stolen ancient artefacts to Greece",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
+      "published": "2026-10-14T03:23:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/live-aramco-fire-houthis-saudi-arabia/",
+      "title": "Saudi Arabia reports fire at Aramco building after missile attack",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/live-aramco-fire-houthis-saudi-arabia/",
+      "published": "2026-10-14T03:17:49+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791947194",
+      "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+      "published": "2026-10-14T03:09:46+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=184815",
+      "title": "U.S.-Iran Live Updates: Saudis launch new strikes on Houthis; Iran-backed group threatens U.S. if it joins in",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/10/14/u-s-iran-live-updates-saudis-launch-new-strikes-on-houthis-iran-backed-group-threatens-u-s-if-it-joins-in/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-iran-live-updates-saudis-launch-new-strikes-on-houthis-iran-backed-group-threatens-u-s-if-it-joins-in",
+      "published": "2026-10-14T03:01:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791945694",
+      "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
+      "published": "2026-10-14T02:45:40+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -135,30 +289,8 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791925599",
-      "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
-      "published": "2026-10-14T00:45:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=184798",
-      "title": "Inside Trump, Netanyahu\u2019s Strike Iran before or after Israeli and US elections",
+      "title": "Inside Trump, Netanyahu\u2019s dilemma Strike  Iran before or after Israeli and US elections",
       "source": "Ya Libnan",
       "source_url": "https://yalibnan.com/2026/10/14/inside-trump-netanyahus-strike-iran-before-or-after-israel-and-us-elections/?utm_source=rss&utm_medium=rss&utm_campaign=inside-trump-netanyahus-strike-iran-before-or-after-israel-and-us-elections",
       "published": "2026-10-14T00:42:01+00:00",
@@ -245,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791928001",
-      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
-      "published": "2026-10-14T00:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/",
       "title": "US Army suspends longtime hometown recruiter assistance program, faces cancellation",
       "source": "Defense News",
@@ -325,28 +435,6 @@
         "lng": 46.6753
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/13/power-grid-emergency-energy-data-center/",
-      "title": "Emergency order by US to 'prevent blackouts' could affect data centres",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/13/power-grid-emergency-energy-data-center/",
-      "published": "2026-10-13T22:09:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -765,28 +853,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/13/saudi-led-coalition-and-houthis-trade-threats-over-oil-installations/",
-      "title": "Saudi-led coalition and Houthis trade threats over oil installations",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/13/saudi-led-coalition-and-houthis-trade-threats-over-oil-installations/",
-      "published": "2026-10-13T18:40:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1357,28 +1423,6 @@
         "city": null,
         "lat": 24.7136,
         "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/oct/12/gulf-new-era-instability-alliances-houthi-rebels-saudi-arabia",
-      "title": "The Gulf has entered a new era of instability. If its leaders think they can rely on old alliances, they are wrong | Nesrine Malik",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/12/gulf-new-era-instability-alliances-houthi-rebels-saudi-arabia",
-      "published": "2026-10-12T06:00:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
