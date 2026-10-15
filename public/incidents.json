@@ -1,22 +1,132 @@
 {
-  "generated_at": "2026-10-15T02:21:48.493088+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-10-15T04:17:58.507195+00:00",
+  "total_incidents": 53,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1792013061",
-      "title": "Ship catches fire in Romania\u2019s waters amid rising attacks in the Black Sea",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss",
-      "published": "2026-10-15T01:20:26+00:00",
-      "type": "naval",
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/15/war-cuts-off-800000-in-taiz-diesel-shortages-to-extend-into-2027-and-gaza-committee-signs-development-deal/",
+      "title": "War cuts off 800,000 in Taiz, diesel shortages to extend into 2027 and Gaza committee signs development deal",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/15/war-cuts-off-800000-in-taiz-diesel-shortages-to-extend-into-2027-and-gaza-committee-signs-development-deal/",
+      "published": "2026-10-15T04:06:38+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Oman",
+        "country": "Palestine",
         "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/15/israel-gadi-eisenkot-profile-netanyahu-election",
+      "title": "Unpolished, anti-Bibi, but evasive on peace: who is the Israeli opposition candidate Gadi Eisenkot?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/15/israel-gadi-eisenkot-profile-netanyahu-election",
+      "published": "2026-10-15T04:00:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792022368",
+      "title": "North Korea tests two submarine-launched missiles, state media reports",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss",
+      "published": "2026-10-15T03:23:49+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/15/live-saudi-arabia-drone-houthis-yemen/",
+      "title": "Middle East latest: Saudi Arabia intercepts Houthi drone in eastern region",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/15/live-saudi-arabia-drone-houthis-yemen/",
+      "published": "2026-10-15T03:21:52+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs/",
+      "title": "Acting US Army secretary creates task force for HVAC repairs",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs/",
+      "published": "2026-10-15T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/15/reconstruction-in-north-east-syria-key-to-refugee-returns-from-iraq-unhcr-official-says/",
+      "title": "Reconstruction in north-east Syria key to refugee returns from Iraq, UNHCR official says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/15/reconstruction-in-north-east-syria-key-to-refugee-returns-from-iraq-unhcr-official-says/",
+      "published": "2026-10-15T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -91,50 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792015226",
-      "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
-      "published": "2026-10-15T00:00:00+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792022070",
-      "title": "US destroys dhow suspected of Iranian command and control",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss",
-      "published": "2026-10-14T23:58:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "42f5841c853fe33d2935e0b81b61d5ee",
       "title": "The National Committee for Combating Money Laundering and Terrorist Financing, chaired by FIU Head Dr. Hamad Al-Makrad, convened to review national efforts aimed at strengthening Kuwait's #AML / #CFT framework. The meeting focused on enhancing inter-agency coordination, streamlining information exchange, and ensuring strict compliance with international standards to protect national financial security.  #Kuwait #KUNA #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -150,28 +216,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792011272",
-      "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
-      "published": "2026-10-14T23:03:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -223,50 +267,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/14/nvidia-uae-saudi-ai-data-centre/",
-      "title": "AI plans 'have not changed' in Middle East despite Iran conflict, Nvidia says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/14/nvidia-uae-saudi-ai-data-centre/",
-      "published": "2026-10-14T20:13:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/14/sally-rooney-can-no-longer-sell-books-in-the-uk-due-to-palestine-action-support/",
-      "title": "Sally Rooney can no longer sell books in the UK due to Palestine Action support",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/14/sally-rooney-can-no-longer-sell-books-in-the-uk-due-to-palestine-action-support/",
-      "published": "2026-10-14T20:08:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/",
       "title": "Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army\u2019s new warfare guidance",
       "source": "Defense News",
@@ -281,28 +281,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/macron-to-visit-uae-on-gulf-tour-next-week/",
-      "title": "Macron to visit UAE on Gulf tour next week",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/macron-to-visit-uae-on-gulf-tour-next-week/",
-      "published": "2026-10-14T19:53:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -521,28 +499,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/land/2026/10/14/oshkosh-adapts-jltv-for-dutch-military-patrol-vehicle/",
-      "title": "Oshkosh adapts JLTV for Dutch military patrol vehicle",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/land/2026/10/14/oshkosh-adapts-jltv-for-dutch-military-patrol-vehicle/",
-      "published": "2026-10-14T16:49:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -1206,28 +1162,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/12/lebanon-last-church-bell-maker-family-tradition",
-      "title": "Lebanon\u2019s only church-bell maker on keeping a 300-year family tradition alive",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/12/lebanon-last-church-bell-maker-family-tradition",
-      "published": "2026-10-12T13:06:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
