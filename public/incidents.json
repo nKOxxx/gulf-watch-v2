@@ -1,23 +1,111 @@
 {
-  "generated_at": "2026-10-17T22:12:28.846663+00:00",
+  "generated_at": "2026-10-18T00:45:30.384243+00:00",
   "total_incidents": 63,
   "incidents": [
     {
-      "id": "https://www.theguardian.com/film/2026/oct/16/jonathan-glazer-says-israels-retaliation-over-naza-more-venal-than-anticipated",
-      "title": "Jonathan Glazer says Israel\u2019s retaliation over NAZA \u2018more venal\u2019 than anticipated",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/film/2026/oct/16/jonathan-glazer-says-israels-retaliation-over-naza-more-venal-than-anticipated",
-      "published": "2026-10-17T21:44:48+00:00",
-      "type": "incident",
+      "id": "https://www.aljazeera.com/?t=1792278671",
+      "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+      "published": "2026-10-18T00:00:11+00:00",
+      "type": "ground",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "Israel",
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T23:52:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792272720",
+      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+      "published": "2026-10-17T23:40:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792271014",
+      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+      "published": "2026-10-17T23:21:57+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b7d500fdc840de500d3ef5571a5ed56b",
+      "title": "#Saudi-led coalition intercepts two ballistic missiles targeting Khamis Mushait.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111593543546413410",
+      "published": "2026-10-17T23:01:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -289,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792260856",
-      "title": "Will the EU come to Ukraine\u2019s rescue in war against Russia?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-      "published": "2026-10-17T19:03:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
       "title": "Israeli settlers attack European diplomats in West Bank",
       "source": "The Guardian",
@@ -325,28 +391,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T18:38:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -524,28 +568,6 @@
       },
       "credibility": 80,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "eacc7abd5f9d36ff8c0af749e882b92e",
-      "title": "United Nations (UN) Resident Coordinator in #Kuwait Ghada Al-Tahir commends #Kuwait's re-election to the Human Rights Council (HRC) for the 2027-2029 term as a renewed responsibility and a significant opportunity to keep contributing to the multilateral system (An interview)  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111396676996833449",
-      "published": "2026-10-17T09:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1360,28 +1382,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo#0",
-      "title": "Global charity withholds report into its role in Syria's 'disappeared' children",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T23:20:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
