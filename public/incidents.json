@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-21T20:15:07.031724+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-21T22:13:51.496711+00:00",
+  "total_incidents": 58,
   "incidents": [
+    {
+      "id": "e5a8b21e5a1f3690a54a37e50537d7c4",
+      "title": "Egyptian President affirms military role limited to defending Saudi Arabia, not attacking Yemen.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113024890026492008",
+      "published": "2026-10-21T21:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f0bfcd1966c3a4cf190e261524b41d39",
+      "title": "Two killed, two injured in drone attack on #Saudi #Aramco's Shaybah oil field.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113024543186911374",
+      "published": "2026-10-21T21:48:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99051",
+      "title": "Air Force needs 1,509 combat-ready jets by 2035, service tells Congress",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress/",
+      "published": "2026-10-21T20:46:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792614680",
+      "title": "Video shows Israeli settler assaulting Palestinian child",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss",
+      "published": "2026-10-21T20:34:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "706e423fff6e8fa99edab0f12a5efc30",
+      "title": "Youth Minister and #Italian envoy discuss expanding bilateral sports cooperation.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113003655351701706",
+      "published": "2026-10-21T20:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/21/saudi-aramco-shaybah-houthi-strike/",
       "title": "Two killed after drone interception in Saudi Arabia",
@@ -47,8 +157,30 @@
       }
     },
     {
+      "id": "https://www.aljazeera.com/?t=1792605826",
+      "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss",
+      "published": "2026-10-21T19:51:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://yalibnan.com/?p=185054",
-      "title": "Israeli military conducts massive \u201cpower projection\u201d near Iran\u2019s border. Netanyahu is determined to over throw its  regime",
+      "title": "Israeli military conducts massive \u201cpower projection\u201d near Iran\u2019s border. Netanyahu is determined to overthrow its  regime",
       "source": "Ya Libnan",
       "source_url": "https://yalibnan.com/2026/10/21/israeli-military-conducts-massive-power-projection-near-irans-border-netanyahu-is-determined-to-over-throw-its-regime/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-military-conducts-massive-power-projection-near-irans-border-netanyahu-is-determined-to-over-throw-its-regime",
       "published": "2026-10-21T19:23:43+00:00",
@@ -81,28 +213,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792584249",
-      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
-      "published": "2026-10-21T18:58:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -487,28 +597,6 @@
       }
     },
     {
-      "id": "f1996a628e8278c305321033d305c6f9",
-      "title": "Commander of the #Kuwait Naval Force, Rear Admiral Saif Al-Hamlan attends the launch of construction for three missile-strike vessels under Al-Dorra Project, in partnership with the #UAE's EDGE Group.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112921255854629040",
-      "published": "2026-10-21T14:57:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=99006",
       "title": "Turkey, Qatar, Indonesia, Pakistan ink defense cooperation MoU",
       "source": "Breaking Defense",
@@ -597,28 +685,6 @@
       }
     },
     {
-      "id": "b2395d040d5cf021af03883ed2eacf1d",
-      "title": "#Kuwait's Minister of Oil & KPC Board Chairman tackles ways to strengthen bilateral relations & cooperation with the ambassadors of the #UK, #France & #Japan to Kuwait in separate meetings.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112909257053970899",
-      "published": "2026-10-21T14:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
       "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
       "source": "The Guardian",
@@ -634,28 +700,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3bb01e34894a8e5ae315549a7945a729",
-      "title": "Assistant Director of the Cybercrime Department reiterates #Kuwait's commitment to developing its security system in fighting cybercrime & enhancing cooperation with Arab countries to tackle cross-border cybercrimes.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112907576304083217",
-      "published": "2026-10-21T14:03:00+00:00",
-      "type": "cyber",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1052,28 +1096,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98909",
-      "title": "Turkish defense procurement spending proposed to rise 229% in 2027",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027/",
-      "published": "2026-10-20T14:46:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
