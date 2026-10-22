@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gulf Watch Globe</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cesium@1.120.0/Build/Cesium/Widgets/widgets.css">
+<style>
+  html,body,#globe{margin:0;height:100%;background:#05080c;font-family:ui-monospace,Menlo,monospace;color:#9fe8c7}
+  .cesium-viewer-bottom,.cesium-viewer-toolbar,.cesium-viewer-animationContainer,.cesium-viewer-timelineContainer,.cesium-viewer-fullscreenContainer{display:none!important}
+  #hud{position:absolute;top:12px;left:12px;background:rgba(5,8,12,.78);border:1px solid #1d3a30;padding:10px 12px;font-size:12px;line-height:1.6;max-width:330px}
+  #hud b{color:#00ff88;letter-spacing:.12em}
+  #hud label{display:block;cursor:pointer}
+  #note{position:absolute;bottom:0;left:0;right:0;padding:6px 12px;font-size:11px;color:#8fb3a3;background:rgba(5,8,12,.7)}
+  #note a{color:#6b8f80}
+</style>
+</head>
+<body>
+<div id="globe"></div>
+<div id="hud">
+  <b>GULF WATCH</b><br>
+  <span id="fl">aircraft: loading…</span><br>
+  <span id="inc">incidents: loading…</span>
+  <label><input type="checkbox" id="tAir" checked> aircraft (OpenSky)</label>
+  <label><input type="checkbox" id="tInc" checked> recorded incidents (country-level)</label>
+</div>
+<div id="note">Aircraft: ADS-B from OpenSky Network (anonymous tier, a snapshot refreshed about every 2 h by the feed workflow, motion between snapshots is extrapolated from speed and track); traffic that broadcasts only, may be incomplete. Incidents: recorded from public RSS feeds, placed by automatic place-name matching, which is sometimes wrong, at the area's centre and NOT at the strike location. Not for navigation or safety use.</div>
+<script src="https://cdn.jsdelivr.net/npm/cesium@1.120.0/Build/Cesium/Cesium.js"></script>
+<script>
+const V = new Cesium.Viewer('globe', {
+  baseLayer: new Cesium.ImageryLayer(new Cesium.OpenStreetMapImageryProvider({ url: 'https://tile.openstreetmap.org/' })),
+  baseLayerPicker:false, geocoder:false, homeButton:false, sceneModePicker:false, navigationHelpButton:false,
+  infoBox:false, selectionIndicator:false, animation:false, timeline:false, fullscreenButton:false
+});
+V.scene.globe.enableLighting = true;
+V.scene.skyAtmosphere.show = true;
+// darken the OSM base so overlays read like a night-ops display
+const l = V.imageryLayers.get(0); l.brightness = 0.55; l.contrast = 1.2; l.saturation = 0.3;
+// Fixed view on the region of interest, Turkey to Oman.
+const REGION = Cesium.Rectangle.fromDegrees(26, 15, 62, 42);
+V.camera.setView({ destination: REGION });
+V.scene.screenSpaceCameraController.minimumZoomDistance = 200000;
+
+const air = new Cesium.PointPrimitiveCollection(); V.scene.primitives.add(air);
+const incDS = new Cesium.CustomDataSource('inc'); V.dataSources.add(incDS);
+
+function altColor(ft){ return ft<5000?Cesium.Color.fromCssColorString('#ffd24a'):ft<25000?Cesium.Color.fromCssColorString('#00ff88'):Cesium.Color.fromCssColorString('#4ac8ff'); }
+let prev = new Map();
+async function pollAir(){
+  try {
+    const r = await fetch('flights.json', { cache: 'no-store' }); if(!r.ok) throw 0;
+    const j = await r.json(); const now = new Map();
+    air.removeAll(); tracks = []; dataTime = j.data_time || Date.now()/1000;
+    for (const a of j.aircraft) {
+      if (a.lon < 22 || a.lon > 66 || a.lat < 10 || a.lat > 46) continue;
+      const h = Math.max(a.alt,0)*0.3048;
+      const p = air.add({ position: Cesium.Cartesian3.fromDegrees(a.lon, a.lat, h), color: altColor(a.alt), pixelSize: a.alt<100?4:7, outlineColor: Cesium.Color.BLACK.withAlpha(.6), outlineWidth:1 });
+      tracks.push({ p, lat:a.lat, lon:a.lon, h, gs:a.gs, track:a.track });
+    }
+    document.getElementById('fl').textContent = 'aircraft: ' + tracks.length + ' · OpenSky snapshot ' + new Date(dataTime*1000).toISOString().slice(11,16) + 'Z, motion extrapolated';
+  } catch(e){ document.getElementById('fl').textContent = 'aircraft: feed unavailable'; }
+}
+pollAir(); setInterval(()=>{ if(document.getElementById('tAir').checked) pollAir(); }, 600000);
+document.getElementById('tAir').onchange = e => { air.show = e.target.checked; };
+
+fetch('incidents.json', { cache: 'no-store' }).then(r=>r.json()).then(d=>{
+  const by = new Map();
+  // The feed script gives incidents with no recognised place a default coordinate and a null country; that is "unlocated", not a place, so it is not plotted.
+  const located = d.incidents.filter(i => (i.location.country || i.location.city) && !(i.location.lat === 25 && i.location.lng === 45));
+  for (const i of located) { const k = i.location.lat+','+i.location.lng; (by.get(k)||by.set(k,{loc:i.location,items:[]}).get(k)).items.push(i); }
+  for (const g of by.values()) {
+    const n = g.items.length, t0 = performance.now();
+    const hot = g.items.some(i=>['missile','attack','drone','explosion'].includes(i.type));
+    const col = hot ? Cesium.Color.fromCssColorString('#ff4a4a') : Cesium.Color.fromCssColorString('#ffb347');
+    incDS.entities.add({
+      position: Cesium.Cartesian3.fromDegrees(g.loc.lng, g.loc.lat),
+      ellipse: { semiMajorAxis: new Cesium.CallbackProperty(()=>60000+((performance.now()-t0)%2500)/2500*(90000+n*12000),false),
+                 semiMinorAxis: new Cesium.CallbackProperty(()=>60000+((performance.now()-t0)%2500)/2500*(90000+n*12000),false),
+                 material: new Cesium.ColorMaterialProperty(new Cesium.CallbackProperty(()=>col.withAlpha(.5*(1-((performance.now()-t0)%2500)/2500)),false)),
+                 height: 0 },
+      point: { pixelSize: 8+Math.min(n,10), color: col },
+      label: { text: (g.loc.city||g.loc.name||g.loc.country)+' ('+n+')', font:'12px monospace', fillColor: Cesium.Color.WHITE, pixelOffset: new Cesium.Cartesian2(0,-22), showBackground:true, backgroundColor: Cesium.Color.BLACK.withAlpha(.6), scaleByDistance: new Cesium.NearFarScalar(1e6,1,1.2e7,.5) }
+    });
+  }
+  const ds = d.incidents.map(i=>i.published).sort();
+  document.getElementById('inc').textContent = 'incidents: ' + located.length + ' plotted, ' + (d.incidents.length - located.length) + ' unlocated · ' + ds[0].slice(0,10) + ' to ' + ds[ds.length-1].slice(0,10) + ' · ' + by.size + ' areas';
+});
+document.getElementById('tInc').onchange = e => { incDS.show = e.target.checked; };
+// Dead-reckon aircraft between 15 s polls so the picture stays alive (speed and track are from the feed).
+let tracks = [], dataTime = Date.now()/1000;
+setInterval(()=>{
+  const dt = Math.min(Date.now()/1000 - dataTime, 1200);  // never extrapolate past 20 min
+  for (const t of tracks) {
+    const d = t.gs*0.514444*dt/6371000, br = t.track*Math.PI/180, la = t.lat*Math.PI/180, lo = t.lon*Math.PI/180;
+    const la2 = Math.asin(Math.sin(la)*Math.cos(d)+Math.cos(la)*Math.sin(d)*Math.cos(br));
+    const lo2 = lo+Math.atan2(Math.sin(br)*Math.sin(d)*Math.cos(la), Math.cos(d)-Math.sin(la)*Math.sin(la2));
+    t.p.position = Cesium.Cartesian3.fromRadians(lo2, la2, t.h);
+  }
+}, 250);
+</script>
+</body>
+</html>

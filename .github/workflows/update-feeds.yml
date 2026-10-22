@@ -35,6 +35,13 @@ jobs:
     - name: Fetch price data
       run: python scripts/fetch_prices.py
       
+    - name: Fetch flight snapshot (keyless, optional)
+      continue-on-error: true
+      env:
+        OPENSKY_USER: ${{ secrets.OPENSKY_USER }}
+        OPENSKY_PASS: ${{ secrets.OPENSKY_PASS }}
+      run: python scripts/fetch_flights.py
+
     - name: Generate missile defense stats
       run: python scripts/generate_missile_stats.py
       
@@ -42,5 +49,5 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add public/incidents.json public/prices.json public/moi_missile_stats.json
+        git add public/incidents.json public/prices.json public/moi_missile_stats.json public/flights.json
         git diff --staged --quiet || (git commit -m "Update incidents, prices, and missile stats from RSS feeds" && git push)
