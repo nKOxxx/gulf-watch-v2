@@ -136,7 +136,7 @@ FEEDS = [
 KEYWORDS = [
     # Direct threats
     'missile', 'rocket', 'attack', 'strike', 'bomb', 'explosion', 'explosive',
-    'intercept', 'air defense', 'patriot', 'thaad', 'iron dome', 'arrow',
+    'intercept', 'interceptor', 'air defense', 'patriot', 'thaad', 'iron dome', 'arrow',
     'hostile', 'drone', 'uav', 'aircraft', 'warplane', 'fighter jet',
     
     # Military activity
@@ -183,6 +183,27 @@ TYPE_KEYWORDS = {
     'ground': ['ground operation', 'infantry', 'tank', 'armor', 'artillery'],
     'raid': ['raid', 'arrest', 'detention', 'apprehension'],
 }
+
+
+# Regional relevance gate. Government/official feeds are local by nature and bypass it; every other feed
+# must name a place or actor from the Turkey-to-Oman region in the title. Left word boundary only, so
+# 'Iranian' and 'Omani' match but 'Romania' does not match 'oman'.
+REGION_TERMS = set(coord_extractor.city_coords) | set(coord_extractor.country_coords) | set(coord_extractor.region_coords) | {
+    'saudi', 'emirates', 'emirati', 'palestinian', 'lebanese', 'syrian', 'yemeni', 'iraqi', 'jordanian', 'egyptian',
+    'kuwaiti', 'qatari', 'bahraini', 'turkish', 'kurdish', 'mideast', 'ghalibaf', 'araghchi', 'pezeshkian', 'gulf', 'hormuz', 'bab el mandeb', 'bab al-mandab', 'sinai', 'golan', 'fujairah',
+    'hezbollah', 'hamas', 'houthi', 'irgc', 'revolutionary guard', 'idf', 'netanyahu', 'khamenei',
+    'turkey', 'türkiye', 'turkiye', 'ankara', 'istanbul', 'kurdistan', 'levant', 'middle east',
+    # Arabic
+    'إيران', 'ايران', 'إسرائيل', 'اسرائيل', 'السعودية', 'الإمارات', 'الامارات', 'الكويت', 'قطر', 'البحرين', 'عمان', 'سلطنة',
+    'اليمن', 'سوريا', 'سورية', 'العراق', 'لبنان', 'غزة', 'فلسطين', 'الأردن', 'الاردن', 'مصر', 'تركيا', 'الحوثي', 'حزب الله',
+    'حماس', 'هرمز', 'الخليج', 'طهران', 'بغداد', 'بيروت', 'دمشق', 'صنعاء', 'دبي', 'أبوظبي', 'الرياض', 'الدوحة', 'مسقط',
+}
+_REGION_RE = re.compile(r"(?<![a-z0-9])(?:" + "|".join(re.escape(t) for t in sorted(REGION_TERMS, key=len, reverse=True)) + ")")
+DROPPED = []  # (source, reason, title); written to $GW_DROPPED_LOG when set, for auditing the filter
+
+
+def is_regional(title: str) -> bool:
+    return _REGION_RE.search(title.lower()) is not None
 
 
 def classify_incident_type(title: str) -> str:
@@ -269,10 +290,22 @@ def extract_location(title: str) -> dict:
     }
 
 
+# Latin keywords match whole words (plus a plural/tense suffix) so 'port' no longer fires on 'report',
+# 'sport' or 'export' and 'oil' not on 'toil'. Arabic keywords keep substring matching.
+# Place and actor names also match their adjective forms (Israeli, Iranian, Palestinian, Lebanese).
+_STEMS = ['iran', 'israel', 'gaza', 'palestin', 'hamas', 'hezbollah', 'houthi', 'yemen', 'syria', 'iraq', 'leban']
+_LATIN = [k for k in KEYWORDS if k.isascii() and k not in ('iran', 'israel', 'gaza', 'palestine', 'hamas', 'hezbollah', 'houthi', 'yemen', 'syria', 'iraq', 'lebanon')]
+_ARABIC = [k for k in KEYWORDS if not k.isascii()]
+_KEYWORD_RE = re.compile(
+    r"(?<![a-z0-9])(?:" + "|".join(re.escape(k) for k in sorted(_LATIN, key=len, reverse=True)) + r")(?:s|es|ed|d|ing)?(?![a-z0-9])"
+    r"|(?<![a-z0-9])(?:" + "|".join(_STEMS) + r")[a-z]{0,5}"
+)
+
+
 def is_security_related(title: str) -> bool:
     """Check if article is security/threat related"""
     text_lower = title.lower()
-    return any(keyword in text_lower for keyword in KEYWORDS)
+    return _KEYWORD_RE.search(text_lower) is not None or any(k in title for k in _ARABIC)
 
 
 def parse_date(entry) -> Optional[datetime]:
@@ -317,6 +350,10 @@ def fetch_single_feed(feed_config: dict) -> List[dict]:
             title = entry.get('title', '')
             
             if not title or not is_security_related(title):
+                continue
+
+            if not (is_gov or tier == 'official') and not is_regional(title):
+                DROPPED.append((name, 'no regional term', title))
                 continue
             
             published = parse_date(entry)
@@ -409,6 +446,11 @@ def main():
         json.dump(output, f, indent=2)
     
     print(f"Saved to public/incidents.json")
+
+    print(f"Dropped by regional filter: {len(DROPPED)}")
+    if os.environ.get('GW_DROPPED_LOG'):
+        with open(os.environ['GW_DROPPED_LOG'], 'w') as f:
+            json.dump([{'source': a, 'reason': b, 'title': c} for a, b, c in DROPPED], f, ensure_ascii=False, indent=1)
     
     if incidents:
         newest = datetime.fromisoformat(incidents[0]['published'])
