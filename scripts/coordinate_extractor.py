@@ -9,6 +9,16 @@ import json
 from typing import Dict, Optional, Tuple
 from difflib import get_close_matches
 
+import re
+
+
+def _starts_word(name: str, text: str) -> bool:
+    """True if `name` appears in `text` starting at a word boundary.
+    Plain substring matching put 'Romania' in Oman ('r-oman-ia'). Only the left edge is anchored so
+    'Iranian' and 'Omani' still match 'iran' and 'oman'."""
+    return re.search(r"(?<![a-z0-9])" + re.escape(name), text) is not None
+
+
 class CoordinateExtractor:
     """
     Extracts or looks up coordinates for Gulf Watch incidents.
@@ -179,7 +189,7 @@ class CoordinateExtractor:
         
         # Check if location contains a known city
         for city, coords in self.city_coords.items():
-            if city in location_lower:
+            if _starts_word(city, location_lower):
                 return {
                     'lat': coords['lat'],
                     'lng': coords['lng'],
@@ -190,7 +200,9 @@ class CoordinateExtractor:
         # Fuzzy match for typos/variants
         words = location_lower.split()
         for word in words:
-            matches = get_close_matches(word, self.city_coords.keys(), n=1, cutoff=0.8)
+            if len(word) < 5:
+                continue  # short words fuzzy-match unrelated cities
+            matches = get_close_matches(word, self.city_coords.keys(), n=1, cutoff=0.85)
             if matches:
                 city = matches[0]
                 coords = self.city_coords[city]
@@ -212,7 +224,7 @@ class CoordinateExtractor:
         
         # Direct match
         for country, coords in self.country_coords.items():
-            if country in location_lower:
+            if _starts_word(country, location_lower):
                 return {
                     'lat': coords['lat'],
                     'lng': coords['lng'],
@@ -222,7 +234,7 @@ class CoordinateExtractor:
         
         # Check region
         for region, coords in self.region_coords.items():
-            if region in location_lower:
+            if _starts_word(region, location_lower):
                 return {
                     'lat': coords['lat'],
                     'lng': coords['lng'],

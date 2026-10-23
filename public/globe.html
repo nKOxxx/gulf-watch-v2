@@ -66,7 +66,7 @@ document.getElementById('tAir').onchange = e => { air.show = e.target.checked; }
 fetch('incidents.json', { cache: 'no-store' }).then(r=>r.json()).then(d=>{
   const by = new Map();
   // The feed script gives incidents with no recognised place a default coordinate and a null country; that is "unlocated", not a place, so it is not plotted.
-  const located = d.incidents.filter(i => (i.location.country || i.location.city) && !(i.location.lat === 25 && i.location.lng === 45));
+  const located = d.incidents.filter(i => i.location.geo_source ? i.location.geo_source !== 'gulf_region_center' : ((i.location.country || i.location.city) && !(i.location.lat === 25 && i.location.lng === 45)));
   for (const i of located) { const k = i.location.lat+','+i.location.lng; (by.get(k)||by.set(k,{loc:i.location,items:[]}).get(k)).items.push(i); }
   for (const g of by.values()) {
     const n = g.items.length, t0 = performance.now();

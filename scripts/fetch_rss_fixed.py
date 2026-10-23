@@ -28,81 +28,108 @@ coord_extractor = CoordinateExtractor()
 # MENA-focused RSS feeds
 FEEDS = [
     # Tier 1 - International
-    {"name": "BBC Middle East", "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", "country": "International", "credibility": 95},
-    {"name": "The Guardian", "url": "https://www.theguardian.com/world/middleeast/rss", "country": "International", "credibility": 90},
-    {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "country": "Qatar", "credibility": 90},
+    {"name": "BBC Middle East", "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", "country": "International", "credibility": 95, "tier": "independent_media"},
+    {"name": "The Guardian", "url": "https://www.theguardian.com/world/middleeast/rss", "country": "International", "credibility": 90, "tier": "independent_media"},
+    {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "country": "Qatar", "credibility": 90, "tier": "independent_media"},
     
     # Tier 2 - Gulf Regional
-    {"name": "The National UAE", "url": "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml", "country": "UAE", "credibility": 85},
+    {"name": "The National UAE", "url": "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml", "country": "UAE", "credibility": 85, "tier": "independent_media"},
     
     # Saudi Arabia
-    {"name": "Arab News", "url": "https://www.arabnews.com/rss.xml", "country": "Saudi Arabia", "credibility": 80},
-    {"name": "Al Riyadh (EN)", "url": "https://www.alriyadh.com/en/rss", "country": "Saudi Arabia", "credibility": 75},
-    {"name": "Saudi Press Agency", "url": "https://www.spa.gov.sa/rss", "country": "Saudi Arabia", "credibility": 85},
+    {"name": "Arab News", "url": "https://www.arabnews.com/rss.xml", "country": "Saudi Arabia", "credibility": 80, "tier": "independent_media"},
+    {"name": "Al Riyadh (EN)", "url": "https://www.alriyadh.com/en/rss", "country": "Saudi Arabia", "credibility": 75, "tier": "independent_media"},
+    {"name": "Saudi Press Agency", "url": "https://www.spa.gov.sa/rss", "country": "Saudi Arabia", "credibility": 85, "tier": "state_media"},
     
     # Bahrain
-    {"name": "Gulf Daily News", "url": "https://www.gdnonline.com/rss", "country": "Bahrain", "credibility": 75},
+    {"name": "Gulf Daily News", "url": "https://www.gdnonline.com/rss", "country": "Bahrain", "credibility": 75, "tier": "independent_media"},
     
     # Oman
-    {"name": "Oman Daily Observer", "url": "https://www.omanobserver.om/rss", "country": "Oman", "credibility": 75},
+    {"name": "Oman Daily Observer", "url": "https://www.omanobserver.om/rss", "country": "Oman", "credibility": 75, "tier": "independent_media"},
     
     # Tier 3 - Israel/Palestine
-    {"name": "Times of Israel", "url": "https://www.timesofisrael.com/feed/", "country": "Israel", "credibility": 85},
-    {"name": "Jerusalem Post", "url": "https://www.jpost.com/Rss/RssFeedsHeadlines.aspx", "country": "Israel", "credibility": 85},
+    {"name": "Times of Israel", "url": "https://www.timesofisrael.com/feed/", "country": "Israel", "credibility": 85, "tier": "independent_media"},
+    {"name": "Jerusalem Post", "url": "https://www.jpost.com/Rss/RssFeedsHeadlines.aspx", "country": "Israel", "credibility": 85, "tier": "independent_media"},
     
     # Tier 4 - Defense/Security
-    {"name": "Defense News", "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", "country": "International", "credibility": 90},
-    {"name": "Breaking Defense", "url": "https://breakingdefense.com/feed/", "country": "International", "credibility": 85},
+    {"name": "Defense News", "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", "country": "International", "credibility": 90, "tier": "specialist"},
+    {"name": "Breaking Defense", "url": "https://breakingdefense.com/feed/", "country": "International", "credibility": 85, "tier": "specialist"},
     
     # Tier 5 - Egypt/Levant
-    {"name": "Egypt Today", "url": "https://www.egypttoday.com/rss", "country": "Egypt", "credibility": 75},
-    {"name": "Ya Libnan", "url": "https://yalibnan.com/feed/", "country": "Lebanon", "credibility": 80},
-    {"name": "Jordan Times", "url": "https://jordantimes.com/rss", "country": "Jordan", "credibility": 75},
+    {"name": "Egypt Today", "url": "https://www.egypttoday.com/rss", "country": "Egypt", "credibility": 75, "tier": "independent_media"},
+    {"name": "Ya Libnan", "url": "https://yalibnan.com/feed/", "country": "Lebanon", "credibility": 80, "tier": "independent_media"},
+    {"name": "Jordan Times", "url": "https://jordantimes.com/rss", "country": "Jordan", "credibility": 75, "tier": "independent_media"},
     
     # Tier 6 - North Africa
-    {"name": "Morocco World News", "url": "https://www.moroccoworldnews.com/feed/", "country": "Morocco", "credibility": 70},
-    {"name": "Tunisia Live", "url": "https://www.tunisia-live.net/feed/", "country": "Tunisia", "credibility": 70},
+    {"name": "Morocco World News", "url": "https://www.moroccoworldnews.com/feed/", "country": "Morocco", "credibility": 70, "tier": "independent_media"},
+    {"name": "Tunisia Live", "url": "https://www.tunisia-live.net/feed/", "country": "Tunisia", "credibility": 70, "tier": "independent_media"},
     
     # Official Government RSS Feeds
-    {"name": "UAE Ministry of Interior", "url": "https://www.moi.gov.ae/en/rss/news.aspx", "country": "UAE", "credibility": 100, "is_government": True},
+    {"name": "UAE Ministry of Interior", "url": "https://www.moi.gov.ae/en/rss/news.aspx", "country": "UAE", "credibility": 100, "is_government": True, "tier": "official"},
 
     # RSS.app Twitter/X Feeds (UAE)
-    {"name": "UAE MOI (RSS.app)", "url": "https://rss.app/feeds/oPyw4FJ41usBjG0c.xml", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "UAE MOD (RSS.app)", "url": "https://rss.app/feeds/5DzID481Msg3w5Go.xml", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "UAE NCEMA (RSS.app)", "url": "https://rss.app/feeds/t0JvfszuALDyg4uh.xml", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "UAE National Guard (RSS.app)", "url": "https://rss.app/feeds/oqxMcPt6uwJ10D0K.xml", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "UAE Media Office (RSS.app)", "url": "https://rss.app/feeds/DKefnWqLQ6ipghtp.xml", "country": "UAE", "credibility": 100, "is_government": True},
-    {"name": "WAM News (RSS.app)", "url": "https://rss.app/feeds/yWxDexVK5P5WlnV9.xml", "country": "UAE", "credibility": 95, "is_government": True},
-    {"name": "Dubai Media Office (RSS.app)", "url": "https://rss.app/feeds/OTlOJkkZ297qnQNn.xml", "country": "UAE", "credibility": 95, "is_government": True},
-    {"name": "Abu Dhabi Civil Defence (RSS.app)", "url": "https://rss.app/feeds/Da5ZvV4gQsJYMJja.xml", "country": "UAE", "credibility": 100, "is_government": True},
+    {"name": "UAE MOI (RSS.app)", "url": "https://rss.app/feeds/oPyw4FJ41usBjG0c.xml", "country": "UAE", "credibility": 100, "is_government": True, "tier": "official"},
+    {"name": "UAE MOD (RSS.app)", "url": "https://rss.app/feeds/5DzID481Msg3w5Go.xml", "country": "UAE", "credibility": 100, "is_government": True, "tier": "official"},
+    {"name": "UAE NCEMA (RSS.app)", "url": "https://rss.app/feeds/t0JvfszuALDyg4uh.xml", "country": "UAE", "credibility": 100, "is_government": True, "tier": "official"},
+    {"name": "UAE National Guard (RSS.app)", "url": "https://rss.app/feeds/oqxMcPt6uwJ10D0K.xml", "country": "UAE", "credibility": 100, "is_government": True, "tier": "official"},
+    {"name": "UAE Media Office (RSS.app)", "url": "https://rss.app/feeds/DKefnWqLQ6ipghtp.xml", "country": "UAE", "credibility": 100, "is_government": True, "tier": "official"},
+    {"name": "WAM News (RSS.app)", "url": "https://rss.app/feeds/yWxDexVK5P5WlnV9.xml", "country": "UAE", "credibility": 95, "is_government": True, "tier": "state_media"},
+    {"name": "Dubai Media Office (RSS.app)", "url": "https://rss.app/feeds/OTlOJkkZ297qnQNn.xml", "country": "UAE", "credibility": 95, "is_government": True, "tier": "official"},
+    {"name": "Abu Dhabi Civil Defence (RSS.app)", "url": "https://rss.app/feeds/Da5ZvV4gQsJYMJja.xml", "country": "UAE", "credibility": 100, "is_government": True, "tier": "official"},
     
     # RSS.app Saudi Arabia
-    {"name": "Saudi MOI (RSS.app)", "url": "https://rss.app/feeds/8Qxm8tjO1nBYaMhl.xml", "country": "Saudi Arabia", "credibility": 100, "is_government": True},
-    {"name": "Saudi Civil Defense (RSS.app)", "url": "https://rss.app/feeds/53nS4uUWlgrreFsJ.xml", "country": "Saudi Arabia", "credibility": 100, "is_government": True},
+    {"name": "Saudi MOI (RSS.app)", "url": "https://rss.app/feeds/8Qxm8tjO1nBYaMhl.xml", "country": "Saudi Arabia", "credibility": 100, "is_government": True, "tier": "official"},
+    {"name": "Saudi Civil Defense (RSS.app)", "url": "https://rss.app/feeds/53nS4uUWlgrreFsJ.xml", "country": "Saudi Arabia", "credibility": 100, "is_government": True, "tier": "official"},
     
     # RSS.app Qatar
-    {"name": "Qatar MOI EN (RSS.app)", "url": "https://rss.app/feeds/RyXjTtNHU7MscSDx.xml", "country": "Qatar", "credibility": 100, "is_government": True},
-    {"name": "Qatar Civil Defence (RSS.app)", "url": "https://rss.app/feeds/Gv74vCuEmr7jMI8S.xml", "country": "Qatar", "credibility": 100, "is_government": True},
-    {"name": "Qatar MOD (RSS.app)", "url": "https://rss.app/feeds/J9LSu9US4gNAoWuG.xml", "country": "Qatar", "credibility": 100, "is_government": True},
-    {"name": "Qatar News Agency (RSS.app)", "url": "https://rss.app/feeds/MbUvCNXci4r8R6tT.xml", "country": "Qatar", "credibility": 95, "is_government": True},
+    {"name": "Qatar MOI EN (RSS.app)", "url": "https://rss.app/feeds/RyXjTtNHU7MscSDx.xml", "country": "Qatar", "credibility": 100, "is_government": True, "tier": "official"},
+    {"name": "Qatar Civil Defence (RSS.app)", "url": "https://rss.app/feeds/Gv74vCuEmr7jMI8S.xml", "country": "Qatar", "credibility": 100, "is_government": True, "tier": "official"},
+    {"name": "Qatar MOD (RSS.app)", "url": "https://rss.app/feeds/J9LSu9US4gNAoWuG.xml", "country": "Qatar", "credibility": 100, "is_government": True, "tier": "official"},
+    {"name": "Qatar News Agency (RSS.app)", "url": "https://rss.app/feeds/MbUvCNXci4r8R6tT.xml", "country": "Qatar", "credibility": 95, "is_government": True, "tier": "state_media"},
     
     # RSS.app Bahrain
-    {"name": "Bahrain MOI (RSS.app)", "url": "https://rss.app/feeds/RGESjvd3KiLouQ1Q.xml", "country": "Bahrain", "credibility": 100, "is_government": True},
+    {"name": "Bahrain MOI (RSS.app)", "url": "https://rss.app/feeds/RGESjvd3KiLouQ1Q.xml", "country": "Bahrain", "credibility": 100, "is_government": True, "tier": "official"},
     
     # RSS.app Kuwait
-    {"name": "Kuwait Fire Force (RSS.app)", "url": "https://rss.app/feeds/WzsZIKALXFycSVCA.xml", "country": "Kuwait", "credibility": 100, "is_government": True},
-    {"name": "KUNA Kuwait (RSS.app)", "url": "https://rss.app/feeds/pMqH90ylFHYmpPF2.xml", "country": "Kuwait", "credibility": 95, "is_government": True},
+    {"name": "Kuwait Fire Force (RSS.app)", "url": "https://rss.app/feeds/WzsZIKALXFycSVCA.xml", "country": "Kuwait", "credibility": 100, "is_government": True, "tier": "official"},
+    {"name": "KUNA Kuwait (RSS.app)", "url": "https://rss.app/feeds/pMqH90ylFHYmpPF2.xml", "country": "Kuwait", "credibility": 95, "is_government": True, "tier": "state_media"},
     
     # RSS.app Oman
-    {"name": "Royal Oman Police (RSS.app)", "url": "https://rss.app/feeds/YHfnfinoL5JV1J7T.xml", "country": "Oman", "credibility": 100, "is_government": True},
+    {"name": "Royal Oman Police (RSS.app)", "url": "https://rss.app/feeds/YHfnfinoL5JV1J7T.xml", "country": "Oman", "credibility": 100, "is_government": True, "tier": "official"},
     
     # RSS.app Israel
-    {"name": "Israel MOD (RSS.app)", "url": "https://rss.app/feeds/ONFaZNztIulPvZDc.xml", "country": "Israel", "credibility": 95, "is_government": True},
-    {"name": "Magen David Adom (RSS.app)", "url": "https://rss.app/feeds/ySovRTttsScjix9r.xml", "country": "Israel", "credibility": 95, "is_government": True},
+    {"name": "Israel MOD (RSS.app)", "url": "https://rss.app/feeds/ONFaZNztIulPvZDc.xml", "country": "Israel", "credibility": 95, "is_government": True, "tier": "official"},
+    {"name": "Magen David Adom (RSS.app)", "url": "https://rss.app/feeds/ySovRTttsScjix9r.xml", "country": "Israel", "credibility": 95, "is_government": True, "tier": "official"},
     
     # RSS.app Iran
-    {"name": "Mehr News (RSS.app)", "url": "https://rss.app/feeds/iBfZthMj9m7d99uN.xml", "country": "Iran", "credibility": 70, "is_government": False},
-    {"name": "Fars News (RSS.app)", "url": "https://rss.app/feeds/9X7fSoVOaiZHtOr6.xml", "country": "Iran", "credibility": 65, "is_government": False},
+    {"name": "Mehr News (RSS.app)", "url": "https://rss.app/feeds/iBfZthMj9m7d99uN.xml", "country": "Iran", "credibility": 70, "is_government": False, "tier": "state_media"},
+    {"name": "Fars News (RSS.app)", "url": "https://rss.app/feeds/9X7fSoVOaiZHtOr6.xml", "country": "Iran", "credibility": 65, "is_government": False, "tier": "state_media"},
+    # Added 2026-10-23 by feed discovery (RSS_DISCOVERY_2026-10-23.md). Each had a post <7 days old when added.
+    # tier: official = government agency/ministry account; state_media = state-run or government-controlled outlet;
+    #       independent_media = privately or publicly owned newsroom; specialist = defence/security specialist outlet.
+    {"name": "SANA (Syria)", "url": "https://sana.sy/feed", "country": "Syria", "credibility": 55, "tier": "state_media"},
+    {"name": "IRNA (Iran)", "url": "https://en.irna.ir/rss", "country": "Iran", "credibility": 60, "tier": "state_media"},
+    {"name": "Mehr News EN", "url": "https://en.mehrnews.com/rss", "country": "Iran", "credibility": 65, "tier": "state_media"},
+    {"name": "Tehran Times", "url": "https://www.tehrantimes.com/rss", "country": "Iran", "credibility": 55, "tier": "state_media"},
+    {"name": "Iraqi News Agency", "url": "https://ina.iq/rssturbo.xml", "country": "Iraq", "credibility": 70, "tier": "state_media"},
+    {"name": "Anadolu Agency", "url": "https://www.aa.com.tr/en/rss/", "country": "Turkey", "credibility": 75, "tier": "state_media"},
+    {"name": "TRT World", "url": "https://www.trtworld.com/feed/rss.xml", "country": "Turkey", "credibility": 70, "tier": "state_media"},
+    {"name": "Daily Sabah", "url": "https://www.dailysabah.com/rss/all", "country": "Turkey", "credibility": 65, "tier": "state_media"},
+    {"name": "Gulf News", "url": "https://gulfnews.com/feed", "country": "UAE", "credibility": 80, "tier": "independent_media"},
+    {"name": "Khaleej Times", "url": "https://www.khaleejtimes.com/api/v1/collections/top-section.rss", "country": "UAE", "credibility": 80, "tier": "independent_media"},
+    {"name": "Emirates 24|7", "url": "https://www.emirates247.com/rss/mobile/v2/flash-news.rss", "country": "UAE", "credibility": 70, "tier": "independent_media"},
+    {"name": "Times of Oman", "url": "https://timesofoman.com/feed/", "country": "Oman", "credibility": 75, "tier": "independent_media"},
+    {"name": "Daily Tribune Bahrain", "url": "https://www.newsofbahrain.com/rss/en.xml", "country": "Bahrain", "credibility": 70, "tier": "independent_media"},
+    {"name": "Asharq Al-Awsat EN", "url": "https://english.aawsat.com/feed", "country": "International", "credibility": 80, "tier": "independent_media"},
+    {"name": "Al-Monitor", "url": "https://www.al-monitor.com/feed", "country": "International", "credibility": 85, "tier": "independent_media"},
+    {"name": "Naharnet", "url": "https://www.naharnet.com/tags/lebanon/en/feed.atom", "country": "Lebanon", "credibility": 75, "tier": "independent_media"},
+    {"name": "France 24 EN", "url": "https://www.france24.com/en/rss", "country": "International", "credibility": 85, "tier": "independent_media"},
+    {"name": "The War Zone", "url": "https://www.twz.com/feed", "country": "International", "credibility": 85, "tier": "specialist"},
+    {"name": "USNI News", "url": "https://news.usni.org/feed", "country": "International", "credibility": 90, "tier": "specialist"},
+    {"name": "Long War Journal", "url": "https://www.longwarjournal.org/feed", "country": "International", "credibility": 80, "tier": "specialist"},
+    {"name": "Sky News Arabia", "url": "https://www.skynewsarabia.com/rss.xml", "country": "UAE", "credibility": 80, "tier": "independent_media"},
+    {"name": "Al Jazeera Arabic", "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9", "country": "Qatar", "credibility": 85, "tier": "independent_media"},
+    {"name": "Asharq Al-Awsat AR", "url": "https://aawsat.com/feed", "country": "International", "credibility": 80, "tier": "independent_media"},
+    {"name": "Oman Al Roya AR", "url": "https://alroya.om/rss/category/all", "country": "Oman", "credibility": 70, "tier": "independent_media"},
 ]
 
 # Security/threat keywords
@@ -135,6 +162,10 @@ KEYWORDS = [
     
     # Diplomatic
     'diplomatic', 'embassy', 'consulate', 'travel warning', 'advisory',
+
+    # Arabic (matched on the original text; titles are not translated)
+    'صاروخ', 'صواريخ', 'هجوم', 'غارة', 'غارات', 'قصف', 'انفجار', 'اعتراض', 'مسيرة', 'مسيّرة', 'دفاع جوي',
+    'الدفاع المدني', 'صفارات', 'إنذار', 'استهداف', 'اشتباك', 'عدوان', 'الحوثي', 'حزب الله', 'مضيق هرمز',
 ]
 
 # Military/civilian keywords for classification
@@ -231,7 +262,10 @@ def extract_location(title: str) -> dict:
         'country': country,
         'city': None,
         'lat': coords['lat'],
-        'lng': coords['lng']
+        'lng': coords['lng'],
+        # 'gulf_region_center' means no place was found and lat/lng is only a default. Consumers must not plot it.
+        'geo_source': coords.get('source'),
+        'geo_approximate': coords.get('approximate', False),
     }
 
 
@@ -267,6 +301,7 @@ def fetch_single_feed(feed_config: dict) -> List[dict]:
     country = feed_config['country']
     credibility = feed_config['credibility']
     is_gov = feed_config.get('is_government', False)
+    tier = feed_config.get('tier', 'independent_media')
     
     incidents = []
     
@@ -317,6 +352,7 @@ def fetch_single_feed(feed_config: dict) -> List[dict]:
                 'location': location,
                 'credibility': credibility,
                 'is_government': is_gov,
+                'tier': tier,
                 'casualties': casualties,
             }
             
