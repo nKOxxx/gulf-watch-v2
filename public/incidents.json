@@ -1,21 +1,196 @@
 {
-  "generated_at": "2026-10-24T02:20:47.803759+00:00",
-  "total_incidents": 139,
+  "generated_at": "2026-10-24T04:16:30.685749+00:00",
+  "total_incidents": 127,
   "incidents": [
     {
-      "id": "fa327389-4313-4c61-80a1-62d3fd1b2a32",
-      "title": "Dubai flight updates: More airlines resume Europe, Asia routes ahead of winter holidays",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/business/aviation/dubai-flight-updates-more-airlines-resume-europe-asia-routes-ahead-of-winter-holidays-1.500721676",
-      "published": "2026-10-24T02:05:00+00:00",
+      "id": "https://www.newsofbahrain.com/en/article/hormuz-ship-attacks-hit-record-high",
+      "title": "Hormuz Ship Attacks Hit Record High",
+      "source": "Daily Tribune Bahrain",
+      "source_url": "https://www.newsofbahrain.com/en/article/hormuz-ship-attacks-hit-record-high",
+      "published": "2026-10-24T04:09:13+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
+        "geo_approximate": true
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792806499",
+      "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-10-24T03:47:14+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 90,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=185153",
+      "title": "Iran War Updates: Trump\u2019s U.N. ambassador says war could last another year as oil prices continue rising",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/10/24/iran-war-updates-trumps-u-n-ambassador-says-war-could-last-another-year-as-oil-prices-continue-rising/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-updates-trumps-u-n-ambassador-says-war-could-last-another-year-as-oil-prices-continue-rising",
+      "published": "2026-10-24T03:47:13+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "UAE",
+        "country": "Iran",
         "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708,
-        "geo_source": "city_lookup:dubai",
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.al-monitor.com/originals/2026/10/israeli-election-nears-campaign-turns-ugly",
+      "title": "As Israeli election nears, campaign turns ugly",
+      "source": "Al-Monitor",
+      "source_url": "https://www.al-monitor.com/originals/2026/10/israeli-election-nears-campaign-turns-ugly",
+      "published": "2026-10-24T03:30:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=185151",
+      "title": "U.S. intel memo warns of \u201cadvanced\u201d Iranian plots to kill officials abroad",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/10/24/u-s-intel-memo-warns-of-advanced-iranian-plots-to-kill-officials-abroad/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-intel-memo-warns-of-advanced-iranian-plots-to-kill-officials-abroad",
+      "published": "2026-10-24T03:27:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=185147",
+      "title": "Saudi missile plant expansion may produce more powerful missiles and alter balance of power",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/10/24/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-and-alter-balance-of-power/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-missile-plant-expansion-may-produce-more-powerful-missiles-and-alter-balance-of-power",
+      "published": "2026-10-24T03:11:21+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/24/overseas-israelis-mobilise-for-change-in-election-that-could-end-netanyahu-era/",
+      "title": "Overseas Israelis mobilise for 'change' in election that could end Netanyahu era",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/24/overseas-israelis-mobilise-for-change-in-election-that-could-end-netanyahu-era/",
+      "published": "2026-10-24T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e8ba33a5-2ee9-4990-a17b-613fd2ecdd63",
+      "title": "Middle East War: Houthi missile targets Riyadh, tankers hit mines near Hormuz",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804",
+      "published": "2026-10-24T02:48:56+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753,
+        "geo_source": "city_lookup:riyadh",
         "geo_approximate": false
       },
       "credibility": 80,
@@ -403,31 +578,6 @@
       }
     },
     {
-      "id": "5332975",
-      "title": "Saudi Foreign Minister, Pakistani Counterpart Condemn Houthi Attacks in Istanbul Talks",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5332975",
-      "published": "2026-10-24T00:25:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.trtworld.com/article/899d5209a0aa",
       "title": "Netanyahu says end of US military support to Israel is 'only a matter of time'",
       "source": "TRT World",
@@ -728,31 +878,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792792784",
-      "title": "Why is Israel increasing its presence in the Balkans?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
-      "published": "2026-10-23T22:01:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 90,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.al-monitor.com/originals/2026/10/florida-trump-vows-deal-cuba-after-iran-gets-settled",
       "title": "In Florida, Trump vows to deal with Cuba after Iran gets settled",
       "source": "Al-Monitor",
@@ -803,31 +928,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792789263",
-      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-      "published": "2026-10-23T21:27:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384,
-        "geo_source": "country_center:jordan",
-        "geo_approximate": true
-      },
-      "credibility": 90,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "e1569034f01ad06c437cba81d6b2ca6c",
       "title": "#US President Donald Trump hints at imminent operation against Iran  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -846,56 +946,6 @@
       "credibility": 95,
       "is_government": true,
       "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bf30732ce862eb5f6399168c8ab43feb",
-      "title": "Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah met with #Kuwait Ambassador to the United States Sheikha Al-Zain Al-Sabah at the Kuwaiti Embassy in Washington  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113741776833937675",
-      "published": "2026-10-23T21:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818,
-        "geo_source": "country_center:kuwait",
-        "geo_approximate": true
-      },
-      "credibility": 95,
-      "is_government": true,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1-1900295",
-      "title": "\u0628\u0639\u062f \u0647\u062c\u0648\u0645 \u0627\u0644\u0643\u0631\u0643.. \u0627\u0644\u0623\u0631\u062f\u0646 \u064a\u062a\u0648\u0639\u062f \"\u0645\u062b\u064a\u0631\u064a \u0627\u0644\u0641\u062a\u0646\u0629 \u0648\u0627\u0644\u062a\u0637\u0631\u0641\"",
-      "source": "Sky News Arabia",
-      "source_url": "https://www.skynewsarabia.com/middle-east/1900295-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D9%83%D8%B1%D9%83-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D8%AA%D9%88%D8%B9%D8%AF-%D9%85%D8%AB%D9%8A%D8%B1%D9%8A-%D8%A7%D9%84%D9%81%D8%AA%D9%86%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D8%B1%D9%81",
-      "published": "2026-10-23T21:05:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -946,31 +996,6 @@
       "credibility": 65,
       "is_government": false,
       "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792775478",
-      "title": "\u2018Generation Right\u2019: Israeli youth show strong support for the right",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
-      "published": "2026-10-23T20:52:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 90,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1328,31 +1353,6 @@
       }
     },
     {
-      "id": "5332876",
-      "title": "Lebanon: Judicial Warrants Target Suspects in Hezbollah Explosives Case",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5332876",
-      "published": "2026-10-23T18:15:00+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623,
-        "geo_source": "country_center:lebanon",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/2026/10/23/pictures-of-the-week-from-show-jumping-at-the-pyramids-to-macron-in-the-gulf/",
       "title": "Pictures of the week: From show jumping at the Pyramids to Macron in the Gulf",
       "source": "The National UAE",
@@ -1366,56 +1366,6 @@
         "lat": 29.0,
         "lng": 48.0,
         "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5332874",
-      "title": "Baghdad Fears Armed Factions Could Join Potential US-Iran War",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5332874",
-      "published": "2026-10-23T18:00:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "geo_source": "city_lookup:baghdad",
-        "geo_approximate": false
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.al-monitor.com/originals/2026/10/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say",
-      "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-      "source": "Al-Monitor",
-      "source_url": "https://www.al-monitor.com/originals/2026/10/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say",
-      "published": "2026-10-23T17:46:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
         "geo_approximate": true
       },
       "credibility": 85,
@@ -1528,31 +1478,6 @@
       }
     },
     {
-      "id": "5332856",
-      "title": "Trump Weighs Quick End to Iran War Against Letting Conflict \u2018Wither\u2019",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5332856",
-      "published": "2026-10-23T17:12:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "b7ccc5e0-cf03-11f1-aaf3-091c22dfd515",
       "title": "Israel: Could Arab parties play kingmaker in the next Knesset ?",
       "source": "France 24 EN",
@@ -1594,31 +1519,6 @@
         "geo_approximate": false
       },
       "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5332854",
-      "title": "300 Saudi Projects to Strengthen Essential Services in Yemen",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5332854",
-      "published": "2026-10-23T17:01:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164,
-        "geo_source": "country_center:yemen",
-        "geo_approximate": true
-      },
-      "credibility": 80,
       "is_government": false,
       "tier": "independent_media",
       "casualties": {
@@ -1678,31 +1578,6 @@
       }
     },
     {
-      "id": "https://www.newsofbahrain.com/en/article/bahrain-condemns-deadly-church-attack-in-jordan",
-      "title": "Bahrain Condemns Deadly Church Attack in Jordan",
-      "source": "Daily Tribune Bahrain",
-      "source_url": "https://www.newsofbahrain.com/en/article/bahrain-condemns-deadly-church-attack-in-jordan",
-      "published": "2026-10-23T16:47:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577,
-        "geo_source": "country_center:bahrain",
-        "geo_approximate": true
-      },
-      "credibility": 70,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "f0a1d4d0-cef6-11f1-ac7e-8f6e4b6af7d6",
       "title": "West Bank: Extensive military operation 'on the way', Netanyahu says",
       "source": "France 24 EN",
@@ -1719,56 +1594,6 @@
         "geo_approximate": true
       },
       "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.newsofbahrain.com/en/article/sainz-casts-doubt-on-f1s-gulf-finale",
-      "title": "Sainz Casts Doubt on F1\u2019s Gulf Finale",
-      "source": "Daily Tribune Bahrain",
-      "source_url": "https://www.newsofbahrain.com/en/article/sainz-casts-doubt-on-f1s-gulf-finale",
-      "published": "2026-10-23T15:55:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 70,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.newsofbahrain.com/en/article/yemen-forces-claim-512-houthi-fighters-killed-in-780-strikes",
-      "title": "Yemen forces claim 512 Houthi fighters killed in 780 strikes",
-      "source": "Daily Tribune Bahrain",
-      "source_url": "https://www.newsofbahrain.com/en/article/yemen-forces-claim-512-houthi-fighters-killed-in-780-strikes",
-      "published": "2026-10-23T15:55:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164,
-        "geo_source": "country_center:yemen",
-        "geo_approximate": true
-      },
-      "credibility": 70,
       "is_government": false,
       "tier": "independent_media",
       "casualties": {
@@ -2221,31 +2046,6 @@
       "credibility": 60,
       "is_government": false,
       "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.newsofbahrain.com/en/article/netanyahu-orders-west-bank-lockdown-amid-rising-security-tensions",
-      "title": "Netanyahu Orders West Bank Lockdown Amid Rising Security Tensions",
-      "source": "Daily Tribune Bahrain",
-      "source_url": "https://www.newsofbahrain.com/en/article/netanyahu-orders-west-bank-lockdown-amid-rising-security-tensions",
-      "published": "2026-10-23T11:57:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9466,
-        "lng": 35.3027,
-        "geo_source": "region:west bank",
-        "geo_approximate": true
-      },
-      "credibility": 70,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2828,81 +2628,6 @@
       }
     },
     {
-      "id": "https://yalibnan.com/?p=185115",
-      "title": "Israel assassinates , Palestinian official in Gaza with links to Hezbollah and IRGC",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/10/23/israel-assassinates-palestinian-official-in-gaza-with-links-to-hezbollah-and-irgc/?utm_source=rss&utm_medium=rss&utm_campaign=israel-assassinates-palestinian-official-in-gaza-with-links-to-hezbollah-and-irgc",
-      "published": "2026-10-23T00:27:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668,
-        "geo_source": "city_lookup:gaza",
-        "geo_approximate": false
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=185102",
-      "title": "Geagea calls for arresting Hezbollah officials linked to the seized explosives",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/10/23/geagea-calls-for-arresting-hezbollah-officials-linked-to-the-seized-explosives/?utm_source=rss&utm_medium=rss&utm_campaign=geagea-calls-for-arresting-hezbollah-officials-linked-to-the-seized-explosives",
-      "published": "2026-10-22T22:51:52+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=185096",
-      "title": "Israel frees from custody 9 out of 10 suspects in 2 settler attacks",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/10/23/israel-frees-from-custody-9-out-of-10-suspects-in-2-settler-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=israel-frees-from-custody-9-out-of-10-suspects-in-2-settler-attacks",
-      "published": "2026-10-22T21:58:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://news.usni.org/?p=126111",
       "title": "October Marks Highest Number of Strait of Hormuz Attacks",
       "source": "USNI News",
@@ -2921,31 +2646,6 @@
       "credibility": 90,
       "is_government": false,
       "tier": "specialist",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=185088",
-      "title": "Israeli settlers steal Palestinians\u2019 olives as attacks on harvest grow more violent",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/10/23/israeli-settlers-steal-palestinians-olives-as-attacks-on-harvest-grow-more-violent/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-settlers-steal-palestinians-olives-as-attacks-on-harvest-grow-more-violent",
-      "published": "2026-10-22T21:03:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
