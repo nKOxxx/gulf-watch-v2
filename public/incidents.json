@@ -1,25 +1,500 @@
 {
-  "generated_at": "2026-10-25T04:17:28.784824+00:00",
-  "total_incidents": 125,
+  "generated_at": "2026-10-25T06:24:36.876131+00:00",
+  "total_incidents": 117,
   "incidents": [
     {
-      "id": "https://en.mehrnews.com/news/248871/Saudi-strikes-martyr-193-in-Yemen-wound-468",
-      "title": "Saudi strikes martyr 193 in Yemen, wound 468",
-      "source": "Mehr News EN",
-      "source_url": "https://en.mehrnews.com/news/248871/Saudi-strikes-martyr-193-in-Yemen-wound-468",
-      "published": "2026-10-25T04:12:41+00:00",
+      "id": "4ef4a4ed-9f81-4761-a353-538d64177fd4",
+      "title": "Etihad Airways extends flight cancellations to Saudi amid Houthi attacks",
+      "source": "Khaleej Times",
+      "source_url": "https://www.khaleejtimes.com/business/etihad-airways-extends-flight-cancellations-to-saudi-amid-hothi-attacks",
+      "published": "2026-10-25T06:08:57+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Saudi Arabia",
         "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164,
-        "geo_source": "country_center:yemen",
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+      "title": "\u2018Gaza\u2019s suffering has become campaign fodder\u2019: Palestinians fear the worst from Israel election",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+      "published": "2026-10-25T06:00:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "geo_source": "city_lookup:gaza",
+        "geo_approximate": false
+      },
+      "credibility": 90,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/",
+      "title": "Saudi Arabia flight cancellations: Which airlines are suspending services and until when?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/",
+      "published": "2026-10-25T05:56:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792,
+        "geo_source": "country_center:saudi arabia",
+        "geo_approximate": true
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://en.irna.ir/news/86302353/Iran-criticizes-Europe-for-contradictory-stances-on-US-Israeli",
+      "title": "Iran criticizes Europe for contradictory stances on US-Israeli aggression",
+      "source": "IRNA (Iran)",
+      "source_url": "https://en.irna.ir/news/86302353/Iran-criticizes-Europe-for-contradictory-stances-on-US-Israeli",
+      "published": "2026-10-25T05:47:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 60,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5333308",
+      "title": "Coalition: Air Defenses Destroy Ballistic Missile Launched by Houthis Toward Riyadh",
+      "source": "Asharq Al-Awsat EN",
+      "source_url": "https://english.aawsat.com/node/5333308",
+      "published": "2026-10-25T05:45:18+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753,
+        "geo_source": "city_lookup:riyadh",
+        "geo_approximate": false
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://alroya.om/post/396797/\u0627\u0639\u062a\u0631\u0627\u0636-\u0648\u062a\u062f\u0645\u064a\u0631-\u0635\u0627\u0631\u0648\u062e-\u0628\u0627\u0644\u064a\u0633\u062a\u064a-\u0628\u0627\u062a\u062c\u0627\u0647-\u0627\u0644\u0631\u064a\u0627\u0636",
+      "title": "\u0627\u0639\u062a\u0631\u0627\u0636 \u0648\u062a\u062f\u0645\u064a\u0631 \u0635\u0627\u0631\u0648\u062e \u0628\u0627\u0644\u064a\u0633\u062a\u064a \u0628\u0627\u062a\u062c\u0627\u0647 \u0627\u0644\u0631\u064a\u0627\u0636",
+      "source": "Oman Al Roya AR",
+      "source_url": "https://alroya.om/post/396797/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D9%88%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%A8%D8%A7%D9%84%D9%8A%D8%B3%D8%AA%D9%8A-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
+      "published": "2026-10-25T05:42:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
+        "geo_approximate": true
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5333306",
+      "title": "Saudi Arabia: Debris from Downing of 2 Ballistic Missiles Falls in the Holy Capital, 3 Regions",
+      "source": "Asharq Al-Awsat EN",
+      "source_url": "https://english.aawsat.com/node/5333306",
+      "published": "2026-10-25T05:39:15+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792,
+        "geo_source": "country_center:saudi arabia",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://en.irna.ir/news/86302320/Iran-to-pursue-gas-talks-with-GECF-member-states-at-Moscow-summit",
+      "title": "Iran to pursue gas talks with GECF member states at Moscow summit",
+      "source": "IRNA (Iran)",
+      "source_url": "https://en.irna.ir/news/86302320/Iran-to-pursue-gas-talks-with-GECF-member-states-at-Moscow-summit",
+      "published": "2026-10-25T05:38:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 60,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5333305",
+      "title": "Saudi Leadership Extends Condolences to Jordan's King over Deadly Church Attack",
+      "source": "Asharq Al-Awsat EN",
+      "source_url": "https://english.aawsat.com/node/5333305",
+      "published": "2026-10-25T05:36:48+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384,
+        "geo_source": "country_center:jordan",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791876702",
+      "title": "Election posters, mass tourism and property: Israel\u2019s footprint in Cyprus",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss",
+      "published": "2026-10-25T05:33:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 90,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced",
+      "title": "Israeli forces raid 400 points in West Bank, 2,200 displaced",
+      "source": "Mehr News EN",
+      "source_url": "https://en.mehrnews.com/news/248885/Israeli-forces-raid-400-points-in-West-Bank-2-200-displaced",
+      "published": "2026-10-25T05:29:04+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
         "geo_approximate": true
       },
       "credibility": 65,
       "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792761502",
+      "title": "Bots, deepfakes and surveillance: Israel\u2019s election goes to war online",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
+      "published": "2026-10-25T05:27:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 90,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5333303",
+      "title": "Riyadh Airport Partially Resumes Operations",
+      "source": "Asharq Al-Awsat EN",
+      "source_url": "https://english.aawsat.com/node/5333303",
+      "published": "2026-10-25T05:23:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753,
+        "geo_source": "city_lookup:riyadh",
+        "geo_approximate": false
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/25/israel-needs-a-dramatic-change-northern-voters-turn-against-netanyahu/",
+      "title": "\u2018Israel needs a dramatic change\u2019: Northern voters turn against Netanyahu",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/25/israel-needs-a-dramatic-change-northern-voters-turn-against-netanyahu/",
+      "published": "2026-10-25T05:18:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://en.mehrnews.com/news/248882/Iran-s-7-day-plan-set-on-Hormuz-not-yet-conveyed-to-US-side",
+      "title": "Iran's 7-day plan set on Hormuz not yet conveyed to US side",
+      "source": "Mehr News EN",
+      "source_url": "https://en.mehrnews.com/news/248882/Iran-s-7-day-plan-set-on-Hormuz-not-yet-conveyed-to-US-side",
+      "published": "2026-10-25T05:11:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 65,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://en.mehrnews.com/news/248878/IRGC-strikes-Komala-base-in-Iraq-s-Balisan",
+      "title": "IRGC strikes Komala base in Iraq's Balisan",
+      "source": "Mehr News EN",
+      "source_url": "https://en.mehrnews.com/news/248878/IRGC-strikes-Komala-base-in-Iraq-s-Balisan",
+      "published": "2026-10-25T04:47:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793,
+        "geo_source": "country_center:iraq",
+        "geo_approximate": true
+      },
+      "credibility": 65,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d23a4f2802718933367e72f4145cbee3",
+      "title": "A senior Iranian lawmaker said in a Hebrew-language post that any action against Iran's security or national interests would make the occupied territories uninhabitable in under an hour.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2114212633326858340",
+      "published": "2026-10-25T04:29:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1-1900460",
+      "title": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u062a\u0639\u0644\u0646 \u062a\u062f\u0645\u064a\u0631 \u0635\u0627\u0631\u0648\u062e \u0628\u0627\u0644\u064a\u0633\u062a\u064a \u0648\u0645\u0633\u064a\u0631\u0629 \u0623\u0637\u0644\u0642\u0647\u0645\u0627 \u0627\u0644\u062d\u0648\u062b\u064a\u0648\u0646",
+      "source": "Sky News Arabia",
+      "source_url": "https://www.skynewsarabia.com/middle-east/1900460-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%A8%D8%A7%D9%84%D9%8A%D8%B3%D8%AA%D9%8A-%D9%88%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A3%D8%B7%D9%84%D9%82%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86",
+      "published": "2026-10-25T04:17:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3c8075b3de9fa3341987eed53afb06ba",
+      "title": "#Coalition forces down ballistic missile in #Riyadh_Region  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114209086539518182",
+      "published": "2026-10-25T04:15:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753,
+        "geo_source": "city_lookup:riyadh",
+        "geo_approximate": false
+      },
+      "credibility": 95,
+      "is_government": true,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e129a986f7348648a2c87cbbe9cb91f0",
+      "title": "#Saudi_civil_defense sounds alarm briefly in #Riyadh  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114208742258475047",
+      "published": "2026-10-25T04:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753,
+        "geo_source": "city_lookup:riyadh",
+        "geo_approximate": false
+      },
+      "credibility": 95,
+      "is_government": true,
       "tier": "state_media",
       "casualties": {
         "total": 0,
@@ -46,6 +521,31 @@
       "credibility": 55,
       "is_government": false,
       "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8c867370-9fda-4574-a3ca-d97f1fbf0d4f",
+      "title": "Riyadh airport resumes flights following Houthi attacks",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/gulf/saudi/riyadh-airport-resumes-flights-following-houthi-attacks-1.500722577",
+      "published": "2026-10-25T04:03:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753,
+        "geo_source": "city_lookup:riyadh",
+        "geo_approximate": false
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -153,33 +653,8 @@
       }
     },
     {
-      "id": "https://en.mehrnews.com/news/248870/Obama-slams-Trump-s-Iran-war-for-driving-up-costs",
-      "title": "Obama slams Trump\u2019s Iran war for driving up costs",
-      "source": "Mehr News EN",
-      "source_url": "https://en.mehrnews.com/news/248870/Obama-slams-Trump-s-Iran-war-for-driving-up-costs",
-      "published": "2026-10-25T03:15:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 65,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "da6eb8fa-ce66-4422-9764-eae97bcb09be",
-      "title": "Sirens sound briefly in Riyadh; King Khalid Airport issues update to passengers",
+      "title": "Etihad Airways cancels flights to Riyadh, Dammam until November 5",
       "source": "Khaleej Times",
       "source_url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-25-2026",
       "published": "2026-10-25T03:14:10+00:00",
@@ -253,31 +728,6 @@
       }
     },
     {
-      "id": "https://en.mehrnews.com/news/248869/Drone-strikes-anti-Iran-groups-positions-in-Iraq-s-Kurdistan",
-      "title": "Drone strikes anti-Iran groups positions in Iraq's Kurdistan",
-      "source": "Mehr News EN",
-      "source_url": "https://en.mehrnews.com/news/248869/Drone-strikes-anti-Iran-groups-positions-in-Iraq-s-Kurdistan",
-      "published": "2026-10-25T03:09:19+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 65,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.trtworld.com/article/9445c3f5acc7",
       "title": "Israel admits forcibly displacing 2,000 Palestinians from Hebron in occupied West Bank",
       "source": "TRT World",
@@ -328,31 +778,6 @@
       }
     },
     {
-      "id": "https://en.mehrnews.com/news/248868/Iran-to-make-Israel-uninhabitable-in-under-an-hour",
-      "title": "Iran to make Israel uninhabitable in under an hour",
-      "source": "Mehr News EN",
-      "source_url": "https://en.mehrnews.com/news/248868/Iran-to-make-Israel-uninhabitable-in-under-an-hour",
-      "published": "2026-10-25T03:02:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 65,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3dea8964beb8a426aaa1cd93ecb86579",
       "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Riyadh City to alert of a potential danger. Please follow the instructions below:",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -379,11 +804,11 @@
     },
     {
       "id": "9fe1f7a8-c7c1-4132-b3cf-5cdaf3041ac0",
-      "title": "Middle East war: Riyadh drone intercepted as King Khalid International Airport announces resumption of operations at T1, T2",
+      "title": "Middle East war: Drone, missile intercepted over Riyadh as King Khalid Airport resumes operations",
       "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-drone-intercepted-as-king-khalid-international-airport-announces-resumption-of-operations-at-t1-t2-1.500722685",
+      "source_url": "https://gulfnews.com/world/mena/middle-east-war-drone-missile-intercepted-over-riyadh-as-king-khalid-airport-resumes-operations-1.500722685",
       "published": "2026-10-25T02:59:25+00:00",
-      "type": "drone",
+      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": "Saudi Arabia",
@@ -478,81 +903,6 @@
       }
     },
     {
-      "id": "5333292",
-      "title": "\u0645\u0639\u0627\u0631\u0643 \u062a\u0639\u0632 \u062a\u0635\u062f\u0651 \u0632\u062d\u0641 \u0627\u0644\u062d\u0648\u062b\u064a\u064a\u0646",
-      "source": "Asharq Al-Awsat AR",
-      "source_url": "https://aawsat.com/node/5333292",
-      "published": "2026-10-25T01:18:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f779476f-b0c1-4729-a0a9-eee7d2c1e46b",
-      "title": "US-Iran showdown: 7 warning signs Washington fears a wider conflict",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/mena/us-iran-showdown-7-warning-signs-washington-fears-a-wider-conflict-2-1.500722602",
-      "published": "2026-10-25T01:07:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5333290",
-      "title": "\u00ab\u062d\u0632\u0628 \u0627\u0644\u0644\u0647\u00bb \u064a\u062a\u0639\u0647\u062f \u0639\u062f\u0645 \u0625\u0633\u0646\u0627\u062f \u0625\u064a\u0631\u0627\u0646",
-      "source": "Asharq Al-Awsat AR",
-      "source_url": "https://aawsat.com/node/5333290",
-      "published": "2026-10-25T00:59:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.net/?t=1792894737",
       "title": "\u0648\u0627\u0634\u0646\u0637\u0646 \u062a\u062a\u0623\u0647\u0628 \u0644\u0648\u062c\u0648\u062f \u0645\u062e\u0637\u0637\u0627\u062a \u0625\u064a\u0631\u0627\u0646\u064a\u0629 \u0644\u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u062f\u0628\u0644\u0648\u0645\u0627\u0633\u064a\u064a\u0646 \u0623\u0645\u0631\u064a\u0643\u064a\u064a\u0646",
       "source": "Al Jazeera Arabic",
@@ -594,31 +944,6 @@
         "geo_approximate": false
       },
       "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792880133",
-      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
-      "published": "2026-10-25T00:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 90,
       "is_government": false,
       "tier": "independent_media",
       "casualties": {
@@ -796,31 +1121,6 @@
       "credibility": 95,
       "is_government": true,
       "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1-1900427",
-      "title": "\u0643\u0627\u062a\u0633 \u064a\u0646\u0641\u064a \u0627\u0644\u062a\u062d\u0636\u064a\u0631 \u0644\u0647\u062c\u0648\u0645 \u0639\u0644\u0649 \u0625\u064a\u0631\u0627\u0646 \u0648\u064a\u0624\u0643\u062f \u0631\u0641\u0639 \u0627\u0644\u062a\u0623\u0647\u0628 \u0627\u0644\u0639\u0633\u0643\u0631\u064a",
-      "source": "Sky News Arabia",
-      "source_url": "https://www.skynewsarabia.com/middle-east/1900427-%D9%83%D8%A7%D8%AA%D8%B3-%D9%8A%D9%86%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D8%A8-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A",
-      "published": "2026-10-24T22:45:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1028,31 +1328,6 @@
       }
     },
     {
-      "id": "https://www.trtworld.com/article/038f5b21fc04",
-      "title": "Turkish court orders probe into nationals over involvement in Gaza flotilla abuse",
-      "source": "TRT World",
-      "source_url": "https://www.trtworld.com/article/038f5b21fc04",
-      "published": "2026-10-24T20:09:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668,
-        "geo_source": "city_lookup:gaza",
-        "geo_approximate": false
-      },
-      "credibility": 70,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://en.irna.ir/news/86302216/Exclusive-Baqaei-Regional-meetings-must-addres-root-causes",
       "title": "Exclusive | Baqaei: Regional meetings must address root causes of insecurity in Persian Gulf and Strait of Hormuz",
       "source": "IRNA (Iran)",
@@ -1069,56 +1344,6 @@
         "geo_approximate": true
       },
       "credibility": 60,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://en.mehrnews.com/news/248867/Iran-start-FIFA-U15-World-Cup-Festival-2026-on-high",
-      "title": "Iran start FIFA U15 World Cup & Festival 2026 on high",
-      "source": "Mehr News EN",
-      "source_url": "https://en.mehrnews.com/news/248867/Iran-start-FIFA-U15-World-Cup-Festival-2026-on-high",
-      "published": "2026-10-24T19:46:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 65,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://en.mehrnews.com/news/248865/Iran-finishes-sixth-at-Nagoya-Asian-Para-Games",
-      "title": "Iran finishes sixth at Nagoya Asian Para Games",
-      "source": "Mehr News EN",
-      "source_url": "https://en.mehrnews.com/news/248865/Iran-finishes-sixth-at-Nagoya-Asian-Para-Games",
-      "published": "2026-10-24T19:21:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 65,
       "is_government": false,
       "tier": "state_media",
       "casualties": {
@@ -1278,31 +1503,6 @@
       }
     },
     {
-      "id": "e9aed644db53772457f10710363a2c58",
-      "title": "Saudi General Directorate of Civil Defense announced that fragments and interception debris from two ballistic missiles launched by the terrorist Houthi militia fell across several locations within the Makkah and Medina administrative regions  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114061292688261338",
-      "published": "2026-10-24T18:27:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692,
-        "geo_source": "city_lookup:medina",
-        "geo_approximate": false
-      },
-      "credibility": 95,
-      "is_government": true,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://en.irna.ir/news/86302174/Sanaa-Massacre-of-Yemeni-people-will-not-deter-them-from-reclaiming",
       "title": "Sanaa: Massacre of Yemeni people will not deter them from reclaiming their rights",
       "source": "IRNA (Iran)",
@@ -1378,31 +1578,6 @@
       }
     },
     {
-      "id": "https://en.mehrnews.com/news/248863/IRGC-warns-apocalyptic-war-will-reverberate-beyond-Iran",
-      "title": "IRGC warns \u2018apocalyptic war\u2019 will reverberate beyond Iran",
-      "source": "Mehr News EN",
-      "source_url": "https://en.mehrnews.com/news/248863/IRGC-warns-apocalyptic-war-will-reverberate-beyond-Iran",
-      "published": "2026-10-24T17:41:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 65,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "b7d9fd78ecc4858b29f31c2e26d62105",
       "title": ". Abu Dhabi Future Energy Company PJSC \u2013 Masdar has signed an agreement to acquire and develop one of Greece\u2019s largest s...",
       "source": "WAM News (RSS.app)",
@@ -1417,56 +1592,6 @@
         "lng": 54.3773,
         "geo_source": "city_lookup:abu dhabi",
         "geo_approximate": false
-      },
-      "credibility": 95,
-      "is_government": true,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "472075e3561e023d2648652d59cb7b7e",
-      "title": "His Highness #Kuwait's Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah sends a cable of condolences to King Abdullah II of the Hashemite Kingdom of Jordan, expressing sincere condolences and deepest sympathy for the victims of the attack that targeted a church in Karak Governorate  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114044716941545633",
-      "published": "2026-10-24T17:21:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818,
-        "geo_source": "country_center:kuwait",
-        "geo_approximate": true
-      },
-      "credibility": 95,
-      "is_government": true,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "dc7ffe01450372df2748a8f680d25e9c",
-      "title": "His Highness the Crown Prince sends a cable of condolences to King Abdullah II of the Hashemite Kingdom of Jordan, expressing sincere condolences and deepest sympathy for the victims of the attack that targeted a church in Karak Governorate  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114044417195602289",
-      "published": "2026-10-24T17:20:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384,
-        "geo_source": "country_center:jordan",
-        "geo_approximate": true
       },
       "credibility": 95,
       "is_government": true,
@@ -1504,31 +1629,6 @@
     },
     {
       "id": "4ef910a75a64db2e137f1b1b1baec6f5",
-      "title": "RT by @MOISaudiArabia: #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a : \u0633\u0642\u0648\u0637 \u0634\u0638\u0627\u064a\u0627 \u0627\u0639\u062a\u0631\u0627\u0636 \u0635\u0627\u0631\u0648\u062e\u064a\u0646 \u0628\u0627\u0644\u064a\u0633\u062a\u064a\u064a\u0646 \u0623\u0637\u0644\u0642\u062a\u0647\u0645\u0627 \u0627\u0644\u0645\u064a\u0644\u064a\u0634\u064a\u0627 \u0627\u0644\u062d\u0648\u062b\u064a\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u0629 \u0628\u0627\u062a\u062c\u0627\u0647 \u0645\u0646\u0637\u0642\u062a\u064a \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629 \u0648\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629.",
-      "source": "Saudi MOI (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2114041488480801021",
-      "published": "2026-10-24T17:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 100,
-      "is_government": true,
-      "tier": "official",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4ef910a75a64db2e137f1b1b1baec6f5",
       "title": "#\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a : \u0633\u0642\u0648\u0637 \u0634\u0638\u0627\u064a\u0627 \u0627\u0639\u062a\u0631\u0627\u0636 \u0635\u0627\u0631\u0648\u062e\u064a\u0646 \u0628\u0627\u0644\u064a\u0633\u062a\u064a\u064a\u0646 \u0623\u0637\u0644\u0642\u062a\u0647\u0645\u0627 \u0627\u0644\u0645\u064a\u0644\u064a\u0634\u064a\u0627 \u0627\u0644\u062d\u0648\u062b\u064a\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u0629 \u0628\u0627\u062a\u062c\u0627\u0647 \u0645\u0646\u0637\u0642\u062a\u064a \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629 \u0648\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629.",
       "source": "Saudi Civil Defense (RSS.app)",
       "source_url": "https://x.com/SaudiDCD/status/2114041488480801021",
@@ -1553,24 +1653,24 @@
       }
     },
     {
-      "id": "https://en.mehrnews.com/news/248862/Iraq-resistance-vows-to-side-with-Iran-in-case-of-renewed-war",
-      "title": "Iraq resistance vows to side with Iran in case of renewed war",
-      "source": "Mehr News EN",
-      "source_url": "https://en.mehrnews.com/news/248862/Iraq-resistance-vows-to-side-with-Iran-in-case-of-renewed-war",
-      "published": "2026-10-24T17:03:45+00:00",
+      "id": "4ef910a75a64db2e137f1b1b1baec6f5",
+      "title": "RT by @MOISaudiArabia: #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a : \u0633\u0642\u0648\u0637 \u0634\u0638\u0627\u064a\u0627 \u0627\u0639\u062a\u0631\u0627\u0636 \u0635\u0627\u0631\u0648\u062e\u064a\u0646 \u0628\u0627\u0644\u064a\u0633\u062a\u064a\u064a\u0646 \u0623\u0637\u0644\u0642\u062a\u0647\u0645\u0627 \u0627\u0644\u0645\u064a\u0644\u064a\u0634\u064a\u0627 \u0627\u0644\u062d\u0648\u062b\u064a\u0629 \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u0629 \u0628\u0627\u062a\u062c\u0627\u0647 \u0645\u0646\u0637\u0642\u062a\u064a \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629 \u0648\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629.",
+      "source": "Saudi MOI (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2114041488480801021",
+      "published": "2026-10-24T17:09:00+00:00",
       "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
-        "country": "Iran",
+        "country": "Saudi Arabia",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
         "geo_approximate": true
       },
-      "credibility": 65,
-      "is_government": false,
-      "tier": "state_media",
+      "credibility": 100,
+      "is_government": true,
+      "tier": "official",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1653,31 +1753,6 @@
       }
     },
     {
-      "id": "5333164",
-      "title": "Baghdad Suspects Israel Targeted Chinese Air Defense Systems Held by Iraqi Factions",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5333164",
-      "published": "2026-10-24T15:09:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "geo_source": "city_lookup:baghdad",
-        "geo_approximate": false
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.emirates247.com/uae/uae-president-sheikh-mohamed-bin-zayed-condoles-jordans-king-abdullah-ii-after-karak-church-attack/7098",
       "title": "UAE President offers condolences to King of Jordan following church attack in Karak",
       "source": "Emirates 24|7",
@@ -1694,31 +1769,6 @@
         "geo_approximate": true
       },
       "credibility": 70,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5333155",
-      "title": "Israeli Forces Displace Hebron Families after Deadly Attack",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5333155",
-      "published": "2026-10-24T14:34:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 80,
       "is_government": false,
       "tier": "independent_media",
       "casualties": {
@@ -1746,31 +1796,6 @@
       "credibility": 60,
       "is_government": false,
       "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5333149",
-      "title": "Iran's Pezeshkian Blames US for Interim Deal Failure, Urges New Try",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5333149",
-      "published": "2026-10-24T14:26:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1878,56 +1903,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/24/jordan-christians-church/",
-      "title": "Deadly church attack shocks Jordan's deep-rooted Christian community",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/24/jordan-christians-church/",
-      "published": "2026-10-24T13:14:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384,
-        "geo_source": "country_center:jordan",
-        "geo_approximate": true
-      },
-      "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/24/sheikh-khaled-meets-emirati-military-students-on-official-visit-to-greece/",
-      "title": "Sheikh Khaled meets Emirati military students on official visit to Greece",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/24/sheikh-khaled-meets-emirati-military-students-on-official-visit-to-greece/",
-      "published": "2026-10-24T12:48:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5b55b540abc2933edf7715d99466464b",
       "title": ". The sixth aircraft carrying humanitarian aid under the Ahmed bin Rashid Humanitarian Bridge departed Saturday, bringin...",
       "source": "WAM News (RSS.app)",
@@ -1945,31 +1920,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://en.irna.ir/news/86301924/Russia-rejects-claims-of-evacuating-staff-nuclear-plant-specialists",
-      "title": "Russia rejects claims of evacuating staff, nuclear plant specialists from Iran",
-      "source": "IRNA (Iran)",
-      "source_url": "https://en.irna.ir/news/86301924/Russia-rejects-claims-of-evacuating-staff-nuclear-plant-specialists",
-      "published": "2026-10-24T12:13:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 60,
-      "is_government": false,
       "tier": "state_media",
       "casualties": {
         "total": 0,
@@ -2053,31 +2003,6 @@
       }
     },
     {
-      "id": "https://en.irna.ir/news/86301776/Removing-export-barriers-to-Iraq-Pakistan-Afghanistan-on-agenda",
-      "title": "Removing export barriers to Iraq, Pakistan, Afghanistan on agenda: Deputy FM",
-      "source": "IRNA (Iran)",
-      "source_url": "https://en.irna.ir/news/86301776/Removing-export-barriers-to-Iraq-Pakistan-Afghanistan-on-agenda",
-      "published": "2026-10-24T09:40:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793,
-        "geo_source": "country_center:iraq",
-        "geo_approximate": true
-      },
-      "credibility": 60,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ab3a3b7fd87d7e47c351ab400f6a106b",
       "title": "Hamdan bin Mohammed: We announce that the Dubai-it Award for Projects in the Business Category goes to FIX Dessert, which introduced \u2018Dubai Chocolate\u2019 to the world. Sarah Hamouda and Yezen Alani transformed a home-based business in Dubai into a global success. Sales of Dubai-style chocolate surged by 1,234% in one year, and today, these products are sold in markets around the world and at more than 100 airports. This is the spirit of Dubai-it: transforming a simple home-based business into a global success. Congratulations to the FIX Dessert team.",
       "source": "Dubai Media Office (RSS.app)",
@@ -2121,31 +2046,6 @@
       "credibility": 95,
       "is_government": true,
       "tier": "official",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://en.irna.ir/photo/86301717/In-photos-Iran-launches-population-and-housing-census",
-      "title": "In photos: Iran launches population and housing census",
-      "source": "IRNA (Iran)",
-      "source_url": "https://en.irna.ir/photo/86301717/In-photos-Iran-launches-population-and-housing-census",
-      "published": "2026-10-24T09:25:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 60,
-      "is_government": false,
-      "tier": "state_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2291,31 +2191,6 @@
         "lat": 32.4279,
         "lng": 53.688,
         "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "aa7428d5-feda-40be-8f7d-9ca15a9b0110",
-      "title": "Saudi intercepts two ballistic missiles, shrapnel falls in Makkah",
-      "source": "Khaleej Times",
-      "source_url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-24-2026",
-      "published": "2026-10-24T03:19:26+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
         "geo_approximate": true
       },
       "credibility": 80,
@@ -2878,31 +2753,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
-      "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
-      "published": "2026-10-22T16:39:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 90,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo#0",
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "source": "BBC Middle East",
@@ -2919,31 +2769,6 @@
         "geo_approximate": true
       },
       "credibility": 95,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
-      "title": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
-      "published": "2026-10-22T15:03:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 90,
       "is_government": false,
       "tier": "independent_media",
       "casualties": {
@@ -3096,31 +2921,6 @@
       "credibility": 100,
       "is_government": true,
       "tier": "official",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o#0",
-      "title": "How Arab parties could hold critical balance of power in Israeli election",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T05:30:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 95,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
