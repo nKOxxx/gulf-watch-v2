@@ -1,13 +1,438 @@
 {
-  "generated_at": "2026-10-28T00:32:56.743866+00:00",
-  "total_incidents": 114,
+  "generated_at": "2026-10-28T02:16:43.400126+00:00",
+  "total_incidents": 126,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "title": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
+      "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-28T00:29:26+00:00",
+      "published": "2026-10-28T02:13:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 90,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5334491",
+      "title": "\u00ab\u0627\u0644\u062a\u062d\u0627\u0644\u0641\u00bb \u064a\u062f\u0645\u0631 5 \u0635\u0648\u0627\u0631\u064a\u062e \u0628\u0627\u0644\u064a\u0633\u062a\u064a\u0629  \u0623\u0637\u0644\u0642\u0647\u0627 \u0627\u0644\u062d\u0648\u062b\u064a\u0648\u0646 \u0628\u0627\u062a\u062c\u0627\u0647 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+      "source": "Asharq Al-Awsat AR",
+      "source_url": "https://aawsat.com/node/5334491",
+      "published": "2026-10-28T02:02:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a66cb605-accc-4523-9b88-4a55bf88aca7",
+      "title": "Full list of UAE beach closures in Sharjah, Ras Al Khaimah and Umm Al Quwain and reasons including oil spill",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/uae/full-list-of-uae-beach-closures-in-sharjah-ras-al-khaimah-and-umm-al-quwain-and-reasons-including-oil-spill-1.500726128",
+      "published": "2026-10-28T02:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.3463,
+        "lng": 55.4209,
+        "geo_source": "city_lookup:sharjah",
+        "geo_approximate": false
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2eddff16-b39e-41b3-904d-6dc8e8e233fc",
+      "title": "Bought property in UAE? India\u2019s tax alert raises questions for expats",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/business/property/bought-property-in-uae-indias-tax-alert-raises-questions-for-expats-1.500726205",
+      "published": "2026-10-28T02:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478,
+        "geo_source": "country_center:uae",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "24c9ff04-d3d0-43a2-b3b7-43601354b225",
+      "title": "Dubai Police drones can reach emergency scenes before patrols: Inside the 999 control room",
+      "source": "Khaleej Times",
+      "source_url": "https://www.khaleejtimes.com/uae/dubai-police-drones-emergency-scenes-patrols-999-control-room",
+      "published": "2026-10-28T02:00:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708,
+        "geo_source": "city_lookup:dubai",
+        "geo_approximate": false
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "acc0215b-90e2-454b-ab0a-09776e36fe11",
+      "title": "Breakthrough or pressure? Tehran talks split Iranian voices",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/mena/breakthrough-or-pressure-tehran-talks-split-iranian-voices-1.500726287",
+      "published": "2026-10-28T01:52:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389,
+        "geo_source": "city_lookup:tehran",
+        "geo_approximate": false
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.al-monitor.com/originals/2026/10/us-costs-iran-war-rise-over-47-billion-according-pentagon-estimate",
+      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
+      "source": "Al-Monitor",
+      "source_url": "https://www.al-monitor.com/originals/2026/10/us-costs-iran-war-rise-over-47-billion-according-pentagon-estimate",
+      "published": "2026-10-28T01:46:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.al-monitor.com/originals/2026/10/tight-israel-vote-both-camps-hold-out-cautious-hope",
+      "title": "In tight Israel vote, both camps hold out cautious hope",
+      "source": "Al-Monitor",
+      "source_url": "https://www.al-monitor.com/originals/2026/10/tight-israel-vote-both-camps-hold-out-cautious-hope",
+      "published": "2026-10-28T01:30:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.al-monitor.com/originals/2026/10/palestinian-activist-khalil-returns-columbia-after-us-detention",
+      "title": "Palestinian activist Khalil returns to Columbia after US detention",
+      "source": "Al-Monitor",
+      "source_url": "https://www.al-monitor.com/originals/2026/10/palestinian-activist-khalil-returns-columbia-after-us-detention",
+      "published": "2026-10-28T01:30:33+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
+        "geo_approximate": true
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c7f2735c-4e0d-4ecb-a3d7-83dc39288edc",
+      "title": "Iran warns South Korean shipper Sinokor \u2014 'legal action' from Nov. 1'",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/mena/iran-warns-south-korean-shipper-sinokor-legal-action-from-nov-1-1.500726271",
+      "published": "2026-10-28T01:17:40+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://sana.sy/?p=2619082",
+      "title": "\u0627\u0644\u062a\u062d\u0627\u0644\u0641: \u0627\u0639\u062a\u0631\u0627\u0636 \u0648\u062a\u062f\u0645\u064a\u0631 \u0635\u0627\u0631\u0648\u062e \u0623\u0637\u0644\u0642\u062a\u0647 \u0645\u064a\u0644\u064a\u0634\u064a\u0627 \u0627\u0644\u062d\u0648\u062b\u064a \u0628\u0627\u062a\u062c\u0627\u0647 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+      "source": "SANA (Syria)",
+      "source_url": "https://sana.sy/international/2619082/",
+      "published": "2026-10-28T01:08:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
+        "geo_approximate": true
+      },
+      "credibility": 55,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.trtworld.com/article/eb97a9557db3",
+      "title": "Vatican stands firm on two-state solution despite Israeli political opposition",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/article/eb97a9557db3",
+      "published": "2026-10-28T01:07:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://sana.sy/?p=2619079",
+      "title": "\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u064a\u0645\u0646\u064a\u0629 \u062a\u0639\u0644\u0646 \u0645\u0642\u062a\u0644 \u0648\u0625\u0635\u0627\u0628\u0629 440 \u0645\u0646 \u0639\u0646\u0627\u0635\u0631 \u0645\u064a\u0644\u064a\u0634\u064a\u0627 \u0627\u0644\u062d\u0648\u062b\u064a",
+      "source": "SANA (Syria)",
+      "source_url": "https://sana.sy/international/2619079/",
+      "published": "2026-10-28T01:04:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
+        "geo_approximate": true
+      },
+      "credibility": 55,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://timesofoman.com/178463",
+      "title": "Oman\u2019s Embassy in Washington organises introductory meeting for \u2018Inter Astra Oman\u2019 initiative",
+      "source": "Times of Oman",
+      "source_url": "https://timesofoman.com//article/178463-omans-embassy-in-washington-organises-introductory-meeting-for-inter-astra-oman-initiative",
+      "published": "2026-10-28T00:54:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754,
+        "geo_source": "country_center:oman",
+        "geo_approximate": true
+      },
+      "credibility": 75,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://yalibnan.com/?p=185224",
+      "title": "Netanyahu warns of Arab voter surge in Israel\u2019s election, as Arab leaders call his tactic \u201cracist\u201d",
+      "source": "Ya Libnan",
+      "source_url": "https://yalibnan.com/2026/10/28/netanyahu-warns-of-arab-voter-surge-in-israels-election-as-arab-leaders-call-his-tactic-racist/?utm_source=rss&utm_medium=rss&utm_campaign=netanyahu-warns-of-arab-voter-surge-in-israels-election-as-arab-leaders-call-his-tactic-racist",
+      "published": "2026-10-28T00:44:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793136360",
+      "title": "Arab parties projected to win 18 seats in Israel parliamentary election",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+      "published": "2026-10-28T00:43:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 90,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793143811",
+      "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+      "published": "2026-10-28T00:43:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 90,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793147268",
+      "title": "Israel\u2019s Eisenkot says country voted for change",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
+      "published": "2026-10-28T00:30:22+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -78,31 +503,6 @@
       }
     },
     {
-      "id": "a83c995b-5d53-41a3-998b-438e4ea26a83",
-      "title": "The bloc running to unseat Netanyahu in Israel's election",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/mena/the-bloc-running-to-unseat-netanyahu-in-israels-election-1.500724837",
-      "published": "2026-10-27T23:49:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1793121363",
       "title": "Gaza\u2019s women filmmakers turn pain into cinema as new academy launches",
       "source": "Al Jazeera",
@@ -119,56 +519,6 @@
         "geo_approximate": false
       },
       "credibility": 90,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bd359206-cc46-4b44-ae56-47ebb1500dd9",
-      "title": "Israeli elections: Who is Gadi Eisenkot? The general challenging Netanyahu \u2014 and facing a coalition test",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/mena/israeli-elections-who-is-gadi-eisenkot-the-general-challenging-netanyahu-and-facing-a-coalition-test-1.500726246",
-      "published": "2026-10-27T23:31:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "cbf60f6e-856c-45a1-af2c-3ee540408ae6",
-      "title": "\u2018We won\u2019: Eisenkot claims \u2018complete victory\u2019 in Israeli elections as exit polls show Netanyahu\u2019s bloc collapsing \u2014 but no bloc has a 61-seat majority yet",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/mena/we-won-eisenkot-claims-victory-in-israel-as-exit-polls-show-netanyahus-bloc-collapsing-but-no-one-has-61-seat-majority-yet-1.500726234",
-      "published": "2026-10-27T23:13:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 80,
       "is_government": false,
       "tier": "independent_media",
       "casualties": {
@@ -279,7 +629,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1793110569",
-      "title": "No clear mandate projected in Israel election: What\u2019s next?",
+      "title": "Israel election results: No clear winner projected, what\u2019s next?",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
       "published": "2026-10-27T23:06:47+00:00",
@@ -428,49 +778,24 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793140137",
-      "title": "\u2018Go home, Ben-Gvir\u2019; Arab Bloc celebrates record turnout in Israel election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
-      "published": "2026-10-27T22:31:31+00:00",
+      "id": "https://www.trtworld.com/article/84402d469c33",
+      "title": "Targeting of journalists in Gaza aims to conceal atrocities, UN rapporteur warns",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/article/84402d469c33",
+      "published": "2026-10-27T22:46:59+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": "Palestine",
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "geo_source": "city_lookup:gaza",
+        "geo_approximate": false
       },
-      "credibility": 90,
+      "credibility": 70,
       "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793137967",
-      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
-      "published": "2026-10-27T22:29:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 90,
-      "is_government": false,
-      "tier": "independent_media",
+      "tier": "state_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -553,6 +878,31 @@
       }
     },
     {
+      "id": "https://www.trtworld.com/article/cbae2680f50b",
+      "title": "'Told to get lost': Israeli opposition declares Netanyahu finished as exit polls spark brawl",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/article/cbae2680f50b",
+      "published": "2026-10-27T22:13:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.al-monitor.com/originals/2026/10/jordan-syria-form-security-committee-after-deadly-strikes-islamic-state-sites",
       "title": "Jordan, Syria to form security committee after deadly strikes on Islamic State sites",
       "source": "Al-Monitor",
@@ -621,6 +971,31 @@
       "credibility": 85,
       "is_government": false,
       "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.trtworld.com/article/d5b89d3f2d77",
+      "title": "Neither Netanyahu nor Eisenkot on track for majority in 120-seat Knesset \u2014 Israeli exit polls",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/article/d5b89d3f2d77",
+      "published": "2026-10-27T21:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "state_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -803,31 +1178,6 @@
       }
     },
     {
-      "id": "d7467333-47a8-4921-9dc2-9b39e684cb80",
-      "title": "Israel election: Exit polls show no clear winner as Netanyahu\u2019s fate hangs in balance",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/mena/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance-1.500726189",
-      "published": "2026-10-27T20:11:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/27/israel-awaits-election-results-after-turnout-soars/",
       "title": "Israel awaits election results after turnout soars",
       "source": "The National UAE",
@@ -846,6 +1196,31 @@
       "credibility": 85,
       "is_government": false,
       "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.trtworld.com/article/7e28e72c88ac",
+      "title": "Racist incitement \u2014 Tense Netanyahu targets Palestinian-Arab minority in crucial Israel election",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/article/7e28e72c88ac",
+      "published": "2026-10-27T20:00:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "state_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1121,31 +1496,6 @@
       "credibility": 95,
       "is_government": true,
       "tier": "official",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.net/?t=1793135858",
-      "title": "\u0645\u0646 \u0642\u0635\u0641 \u062f\u0631\u0639\u0627 \u0625\u0644\u0649 \u0644\u062c\u0646\u0629 \u0627\u0644\u062a\u062d\u0642\u064a\u0642.. \u062a\u0641\u0627\u0635\u064a\u0644 24 \u0633\u0627\u0639\u0629 \u0645\u0646 \u0623\u0632\u0645\u0629 \u0627\u0644\u0623\u0631\u062f\u0646 \u0648\u0633\u0648\u0631\u064a\u0627",
-      "source": "Al Jazeera Arabic",
-      "source_url": "https://www.aljazeera.net/news/2026/10/28/%d8%b9%d8%a7%d8%ac%d9%84-%d8%a8%d9%8a%d8%a7%d9%86-%d8%a3%d8%b1%d8%af%d9%86%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a-%d9%85%d8%b4%d8%aa%d8%b1%d9%83-%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82?traffic_source=rss",
-      "published": "2026-10-27T18:22:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1896,31 +2246,6 @@
       "credibility": 100,
       "is_government": true,
       "tier": "official",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://timesofoman.com/178445",
-      "title": "Royal Army of Oman organises symposium on artificial intelligence",
-      "source": "Times of Oman",
-      "source_url": "https://timesofoman.com//article/178445-royal-army-of-oman-organises-symposium-on-artificial-intelligence",
-      "published": "2026-10-27T14:33:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754,
-        "geo_source": "country_center:oman",
-        "geo_approximate": true
-      },
-      "credibility": 75,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2716,31 +3041,6 @@
         "lat": 32.4279,
         "lng": 53.688,
         "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://yalibnan.com/?p=185180",
-      "title": "Druze experts blast Tom Barrack\u2019s accusations against Syrian Druze, question his suitability for the role",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/10/26/druze-experts-blast-tom-barracks-accusations-against-syrian-druze-question-his-suitability-for-the-role/?utm_source=rss&utm_medium=rss&utm_campaign=druze-experts-blast-tom-barracks-accusations-against-syrian-druze-question-his-suitability-for-the-role",
-      "published": "2026-10-26T00:53:01+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968,
-        "geo_source": "country_center:syria",
         "geo_approximate": true
       },
       "credibility": 80,
