@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T06:20:34.194903+00:00",
-  "total_incidents": 111,
+  "generated_at": "2026-10-29T08:16:16.398984+00:00",
+  "total_incidents": 106,
   "incidents": [
     {
-      "id": "5335010",
-      "title": "Oil Prices Fall as Peace Hopes Offset Fears of Growing Middle East Conflict",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5335010",
-      "published": "2026-10-29T06:19:02+00:00",
+      "id": "https://sana.sy/?p=2620310",
+      "title": "\u0647\u064a\u0626\u0629 \u0628\u062d\u0631\u064a\u0629 \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629: \u0627\u0646\u062f\u0644\u0627\u0639 \u062d\u0631\u064a\u0642 \u0639\u0644\u0649 \u0645\u062a\u0646 \u0633\u0641\u064a\u0646\u0629 \u0628\u0645\u0636\u064a\u0642 \u0647\u0631\u0645\u0632 \u200f",
+      "source": "SANA (Syria)",
+      "source_url": "https://sana.sy/international/2620310/",
+      "published": "2026-10-29T08:14:09+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,7 +18,157 @@
         "geo_source": "gulf_region_center",
         "geo_approximate": true
       },
-      "credibility": 80,
+      "credibility": 55,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/iraqi-court-hands-life-sentences-to-three-more-french-isis-members/",
+      "title": "Iraqi court hands life sentences to three more French ISIS members",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/iraqi-court-hands-life-sentences-to-three-more-french-isis-members/",
+      "published": "2026-10-29T08:05:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793,
+        "geo_source": "country_center:iraq",
+        "geo_approximate": true
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://en.mehrnews.com/news/249015/Israeli-attacks-on-Gaza-kill-at-least-4-Palestinians",
+      "title": "Israeli attacks on Gaza kill at least 4 Palestinians",
+      "source": "Mehr News EN",
+      "source_url": "https://en.mehrnews.com/news/249015/Israeli-attacks-on-Gaza-kill-at-least-4-Palestinians",
+      "published": "2026-10-29T08:05:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "geo_source": "city_lookup:gaza",
+        "geo_approximate": false
+      },
+      "credibility": 65,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "52cc14c856eafe6289a5101c86e82db2",
+      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0646\u062c\u0631\u0627\u0646 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Najran City to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2115716558479925454",
+      "published": "2026-10-29T08:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
+        "geo_approximate": true
+      },
+      "credibility": 100,
+      "is_government": true,
+      "tier": "official",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.newsofbahrain.com/en/article/syria-court-sentences-iran-linked-militia-member-to-life-in-prison",
+      "title": "Syria court sentences Iran-linked militia member to life in prison",
+      "source": "Daily Tribune Bahrain",
+      "source_url": "https://www.newsofbahrain.com/en/article/syria-court-sentences-iran-linked-militia-member-to-life-in-prison",
+      "published": "2026-10-29T08:04:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.newsofbahrain.com/en/article/bahrain-warns-of-cyber-threats",
+      "title": "Bahrain Warns of Cyber Threats",
+      "source": "Daily Tribune Bahrain",
+      "source_url": "https://www.newsofbahrain.com/en/article/bahrain-warns-of-cyber-threats",
+      "published": "2026-10-29T08:04:51+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577,
+        "geo_source": "country_center:bahrain",
+        "geo_approximate": true
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/29/kuwait-summons-iranian-ambassador-in-dispute-over-death-sentence/",
+      "title": "Kuwait summons Iranian ambassador in dispute over death sentence",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/29/kuwait-summons-iranian-ambassador-in-dispute-over-death-sentence/",
+      "published": "2026-10-29T07:57:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 85,
       "is_government": false,
       "tier": "independent_media",
       "casualties": {
@@ -32,7 +182,7 @@
       "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published": "2026-10-29T06:14:15+00:00",
+      "published": "2026-10-29T07:55:16+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -46,6 +196,306 @@
       "credibility": 90,
       "is_government": false,
       "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.al-monitor.com/originals/2026/10/south-korea-says-considering-deployment-options-strait-hormuz-including-aircraft",
+      "title": "South Korea says considering deployment options to Strait of Hormuz, including aircraft",
+      "source": "Al-Monitor",
+      "source_url": "https://www.al-monitor.com/originals/2026/10/south-korea-says-considering-deployment-options-strait-hormuz-including-aircraft",
+      "published": "2026-10-29T07:46:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5,
+        "geo_source": "region:strait of hormuz",
+        "geo_approximate": true
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793254428",
+      "title": "Former US officials call on 2028 candidates to denounce Biden\u2019s Gaza policy",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss",
+      "published": "2026-10-29T07:41:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "geo_source": "city_lookup:gaza",
+        "geo_approximate": false
+      },
+      "credibility": 90,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.trtworld.com/article/f64a2ac0f9fd",
+      "title": "Israeli opposition sweeps votes in Tel Aviv",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/article/f64a2ac0f9fd",
+      "published": "2026-10-29T07:37:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.0853,
+        "lng": 34.7818,
+        "geo_source": "city_lookup:tel aviv",
+        "geo_approximate": false
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c30d580f-1cbe-48f0-aae4-36995b913fa4",
+      "title": "UAE flights today: Latest cancellations, delays and Saudi travel updates on October 29",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/business/aviation/uae-flights-today-latest-cancellations-delays-and-saudi-travel-updates-on-october-29-1.500727983",
+      "published": "2026-10-29T07:27:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478,
+        "geo_source": "country_center:uae",
+        "geo_approximate": true
+      },
+      "credibility": 80,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.trtworld.com/video/0e0eae288550?subType=dailyVideo",
+      "title": "Israeli settler spits at monastery",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/video/0e0eae288550?subType=dailyVideo",
+      "published": "2026-10-29T07:09:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 70,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "tag:www.naharnet.com,2005:Story/323413",
+      "title": "Qassem vows resistance until occupation ends, no matter who wins in Israeli polls",
+      "source": "Naharnet",
+      "source_url": "https://www.naharnet.com/stories/en/323413-qassem-vows-resistance-until-occupation-ends-no-matter-who-wins-in-israeli-polls",
+      "published": "2026-10-29T07:01:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 75,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://en.mehrnews.com/news/249014/Iran-s-Amouzad-opens-world-wrestling-campaign-with-win",
+      "title": "Iran's Amouzad opens world wrestling campaign with win",
+      "source": "Mehr News EN",
+      "source_url": "https://en.mehrnews.com/news/249014/Iran-s-Amouzad-opens-world-wrestling-campaign-with-win",
+      "published": "2026-10-29T06:52:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 65,
+      "is_government": false,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/29/oil-prices-decline-after-diplomatic-push-in-iran-war/",
+      "title": "Oil prices decline after diplomatic push in Iran war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/29/oil-prices-decline-after-diplomatic-push-in-iran-war/",
+      "published": "2026-10-29T06:49:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688,
+        "geo_source": "country_center:iran",
+        "geo_approximate": true
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c4a8f27a4959512f776cf8d35e61d563",
+      "title": "#Kuwait's Minister of Defense congratulates his Turkish counterpart on his country's National Day  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115697566062919796",
+      "published": "2026-10-29T06:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818,
+        "geo_source": "country_center:kuwait",
+        "geo_approximate": true
+      },
+      "credibility": 95,
+      "is_government": true,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "bde36fe5cdd60fad84bc873d6d6fe00b",
+      "title": "#Kuwait's oil price drops 86 cents to USD 111.55 pb",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115696932488163466",
+      "published": "2026-10-29T06:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818,
+        "geo_source": "country_center:kuwait",
+        "geo_approximate": true
+      },
+      "credibility": 95,
+      "is_government": true,
+      "tier": "state_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/29/arab-parties-challenge-netanyahu-and-sharjah-closes-beaches-over-oil-spill/",
+      "title": "Arab parties challenge Netanyahu and Sharjah closes beaches over oil spill",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/29/arab-parties-challenge-netanyahu-and-sharjah-closes-beaches-over-oil-spill/",
+      "published": "2026-10-29T06:42:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.3463,
+        "lng": 55.4209,
+        "geo_source": "city_lookup:sharjah",
+        "geo_approximate": false
+      },
+      "credibility": 85,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://en.irna.ir/news/86306575/IRGC-downs-MQ-1-drone-near-Strait-of-Hormuz",
+      "title": "IRGC downs MQ-1 drone near Strait of Hormuz",
+      "source": "IRNA (Iran)",
+      "source_url": "https://en.irna.ir/news/86306575/IRGC-downs-MQ-1-drone-near-Strait-of-Hormuz",
+      "published": "2026-10-29T06:27:05+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5,
+        "geo_source": "region:strait of hormuz",
+        "geo_approximate": true
+      },
+      "credibility": 60,
+      "is_government": false,
+      "tier": "state_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -78,106 +528,6 @@
       }
     },
     {
-      "id": "https://www.newsofbahrain.com/en/article/bahrain-name-23-man-squad-for-gulf-veterans-cup-2026-in-qatar",
-      "title": "Bahrain Name 23-Man Squad for Gulf Veterans Cup 2026 in Qatar",
-      "source": "Daily Tribune Bahrain",
-      "source_url": "https://www.newsofbahrain.com/en/article/bahrain-name-23-man-squad-for-gulf-veterans-cup-2026-in-qatar",
-      "published": "2026-10-29T06:03:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839,
-        "geo_source": "country_center:qatar",
-        "geo_approximate": true
-      },
-      "credibility": 70,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.newsofbahrain.com/en/article/bahrain-u17s-eliminated-from-gulf-cup-after-1-1-draw-with-oman",
-      "title": "Bahrain U17s Eliminated from Gulf Cup After 1-1 Draw with Oman",
-      "source": "Daily Tribune Bahrain",
-      "source_url": "https://www.newsofbahrain.com/en/article/bahrain-u17s-eliminated-from-gulf-cup-after-1-1-draw-with-oman",
-      "published": "2026-10-29T06:03:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577,
-        "geo_source": "country_center:bahrain",
-        "geo_approximate": true
-      },
-      "credibility": 70,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.newsofbahrain.com/en/article/netanyahu-set-to-remain-caretaker-as-israeli-election-ends-in-deadlock",
-      "title": "Netanyahu set to remain caretaker as Israeli election ends in deadlock",
-      "source": "Daily Tribune Bahrain",
-      "source_url": "https://www.newsofbahrain.com/en/article/netanyahu-set-to-remain-caretaker-as-israeli-election-ends-in-deadlock",
-      "published": "2026-10-29T06:03:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 70,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5335002",
-      "title": "Saudi, Kuwaiti Defense Ministers Pledge Solidarity Against All Threats in Phone Call",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5335002",
-      "published": "2026-10-29T05:48:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818,
-        "geo_source": "country_center:kuwait",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3436f503d00be820511ab5e570d4380d",
       "title": "A US MQ-1 drone was intercepted and destroyed over the eastern Strait of Hormuz by the Islamic Revolution Guard Corps.",
       "source": "Mehr News (RSS.app)",
@@ -203,31 +553,6 @@
       }
     },
     {
-      "id": "5334996",
-      "title": "1,400 Killed in Two Months as Yemen\u2019s Dhamar Pays the Price of Houthi Attrition",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5334996",
-      "published": "2026-10-29T05:40:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164,
-        "geo_source": "country_center:yemen",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 400,
-        "military": 0,
-        "civilian": 400
-      }
-    },
-    {
       "id": "https://en.mehrnews.com/news/249012/IRGC-downs-14th-US-MQ-1-over-Strait-of-Hormuz",
       "title": "IRGC downs 14th US MQ-1 over Strait of Hormuz",
       "source": "Mehr News EN",
@@ -246,31 +571,6 @@
       "credibility": 65,
       "is_government": false,
       "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5334994",
-      "title": "Coalition Intercepts Houthi Missile Fired towards Eastern Province",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5334994",
-      "published": "2026-10-29T05:30:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -328,22 +628,22 @@
       }
     },
     {
-      "id": "01b6e028-7c6c-4007-a00b-ec4b242cfd83",
-      "title": "Middle East War: Saudi intercepts Houthi missile as Iran warns Israel against strikes",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/mena/middle-east-war-saudi-intercepts-houthi-missile-as-iran-warns-israel-against-strikes-1.500727751",
-      "published": "2026-10-29T03:58:06+00:00",
-      "type": "missile",
+      "id": "https://www.aljazeera.net/?t=1793252908",
+      "title": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u062a\u0639\u062a\u0631\u0636 \u0635\u0627\u0631\u0648\u062e\u0627 \u062d\u0648\u062b\u064a\u0627 \u0648\u0625\u0646\u0630\u0627\u0631\u0627\u062a \u0641\u064a \u0646\u062c\u0631\u0627\u0646 \u0648\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+      "source": "Al Jazeera Arabic",
+      "source_url": "https://www.aljazeera.net/news/2026/10/29/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%b9%d8%aa%d8%b1%d8%b6-%d8%b5%d8%a7%d8%b1%d9%88%d8%ae%d8%a7-%d8%ad%d9%88%d8%ab%d9%8a%d8%a7-%d9%88%d8%a5%d9%86%d8%b0%d8%a7%d8%b1%d8%a7%d8%aa?traffic_source=rss",
+      "published": "2026-10-29T04:16:57+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Saudi Arabia",
+        "country": null,
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
+        "lat": 29.0,
+        "lng": 48.0,
+        "geo_source": "gulf_region_center",
         "geo_approximate": true
       },
-      "credibility": 80,
+      "credibility": 85,
       "is_government": false,
       "tier": "independent_media",
       "casualties": {
@@ -354,7 +654,7 @@
     },
     {
       "id": "4a271908-d32e-11f1-9b94-adb6dd5b682d",
-      "title": "Live: Israeli elections are coming to a close, with no majority to be seen",
+      "title": "Live: Israelis await final election results, with no majority in sight",
       "source": "France 24 EN",
       "source_url": "https://www.france24.com/en/middle-east/20261029-live-israeli-elections-are-coming-to-a-close-with-no-majority-to-be-seen",
       "published": "2026-10-29T03:36:46+00:00",
@@ -403,81 +703,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793240762",
-      "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
-      "published": "2026-10-29T03:12:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 90,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/time-for-peace-now-says-kurdish-official-amid-regional-escalation/",
-      "title": "\u2018Time for peace now,\u2019 says Deputy PM of Iraq's Kurdish region",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/time-for-peace-now-says-kurdish-official-amid-regional-escalation/",
-      "published": "2026-10-29T03:02:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793,
-        "geo_source": "country_center:iraq",
-        "geo_approximate": true
-      },
-      "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/combat-sports/2026/10/29/i-love-to-be-in-riyadh-canelo-alvarez-rejects-security-fears-and-retirement-talk/",
-      "title": "\u2018I love to be in Riyadh\u2019: Canelo Alvarez rejects security fears and retirement talk",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/combat-sports/2026/10/29/i-love-to-be-in-riyadh-canelo-alvarez-rejects-security-fears-and-retirement-talk/",
-      "published": "2026-10-29T03:01:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753,
-        "geo_source": "city_lookup:riyadh",
-        "geo_approximate": false
-      },
-      "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://timesofoman.com/178517",
       "title": "JD Vance sends letter to Iran in bid to revive peace talks as Trump threatens strikes",
       "source": "Times of Oman",
@@ -517,31 +742,6 @@
         "lng": 55.9754,
         "geo_source": "country_center:oman",
         "geo_approximate": true
-      },
-      "credibility": 75,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://timesofoman.com/178512",
-      "title": "Israel: Hundreds protest in Tel Aviv, Jerusalem and Haifa calling for Jewish-Arab government",
-      "source": "Times of Oman",
-      "source_url": "https://timesofoman.com//article/178512-israel-hundreds-protest-in-tel-aviv-jerusalem-and-haifa-calling-for-jewish-arab-government",
-      "published": "2026-10-29T02:10:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.0853,
-        "lng": 34.7818,
-        "geo_source": "city_lookup:tel aviv",
-        "geo_approximate": false
       },
       "credibility": 75,
       "is_government": false,
@@ -678,31 +878,6 @@
       }
     },
     {
-      "id": "https://www.trtworld.com/article/aa57516f9e69",
-      "title": "Israeli police find no evidence backing Netanyahu's Likud election fraud claims",
-      "source": "TRT World",
-      "source_url": "https://www.trtworld.com/article/aa57516f9e69",
-      "published": "2026-10-29T00:07:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 70,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=185264",
       "title": "Israel faces weeks of political wrangling after deadlocked election",
       "source": "Ya Libnan",
@@ -721,106 +896,6 @@
       "credibility": 80,
       "is_government": false,
       "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.net/?t=1793236171",
-      "title": "5 \u0634\u0647\u062f\u0627\u0621 \u064840 \u0645\u0635\u0627\u0628\u0627 \u0641\u064a \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u063a\u0627\u0631\u0627\u062a \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629 \u0639\u0644\u0649 \u063a\u0632\u0629",
-      "source": "Al Jazeera Arabic",
-      "source_url": "https://www.aljazeera.net/news/2026/10/29/5-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%8840-%d9%85%d8%b5%d8%a7%d8%a8%d8%a7-%d9%81%d9%8a-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d9%82%d8%b5%d9%81?traffic_source=rss",
-      "published": "2026-10-28T23:26:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.trtworld.com/article/45c83bb0b8af",
-      "title": "Israel kills five Palestinians in Gaza, child dies of earlier wounds",
-      "source": "TRT World",
-      "source_url": "https://www.trtworld.com/article/45c83bb0b8af",
-      "published": "2026-10-28T22:37:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668,
-        "geo_source": "city_lookup:gaza",
-        "geo_approximate": false
-      },
-      "credibility": 70,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "789199f1f51dfa7a1830e8d1306a3f9c",
-      "title": "Minister of Defense Sheikh Abdullah Al-Ali Al-Sabah and Saudi Minister of Defense Prince Khaled bin Salman Al Saud held talks addressing regional security developments and defense coordination.",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115568398167846926",
-      "published": "2026-10-28T22:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 95,
-      "is_government": true,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "311866873de9d44ef0e8bacd8ef08a86",
-      "title": "Pakistani Defense Minister Khawaja Muhammad Asif and Commander of the Kuwaiti Naval Force Major General (Navy) Saif Al-Hamlan met to discuss expanding bilateral naval ties and strengthening regional maritime security.",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115567823636349114",
-      "published": "2026-10-28T22:14:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818,
-        "geo_source": "country_center:kuwait",
-        "geo_approximate": true
-      },
-      "credibility": 95,
-      "is_government": true,
-      "tier": "state_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -878,6 +953,31 @@
       }
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo#0",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:53:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "geo_source": "country_center:israel",
+        "geo_approximate": true
+      },
+      "credibility": 95,
+      "is_government": false,
+      "tier": "independent_media",
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.dailysabah.com/world/americas/us-vp-vance-reaches-out-to-iran-in-bid-to-revive-peace-talks",
       "title": "US VP Vance reaches out to Iran in bid to revive peace talks",
       "source": "Daily Sabah",
@@ -896,31 +996,6 @@
       "credibility": 65,
       "is_government": false,
       "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b91e3cd6-d30d-11f1-86bc-25af715a604f",
-      "title": "Historic gains for Arab-majority parties in Israeli election",
-      "source": "France 24 EN",
-      "source_url": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
-      "published": "2026-10-28T20:32:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1378,31 +1453,6 @@
       }
     },
     {
-      "id": "5334856",
-      "title": "From Gaza to Ramallah, Palestinians See Little Hope in Israeli Vote",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5334856",
-      "published": "2026-10-28T18:12:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668,
-        "geo_source": "city_lookup:gaza",
-        "geo_approximate": false
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
       "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
       "source": "Defense News",
@@ -1421,56 +1471,6 @@
       "credibility": 90,
       "is_government": false,
       "tier": "specialist",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5334854",
-      "title": "UN Rights Chief Wants Next Israeli Govt to 'Change Course Massively'",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5334854",
-      "published": "2026-10-28T18:05:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5334851",
-      "title": "What Has Lebanon So Far Implemented in its Ban on Hezbollah\u2019s Military Activities?",
-      "source": "Asharq Al-Awsat EN",
-      "source_url": "https://english.aawsat.com/node/5334851",
-      "published": "2026-10-28T18:01:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623,
-        "geo_source": "country_center:lebanon",
-        "geo_approximate": true
-      },
-      "credibility": 80,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1696,31 +1696,6 @@
       "credibility": 65,
       "is_government": false,
       "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.al-monitor.com/originals/2026/10/arab-israelis-proud-high-election-turnout-uncertain-future",
-      "title": "Arab Israelis proud of high election turnout, uncertain for future",
-      "source": "Al-Monitor",
-      "source_url": "https://www.al-monitor.com/originals/2026/10/arab-israelis-proud-high-election-turnout-uncertain-future",
-      "published": "2026-10-28T17:30:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516,
-        "geo_source": "country_center:israel",
-        "geo_approximate": true
-      },
-      "credibility": 85,
-      "is_government": false,
-      "tier": "independent_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2078,31 +2053,6 @@
       }
     },
     {
-      "id": "https://en.mehrnews.com/news/249005/Iran-ready-to-help-draft-global-treaty-on-plastic-pollution",
-      "title": "Iran ready to help draft global treaty on plastic pollution",
-      "source": "Mehr News EN",
-      "source_url": "https://en.mehrnews.com/news/249005/Iran-ready-to-help-draft-global-treaty-on-plastic-pollution",
-      "published": "2026-10-28T14:20:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 65,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://news.usni.org/?p=126233",
       "title": "Report to Congress on U.S. Military Operations Against Iran\u2019s Missile, Nuclear Programs",
       "source": "USNI News",
@@ -2153,31 +2103,6 @@
       }
     },
     {
-      "id": "https://en.mehrnews.com/news/249002/Iran-s-nuclear-industry-has-reached-full-maturity-AEOI-spox",
-      "title": "Iran\u2019s nuclear industry has reached full maturity: AEOI spox",
-      "source": "Mehr News EN",
-      "source_url": "https://en.mehrnews.com/news/249002/Iran-s-nuclear-industry-has-reached-full-maturity-AEOI-spox",
-      "published": "2026-10-28T12:58:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 65,
-      "is_government": false,
-      "tier": "state_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://yalibnan.com/?p=185245",
       "title": "Israeli Arab parties claim kingmaker status in extra-tight vote",
       "source": "Ya Libnan",
@@ -2196,31 +2121,6 @@
       "credibility": 80,
       "is_government": false,
       "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://en.irna.ir/news/86306018/Iran-embassy-in-Kuwait-rejects-allegation-linking-Iranian-national",
-      "title": "Iran embassy in Kuwait rejects allegation linking Iranian national to assassination plot",
-      "source": "IRNA (Iran)",
-      "source_url": "https://en.irna.ir/news/86306018/Iran-embassy-in-Kuwait-rejects-allegation-linking-Iranian-national",
-      "published": "2026-10-28T11:30:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688,
-        "geo_source": "country_center:iran",
-        "geo_approximate": true
-      },
-      "credibility": 60,
-      "is_government": false,
-      "tier": "state_media",
       "casualties": {
         "total": 0,
         "military": 0,
@@ -2528,31 +2428,6 @@
       }
     },
     {
-      "id": "tag:www.naharnet.com,2005:Story/323364",
-      "title": "Bassil hopes Hezbollah won't join new war, warns against civil strife",
-      "source": "Naharnet",
-      "source_url": "https://www.naharnet.com/stories/en/323364-bassil-hopes-hezbollah-won-t-join-new-war-warns-against-civil-strife",
-      "published": "2026-10-27T13:02:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0,
-        "geo_source": "gulf_region_center",
-        "geo_approximate": true
-      },
-      "credibility": 75,
-      "is_government": false,
-      "tier": "independent_media",
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "dfc6ef64af00c7d2a0c05010c7fe97df",
       "title": "\u0628\u0646\u062f #\u0645\u062e\u0627\u0644\u0641\u0629 69 \u0639\u062f\u0645 \u0648\u062c\u0648\u062f \u062a\u0631\u062e\u064a\u0635 \u0645\u0646 \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u0645\u062f\u0646\u064a \u0623\u0648 \u0634\u0647\u0627\u062f\u0629 \u0627\u0633\u062a\u064a\u0641\u0627\u0621 \u0627\u0634\u062a\u0631\u0627\u0637\u0627\u062a \u0627\u0644\u0648\u0642\u0627\u064a\u0629 \u0648\u0627\u0644\u0633\u0644\u0627\u0645\u0629 \u0645\u0646 \u0627\u0644\u062d\u0631\u064a\u0642.... \u062a\u0641\u0631\u0636 \u063a\u0631\u0627\u0645\u0629 \u0642\u062f\u0631\u0647\u0627 10,000 \u062f.\u0625 #\u0639\u0627\u0635\u0645\u0629_\u0623\u0643\u062b\u0631_\u0623\u0645\u0627\u0646\u0627\u064b_\u0648\u0633\u0644\u0627\u0645\u0629 #CivilDefenceAD",
       "source": "Abu Dhabi Civil Defence (RSS.app)",
@@ -2628,7 +2503,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crlykey9jywqo#0",
+      "id": "https://www.bbc.co.uk/news/articles/crlykey9jywqo#1",
       "title": "Israel and the US are both going to the polls - the consequences will be global",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
